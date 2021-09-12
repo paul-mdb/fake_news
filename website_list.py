@@ -1,4 +1,5 @@
-WEBSITE_LIST = [
-    ("Ouest France", "https://www.ouest-france.fr/environnement/rechauffement-climatique/"),
-    ("Jancovici", "https://jancovici.com/category/changement-climatique/")
-]
+import pandas as  pd
+
+df = pd.read_csv('websites.csv')
+
+WEBSITE_LIST = df[['Nom', 'Adresse']].values.tolist()

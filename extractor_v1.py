@@ -12,7 +12,11 @@ content_list = []
 driver = webdriver.Firefox()
 driver.maximize_window()
 
-for (label, url) in WEBSITE_LIST:
+for website in WEBSITE_LIST:
+
+    label = website[0]
+    url = website[1]
+
     driver.get(url)
 
     # Skip cookie pop-up
@@ -27,25 +31,42 @@ for (label, url) in WEBSITE_LIST:
         ]
 
     # TMP : 1 article / website to debug
-    links = [links[0]]
+    # links = [links[0]]
 
     for link in links:
         driver.get(link)
 
-        title = driver.find_element_by_css_selector("h1").text
+        try :
+            driver.find_element(By.PARTIAL_LINK_TEXT, "Accepter").click()
+            driver.find_element(By.PARTIAL_LINK_TEXT, "Fermer").click()
+            WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.ID,"didomi-notice-agree-button"))).click()
 
-        article = driver.find_element_by_css_selector("article")
-        content = article.text
 
-        # Export article
-        filename = (label + "-" + title[:15]).replace(" ", "_") + ".json"
-        file = open(DATABASE_PATH + filename, "w")
-        file.write(dumps(format_article_into_json(
-            title=title,
-            author="",
-            date="",
-            content=content
-        )))
-        file.close()
+            alert = WebDriverWait(driver, 2).until(EC.alert_is_present())
+            alert.dismiss()
+            
+        except :
+
+            title = driver.find_element_by_css_selector("h1").text
+
+            try :
+                    
+                article = driver.find_element_by_css_selector("article")
+                content = article.text
+
+
+                # Export article
+                filename = (label + "-" + title[:15]).replace(" ", "_") + ".json"
+                file = open(DATABASE_PATH + filename, "w")
+                file.write(dumps(format_article_into_json(
+                    title=title,
+                    author="",
+                    date="",
+                    content=content
+                )))
+                file.close()
+
+            except :
+                continue
 
 driver.quit()
