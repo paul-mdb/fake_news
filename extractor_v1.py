@@ -16,6 +16,7 @@ for website in INITIAL_WEBSITE_LIST:
 
     label = website[0]
     url = website[1]
+    css_selector =website[2]
 
     driver.get(url)
 
@@ -24,10 +25,11 @@ for website in INITIAL_WEBSITE_LIST:
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"didomi-notice-agree-button"))).click()
     elif  label == "L'Express":
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"popin_tc_privacy_button_3"))).click()
+    elif label =="Contrepoints" :
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-5tm0d2 "))).click()
 
 
-
-    link_elements = driver.find_elements_by_css_selector("article a")
+    link_elements = driver.find_elements_by_css_selector(css_selector)
     links = []
     for link_element in link_elements:
         links += [
@@ -38,8 +40,10 @@ for website in INITIAL_WEBSITE_LIST:
     print(label, links)
     links = [links[0]]
 
+    #  Extract all articles  for the website
     for link in links:
         driver.get(link)
+        
         try :
                 
             title = driver.find_element_by_css_selector("h1").text

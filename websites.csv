@@ -1,85 +1,84 @@
-Nom,Overview,Adresse,Caractéristiques,Commentaire,Initial crawling,Scraping,Ajouté par,,"$ = Jquery syntax, CSS selector",special features in scrapping
-ADEME,TRUE,https://agirpourlatransition.ademe.fr/particuliers/changement-climatique,,articles need to be downloaded (problem for scrapping ?),,Login => Links => download button => PDF,Paul,,,
-Ouest France,TRUE,https://www.ouest-france.fr/environnement/rechauffement-climatique/,"Daily newspaper, reliable","""global warming"" section",x,Links => HTML page (! video),Louis,TRUE,,
-IPCC,TRUE,https://www.ipcc.ch/languages-2/francais/publications/,Source,articles need to be downloaded (problem for scrapping ?),,Links => PDF,Louis,,,
-Franceinfo,TRUE,https://www.francetvinfo.fr/meteo/climat/,"News, reliable",mainly concerns the results of the climate change: may be not interesting,,"Links => HTML page (! video, ? interesting)",Louis,,,
-Meteo France,TRUE,http://www.meteofrance.fr/climat-passe-et-futur,Reliable,,,Links => links => HTML OR Links => HTML,Louis,,,
-Jean-Marc Jancovici,TRUE,https://jancovici.com/category/changement-climatique/,"Popularization, reliable",,x,Links => HTML,Louis,TRUE,,
-Le web pédagogique,MIXED,https://lewebpedagogique.com/environnement/category/developpement-durable/climat/,"Old (2010), signed by M.J. ?, 70% reliable",,,Links => $(#post div),Louis,,,
-L'Express,TRUE,https://www.lexpress.fr/actualite/societe/environnement/,"Daily newspaper, Op-ed, reliable","""environment"" section : may be too general",x,Links => HTML,Louis,TRUE,,
-Paris innovation review,TRUE,http://parisinnovationreview.com/tagsfr/changement-climatique,"scientific review, reliable ++",authors are often members of the IPCC,,Links => HTML,Paul,,,"links aren't in ""article"" tags"
-Proposition Grand débat national,MIXED,https://granddebat.fr/project/la-transition-ecologique/collect/participez-a-la-recherche-collective-de-solutions-1,"a lot of non scientific, incorrect opinions, even sometimes frankly climatosceptic",Doesn't really take the form of an article ,,/,Paul,,,
-Le Monde,TRUE,https://www.lemonde.fr/recherche/?search_keywords=changement+climatique&start_at=19%2F12%2F1944&end_at=31%2F08%2F2021&search_sort=relevance_desc,"Daily newspaper, reliable, op-ed","""climate"" section : may be too general + a lot of charged articles",,Login (charged) => Links => HTML,Louis,,,
-Egalité & Réconciliation,FALSE,http://egaliteetreconciliation.fr/+-Climat-+.html,"Press review, Conspiracy","Alain Soral website, collection of press reviews of articles from other media",,Links => HTML,Louis,,,"links aren't in ""article"" tags"
-SOTT,FALSE,https://fr.sott.net/topic/13-Temperatures-extremes,"News, close to conspiracy, climatosceptism","they clearly refuse the term ""climate change""",,"Search bar, type ""climat"" => Links => HTML",Louis,,,
-Réseau Voltaire,FALSE,https://www.voltairenet.org/mot120101.html?lang=fr,"News, close to conspiracy, climatosceptism","refuse the term ""climate change"", they use ""environment questions"", close to E&R",,Links => HTML,Louis,,,"links aren't in ""article"" tags"
-Jacques Henry,FALSE,https://jacqueshenry.wordpress.com/category/crise-climatique/,Climatosceptism,"refuse the term ""climate change"" ",,$(#content article),Louis,,,
-Réseau International,FALSE,https://reseauinternational.net/category/articles/idees-societe/ecologie/,"Climatosceptism, conspiracy",Collection of op-ed imported from other media (ex: jacques Henry),,Links => HTML,Louis,,,"links aren't in ""article"" tags"
-Les Crises,MIXED,https://www.les-crises.fr/dossier/changement-climatique/,"Popularization, 70% reliable",Olivier Berruyer,x,Links => HTML,Louis,MIXED,,
-Wikistrike,FALSE,https://www.wikistrike.com/tag/terre%20et%20climat/,"Climatosceptism, conspiracy","refuse the term ""climate change""",,Links => HTML,Louis,,,"links aren't in ""article"" tags"
-Causeur,FALSE,https://www.causeur.fr/?s=changement+climatique,"Climato skepticism, extreme right wing media",,,Links => HTML,Paul,,,"links aren't in ""article"" tags"
-Valeurs actuelles,FALSE,https://www.valeursactuelles.com,"Climato skepticism, extreme right wing media",edition partially reserved to subscribers,,Links => HTML (! charged),Paul,,,
-Association des climato-realistes,FALSE,https://www.climato-realistes.fr,"Climatosceptism, conspiracy",allegedly scientific articles,x,Links => HTML,Paul,FALSE,,
-Contrepoints,FALSE,https://www.contrepoints.org/?s=changement+climatique,"Climato skepticism, extreme right wing media",Vincent Vauclin's website,x,Links => HTML,Paul,FALSE,,
-Boulevard Voltaire,FALSE,https://www.bvoltaire.fr/?s=changement+climatique,"Climato skepticism, extreme right wing media",Robert Menard's website,,Links => HTML,Paul,,,"links aren't in ""article"" tags"
-MetaTV,FALSE,https://meta.tv/?s=changement+climatique,"Climato skepticism, extreme right wing media",refutes the human origin of climate change,,Links => HTML (! video),Paul,,,
-Les moutons enragés,FALSE,https://lesmoutonsenrages.fr/?s=changement+climatique,"Climato skepticism, sort of forum",Pratically nyone can post an article,x,Links => HTML,Paul,FALSE,,
-Lumière sur Gaia,FALSE,https://lumieresurgaia.com/?s=changement+climatique,"Climato skepticism, conspiracy theory",at the edge of the sect...,,Links => HTML (! link YT in some articles),Paul,,,
-Futura Planet,TRUE,https://www.futura-sciences.com/planete/environnement/climatologie/,"Science popularization, reliable",,,Links => HTML,Paul,,,a before article
-Reporterre,MIXED,https://reporterre.net/DOSSIER-Changement-climatique,environmental activism,mix of precise information of scientific character and infoxes which go in the direction of activism (with regard to nuclear energy in particular),,Links => HTML,Paul,,,only a tags inside p tags
-GreenPeace,MIXED,https://www.greenpeace.fr/?s=changement+climatique,environmental activism,idem,x,Links => HTML,Paul,MIXED,,
-The Conversation,MIXED,https://theconversation.com/fr/topics/changement-climatique-21171,"academic papers, some op-ed",,x,Links => HTML,Louis,MIXED,,
-Les Echos (Planete),TRUE,https://planete.lesechos.fr/?s=changement+climatique,"News, reliable",,,Links => HTML,Louis,,,"links aren't in ""article"" tags"
-Time for the Planet,MIXED,https://www.time-planet.com/fr/tout-savoir/dereglement-climatique,"Popularization, leaning",want to persuade people to fund their project,,Links => HTML (! lot of images),Louis,,,only a tags
-LinkedIn,MIXED,https://www.linkedin.com/search/results/content/?keywords=changement climatique,"Social network, op-ed",filter by length ?,,Login => $(.reusable-search__result-container div).onClick() => $(#ember777),Louis,,,
-Comité 21,TRUE,http://www.comite21.org/ressources/etudes/index.html,"Source, press review",,,/,Louis,,,
-M La Terre,MIXED,https://www.mtaterre.fr/dossiers/le-changement-climatique,Popularization,,,Links => HTML,Louis,,,a tags inside li tags
-Ministère de la Transition Ecologique,TRUE,https://www.ecologie.gouv.fr/politiques/climat,French gov website,,,$(#container-1 a) => $(#container-2 a) => HTML,Louis,,,
-Données Developpement Durable,TRUE,https://www.statistiques.developpement-durable.gouv.fr/changement-climatique,French gov website,,,Links => Links => HTML,Louis,,,"links aren't in ""article"" tags"
-Climat en Questions,TRUE,https://www.climat-en-questions.fr/,"Popularization, reliable",created by the Pierre-Simon Laplace institute,,Links => Links => HTML,Louis,,,
-Réseau Action Climat France,MIXED,https://reseauactionclimat.org/actualites/?theme=urgence-climatique,"Popularization, 70% reliable, activism ?",a gathering of environmental associations,,Links => HTML,Louis,,,a before article
-CPEPESC,MIXED,https://cpepesc.org/category/6-nature-et-pollutions/1-la-planete-des-hommes-a-mal-a-son-climat/,"Popularization, 70% reliable, activism ?",water defence comitee,x,Links => HTML,Louis,MIXED,,
-Wikipedia,MIXED,https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:R%C3%A9chauffement_climatique,"Populatization, french Wikipedia, 70% reliable",global warming section,,Links => HTML,Louis,,,a tags in li tags
-Eau France,MIXED,https://www.eaufrance.fr/le-changement-climatique,"French public service, popularization, reliable ?",sections at the bottom of this (long) article,,$(.value),Louis,,,
-Changement-Climatique,MIXED,http://www.changement-climatique.fr/,"Popularization, reliable ?",talk about controversal issues,,Links => HTML,Louis,,,a tags in li tags
-Nature France,MIXED,https://naturefrance.fr/,"French public service, popularization, reliable ?",focus on biodiversity,,"Search bar, type ""climat"" => Links => HTML",Louis,,,
-Euronews,TRUE,https://fr.euronews.com/programmes/climate-now,News,collaborator Copernicus project,x,Links => HTML,Louis,TRUE,,
-OXFAM France,MIXED,https://www.oxfamfrance.org/climat-et-energie/,"Popularization, activism","struggle against poverty, citizen group",x,"Links => HTML (click on the ""+"" button at the bottom of the page to display more articles",Louis,MIXED,,
-Argonautes,MIXED,https://argonautes.club/,"Popularization, reliable ?","ocean, climate and energy",,"Search bar, type ""climat"" => Links => HTML",Louis,,,
-Bon Pote,MIXED,https://bonpote.com/environnement/,"Popularization, op-ed, press reviews, activism ?",known for their post on social networks,x,Links => HTML,Louis,MIXED,,
-Usbek & Rica,MIXED,https://usbeketrica.com/fr/tags/climat,"Op-ed, reliable ?",,x,Links => HTML ,Louis,MIXED,,
-Actu Environnement,MIXED,https://www.actu-environnement.com/archives/,News,about climate but maybe too general ?,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Le Grand Soir,FALSE,https://www.legrandsoir.info/+-rechauffement-climatique-+.html,"Militancy, alternative informations",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Le Libre Penseur,FALSE,https://www.lelibrepenseur.org/?s=changement+climatique,"Op-ed, alternative",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Dreuz Info,FALSE,https://www.dreuz.info/category/guerre-contre-la-terreur/ecolo-totalitarisme,Conspiracy,"""Ecolo-totalitarism""",,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Mondialisation Ca,FALSE,https://www.mondialisation.ca/theme/fr-environnement,"Op-ed, not reliable",Research center about globalization ?,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Reporterre,MIXED,https://reporterre.net/Climat-18,"Activism, news",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Le Nouveau Paradigme,FALSE,https://www.2012un-nouveau-paradigme.com/tag/climat/,"News, not reliable",,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,,
-Presse Galactique,FALSE,https://pressegalactique.com/,Conspiracy,,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,,
-Wikiberal,FALSE,https://www.wikiberal.org/wiki/Portail_%C3%A9cologie#Environnement,"Encyclopedia, Not reliable",,,"Links => HTML (only take the links in the ul ""Généralités"", ""Environnement"", ""Argumentaires et réfutations"")",Louis,,,
-24 Heures Actu,FALSE,https://24heuresactu.com/?s=climat,"News, op-ed",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Dedefensa,FALSE,https://www.dedefensa.org/recherche/do,Op-ed,"search ""climat""",,"Search bar, type ""climat"" => Links => HTML",Louis,,,
-SytiNet,FALSE,http://blog.syti.net/sommaire.php?label=14,"Op-ed, blog",,,Links => HTML,Louis,,,"links aren't in ""article"" tags"
-Carbone 4,TRUE,https://www.carbone4.com/analysis?filter=publications,"Popularization, articles",,,Links => HTML,Louis,,,only a tags
-La Croix,MIXED,https://www.la-croix.com/environnement/rechauffement-climatique-changement-temperature-planete-niveau-mer,"newspaper, religious",Christian ,,cannot access,Louis,,,
-CIRAD,TRUE,https://www.cirad.fr/nos-activites-notre-impact/thematiques-de-recherche/changement-climatique/enjeux-et-problematiques,"French gov website, popularization, articles",,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,,
-EDF,MIXED,https://www.edf.fr/resultats?keywords=climat&rubriqueURL=groupe_EDF&order=pertinence&exactValue=0&type=12,"Popularization, leaning",French electricity supplier,,Links => HTML (bottom of the page to display more articles,Louis,,,
-AMESSI,FALSE,https://amessi.org/spip.php?page=recherche&recherche=changement+climatique,"Op-ed, not reliable",,,Links => HTML (bottom of the page to display more articles,Louis,,,
-Arrêt Sur Info,FALSE,https://arretsurinfo.ch/category/societe/environnement/,"Op-ed, not reliable",,x,Links => HTML (! videos),Louis,FALSE,,
-Citoyens et Français,FALSE,https://www.citoyens-et-francais.fr/search/changement%20climatique/,"Op-ed, blog, comments, not reliable",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-ConsoGlobe,MIXED,https://www.consoglobe.com/pg-environnement,News,,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-Novethic,MIXED,https://www.novethic.fr/actualite/environnement/climat.html,News,sustainable finance,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,,
-INRAE,TRUE,https://www.inrae.fr/changement-climatique-risques,French gov website,,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,,
-Michel Duchaine,FALSE,https://michelduchaine.com/category/francais-articles-personnels/ecologie/rechauffement-global/,"Op-ed, conspiracy",,,Links => HTML,Louis,,,
-Agence Française de Développement,MIXED,https://www.afd.fr/fr/page-thematique-axe/climat,"News, articles, 70% reliable",,,"Search bar, type ""climat"" => Links => Download button",Louis,,,
-Groupement d'intérêt scientifique Climat,TRUE,http://www.gisclimat.fr/les-publications-du-gis-climat.html,"scientific ressource, reliable",,,Links => HTML,Paul,,,
-Revue espaces naturels,TRUE,http://www.espaces-naturels.info,"scientific review, reliable",,,cannot access,Paul,,,
-Journal du CNRS,TRUE,https://lejournal.cnrs.fr,"scientific popularization, reliable",,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Paul,,,
-CNRS,TRUE,https://inee.cnrs.fr/fr/news-list,"scientific review, reliable",,,"Links => HTML (click on the ""+"" button at the bottom of the page to display more articles",Paul,,,
-La Recherche,TRUE,https://www.larecherche.fr,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,,
-Science ert vie,TRUE,https://www.science-et-vie.com,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,,
-Pour la science,TRUE,https://www.pourlascience.fr,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,,
-Science et avenir,TRUE,https://www.sciencesetavenir.fr,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,,
-Le Figaro,TRUE,https://recherche.lefigaro.fr,"Daily newspaper, reliable, op-ed",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed + videos)",Paul,,,
-Le climat en questions,TRUE,https://www.climat-en-questions.fr,reliable,support from cnrs and insu,,Links => Links => HTML,Paul,,,"links aren't in ""article"" tags"
-CEA,TRUE,https://www.cea.fr/presse/Pages/actualites-communiques/actualites-communiques-climat-environnement.aspx?g_8f090e0e_2052_4fa3_a480_97901639a70c=2,"Scientific ressearch, reliable",,,Links => HTML,Paul,,,a tags in  li tags
+Nom,Overview,Adresse,Caractéristiques,Commentaire,Initial crawling,Scraping,Ajouté par,,css selector
+ADEME,TRUE,https://agirpourlatransition.ademe.fr/particuliers/changement-climatique,,articles need to be downloaded (problem for scrapping ?),,Login => Links => download button => PDF,Paul,,
+Ouest France,TRUE,https://www.ouest-france.fr/environnement/rechauffement-climatique/,"Daily newspaper, reliable","""global warming"" section",x,Links => HTML page (! video),Louis,TRUE,article a
+IPCC,TRUE,https://www.ipcc.ch/languages-2/francais/publications/,Source,articles need to be downloaded (problem for scrapping ?),,Links => PDF,Louis,,
+Franceinfo,TRUE,https://www.francetvinfo.fr/meteo/climat/,"News, reliable",mainly concerns the results of the climate change: may be not interesting,,"Links => HTML page (! video, ? interesting)",Louis,,
+Meteo France,TRUE,http://www.meteofrance.fr/climat-passe-et-futur,Reliable,,,Links => links => HTML OR Links => HTML,Louis,,
+Jean-Marc Jancovici,TRUE,https://jancovici.com/category/changement-climatique/,"Popularization, reliable",,x,Links => HTML,Louis,TRUE,article a
+Le web pédagogique,MIXED,https://lewebpedagogique.com/environnement/category/developpement-durable/climat/,"Old (2010), signed by M.J. ?, 70% reliable",,,Links => $(#post div),Louis,,
+L'Express,TRUE,https://www.lexpress.fr/actualite/societe/environnement/,"Daily newspaper, Op-ed, reliable","""environment"" section : may be too general",x,Links => HTML,Louis,TRUE,article a
+Paris innovation review,TRUE,http://parisinnovationreview.com/tagsfr/changement-climatique,"scientific review, reliable ++",authors are often members of the IPCC,x,Links => HTML,Paul,TRUE,a.article-category
+Proposition Grand débat national,MIXED,https://granddebat.fr/project/la-transition-ecologique/collect/participez-a-la-recherche-collective-de-solutions-1,"a lot of non scientific, incorrect opinions, even sometimes frankly climatosceptic",Doesn't really take the form of an article ,,/,Paul,,
+Le Monde,TRUE,https://www.lemonde.fr/recherche/?search_keywords=changement+climatique&start_at=19%2F12%2F1944&end_at=31%2F08%2F2021&search_sort=relevance_desc,"Daily newspaper, reliable, op-ed","""climate"" section : may be too general + a lot of charged articles",,Login (charged) => Links => HTML,Louis,,
+Egalité & Réconciliation,FALSE,http://egaliteetreconciliation.fr/+-Climat-+.html,"Press review, Conspiracy","Alain Soral website, collection of press reviews of articles from other media",x,Links => HTML,Louis,FALSE,div.chapo_content a
+SOTT,FALSE,https://fr.sott.net/topic/13-Temperatures-extremes,"News, close to conspiracy, climatosceptism","they clearly refuse the term ""climate change""",,"Search bar, type ""climat"" => Links => HTML",Louis,,
+Réseau Voltaire,FALSE,https://www.voltairenet.org/mot120101.html?lang=fr,"News, close to conspiracy, climatosceptism","refuse the term ""climate change"", they use ""environment questions"", close to E&R",x,Links => HTML,Louis,FALSE,div.one-mot a
+Jacques Henry,FALSE,https://jacqueshenry.wordpress.com/category/crise-climatique/,Climatosceptism,"refuse the term ""climate change"" ",,$(#content article),Louis,,
+Réseau International,FALSE,https://reseauinternational.net/category/articles/idees-societe/ecologie/,"Climatosceptism, conspiracy",Collection of op-ed imported from other media (ex: jacques Henry),x,Links => HTML,Louis,FALSE,div.module-blog-wrap a
+Les Crises,MIXED,https://www.les-crises.fr/dossier/changement-climatique/,"Popularization, 70% reliable",Olivier Berruyer,x,Links => HTML,Louis,MIXED,article a
+Wikistrike,FALSE,https://www.wikistrike.com/tag/terre%20et%20climat/,"Climatosceptism, conspiracy","refuse the term ""climate change""",x,Links => HTML,Louis,FALSE,li a
+Causeur,FALSE,https://www.causeur.fr/?s=changement+climatique,"Climato skepticism, extreme right wing media",,x,Links => HTML,Paul,FALSE,div.td-block-span6 a
+Valeurs actuelles,FALSE,https://www.valeursactuelles.com,"Climato skepticism, extreme right wing media",edition partially reserved to subscribers,,Links => HTML (! charged),Paul,,
+Association des climato-realistes,FALSE,https://www.climato-realistes.fr,"Climatosceptism, conspiracy",allegedly scientific articles,x,Links => HTML,Paul,FALSE,article a
+Contrepoints,FALSE,https://www.contrepoints.org/?s=changement+climatique,"Climato skepticism, extreme right wing media",Vincent Vauclin's website,x,Links => HTML,Paul,FALSE,article a
+Boulevard Voltaire,FALSE,https://www.bvoltaire.fr/?s=changement+climatique,"Climato skepticism, extreme right wing media",Robert Menard's website,,Links => HTML (!url not valid),Paul,,li div.article-details a
+MetaTV,FALSE,https://meta.tv/?s=changement+climatique,"Climato skepticism, extreme right wing media",refutes the human origin of climate change,,Links => HTML (! video),Paul,,
+Les moutons enragés,FALSE,https://lesmoutonsenrages.fr/?s=changement+climatique,"Climato skepticism, sort of forum",Pratically nyone can post an article,x,Links => HTML,Paul,FALSE,article a
+Lumière sur Gaia,FALSE,https://lumieresurgaia.com/?s=changement+climatique,"Climato skepticism, conspiracy theory",at the edge of the sect...,,Links => HTML (! link YT in some articles),Paul,,
+Futura Planet,TRUE,https://www.futura-sciences.com/planete/environnement/climatologie/,"Science popularization, reliable",,x,Links => HTML,Paul,TRUE,div.container a
+Reporterre,MIXED,https://reporterre.net/DOSSIER-Changement-climatique,environmental activism,mix of precise information of scientific character and infoxes which go in the direction of activism (with regard to nuclear energy in particular),x,Links => HTML,Paul,MIXED,"""div.texte p  a"
+GreenPeace,MIXED,https://www.greenpeace.fr/?s=changement+climatique,environmental activism,idem,x,Links => HTML,Paul,MIXED,article a
+The Conversation,MIXED,https://theconversation.com/fr/topics/changement-climatique-21171,"academic papers, some op-ed",,x,Links => HTML,Louis,MIXED,article a
+Les Echos (Planete),TRUE,https://planete.lesechos.fr/?s=changement+climatique,"News, reliable",,,Links => HTML,Louis,,"links aren't in ""article"" tags + articles links can't be  distinguished  from contributions links"
+Time for the Planet,MIXED,https://www.time-planet.com/fr/tout-savoir/dereglement-climatique,"Popularization, leaning",want to persuade people to fund their project,x,Links => HTML (! lot of images),Louis,MIXED,div.ContentList a.ContentCard
+LinkedIn,MIXED,https://www.linkedin.com/search/results/content/?keywords=changement climatique,"Social network, op-ed",filter by length ?,,Login => $(.reusable-search__result-container div).onClick() => $(#ember777),Louis,,
+Comité 21,TRUE,http://www.comite21.org/ressources/etudes/index.html,"Source, press review",,,/,Louis,,
+M La Terre,MIXED,https://www.mtaterre.fr/dossiers/le-changement-climatique,Popularization,,x,Links => HTML,Louis,MIXED,div.dossier__text li a
+Ministère de la Transition Ecologique,TRUE,https://www.ecologie.gouv.fr/politiques/climat,French gov website,,,$(#container-1 a) => $(#container-2 a) => HTML,Louis,,
+Climat en Questions,TRUE,https://www.climat-en-questions.fr/,"Popularization, reliable",created by the Pierre-Simon Laplace institute,,Links => Links => HTML,Louis,,
+Réseau Action Climat France,MIXED,https://reseauactionclimat.org/actualites/?theme=urgence-climatique,"Popularization, 70% reliable, activism ?",a gathering of environmental associations,x,Links => HTML,Louis,MIXED,li  a
+CPEPESC,MIXED,https://cpepesc.org/category/6-nature-et-pollutions/1-la-planete-des-hommes-a-mal-a-son-climat/,"Popularization, 70% reliable, activism ?",water defence comitee,x,Links => HTML,Louis,MIXED,article a
+Wikipedia,MIXED,https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:R%C3%A9chauffement_climatique,"Populatization, french Wikipedia, 70% reliable",global warming section,x,Links => HTML,Louis,MIXED,li  a
+Eau France,MIXED,https://www.eaufrance.fr/le-changement-climatique,"French public service, popularization, reliable ?",sections at the bottom of this (long) article,,$(.value),Louis,,
+Changement-Climatique,MIXED,http://www.changement-climatique.fr/,"Popularization, reliable ?",talk about controversal issues,x,Links => HTML,Louis,MIXED,li a
+Nature France,MIXED,https://naturefrance.fr/,"French public service, popularization, reliable ?",focus on biodiversity,,"Search bar, type ""climat"" => Links => HTML",Louis,,
+Euronews,TRUE,https://fr.euronews.com/programmes/climate-now,News,collaborator Copernicus project,x,Links => HTML,Louis,TRUE,article a
+OXFAM France,MIXED,https://www.oxfamfrance.org/climat-et-energie/,"Popularization, activism","struggle against poverty, citizen group",x,"Links => HTML (click on the ""+"" button at the bottom of the page to display more articles",Louis,MIXED,article a
+Argonautes,MIXED,https://argonautes.club/,"Popularization, reliable ?","ocean, climate and energy",,"Search bar, type ""climat"" => Links => HTML",Louis,,
+Bon Pote,MIXED,https://bonpote.com/environnement/,"Popularization, op-ed, press reviews, activism ?",known for their post on social networks,x,Links => HTML,Louis,MIXED,article a
+Usbek & Rica,MIXED,https://usbeketrica.com/fr/tags/climat,"Op-ed, reliable ?",,x,Links => HTML ,Louis,MIXED,article a
+Actu Environnement,MIXED,https://www.actu-environnement.com/archives/,News,about climate but maybe too general ?,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Le Grand Soir,FALSE,https://www.legrandsoir.info/+-rechauffement-climatique-+.html,"Militancy, alternative informations",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Le Libre Penseur,FALSE,https://www.lelibrepenseur.org/?s=changement+climatique,"Op-ed, alternative",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Dreuz Info,FALSE,https://www.dreuz.info/category/guerre-contre-la-terreur/ecolo-totalitarisme,Conspiracy,"""Ecolo-totalitarism""",,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Mondialisation Ca,FALSE,https://www.mondialisation.ca/theme/fr-environnement,"Op-ed, not reliable",Research center about globalization ?,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Reporterre,MIXED,https://reporterre.net/Climat-18,"Activism, news",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Le Nouveau Paradigme,FALSE,https://www.2012un-nouveau-paradigme.com/tag/climat/,"News, not reliable",,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,
+Presse Galactique,FALSE,https://pressegalactique.com/,Conspiracy,,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,
+Wikiberal,FALSE,https://www.wikiberal.org/wiki/Portail_%C3%A9cologie#Environnement,"Encyclopedia, Not reliable",,,"Links => HTML (only take the links in the ul ""Généralités"", ""Environnement"", ""Argumentaires et réfutations"")",Louis,,
+24 Heures Actu,FALSE,https://24heuresactu.com/?s=climat,"News, op-ed",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Dedefensa,FALSE,https://www.dedefensa.org/recherche/do,Op-ed,"search ""climat""",,"Search bar, type ""climat"" => Links => HTML",Louis,,
+SytiNet,FALSE,http://blog.syti.net/sommaire.php?label=14,"Op-ed, blog",,x,Links => HTML,Louis,FALSE,a.titre_card
+Carbone 4,TRUE,https://www.carbone4.com/analysis?filter=articles,"Popularization, articles",,x,Links => HTML,Louis,TRUE,main a
+La Croix,MIXED,https://www.la-croix.com/environnement/rechauffement-climatique-changement-temperature-planete-niveau-mer,"newspaper, religious",Christian ,,cannot access,Louis,,
+CIRAD,TRUE,https://www.cirad.fr/nos-activites-notre-impact/thematiques-de-recherche/changement-climatique/enjeux-et-problematiques,"French gov website, popularization, articles",,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,
+EDF,MIXED,https://www.edf.fr/resultats?keywords=climat&rubriqueURL=groupe_EDF&order=pertinence&exactValue=0&type=12,"Popularization, leaning",French electricity supplier,,Links => HTML (bottom of the page to display more articles,Louis,,
+AMESSI,FALSE,https://amessi.org/spip.php?page=recherche&recherche=changement+climatique,"Op-ed, not reliable",,,Links => HTML (bottom of the page to display more articles,Louis,,
+Arrêt Sur Info,FALSE,https://arretsurinfo.ch/category/societe/environnement/,"Op-ed, not reliable",,x,Links => HTML (! videos),Louis,FALSE,article a
+Citoyens et Français,FALSE,https://www.citoyens-et-francais.fr/search/changement%20climatique/,"Op-ed, blog, comments, not reliable",,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+ConsoGlobe,MIXED,https://www.consoglobe.com/pg-environnement,News,,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+Novethic,MIXED,https://www.novethic.fr/actualite/environnement/climat.html,News,sustainable finance,,Links => HTML (Click on the bottom of the page to display more articles),Louis,,
+INRAE,TRUE,https://www.inrae.fr/changement-climatique-risques,French gov website,,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Louis,,
+Michel Duchaine,FALSE,https://michelduchaine.com/category/francais-articles-personnels/ecologie/rechauffement-global/,"Op-ed, conspiracy",,,Links => HTML,Louis,,
+Agence Française de Développement,MIXED,https://www.afd.fr/fr/page-thematique-axe/climat,"News, articles, 70% reliable",,,"Search bar, type ""climat"" => Links => Download button",Louis,,
+Groupement d'intérêt scientifique Climat,TRUE,http://www.gisclimat.fr/les-publications-du-gis-climat.html,"scientific ressource, reliable",,,Links => HTML,Paul,,
+Revue espaces naturels,TRUE,http://www.espaces-naturels.info,"scientific review, reliable",,,cannot access,Paul,,
+Journal du CNRS,TRUE,https://lejournal.cnrs.fr,"scientific popularization, reliable",,,"Search bar, type ""climat"" => Links => HTML (click on the bottom of the page to display more articles)",Paul,,
+CNRS,TRUE,https://inee.cnrs.fr/fr/news-list,"scientific review, reliable",,,"Links => HTML (click on the ""+"" button at the bottom of the page to display more articles",Paul,,
+La Recherche,TRUE,https://www.larecherche.fr,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,
+Science ert vie,TRUE,https://www.science-et-vie.com,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,
+Pour la science,TRUE,https://www.pourlascience.fr,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,
+Science et avenir,TRUE,https://www.sciencesetavenir.fr,"scientific review, reliable",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed !)",Paul,,
+Le Figaro,TRUE,https://recherche.lefigaro.fr,"Daily newspaper, reliable, op-ed",,,"Search bar, type ""climat"" => Links => HTML (!subscription needed + videos)",Paul,,
+Le climat en questions,TRUE,https://www.climat-en-questions.fr,reliable,support from cnrs and insu,,Links => Links => HTML,Paul,,
+CEA,TRUE,https://www.cea.fr/presse/Pages/actualites-communiques/actualites-communiques-climat-environnement.aspx?g_8f090e0e_2052_4fa3_a480_97901639a70c=2,"Scientific ressearch, reliable",,x,Links => HTML,Paul,TRUE,ul.menu li a
