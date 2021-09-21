@@ -16,7 +16,10 @@ for website in INITIAL_WEBSITE_LIST:
 
     label = website[0]
     url = website[1]
-    css_selector =website[2]
+    css_selector =website[2] # the css selector to access the links  of the articles for this  specific website
+
+    if label  == "Paris innovation review"  :
+        continue  # debug
 
     driver.get(url)
 
@@ -26,7 +29,9 @@ for website in INITIAL_WEBSITE_LIST:
     elif  label == "L'Express":
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"popin_tc_privacy_button_3"))).click()
     elif label =="Contrepoints" :
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-5tm0d2 "))).click()
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-5tm0d2"))).click()
+    elif label == "Réseau International" :
+        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-47sehv"))).click()
 
 
     link_elements = driver.find_elements_by_css_selector(css_selector)

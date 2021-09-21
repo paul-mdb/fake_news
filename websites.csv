@@ -26,7 +26,7 @@ MetaTV,FALSE,https://meta.tv/?s=changement+climatique,"Climato skepticism, extre
 Les moutons enragés,FALSE,https://lesmoutonsenrages.fr/?s=changement+climatique,"Climato skepticism, sort of forum",Pratically nyone can post an article,x,Links => HTML,Paul,FALSE,article a
 Lumière sur Gaia,FALSE,https://lumieresurgaia.com/?s=changement+climatique,"Climato skepticism, conspiracy theory",at the edge of the sect...,,Links => HTML (! link YT in some articles),Paul,,
 Futura Planet,TRUE,https://www.futura-sciences.com/planete/environnement/climatologie/,"Science popularization, reliable",,x,Links => HTML,Paul,TRUE,div.container a
-Reporterre,MIXED,https://reporterre.net/DOSSIER-Changement-climatique,environmental activism,mix of precise information of scientific character and infoxes which go in the direction of activism (with regard to nuclear energy in particular),x,Links => HTML,Paul,MIXED,"""div.texte p  a"
+Reporterre,MIXED,https://reporterre.net/DOSSIER-Changement-climatique,environmental activism,mix of precise information of scientific character and infoxes which go in the direction of activism (with regard to nuclear energy in particular),x,Links => HTML,Paul,MIXED,div.texte p  a
 GreenPeace,MIXED,https://www.greenpeace.fr/?s=changement+climatique,environmental activism,idem,x,Links => HTML,Paul,MIXED,article a
 The Conversation,MIXED,https://theconversation.com/fr/topics/changement-climatique-21171,"academic papers, some op-ed",,x,Links => HTML,Louis,MIXED,article a
 Les Echos (Planete),TRUE,https://planete.lesechos.fr/?s=changement+climatique,"News, reliable",,,Links => HTML,Louis,,"links aren't in ""article"" tags + articles links can't be  distinguished  from contributions links"
