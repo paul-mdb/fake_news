@@ -9,6 +9,8 @@ from utils import format_article_into_json, DATABASE_PATH
 
 content_list = []
 
+number_of_articles = 0
+
 driver = webdriver.Firefox()
 driver.maximize_window()
 
@@ -34,15 +36,17 @@ for website in INITIAL_WEBSITE_LIST:
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-47sehv"))).click()
 
 
+    #  Find all  the article links on the page
     link_elements = driver.find_elements_by_css_selector(css_selector)
     links = []
     for link_element in link_elements:
-        links += [
-            link_element.get_attribute("href")
-        ]
+        link = link_element.get_attribute("href")
+        if link not in links : # remove duplicates
+            links += [link]
 
     # TMP : 1 article / website to debug
     print(label, links)
+    number_of_articles += len(links)
     links = [links[0]]
 
     #  Extract all articles  for the website
@@ -71,3 +75,4 @@ for website in INITIAL_WEBSITE_LIST:
             continue
 
 driver.quit()
+print(f"{number_of_articles} articles")
