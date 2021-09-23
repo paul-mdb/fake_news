@@ -18,7 +18,8 @@ for website in INITIAL_WEBSITE_LIST:
 
     label = website[0]
     url = website[1]
-    css_selector =website[2] # the css selector to access the links  of the articles for this  specific website
+    css_selector = website[2] # the css selector to access the links  of the articles for this  specific website
+    content_selector = website[3]
 
     if label  == "Paris innovation review"  :
         continue  # debug
@@ -26,7 +27,7 @@ for website in INITIAL_WEBSITE_LIST:
     driver.get(url)
 
     # Skip cookie pop-up
-    if label == "Ouest France" or label == "Les Echos (Planete)" or  label == "Euronews":
+    if label == "Ouest France" or label == "Les Echos (Planete)" or  label == "Euronews" or  label == "Wikistrike":
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"didomi-notice-agree-button"))).click()
     elif  label == "L'Express":
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"popin_tc_privacy_button_3"))).click()
@@ -56,7 +57,7 @@ for website in INITIAL_WEBSITE_LIST:
         try :
                 
             title = driver.find_element_by_css_selector("h1").text
-            article = driver.find_element_by_css_selector("article")
+            article = driver.find_element_by_css_selector(content_selector)
             content = article.text
 
 
@@ -72,6 +73,7 @@ for website in INITIAL_WEBSITE_LIST:
             file.close()
 
         except :
+            print(f"{label} : extraction failed")
             continue
 
 driver.quit()
