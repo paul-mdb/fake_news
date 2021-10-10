@@ -1,53 +1,38 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from json import dumps
+from pandas import isna
 
 from website_list import WEBSITE_LIST, INITIAL_WEBSITE_LIST
-from utils import format_article_into_json, DATABASE_PATH
+from utils import DATABASE_PATH, SPECIAL_CHARACTERS, format_article_into_json, skip_cookie_popup, get_links, get_text_in_selected_element, get_date
 
-content_list = []
-
-number_of_articles = 0
+THRESHOLD_ON_CONTENT_LENGTH = 50
 
 driver = webdriver.Firefox()
-driver.maximize_window()
+# driver.maximize_window()
 
-for website in INITIAL_WEBSITE_LIST:
+for (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector) in INITIAL_WEBSITE_LIST:
+    # Replace by default values if empty string
+    cookie_selector = "x" if isna(cookie_selector) else cookie_selector
+    link_selector = "article a" if isna(link_selector) else link_selector
+    content_selector = "article" if isna(content_selector) else content_selector
+    title_selector = "h1" if isna(title_selector) else title_selector
+    date_selector = "x" if isna(date_selector) else date_selector
+    author_selector = "x" if isna(author_selector) else author_selector
 
-    label = website[0]
-    url = website[1]
-    css_selector = website[2] # the css selector to access the links  of the articles for this  specific website
-    content_selector = website[3]
-
+    # DEBUG : SKIP WEBSITES WITH ISSUES
     if label  == "Paris innovation review"  :
-        continue  # debug
+        continue
 
+    # Go to the URL
     driver.get(url)
 
     # Skip cookie pop-up
-    if label == "Ouest France" or label == "Les Echos (Planete)" or  label == "Euronews" or  label == "Wikistrike":
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"didomi-notice-agree-button"))).click()
-    elif  label == "L'Express":
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID,"popin_tc_privacy_button_3"))).click()
-    elif label =="Contrepoints" :
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-5tm0d2"))).click()
-    elif label == "Réseau International" :
-        WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button.css-47sehv"))).click()
+    skip_cookie_popup(driver, cookie_selector)
 
+    # Find all the article links on the page
+    links = get_links(driver, link_selector)
 
-    #  Find all  the article links on the page
-    link_elements = driver.find_elements_by_css_selector(css_selector)
-    links = []
-    for link_element in link_elements:
-        link = link_element.get_attribute("href")
-        if link not in links : # remove duplicates
-            links += [link]
-
-    # TMP : 1 article / website to debug
-    print(label, links)
-    number_of_articles += len(links)
+    # DEBUG : 1 ARTICLE / WEBSITE
     links = [links[0]]
 
     #  Extract all articles  for the website
@@ -55,19 +40,28 @@ for website in INITIAL_WEBSITE_LIST:
         driver.get(link)
         
         try :
-                
-            title = driver.find_element_by_css_selector("h1").text
-            article = driver.find_element_by_css_selector(content_selector)
-            content = article.text
+            content = get_text_in_selected_element(driver, content_selector)
 
+            if len(content) <= THRESHOLD_ON_CONTENT_LENGTH:
+                print(f"{link} : content too short")
+                continue
+
+            title = get_text_in_selected_element(driver, title_selector)
+            author = get_text_in_selected_element(driver, author_selector)
+            date = get_date(driver, date_selector)
 
             # Export article
-            filename = (label + "-" + title[:15]).replace(" ", "_") + ".json"
+            filename = label + "-" + title[:15]
+            filename.replace(" ", '_')
+            for character in SPECIAL_CHARACTERS:
+                filename.replace(character, '_')
+            filename += ".json"
+
             file = open(DATABASE_PATH + filename, "w")
             file.write(dumps(format_article_into_json(
                 title=title,
-                author="",
-                date="",
+                author=author,
+                date=date,
                 content=content
             )))
             file.close()
@@ -77,4 +71,4 @@ for website in INITIAL_WEBSITE_LIST:
             continue
 
 driver.quit()
-print(f"{number_of_articles} articles")
+# print(f"{number_of_articles} articles")
