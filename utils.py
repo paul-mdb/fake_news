@@ -4,8 +4,11 @@ from selenium.webdriver.support import expected_conditions as EC
 
 DATABASE_PATH = "articles/"
 SPECIAL_CHARACTERS = [
-    '/', '<', '>', ':', '"', '\\', '|', '?', '*'
+    ' ', '/', '<', '>', ':', '"', '\\', '|', '?', '*'
 ]
+THRESHOLD_ON_CONTENT_LENGTH = 50
+TITLE_LENGTH = 40
+
 
 # General functions
 def format_article_into_json(title, author, date, content):
@@ -16,13 +19,16 @@ def format_article_into_json(title, author, date, content):
         "content": content
     }
 
+
 # Extraction functions
 def skip_cookie_popup(driver, selector):
     if selector != "x":
         try:
             WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,selector))).click()
-        except:
+        except Exception as e:
+            print(repr(e))
             return
+
 
 def get_links(driver, css_selector):
     link_elements = driver.find_elements_by_css_selector(css_selector)
@@ -38,8 +44,13 @@ def get_text_in_selected_element(driver, selector):
         return ""
 
     try:
-        return driver.find_element_by_css_selector(selector).text
-    except:
+        content_elements = driver.find_elements_by_css_selector(selector)
+        content = ""
+        for content_element in content_elements:
+            content += content_element.text
+        return content
+    except Exception as e:
+        print(repr(e))
         return ""
 
 def get_date(driver, selector):
@@ -49,5 +60,6 @@ def get_date(driver, selector):
         if datetime is not None:
             return datetime
         return get_text_in_selected_element(driver, selector)
-    except:
+    except Exception as e:
+        print(repr(e))
         return ""

@@ -1,16 +1,18 @@
+import os.path
+
 from selenium import webdriver
 from json import dumps
 from pandas import isna
 
 from website_list import WEBSITE_LIST, INITIAL_WEBSITE_LIST
-from utils import DATABASE_PATH, SPECIAL_CHARACTERS, format_article_into_json, skip_cookie_popup, get_links, get_text_in_selected_element, get_date
-
-THRESHOLD_ON_CONTENT_LENGTH = 50
+from utils import DATABASE_PATH, SPECIAL_CHARACTERS, THRESHOLD_ON_CONTENT_LENGTH, TITLE_LENGTH, format_article_into_json, skip_cookie_popup, get_links, get_text_in_selected_element, get_date
 
 driver = webdriver.Firefox()
 # driver.maximize_window()
 
-for (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector) in INITIAL_WEBSITE_LIST:
+website_list = INITIAL_WEBSITE_LIST # Choose your website list
+
+def extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector):
     # Replace by default values if empty string
     cookie_selector = "x" if isna(cookie_selector) else cookie_selector
     link_selector = "article a" if isna(link_selector) else link_selector
@@ -18,10 +20,6 @@ for (label, url, cookie_selector, link_selector, content_selector, title_selecto
     title_selector = "h1" if isna(title_selector) else title_selector
     date_selector = "x" if isna(date_selector) else date_selector
     author_selector = "x" if isna(author_selector) else author_selector
-
-    # DEBUG : SKIP WEBSITES WITH ISSUES
-    if label  == "Paris innovation review"  :
-        continue
 
     # Go to the URL
     driver.get(url)
@@ -33,7 +31,7 @@ for (label, url, cookie_selector, link_selector, content_selector, title_selecto
     links = get_links(driver, link_selector)
 
     # DEBUG : 1 ARTICLE / WEBSITE
-    links = [links[0]]
+    # links = [links[0]]
 
     #  Extract all articles  for the website
     for link in links:
@@ -46,17 +44,24 @@ for (label, url, cookie_selector, link_selector, content_selector, title_selecto
                 print(f"{link} : content too short")
                 continue
 
+            # Get title
             title = get_text_in_selected_element(driver, title_selector)
+
+            # Generate filename
+            filename = label + "-" + title[:TITLE_LENGTH]
+            for character in SPECIAL_CHARACTERS:
+                filename = filename.replace(character, '_')
+            filename += ".json"
+
+            # Check if this article has already been collected
+            if os.path.isfile(DATABASE_PATH + filename):
+                print(filename + ": already collected")
+                continue
+
             author = get_text_in_selected_element(driver, author_selector)
             date = get_date(driver, date_selector)
 
             # Export article
-            filename = label + "-" + title[:15]
-            filename.replace(" ", '_')
-            for character in SPECIAL_CHARACTERS:
-                filename.replace(character, '_')
-            filename += ".json"
-
             file = open(DATABASE_PATH + filename, "w")
             file.write(dumps(format_article_into_json(
                 title=title,
@@ -66,9 +71,45 @@ for (label, url, cookie_selector, link_selector, content_selector, title_selecto
             )))
             file.close()
 
-        except :
+        except Exception as e:
+            print(repr(e))
             print(f"{label} : extraction failed")
             continue
 
-driver.quit()
+def extract_website_list(website_list):
+    for (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector) in website_list:
+        extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector)
+    driver.quit()
+
+# Main function
+if __name__ == "__main__":
+    extract_website_list(website_list)
+
+# Write logs
+# file = open("logs.txt", "w")
+# file.write(logs)
+# file.close()
+
 # print(f"{number_of_articles} articles")
+
+# Utils
+def extract_website(label):
+    url = ""
+    for website in WEBSITE_LIST:
+        if website[0] == label:
+            (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector) = website
+    if not url:
+        print("Incorrect label.")
+        driver.quit()
+    extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector)
+
+
+def extract_from_website(label):
+    website_list = []
+    for (index, website) in enumerate(WEBSITE_LIST):
+        if website[0] == label:
+            website_list = WEBSITE_LIST[index:]
+    if not website_list:
+        print("Incorrect label.")
+        driver.quit()
+    extract_website_list(website_list)
