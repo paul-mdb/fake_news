@@ -3,4 +3,4 @@
 __pycache__/
 geckodriver.log
 articles/*
-./websites.csv
+websites.csv
