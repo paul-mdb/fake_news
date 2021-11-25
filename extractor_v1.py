@@ -29,7 +29,7 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
 
     # Find all the article links on the page
     links = get_links(driver, link_selector)
-
+    print(links)
     # DEBUG : 1 ARTICLE / WEBSITE
     # links = [links[0]]
 
@@ -62,7 +62,7 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
             date = get_date(driver, date_selector)
 
             # Export article
-            file = open(DATABASE_PATH + filename, "w")
+            file = open(DATABASE_PATH + filename, "w", encoding="utf-8")
             file.write(dumps(format_article_into_json(
                 title=title,
                 author=author,
@@ -82,8 +82,8 @@ def extract_website_list(website_list):
     driver.quit()
 
 # Main function
-if __name__ == "__main__":
-    extract_website_list(website_list)
+# if __name__ == "__main__":
+#     extract_website_list(website_list)
 
 # Write logs
 # file = open("logs.txt", "w")
@@ -105,11 +105,13 @@ def extract_website(label):
 
 
 def extract_from_website(label):
-    website_list = []
-    for (index, website) in enumerate(WEBSITE_LIST):
+    list = []
+    for (index, website) in enumerate(website_list):
         if website[0] == label:
-            website_list = WEBSITE_LIST[index:]
-    if not website_list:
+            list = website_list[index:]
+    if not list:
         print("Incorrect label.")
         driver.quit()
-    extract_website_list(website_list)
+    extract_website_list(list)
+
+extract_website("Changement Climatique")
