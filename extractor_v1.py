@@ -1,4 +1,5 @@
 import os.path
+from numpy import integer
 
 from selenium import webdriver
 from json import dumps
@@ -12,7 +13,7 @@ driver = webdriver.Firefox()
 
 website_list = INITIAL_WEBSITE_LIST # Choose your website list
 
-def extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector):
+def extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula):
     # Replace by default values if empty string
     cookie_selector = "x" if isna(cookie_selector) else cookie_selector
     link_selector = "article a" if isna(link_selector) else link_selector
@@ -20,65 +21,72 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
     title_selector = "h1" if isna(title_selector) else title_selector
     date_selector = "x" if isna(date_selector) else date_selector
     author_selector = "x" if isna(author_selector) else author_selector
+    page_url_complement = "" if isna(page_url_complement) else page_url_complement
+    number_of_pages = 0 if isna(number_of_pages) else int(number_of_pages)
+    paginator_formula = "n" if isna(paginator_formula) else paginator_formula
 
-    # Go to the URL
-    driver.get(url)
+    for n in range(number_of_pages):
+        full_link = url + page_url_complement.format(n)
 
-    # Skip cookie pop-up
-    skip_cookie_popup(driver, cookie_selector)
+        # Go to the URL
+        driver.get(full_link)
 
-    # Find all the article links on the page
-    links = get_links(driver, link_selector)
+        # Skip cookie pop-up
+        skip_cookie_popup(driver, cookie_selector)
 
-    # DEBUG : 1 ARTICLE / WEBSITE
-    # links = [links[0]]
+        # Find all the article links on the page
+        links = get_links(driver, link_selector)
 
-    #  Extract all articles  for the website
-    for link in links:
-        driver.get(link)
-        
-        try :
-            content = get_text_in_selected_element(driver, content_selector)
+        # DEBUG : 1 ARTICLE / WEBSITE
+        links = [links[0]]
 
-            if len(content) <= THRESHOLD_ON_CONTENT_LENGTH:
-                print(f"{link} : content too short")
+        #  Extract all articles from the page
+        for link in links:
+            driver.get(link)
+            
+            try :
+                content = get_text_in_selected_element(driver, content_selector)
+
+                if len(content) <= THRESHOLD_ON_CONTENT_LENGTH:
+                    print(f"{link} : content too short")
+                    continue
+
+                # Get title
+                title = get_text_in_selected_element(driver, title_selector)
+
+                # Generate filename
+                filename = label + "-" + title[:TITLE_LENGTH]
+                for character in SPECIAL_CHARACTERS:
+                    filename = filename.replace(character, '_')
+                filename += ".json"
+
+                # Check if this article has already been collected
+                if os.path.isfile(DATABASE_PATH + filename):
+                    print(filename + ": already collected")
+                    continue
+
+                author = get_text_in_selected_element(driver, author_selector)
+                date = get_date(driver, date_selector)
+
+                # Export article
+                file = open(DATABASE_PATH + filename, "w")
+                file.write(dumps(format_article_into_json(
+                    title=title,
+                    url=link,
+                    author=author,
+                    date=date,
+                    content=content
+                )))
+                file.close()
+
+            except Exception as e:
+                print(repr(e))
+                print(f"{label} : extraction failed")
                 continue
-
-            # Get title
-            title = get_text_in_selected_element(driver, title_selector)
-
-            # Generate filename
-            filename = label + "-" + title[:TITLE_LENGTH]
-            for character in SPECIAL_CHARACTERS:
-                filename = filename.replace(character, '_')
-            filename += ".json"
-
-            # Check if this article has already been collected
-            if os.path.isfile(DATABASE_PATH + filename):
-                print(filename + ": already collected")
-                continue
-
-            author = get_text_in_selected_element(driver, author_selector)
-            date = get_date(driver, date_selector)
-
-            # Export article
-            file = open(DATABASE_PATH + filename, "w")
-            file.write(dumps(format_article_into_json(
-                title=title,
-                author=author,
-                date=date,
-                content=content
-            )))
-            file.close()
-
-        except Exception as e:
-            print(repr(e))
-            print(f"{label} : extraction failed")
-            continue
 
 def extract_website_list(website_list):
-    for (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector) in website_list:
-        extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector)
+    for (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector,page_url_complement, number_of_pages, paginator_formula) in website_list:
+        extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula)
     driver.quit()
 
 # Main function
@@ -97,11 +105,11 @@ def extract_website(label):
     url = ""
     for website in WEBSITE_LIST:
         if website[0] == label:
-            (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector) = website
+            (label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula) = website
     if not url:
         print("Incorrect label.")
         driver.quit()
-    extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector)
+    extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula)
 
 
 def extract_from_website(label):
