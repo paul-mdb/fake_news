@@ -6,13 +6,14 @@ DATABASE_PATH = "articles/"
 SPECIAL_CHARACTERS = [
     ' ', '/', '<', '>', ':', '"', '\\', '|', '?', '*'
 ]
-THRESHOLD_ON_CONTENT_LENGTH = 50
+THRESHOLD_ON_CONTENT_LENGTH = 200
 TITLE_LENGTH = 40
 
 
 # General functions
-def format_article_into_json(title, author, date, content):
+def format_article_into_json(url, title, author, date, content):
     return {
+        "url": url,
         "title": title,
         "author": author,
         "date": date,
@@ -27,6 +28,7 @@ def skip_cookie_popup(driver, selector):
             WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,selector))).click()
         except Exception as e:
             print(repr(e))
+            print("cookie bug")
             return
 
 
@@ -42,7 +44,6 @@ def get_links(driver, css_selector):
 def get_text_in_selected_element(driver, selector):
     if selector == "x":
         return ""
-
     try:
         content_elements = driver.find_elements_by_css_selector(selector)
         content = ""
@@ -63,3 +64,17 @@ def get_date(driver, selector):
     except Exception as e:
         print(repr(e))
         return ""
+
+def standardize_date(date) :
+    consecutive_numbers = 0
+    year = ""
+    for c in date :
+        if(ord(c) >= 48 and ord(c) <= 57) :
+            consecutive_numbers+=1
+            year += c
+        else :
+            consecutive_numbers=0
+            year = ""
+        if consecutive_numbers ==  4:
+            return year
+    return ""
