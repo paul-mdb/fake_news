@@ -26,16 +26,11 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
     paginator_formula = "n" if isna(paginator_formula) else paginator_formula
 
     #debug
-    number_of_pages = min(3, number_of_pages)
+    number_of_pages = min(7, number_of_pages)
 
     for n in range(number_of_pages):
-        
-        if label == "Egalité & Réconciliation" :
-            full_link = url + page_url_complement.format(2*(n-1))
-        elif label == "Réseau Voltaire" :
-            full_link = url + page_url_complement.format(15*(n-1))
-        else :
-            full_link = url + page_url_complement.format(n)
+
+        full_link = url + page_url_complement.format(eval(paginator_formula))
 
         # Go to the URL
         driver.get(full_link)
