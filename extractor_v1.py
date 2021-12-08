@@ -5,13 +5,16 @@ from selenium import webdriver
 from json import dumps
 from pandas import isna
 
-from website_list import WEBSITE_LIST, INITIAL_WEBSITE_LIST
+from website_list import WEBSITE_LIST, INITIAL_WEBSITE_LIST, TEST_WEBSITE_LIST
 from utils import DATABASE_PATH, SPECIAL_CHARACTERS, THRESHOLD_ON_CONTENT_LENGTH, TITLE_LENGTH, format_article_into_json, skip_cookie_popup, get_links, get_text_in_selected_element, get_date, standardize_date
 
 driver = webdriver.Firefox()
 # driver.maximize_window()
 
 website_list = INITIAL_WEBSITE_LIST # Choose your website list
+
+#debug
+website_list = TEST_WEBSITE_LIST
 
 def extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula):
     # Replace by default values if empty string
@@ -31,6 +34,8 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
     for n in range(number_of_pages):
 
         full_link = url + page_url_complement.format(eval(paginator_formula))
+        print(full_link)
+        print(paginator_formula)
 
         # Go to the URL
         driver.get(full_link)
@@ -44,7 +49,7 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
 
         # DEBUG : 1 ARTICLE / WEBSITE
         links = [links[0]]
-        #print(links)
+        print(links)
 
         #  Extract all articles from the page
         for link in links:
