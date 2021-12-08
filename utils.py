@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import re
 
 DATABASE_PATH = "articles/"
 SPECIAL_CHARACTERS = [
@@ -8,6 +9,7 @@ SPECIAL_CHARACTERS = [
 ]
 THRESHOLD_ON_CONTENT_LENGTH = 200
 TITLE_LENGTH = 40
+BAD_PREFIXES = ['Source', 'Tradu', 'Ajout', 'Lire', 'Commentaire', 'Partage', 'http', 'www', 'Inscri', 'Lien']
 
 
 # General functions
@@ -41,14 +43,27 @@ def get_links(driver, css_selector):
             links += [link]
     return links
 
+def has_bad_prefix(text) -> bool:
+    for prefix in BAD_PREFIXES:
+        if bool(re.match(prefix, text, re.I)):
+            return True
+
+    return False
+
 def get_text_in_selected_element(driver, selector):
     if selector == "x":
         return ""
     try:
         content_elements = driver.find_elements_by_css_selector(selector)
         content = ""
+
         for content_element in content_elements:
-            content += content_element.text
+            text = content_element.text
+
+            if not has_bad_prefix(text):
+                print(text)
+                content += text
+
         return content
     except Exception as e:
         print(repr(e))

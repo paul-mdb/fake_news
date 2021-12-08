@@ -5,16 +5,13 @@ from selenium import webdriver
 from json import dumps
 from pandas import isna
 
-from website_list import WEBSITE_LIST, INITIAL_WEBSITE_LIST, TEST_WEBSITE_LIST
+from website_list import WEBSITE_LIST, INITIAL_WEBSITE_LIST
 from utils import DATABASE_PATH, SPECIAL_CHARACTERS, THRESHOLD_ON_CONTENT_LENGTH, TITLE_LENGTH, format_article_into_json, skip_cookie_popup, get_links, get_text_in_selected_element, get_date, standardize_date
 
 driver = webdriver.Firefox()
 # driver.maximize_window()
 
 website_list = INITIAL_WEBSITE_LIST # Choose your website list
-
-#debug
-website_list = TEST_WEBSITE_LIST
 
 def extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula):
     # Replace by default values if empty string
@@ -101,10 +98,6 @@ def extract_website_list(website_list):
         extract(label, url, cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula)
     driver.quit()
 
-# Main function
-if __name__ == "__main__":
-    extract_website_list(website_list)
-
 # Write logs
 # file = open("logs.txt", "w")
 # file.write(logs)
@@ -133,3 +126,5 @@ def extract_from_website(label):
         print("Incorrect label.")
         driver.quit()
     extract_website_list(website_list)
+
+extract_from_website("Contrepoints")
