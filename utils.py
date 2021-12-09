@@ -7,10 +7,10 @@ DATABASE_PATH = "articles/"
 SPECIAL_CHARACTERS = [
     ' ', '/', '<', '>', ':', '"', '\\', '|', '?', '*'
 ]
-THRESHOLD_ON_CONTENT_LENGTH = 200
+THRESHOLD_ON_CONTENT_LENGTH = 1000
 TITLE_LENGTH = 40
-BAD_PREFIXES = ['Source', 'Tradu', 'Ajout', 'Lire', 'Commentaire', 'Partage', 'http', 'www', 'Inscri', 'Lien']
-
+BAD_PREFIXES = ['Source', 'Tradu', 'Ajout', 'Lire', 'Commentaire', 'Partage', 'http', 'www', 'Inscri', 'Lien', 'Article', 'Direction', 'Extrait', 'Voir', 'Cet article']
+VERY_BAD_PREFIXES = ['Note', 'Partager']
 
 # General functions
 def format_article_into_json(url, title, author, date, content):
@@ -50,6 +50,13 @@ def has_bad_prefix(text) -> bool:
 
     return False
 
+def has_very_bad_prefix(text) -> bool:
+    for prefix in VERY_BAD_PREFIXES:
+        if bool(re.match(prefix, text, re.I)):
+            return True
+
+    return False
+
 def get_text_in_selected_element(driver, selector):
     if selector == "x":
         return ""
@@ -57,12 +64,15 @@ def get_text_in_selected_element(driver, selector):
         content_elements = driver.find_elements_by_css_selector(selector)
         content = ""
 
-        for content_element in content_elements:
+        for i, content_element in enumerate(content_elements):
             text = content_element.text
 
-            if not has_bad_prefix(text):
-                print(text)
+            if has_very_bad_prefix(text) :
+                break
+
+            if not has_bad_prefix(text) or (i>2 and (i < len(content_elements)-5)):
                 content += text
+                content += " "
 
         return content
     except Exception as e:

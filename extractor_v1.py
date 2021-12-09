@@ -31,8 +31,6 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
     for n in range(number_of_pages):
 
         full_link = url + page_url_complement.format(eval(paginator_formula))
-        print(full_link)
-        print(paginator_formula)
 
         # Go to the URL
         driver.get(full_link)
@@ -127,4 +125,4 @@ def extract_from_website(label):
         driver.quit()
     extract_website_list(website_list)
 
-extract_from_website("Contrepoints")
+extract_website("Reporterre")
