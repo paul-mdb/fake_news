@@ -50,6 +50,9 @@ def has_bad_prefix(text) -> bool:
 
     return False
 
+def remove_links(text):
+    return re.sub(r'http\S+', '', text)
+
 def get_text_in_selected_element(driver, selector):
     if selector == "x":
         return ""
@@ -61,7 +64,7 @@ def get_text_in_selected_element(driver, selector):
             text = content_element.text
 
             if not has_bad_prefix(text):
-                print(text)
+                text = remove_links(text)
                 content += text
 
         return content

@@ -127,4 +127,4 @@ def extract_from_website(label):
         driver.quit()
     extract_website_list(website_list)
 
-extract_from_website("Contrepoints")
+extract_website("GreenPeace")
