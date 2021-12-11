@@ -1,0 +1,47 @@
+L’effet de serre, c’est bien connu, c’est la faute aux industriels, aux Américains, aux Chinois qui n’ont qu’à ne pas se mettre à consommer de pétrole, mais…surtout pas la mienne !
+Hélas, nous sommes tous, au travers de nos actes quotidiens, des émetteurs directs ou indirects de gaz à effet de serre, soit parce que nous brûlons directement un combustible fossile (pétrole, charbon, gaz), ce qui engendre des émissions de CO2, soit parce que nous choisissons d’acheter un produit ou de consommer un service dont la fabrication engendre des émissions de gaz à effet de serre. S’exonérer totalement de notre responsabilité de consommateurs est probablement aller bien vite en besogne !
+Je vous propose ci-dessous quelques ordres de grandeur d’émissions liées à des actes de la vie courante. Sauf exception, les chiffres incluent tous les gaz à effet de serre. Tous ces chiffres sont obtenus à partir de la méthode Bilan Carbone que j’ai contribué à mettre au point pour le compte de l’ADEME.
+Pour donner un sens à tous ces chiffres, il sera utile de rappeler que l’émission moyenne annuelle par Français est de 2,2 tonnes équivalent carbone (soit 8,8 tonnes équivalent CO2, deux unités de mesure des gaz à effet de serre) tous gaz confondus, en prenant en compte le puits constitué par la gestion des surfaces forestières en France. Il sera surtout utile de comparer ces chiffres à ce qu’il faut émettre au plus pour stabiliser la concentration en CO2 dans l’atmosphère….
+Se chauffer
+Pour chauffer une maison, on émettra (essentiellement sous forme de CO2) :
+avec du fioul, sur la base de 3.000 litres consommés : 2,4 tonnes équivalent carbone (en prenant en compte toutes les émissions liées à l’extraction du pétrole, son raffinage, et bien sur sa combustion dans notre chaudière) ;
+avec du gaz naturel, pour la même quantité d’énergie fournie à la chaudière, soit 29.780 kWh : 1,9 tonne équivalent carbone (là aussi, en tenant compte des émissions liées à l’extraction et au transport du gaz naturel),
+avec de l’électricité, pour une quantité d’énergie dans le radiateur égale à celle fournie par 3.000 litres de fioul et un rendement de chaudière à 80% (ce qui correspond à 24.000 kW électriques environ), et en supposant que nous prenons les émissions moyennes du parc de centrales :
+0,6 tonne équivalent carbone en France (où l’électricité est à 90% nucléaire et hydroélectrique) ;
+près de 3,8 tonnes en Grande Bretagne (30% de nucléaire, le reste à base de fossiles),
+environ 4 tonnes aux USA (20% de nucléaire, le reste comprend beaucoup de charbon).
+plus de 5,5 tonnes au Danemark (électricité essentiellement produite à base de charbon, malgré les éoliennes…) ou en Grèce (beaucoup de charbon aussi).
+Il est important de préciser qu’en hiver, moment où l’on se chauffe à l’électricité, on utilise en appoint des centrales à charbon (en France), ce qui pose un problème de méthode pas simple : à qui attribue-t-on les émissions de carbone liées à la mise en marche des centrales à charbon ?
+au chauffage électrique, disent ses adversaires,
+à tout le monde, disent les autres, car il n’y a pas que le chauffage dont l’usage augmente l’hiver, et de toute façon les radiateurs électriques consomment deux fois plus que ce qui est produit par les centrales à charbon, donc chaque radiateur ne peut pas être considéré comme « tout charbon » !
+De fait, la situation mérite plus qu’une analyse rapide….
+Se déplacer
+Pour un déplacement de 15.000 km (en France, une automobile parcourt en moyenne 14.000 km par an), on émettra, selon le mode de transport utilisé :
+en voiture essence de petite cylindrée, à la campagne, donc sans embouteillages, sur une base de 5 litres aux 100 : environ 0,8 tonne équivalent carbone, en tenant compte de la fabrication de la voiture et des émissions du raffinage de l’essence. Par contre la combustion d’hydrocarbures produit aussi des précurseurs de l’ozone (2.000 fois plus « réchauffant » que le CO2) et des oxydes d’azote non pris en compte dans mes calculs.
+en voiture de grosse cylindrée, en zone urbaine (avec une partie du trajet comportant des embouteillages), sur une base de 14 litres aux 100 : environ 2 tonnes équivalent carbone (en outre les grosses voitures parcourent un kilométrage annuel supérieur aux petites : elles font plus près de 20.000 km par an que de 15.000).
+en RER (banlieusard allant travailler à 30 km de son domicile) ou en train (10 allers-retours Paris Marseille) : seulement 35 kg équivalent carbone par personne, sans tenir compte de la fabrication du train (c’est 5 à 10 fois plus à l’étranger sauf en Suisse et en Suède), soit 20 à 30 fois moins qu’une personne seule petite voiture.
+en avion court courrier (10 aller-retours Paris Marseille) : environ 1,2 tonne équivalent carbone par personne (en tenant compte de tous les gaz) en seconde classe, soit 40 fois plus qu’en train, et même 2,7 tonnes équivalent carbone en classe affaires ! (car en classes affaires on occupe plus d’espace au sol).
+en avion long courrier (un aller-retour Europe-USA) : environ 0,9 tonne de carbone par personne (en tenant compte de tous les gaz) en seconde, mais 3,15 tonnes en Première (et en Concorde c’était probablement encore plus !), soit 25 à 80 fois plus qu’en bateau (avec lequel on émettrait 40 kg équivalent carbone environ).
+On constate immédiatement que, en avion, chaque passager émet l’équivalent de ce qu’il aurait fait seul en petite voiture sur la même distance. Un 747 sur Paris-New-York c’est donc l’équivalent de 450 à 500 Twingo qui parcourent 12.000 km.
+J’ai aussi calculé qu’un aéroport comme Roissy était indirectement à l’origine de quelque chose compris entre 5 à 10% de nos émissions nationales.
+Manger
+la production d’une tonne de blé engendre environ 110 kg équivalent carbone, provenant pour 25% du N2O issu des engrais et pour 75% du CO2 issu de la production des engrais et des pesticides et du carburant du tracteur,
+produire une tonne de carcasse de bœuf (c’est dire la « viande avec os ») engendre environ 4 tonnes équivalent carbone (plus de 10 pour le veau), provenant pour partie du méthane engendré par la digestion, et pour partie des émissions liées à la culture des céréales et fourrages pour le nourrir, sachant qu’en France l’essentiel de la culture céréalière sert à nourrir des animaux,
+pour une tonne de viande de volaille, 0,5 à 1,5 tonne équivalent carbone selon la volaille et sa qualité.
+Produire puis livrer
+Matériaux de base
+la fabrication d’une tonne d’acier produit environ 0,8 tonne équivalent carbone (à partir de minerai), d’aluminium environ 3 tonnes équivalent carbone (aussi à partir de minerai), tous gaz à effet de serre pris en compte.
+la fabrication d’une tonne de plastique engendre de 0,5 à 1,6 tonne équivalent carbone selon le type de plastique,
+la fabrication d’une tonne de verre neuf engendre environ 0,4 tonne, mais de seulement 0,12 tonne si on part de calcin (verre récupéré puis pilé)
+la fabrication d’une tonne de ciment engendre environ 0,25 tonne équivalent carbone,
+la « fabrication » d’une tonne de bois stocke environ 0,5 tonne équivalent carbone. Utiliser une tonne de bois d’oeuvre à la place d’une tonne d’acier (par exemple pour un bâtiment) permet une économie (un « puits ») de plus d’une tonne équivalent carbone au total si le bois provient de forêts européennes (car il faut que le bois soit replanté pour que la gestion forestière soit un puits, sinon il s’agit de déforestation !).
+Transport de marchandises
+le transport d’une tonne de fruits venant d’Espagne (1.000 km) en semi-remorque engendre environ 25 kg équivalent carbone (ce chiffre tient compte du taux moyen de trajets à vide effectués par les poids lourds, ainsi que du taux moyen de remplissage du camion),
+une tonne de pommes venant du maraîcher du coin en utilitaire léger (25 km) engendre environ 3 kg équivalent carbone,
+une tonne de mangues venant d’Afrique du Sud par avion (et parcourant 10.000 km en chiffres ronds) engendre 3,2 tonnes équivalent carbone,
+une tonne d’oranges venant de Tunisie par avion engendre environ 1,2 tonnes équivalent carbone,
+une tonne de courrier Paris-Nice par train de nuit (que la Poste a abandonné il n’y a pas longtemps) engendrait 2 kg équivalent carbone, en camion elle en fera environ 20 kg, et en avion (chronopost ou équivalent) 550 kg (250 fois plus qu’en train !).
+Encore une fois, tout ce qui transite par l’avion engendre des émissions considérablement plus importantes que par tout autre moyen de transport, mais cela ne rend pas le camion (et même le train dans certains pays d’Europe) « climatiquement vertueux » pour autant !
+Conclusion
+Bien sûr, toutes ces indications correspondent à des valeurs moyennes, et sont susceptibles (notamment pour l’alimentation) de varier en fonction des circonstances. On peut trouver sur ce site quelques considérations sur les actes individuels qui permettent de réduire les émissions de gaz à effet de serre.
+A la suite de la lecture de ces quelques chiffres, j’espère que le lecteur acceptera qu’il semble difficile que les émissions puissent être fortement réduites par l’action de je ne sais quel homme politique courageux et clairvoyant, qui n’aurait qu’à « faire ce qu’il faut » pour que les émissions baissent, sans que nous nous privions de consommer ce qu’il nous plait pour autant….. 

@@ -1,0 +1,178 @@
+La presse grand public affecte rarement des ordres de grandeur aux comportements « politiquement corrects » en matière de lutte contre le changement climatique : quelle économie est engendrée lorsque l’on remplace une lampe classique par une lampe basse consommation, et surtout qu’est-ce que cela représente comparé à la réduction ultime qu’il faudra parvenir à faire ? J’ai donc trouvé intéressant de proposer mon propre inventaire, basé sur quelques ordres de grandeur faciles à calculer. J’ai classé les mesures par ordre de difficulté croissant quand au fait d’arriver « à s’y décider ».
+Pour chaque mesure j’ai indiqué l’efficacité avec un nombre de croix (+ à ++++) et l’impact financier avec le nombre de dollars ($$$ à $$$ ; rouges quand ca coûte, vert quand on économise ; quand il n’y a rien c’est que c’est financièrement neutre ou incalculable).
+Il est important de garder en mémoire quelques éléments importants :
+en France la production d’électricité est faite pour l’essentiel avec des procédés qui n’émettent pas de CO2 (nucléaire pour 80%, hydroelectricité pour 15%). De ce fait les émissions de CO2 directement évitées par le biais des économies d’électricité sont modestes. Cela n’est pas le cas dans la majorité des pays européens, et encore moins aux Etats Unis
+Nombre de grammes de CO2 émis pour la « production » d’un kWh électrique pour les divers pays de la CEE en 2001, les USA et le Japon.
+La France n’émet « que » 83 grammes de CO2 – en moyenne – pour mettre 1 kWh électrique sur le réseau, quand le Danemark ou la Grèce doivent émettre près d’un kg de CO2 pour parvenir au même résultat.
+Sources : PriceWaterHouse, EDF, ADEME
+Aussi la hiérarchie qui suit n’est valable, outre pour la France, que pour la Suisse (non représentée sur le graphique ci-dessus mais qui est au même niveau que la France) et la Suède (ces trois pays produisent l’essentiel de leur électricité avec du nucléaire et des barrages). Pour tous les autres pays, l’économie d’électricité sera synonyme d’une économie importante d’émissions de gaz à effet de serre.
+un Français émet environ 2,2 tonnes équivalent carbone par an tous gaz à effet de serre confondus et en tenant compte des puits. Les gains estimés ci-dessous sont donc évalués à l’aune de cette émission moyenne.
+Enfin il est utile de conserver en mémoire la répartition par secteur des émissions de gaz à effet de serre en France (ci-dessous).
+Répartition par secteur des émissions des 6 gaz à effet de serre en France en 2009. 
+(*) le transport aérien ou maritime international (l’aérien est prépondérant) n’est pas pris en compte. Il ne s’agit que du transport non routier (ferroviaire, aérien, ce dernier étant prépondérant) domestique.
+Enfin le secteur « transformation énergie » correspond pour moitié aux centrales électriques à charbon et pour moitié aux émissions des raffineries de pétrole.
+Source : CITEPA, 2012
+Je n’ai pas mentionné des mesures dont l’impact est « dans l’épaisseur du trait » en France, par exemple…..les ampoules basse consommation.
+Enfin on constatera assez facilement que de faire attention à ses émissions de carbone signifie généralement :
+des économies d’énergie,
+des économies tout court ! En outre si le prix des hydrocarbures monte brusquement, ce qui est à peu près certain « un jour », moins on en consomme et moins on souffre…
+  Très facile
+Baisser la température l’hiver de 1°C dans les lieux chauffés ++/$
+Si on utilise 2.000 l de fioul pour chauffer une maison l’hiver, cela engendre 1,25 tonne équivalent carbone. Si l’on utilise du gaz naturel, pour une dépense énergétique équivalente on émet encore à peu près 1 tonne équivalent carbone.
+Une baisse de 1°C fait économiser jusqu’à 10% de la consommation en énergie pour la chauffage (la moyenne est autour de 7%). Si vous vous chauffez au fuel et que vous consommez 2.000 l dans l’hiver, à 0,5 euro le litre, une baisse de consommation de 10% de fuel permet d’éviter l’émission de 125 kg d’équivalent carbone et fait économiser 100 euros.
+Utiliser le moins possible la climatisation en voiture ++ $
+Si on utilise la climatisation dans une voiture, la consommation augmente de 20%.
+Pour une utilisation annuelle de 15.000 km en cycle urbain dont le tiers avec climatisation, ne pas utiliser la climatisation représente une économie de 100 à 200 kg de carbone par an.
+ Ne pas regarder la publicité (et surtout éviter que ses enfants la regardent !) + à +++  $ à $$$
+Si l’on réintègre les transports et le chauffage qui leur sont propres, l’industrie et les services (qui produisent les produits que nous achetons et les services que nous consommons) sont, en France, à l’origine de 50% des émissions de gaz à effet de serre.
+Moins on consomme de produits manufacturés ou de voyages et plus on est vertueux sur le plan des émissions de gaz à effet de serre. Moins consommer est probablement plus facile si on ne regarde pas la publicité (c’est particulièrement vrai pour les enfants et les adolescents).
+  Facile
+Penser à la manière dont on va se déplacer avant de déménager ++++ $$
+15.000 km annuels en voiture en cycle urbain engendrent au minimum 1 tonne équivalent carbone (pour une petite voiture de 3 CV fiscaux).
+Le transport est devenu la première source d’émissions de CO2 en France (35 à 40% des émissions de ce seul gaz à effet de serre en réintégrant les émissions des raffineries, mais sans compter celles provenant de la fabrication des véhicules). Par ailleurs, il est aussi le premier ou le deuxième poste budgétaire des Français. Lorsque l’on déménage, éviter de se mettre dans une zone mal desservie par les transports en commun est être doublement vertueux :
+se déplacer moins en voiture permet de diminuer très fortement ses émissions de gaz à effet de serre (voir plus bas).
+on fait du bien à ses propres finances car la voiture coûte cher, et est susceptible de coûter de plus en plus cher sur le long terme, puisque les carburants ne sont pas inépuisables (et les bio-carburants ont un potentiel très faible)
+Manger le moins de viande possible, et au sein de la viande, le moins de bœuf possible ++++ / $$
+L’agriculture est responsable de 25% des émissions de gaz à effet de serre en France, plus que l’industrie, et ce essentiellement à cause de l’élevage.
+Si nous tenons compte de tous les processus annexes nécessaires (transports, fabrication des engrais, etc) le fait de manger est à l’origine de près d’un tiers des émissions en France !!
+Produire un kilo de bœuf engendre de 50 à 100 fois plus d’émissions de gaz à effet de serre que de produire un kilo de blé, et représente l’équivalent de 60 km en voiture.
+Manger beaucoup de viande engendre une agriculture intensive (car il faut produire beaucoup de végétaux pour nourrir les bêtes !), qui consomme directement ou indirectement de l’énergie fossile (pour la fabrication des engrais et des pesticides, et l’alimentation du tracteur), donc engendre des émissions de CO2, et émet en outre d’autres gaz à effet de serre : en se décomposant, les engrais azotés émettent du protoxyde d’azote, 300 fois plus « réchauffant » que le CO2, et par ailleurs les ruminants émettent du méthane, un gaz 23 fois plus « réchauffant » que le CO2, à cause de la fermentation des plantes qu’ils mangent dans leur système digestif.
+Il en résulte que produire un kg de bœuf conduit à l’émission de 4 kg équivalent carbone. Un kg de volaille ne « coûte » que de 0,5 à 1 kg équivalent carbone et le cochon un peu plus de 1. Tous ces chiffres ne sont valables que pour des produits « bruts », sans traitement derrière.
+Emissions de gaz à effet de serre (en kg équivalent CO2) liées à la production d’un kg de divers produits alimentaires.
+Source : Jancovici, 2004
+Supprimer 2 steacks par semaine (soit 300 g par semaine) induit, à la fin de l’année, environ 50 kg d’économies en équivalent carbone.
+Dans une moindre mesure ce raisonnement est valable pour tout ce qui dérive du bœuf : veau (plus de 10 kg d’équivalent carbone par kg), lait & laitages, beurre, glaces, etc…
+Sans parler d’être végétarien pour autant, il est assez facile (je l’ai fait) de diviser sa consommation de viande et de produits laitiers par 2, ce qui, outre des bénéfices importants pour les émissions de gaz à effet de serre, permet également les dividendes associés suivants :
+moindre pression sur les ressources en eau (il faut utiliser 500 l d’eau pour faire un kg de patates, mais de 20.000 à 100.000 litres pour faire un kg de bœuf avec des céréales venant de cultures irriguées),
+une meilleure santé, surtout si la diminution porte sur les produits « gras » (viande de bœuf grasse type viande à poêler, beurre, crèmes glacées, etc)
+diminution des rejets de pesticides et résidus d’engrais, puisque la nécessité d’une agriculture très productive (qui, encore une fois, sert essentiellement à nourrir l’élevage) disparaît,
+libération de surfaces affectables à d’autres usages (bois, cultures énergétiques à l’avenir).
+Acheter une voiture sans climatisation + $
+Les gaz utilisés dans les circuits de climatisation (PFC, HCFC) sont de très puissants gaz à effet de serre (plusieurs milliers de fois le gaz carbonique) qui fuient toujours un peu (on estime les fuites à 33% de la charge initiale au bout de quelques années) et qui ne sont pas récupérés en fin de vie.
+Les émissions provenant de ces fuites surviennent en plus de celles liées à la surconsommation de carburant quand la climatisation est en marche (voir plus haut).
+Ne pas acheter de voiture avec climatisation permet une double source d’économie :
+diminuer sa consommation en carburant,
+éviter des émissions d’halocarbures du même ordre de grandeur que le CO2 dû à la surconsommation de carburant.
+Acheter une petite voiture +++ $$
+Pour 15.000 km annuels en voiture en cycle urbain on passe de 1 tonne à 2 tonnes équivalent carbone si on passe d’une toute petite voiture à une jeep 4×4 ou à une grosse berline (en moyenne, pour certains véhicules cela va encore au-delà).
+Entre une petite voiture (Twingo, Smart) et une grosse Mercédès ou un gros 4×4, il y a une différence de consommation qui peut aller, selon le parcours (et en particulier la quantité d’embouteillages), du simple au quintuple (un gros 4×4, à froid, et avec des embouteillages, consomme 30 à 40 l aux 100 en ville ; les normes de consommation UTAC ne sont pas représentatives des conditions normales de circulation).
+Emissions de GES (en kg équivalent carbone) émis en moyenne pour 15.000 km en cycle urbain selon la puissance administrative du véhicule (en cheval fiscal).
+(essence seulement, mais pour les diesel les ordres de grandeur sont les mêmes).
+Les émissions des raffineries et celles correspondant à la fabrication du véhicule sont comprises.
+Source : Jancovici/ADEME, 2003
+Si l’on ne peut vraiment pas se passer de voiture, ne serait-ce qu’en changer pour prendre le plus petit modèle possible (quitte à faire voyager une partie de la famille en train pour les vacances) peut déjà faire économiser des quantités considérables de CO2 : pour 15.000 km par an (distance moyenne parcourue par les automobiles en France), la différence Twingo/gros 4×4 est au minimum de 1 tonne équivalent carbone par an!
+En outre, les transports étant devenus le premier ou deuxième poste budgétaire des Français, une petite voiture avec une faible consommation a un impact certain (dans le sens des économies) sur les finances.
+Acheter une voiture hybride ++ $$
+Pour 15.000 km annuels en voiture en cycle urbain, passer à l’hybride peut faire économiser 30 à 50% de la consommation, soit 0,5 tonne d’équivalent carbone au moins.
+Les voitures hybrides possèdent un moteur plus efficace que le moteur d’une voiture « classique », et entre autres choses elles récupèrent l’énergie cinétique au moment du freinage pour la convertir en électricité, laquelle sert à alimenter la partie électrique du groupe propulseur. Ce système permet de gagner 30 à 50% de carburant. Sur une base de 15.000 km par an, cela permet d’économiser 700 à 1.000 litres d’essence par an, soit de l’ordre de 500 kg d’équivalent carbone.
+Par contre l’achat d’une voiture électrique n’est pas nécessairement un bon moyen de lutter contre l’effet de serre partout. C’est valable en France dans certaines limites, mais généralement pas à l’étranger.
+  Moyennement difficile
+Ne pas prendre l’avion +++ / $
+Un avion équivaut grosso modo à autant de petites voitures qu’il a de sièges passagers (même vides). Un voyageur en avion consomme à peu près ce qu’il aurait consommé en faisant le même kilométrage seul en petite voiture (environ 8 litres aux 100 km)
+Emissions de gaz à effet de serre, en grammes équivalent carbone par km parcouru, selon les modes de transport.
+Source : Jancovici, 2001
+Lors d’un vol aller-retour Paris-Marseille, un passager émet environ 150 kg d’équivalent carbone en avion (en tenant compte de tous les gaz à effet de serre), contre 3 seulement en train.
+Lors d’un aller retour Paris-New-York, un passager émet 900 kg d’équivalent carbone en moyenne (bien plus en classe affaires ou en première), soit un tiers de l’émission annuelle d’un Français tous gaz à effet de serre confondus. En 2 à 3 allers-retours Paris-USA on émet donc l’équivalent de ce qu’un Français émet par an (2,5 tonne d’équivalent carbone).
+Etre vertueux sur le plan des émissions de gaz à effet de serre est en particulier incompatible avec le fait d’aller en vacances en Martinique l’hiver, avec la réunionite internationale, ou encore avec une retraite occupée à courir le monde (c’est dommage, mais c’est comme ca !).
+Ne pas acheter américain ++++
+Les émissions par habitant des USA sont deux fois plus importantes que celles des Européens. Cela se retrouve dans les émissions par unité de PNB, même en tenant compte de la différence de productivité entre les USA et l’Europe.
+Cela est du au fait qu’aux Etats Unis tout est plus émetteur de gaz à effet de serre : les procédés industriels, le chauffage (maisons moins bien isolées), la production d’électricité est bien plus « riche » en CO2 à cause du charbon (voir graphique du haut de cette page), les transports (distances plus longues et voitures plus grosses ; recours à l’avion plus fréquent), etc.
+Voilà qui n’est pas du tout politiquement correct, mais tant pis ! Les chiffres sont ce qu’ils sont…. L’économie américaine étant presque deux fois plus riche en émissions de gaz à effet de serre que l’économie européenne, et presque trois fois plus que l’économie française, cela signifie qu’à chaque fois que l’on achète un produit fait aux USA plutôt qu’un produit fait en France, on double les émissions engendrées par la production du produit en question.
+Acheter européen en général, et français, suisse ou suédois en particulier, est un début très efficace de lutte contre les émissions de gaz à effet de serre.
+En outre, les USA étant beaucoup plus sensibles à la tenue de leur commerce extérieur qu’aux discours politiques, « voter avec son portefeuille » (ou avec ses pieds) est un moyen bien plus efficace que n’importe quel autre pour peser sur l’orientation de la politique américaine (les villipender dans les journaux ne doit pas beaucoup les ennuyer tant que nous continuons à acheter leurs ordinateurs et à visiter Disneyland !).
+Cela signifie que pour la lutte contre les émissions de gaz à effet de serre il vaut mieux (quelques exemples, mais la liste est longue…) :
+investir à la bourse de Paris plutôt qu’à celle de New-York,
+voir « The Full Monty » plutôt que le dernier Bruce Willis,
+acheter Adidas plutôt que Nike,
+ne pas renouveler son équipement informatique trop souvent,
+et regarder attentivement le « made in » sur l’étiquette !
+Baisser la température au maximum dans son lieu d’habitation +++ $$
+Si on utilise 2.000 l de fioul l’hiver, gagner 30% représente 0,5 tonne équivalent carbone.
+En baissant de quelques degrés (passer de 22 à 19 °C par exemple) la température des pièces, on peut économiser jusqu’à 30 ou 40% en chauffage. La fabrication des pulls et couvertures qui remplaceront une température élevée est négligeable au point de vue des émissions en regard de ce que l’on gagne.
+S’organiser avec des collègues de travail pour partager les voitures pour le déplacement domicile-travail + $
+5.000 km annuels en voiture en cycle urbain (soit une distance domicile travail de 12 km environ) engendrent au minimum 0,3 tonne équivalent carbone par an (et généralement plus près de 0,5).
+En augmentant le nombre de passagers, on divise ce total par autant de personnes transportées.
+Pour un déplacement domicile-travail de 30 km aller-retour en zone urbaine, cela permet d’économiser 0,20 tonne de carbone par personne et par an pour un partage à 2, et 0,35 tonne par personne pour un partage à 3.
+Isoler thermiquement sa maison du mieux possible +++ $
+Si on utilise 2000 l de fioul l’hiver, gagner 50% représente 0,8 tonne de carbone.
+Une bonne isolation thermique peut permettre de diminuer fortement ses émissions liées au chauffage. Entre un logement bien isolé et un logement mal isolé la dépense énergétique de chauffage, à température intérieure identique, varie du simple au double. Couplé avec le fait de mettre le thermostat le plus bas possible (19 °C sont parfaitement possibles) cela peut envisager de diminuer sa consommation de 70% (pour les logements anciens ; un ingénieur spécialisé de mes connaissances avance même 90% en combinant solaire passif, isolation et régulation de la température).
+Dans l’exemple où l’on consommait 2000 l de fuel cela permet une réduction de 0,8 tonne d’équivalent carbone par an.
+Faire le plus possible ses courses chez les commerçants de proximité, y aller de préférence à pied ou à vélo ++ $/$
+Faire ses courses en centre ville divise par deux la « dépense transport » de la collectivité
+Une étude de l’INRETS a montré que, pour un chiffre d’affaires équivalent, les hypermarchés de périphérie engendraient une dépense énergétique deux fois supérieure à celle des supermarchés de centre ville (et deux fois moins riches en emploi ; autrement dit la création d’un emploi dans la très grande distribution tue deux emplois dans le commerce de proximité). L’étude n’a pas été faite avec le commerce de proximité, mais le résultat est vraisemblablement le même, voire encore plus favorable. D’autres études dont j’ai eu connaissance donnent des résultats qualitativement convergents (voire encore plus défavorables aux très grandes surfaces).
+Cette « vertu » du commerce de proximité provient essentiellement de la raison suivante : le déplacement des clients est plus court lorsque l’on va en centre ville, et une partie des déplacements s’effectue à pieds, alors que pour un hypermarché la voiture est obligatoire.
+Aller près de chez soi diminuant la dépense transport, il est difficile de dire quel est l’impact financier d’un tel choix. Si cela permet d’éviter de s’acheter un deuxième véhicule, le gain financier est évident. Si cela permet d’éviter d’acheter à l’hypermarché des choses dont on n’a pas besoin (et, aux dires de certaines mères, la liste peut être très longue…) le gain financier est aussi potentiellement important.
+Ne pas se faire livrer les choses achetées par correspondance en 24H chrono + $
+Sur 1.000 km, 1 tonne de fret fait presque 1.000 kg de carbone en avion court courrier, 25 kg en gros camion, 3 kg en train.
+Emissions de gaz à effet de serre par tonne.km; selon le mode de transport.
+Source : Jancovici/ADEME, 2003
+Le fait de se faire livrer rapidement implique le recours à l’avion pour les grandes distances (qui est gourmand en carburant) et interdit l’usage du train (les manœuvres impliquent un délai) pour les distances plus courtes, sans compter que tout le monde n’habite pas à côté d’une gare.
+Le raccourcissement des chaînes logistiques est fortement responsable du bond du parc de camions ; aux USA où le mouvement a été initié avant la France les immatriculations de camions sont passées 2,5 millions à 7,2 millions par an de 1980 à 1997 !! (source Comité Français des Constructeurs d’Automobiles)
+Boire l’eau du robinet + $
+Cela évite de fabriquer puis de jeter des bouteilles plastique ; cela évite de transporter de l’eau par camion d’un bout à l’autre de la France (le transport local par tuyau est bien moins gourmand en énergie), cela coûte moins cher.
+Manger des produits de saison et cultivés ou élevés localement ++ $
+Manger des cerises en hiver, de l’agneau de Nouvelle Zélande, des tomates au mois de mars, ou des mangues toute l’année, induit une quadruple dépense énergétique qui conduit à des émissions de gaz à effet de serre :
+la culture sous serres chauffées (au fuel) pour les produits tels que tomates, fraises, etc, en hiver (et même certaines salades…),
+le transport sur une distance plus ou moins longue pour tout ce qui est produit à l’étranger,
+la congélation dans certains cas, or la plupart des systèmes de réfrigération fuient un peu et les fluides réfrigérants sont en général des halocarbures, qui sont des gaz à effet de serre extrêmement puissants, sans parler du fait que de congeler les produits demande de l’énergie donc engendre des émissions,
+une bonne partie de ce qui arrive de loin est emballé (plus que les tomates de saison achetées au marché au maraîcher du coin), ce qui engendre une dépense énergétique et la mise au rebut de matériaux de base.
+  Difficile
+Prendre les transports en commun plutôt que la voiture pour aller au travail ++/+++ $$$
+6.000 km annuels en voiture en cycle urbain (ce qui correspond à une distance au travail de 15 km environ) engendrent environ 0,5 tonne équivalent carbone.
+Si le parcours est fait en utilisant les transports en commun, le bénéfice question émissions sera de la quasi totalité si on passe de la voiture au vélo ou au train, et des 2/3 si on passe de la voiture au bus (ou au train dans les autres pays européens).
+Si cela permet d’éviter la deuxième voiture pour le ménage il y aura des économies induites pour d’autres déplacements, sans parler des économies financières qui représenteront environ 2 à 3000 euros par an (le transport public coûte en général la moitié du coût complet d’une voiture conduite par une personne seule).
+Vivre en appartement et non en maison ++++ $$
+Les appartements sont beaucoup moins consommateurs d’énergie pour se chauffer à superficie égale (jusqu’à deux fois moins), car la surface en contact avec l’extérieur est proportionnellement plus faible que pour une maison (le reste est en contact avec un autre appartement, généralement aussi chauffé). Il sont aussi, en général, situés en zones urbaines denses, donc proches des services (magasins, lieux de travail…) qui deviennent accessibles sans utiliser de voiture (à Paris, 1 personne sur 2 n’a pas de voiture).
+Emissions annuelles de gaz à effet de serre (en kg équivalent carbone) par habitant, pour le total logement plus transport, pour 3 zones de résidence en Ile de France.
+Source : Jancovici, sur données J.-P. Traisnel, les cahiers du CLIP, avril 2001
+Il convient de noter que contrairement à une idée répandue, le fait d’habiter en banlieue, à superficie habitable par personne équivalente, ne permet pas d’économiser de l’argent sur le total « logement plus transports de base » : le foncier est certes moins cher, mais la différence est compensée par les coûts de transport (cf. ci-dessous).
+Zone Hyper-centre Centre Petite couronne Grande couronne
+Revenu moyen du ménage 3.156 2.951 3.005 2.647
+Locataires du privé : budget logement + transport du ménage 1.041 1.033 1.202 1.191
+Accédants à la propriété : budget logement + transport du ménage NS 1.092 1.382 1.403
+Revenus et Budget Logement + Transports des ménages en fonction de la localisation du lieu de résidence.
+Source : INRETS, 1998
+Laisser sa voiture au garage et prendre le train pour les déplacements de quelques centaines de km ++ $
+1.000 km en voiture en cycle interurbain engendrent au miniumum 63 kg de carbone ; en train sur la même distance : environ 3 kg de carbone
+La bilan de la substitution de la route par le rail est de 150 g de CO2 par km. Sur un aller-retour interurbain de 500 km en tout (Paris-Lille par exemple) l’économie est de 20 kg de carbone.Si ce cas de figure se produit 10 à 20 fois par an (maison de campagne, famille, etc) le total en bout de course est de 0,25 à 0,5 tonne de carbone.
+Passer de la voiture au train engendre toujours un bénéfice dans les autres pays, même si ce dernier est variable et généralement plus faible qu’en France.
+Emissions de gaz à effet de serre, en grammes équivalent carbone par passager.km (c’est à dire un passager faisant un km), pour divers pays d’Europe.
+Les différences proviennent des différents pourcentages de trains fonctionnant au diesel, de la manière de produire l’électricité pour les trains électriques, et enfin des taux de remplissage des trains.
+Source : INFRAS, 1998
+Par ailleurs, si l’on intègre l’amortissement de la voiture (ce qui est la manière normale de faire un calcul économique) dans le kilométrage parcouru (c’est un coût caché car on ne « voit » l’amortissement de la voiture que le jour où on l’achète !) le train coûte moins cher à 1 voire à 2 (dès que l’on est 2 on a une réduction) que la voiture, surtout s’il y a un péage d’autoroute en plus.
+Utiliser des modes non motorisés pour ses déplacements de proximité ++ $
+utiliser les rollers ou le vélo si on n’a rien à transporter,
+acheter une remorque à vélo si on a des choses à transporter (jeunes enfants, marché, supermarché, etc)
+Remplacer sa chaudière au fuel par une chaudière à gaz ++ $ (sur la durée)
+Le gaz permet de diminuer ses émissions de 25% par rapport au fioul (à confort équivalent). Pour quelqu’un qui utilisait 2.000 l de fioul par hiver, cela représente 0,25 tonne équivalent carbone d’économie.
+La moindre émission par unité d’énergie du gaz naturel est du au fait que les molécules de méthane (le principal composant du gaz) ont le ratio hydrogène/carbone le plus élevé de tous les hydrocarbures. Lors de la combustion, seul le carbone produit du CO2, l’hydrogène ne produisant que de l’eau.
+Notons toutefois que cette substitution n’est une bonne affaire que de manière transitoire : le gaz n’est pas plus éternel que le pétrole ! Cette substitution est donc uniquement une marge d’adaptation à court terme.
+Installer un chauffe-eau solaire +++ $ ?
+Les émissions liées au chauffage et à l’eau chaude sanitaire d’un foyer « moyen » représentent près d’une demie-tonne équivalent carbone. Une installation solaire thermique permet de diviser ces émissions par 2 dans les bons cas.
+Un chauffage solaire peut donc permettre de diviser par 2 sa facture de chauffage et d’électricité, même dans le Nord de la France. L’installation la plus facile à mettre en oeuvre concerne l’eau chaude sanitaire. Pour passer au chauffage central solaire, il faut par contre envisager de gros travaux de plomberie car il faut faire passer les tuyaux d’eau chaude dans le plancher.
+Un panneau photovoltaïque permet quand à lui de diminuer la part de l’électricité achetée à l’extérieur mais coûte relativement cher. L’impact sur l’effet de serre est limité par le fait que la production d’électricité est en France à 90% nucléaire et hydraulique (en outre la fabrication du panneau engendre des émissions non nulles). Un tel panneau sera surtout utile dans l’avenir, par exemple pour recharger une voiturette électrique, ou pour stocker localement de l’hydrogène. Pour le moment, le photovoltaïque est beaucoup moins intéressant que le thermique pour limiter les émissions.
+Acheter le moins possible de produits avec beaucoup d’emballages +
+Faire un kg d’acier ou un kg de verre engendre 500 g à 1 kg d’équivalent carbone, faire un kg d’alu engendre 3 kg à 5 kg d’équivalent carbone.
+Produire du plastique, du verre, du carton, de l’acier ou de l’aluminium (pour les canettes) etc consomme beaucoup d’énergie : en France, 4,/5 de l’énergie consommée par l’industrie le sont dans la production de matériaux de base (métaux, plastique, etc).
+Tout ce qui permet de ne pas consommer d’emballage (éviter les produits frais emballés en barquettes plastique, les canettes jetables, etc) induit de facto une économie d’énergie et d’émissions de gaz à effet de serre.
+On remarquera que le fait de ne pas se fournir en hypermarché (voir plus haut) mais chez les commerçants locaux permet d’obtenir ce résultat (moins d’emballages) comme produit dérivé (il est rare qu’un marchand de fruits emballe ses pommes dans un film plastique, ou un vendeur de fromages dans une boîte en plastique elle-même dans un emballage carton !
+Acheter le moins possible de produits manufacturés ++++ $$$
+1 kg de produits manufacturés « contient » de quelques centaines à quelques kg d’équivalent carbone (voir plus pour les produits très chers).
+Par exemple, une voiture pesant une tonne « contient » 1,5 à 2 tonnes d’équivalent carbone (c’est à dire que l’on a rejeté dans l’atmosphère 2 tonnes équivalent carbone pour la fabriquer, même si on ne l’utilise plus ensuite), un ordinateur « contient » quelques dizaines de kg équivalent carbone, etc…
+Dès que l’on n’achète pas un produit manufacturé, on économise l’énergie nécessaire pour fabriquer le produit en question.
+On peut commencer par ne pas acheter de choses dont on se servira une fois par an ou dont on n’a pas vraiment besoin, mais pour « aller plus loin » l’idéal est aussi de réduire sa consommation d’objets manufacturés : voitures, ordinateurs, jouets, électronique, vêtements, etc…
+Cela signifie, hélas pour les industriels, que dans le contexte actuel moins on fait tourner l’économie manufacturière et plus on est vertueux sur le plan des émissions de gaz à effet de serre : la croissance économique « fait de l’effet de serre ». Cela signifie aussi que, en tant que consommateurs, nous avons une responsabilité dont nous ne pouvons nous exonérer : nous ne pouvons à la fois demander aux politiques la réduction collective des émissions et souhaiter pour nous-mêmes la croissance de nos consommations individuelles.
+Cela est aussi valable pour les services : sans parler des voyages en avion (voire ci-dessus), savez vous, par exemple, qu’une facture de téléphone de 150 euros « contient » au moins 4 kilos d’équivalent carbone ?
+Ne pas avoir de chien (spécialement en zone urbaine) + $
+Un chien signifie généralement :
+une consommation de produits carnés, or l’élevage (bœufs, moutons…) engendre de l’effet de serre et consomme de l’énergie,
+une voiture plus grande pour partir en vacances, donc une consommation au quotidien accrue,
+d’une manière générale un certain nombre d’aménagements dont la réalisation ou l’entretien consomme de l’énergie.
+  Très difficile
+Déménager pour moins se déplacer +++ $$$
+Devenir travailleur à domicile ++++
+Dans certaines conditions (travailler chez soi à temps plein, sans disposer d’un bureau ailleurs, et sans se déplacer plus pour d’autres motifs on peut économiser près de 50% de l’émission annuelle moyenne d’un Français.
+Ne plus avoir de voiture du tout quand on en avait une +++ $$$
+A kilométrage égal, la voiture est 30 fois plus émettrice de gaz à effet de serre que le train ou le RER. Il faut 40 fois plus d’énergie pour faire un km en voiture qu’en vélo.
+  Et l’État ?
+On trouvera ici quelques réflexions sur la manière dont l’État peut aussi concourir à diminuer les émissions de gaz à effet de serre (mais c’est très loin d’être de sa seule responsabilité). 

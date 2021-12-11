@@ -1,0 +1,70 @@
+Bien que la presse explique parfois qu’il existe des énergies « propres », cette question est beaucoup moins simple qu’il n’y paraît. En effet, pour « faire » de l’énergie (en fait l’énergie ne se « fabrique » pas, elle peut juste se transformer), il faut non seulement disposer d’une source d’énergie primaire (c’est à dire une source que nous trouvons « telle quelle » dans la nature, comme par exemple le charbon, le pétrole, le soleil, le vent, un élément fissile…), mais également construire le dispositif qui permettra de transformer cette source d’énergie primaire en quelque chose qui soit utilisable par nous (chaleur, électricité, mouvement). De tels dispositifs sont par exemple une centrale électrique à charbon, une éolienne, une centrale nucléaire, etc.
+Quelles sont les sources d’énergie primaire à notre disposition ?
+Le charbon : c’est un mélange d’éléments minéraux, de soufre, et de carbone presque pur, et sa combustion dégage donc du CO2,
+Le pétrole : c’est un composé de diverses molécules comportant essentiellement du carbone et de l’hydrogène. Sa combustion dégage donc aussi du CO2, mais 25% de moins que le charbon à énergie égale (car la combustion de l’hydrogène fournit de l’énergie mais engendre uniquement de l’eau)
+Le gaz naturel : c’est aussi un hydrocarbure, comme le pétrole, mais c’est celui qui est le moins « carboné » de tous (et le plus riche en hydrogène). Toutefois sa combustion dégage encore du CO2 (40% à 50% de moins que le charbon à énergie égale, mais ce n’est pas zéro !).
+La désintégration atomique (énergie nucléaire),
+Le vent (énergie éolienne)
+Le rayonnement solaire (énergie solaire)
+L’eau en mouvement (énergie hydroélectrique ou mécanique, comme dans les anciens moulins)
+La marée.
+La géothermie, c’est à dire la chaleur provenant des entrailles de la terre.
+La biomasse (les plantes), qui nous fournissent des composés comportant essentiellement du carbone, de l’hydrogène et de l’oxygène. Leur combustion dégage donc du CO2. On a tendance a dire que c’est une source renouvelable à l’égal des autres sources renouvelables parce qu’on peut en replanter, et qu’elle est climatiquement neutre parce que les émissions de CO2 effectuées au moment où la biomasse (bois, biocarburant, paille…) brûle sont compensées par la photosynthèse d’autres plantes en train de pousser. Une telle affirmation peut être vraie ou fausse :
+on peut effectivement renouveler la ressource, en replantant des arbres ou des plantes (colza, blé),
+si la fraction de la biomasse qui est brûlée représente exactement l’accroissement naturel de ce qui est planté, effectivement l’impact sur le climat est neutre (on a l’absorption d’un côté qui équilibre les émissions de l’autre),
+mais lorsqu’on brûle du bois sans le replanter (ce qui est le cas pour une large partie du bois brûlé, essentiellement dans les pays du tiers monde) alors il ne s’agit plus du tout d’une énergie renouvelable, puisque la plantation n’est pas renouvelée, ni d’une énergie « sans CO2 », puisque son usage engendre au contraire des émissions supplémentaires. On comprendra mieux, en lisant ces quelques lignes, toutes les difficultés que les pays ont à se mettre d’accord sur la manière de prendre le bois en compte dans les négociations internationales….
+Plus généralement, certaines formes d’énergie primaire sont renouvelables, c’est à dire qu’elles se renouvellent en permanence, d’autres non (elle sont alors sujettes à épuisement, comme le pétrole par exemple). Toutes les sources renouvelables sont plus ou moins des dérivés de l’énergie solaire (même pour la marée, l’attraction du soleil intervient aux côtés de celle de la lune !), sauf la géothermie :
+l’énergie éolienne, c’est à dire du vent, vient des différences de température (sous l’effet du soleil), donc de pression, entre masses d’air,
+l’énergie hydraulique, venant des rivières, est une conséquence de la pluie, elle-même provoquée par l’évaporation sous l’effet du soleil,
+la biomasse résulte de la photosynthèse (encore le soleil).
+et même le charbon, le gaz et le pétrole sont renouvelables….si nous pouvons attendre des millions d’années ! Mais comme nous sommes en train de tout brûler en quelques siècles, bien évidemment, à cette échelle, ces ressources ne sont pas renouvelables. Et il s’agit ici aussi d’un dérivé, sous forme concentrée, d’énergie solaire, très ancienne il est vrai.
+La géothermie est pour sa part une conséquence de la radioactivité naturelle des roches terrestres, donc ne provient pas directement de notre soleil. Le flux annuel est très faible : à peu près l’équivalent de la consommation annuelle d’énergie de l’humanité (mais réparti sur toute la surface de la terre), soit 1/10.000 è de l’énergie qui provient du Soleil. Par contre ce flux, qui existe depuis très longtemps, a accumulé de considérables quantités de chaleur dans le sous-sol profond et ce stock de chaleur pourrait être exploité pendant très longtemps sans que la température ne baisse beaucoup.
+Bien qu’il ne s’agisse donc pas d’une énergie renouvelable, le stock est tellement immense que c’est « presque comme si ». Ce raisonnement est également valable pour deux formes d’énergie nucléaire, qui ne sont pas des énergies renouvelables mais qui puiseraient dans un stock tellement immense que ce serait « comme si »:
+la « surgénération » (dont Superphénix en France était un exemple), qui peut utiliser tout l’uranium (la filière actuelle n’en utilise que 0,5% ; l’isotope 235 très minoritaire) ou le thorium, avec des stocks tels que nous en aurions pour des milliers ou dizaines de milliers d’années,
+la fusion, si nous arrivons à la mettre au point un jour (ce n’est de toute façon pas avant 50 à 100 ans disent les spécialistes de la chose, donc il va falloir faire sans pour le siècle à venir).
+Energie et gaz à effet de serre
+Dans toutes ces sources exploitables, certaines émettent des gaz à effet de serre lorsque nous les utilisons et d’autres très peu. Les sources d’énergie primaire qui émettent des gaz à effet de serre (en fait du gaz carbonique – CO2 – pour l’essentiel) sont :
+le charbon,
+le pétrole,
+le gaz,
+le bois si il n’est pas replanté (cas des pays tropicaux)
+Parmi les procédés dont la source d’énergie primaire ne produit pas de CO2 on trouve :
+toutes les formes d’énergie nucléaire,
+l’hydroélectricité (encore que les lacs de barrage sous les tropiques émettent un peu de méthane, qui est un gaz à effet de serre, à cause de la décomposition des débris végétaux dans le lac),
+le rayonnement solaire,
+le vent,
+l’énergie marémotrice,
+la géothermie,
+la biomasse si elle est replantée.
+Qu’est-ce que le cycle de vie ?
+Mais pour certains procédés, si la source d’énergie primaire ne produit pas de gaz à effet de serre (en particulier pas de CO2), la construction de la « centrale » en aura produit :
+pour faire une centrale (à charbon, nucléaire, à gaz, à pétrole, ou un barrage), il faut des matériaux de construction, dont du ciment et de l’acier, dont la production engendre des émissions de gaz à effet de serre, notamment de CO2,
+pour faire une éolienne ou un panneau solaire il faut des matériaux de base (aluminium, verre, etc) ou plus élaborés (semi-conducteurs), dont la fabrication émet des gaz à effet de serre,
+Si l’on intègre ces « émissions intermédiaires » dans le total (cela s’appelle faire un cycle de vie, comme on le fait aussi pour d’autres polluants), on peut arriver à un « total d’émission » qu’il a fallu envoyer dans l’air pour disposer d’une quantité d’énergie finale donnée (l’énergie finale est celle qui est disponible pour nos usages : essence raffinée, electricité, gaz pour la cuisinière, etc). On constate alors que, face aux énergies « fossiles » qui émettent beaucoup de gaz carbonique lors de leur usage, il existe des énergies moins émettrices (mais jamais totalement non émettrices) que l’on désigne parfois, de manière un peu raccourcie, « sans CO2 » (graphique ci-dessous).
+Emissions de GES (Kg équivalent carbone émis par tonne équivalent pétrole) pour diverses énergies.
+(1 tonne équivalent pétrole = 11.600 kWh = 42 milliards de Joules).
+Pour les moyens purement électriques (hydroélectricité, éolien, nucléaire) les valeurs indiquées sont pour 11.600 kWh électriques.
+Enfin les points d’interrogation signifient que j’ai une vague idée de l’ordre de grandeur (représenté par la hauteur de la barre) mais pas de chiffres précis.
+Sources : ADEME, EDF
+Pour le cas particulier de l’électricité, cela donne ce qui est dans le tableau ci-dessous.
+Source de production d'électricité Emissions de CO2 en g/kWh (ACV)
+charbon 800 à 1050 suivant technologie
+cycle combiné à gaz 430 (*)
+nucléaire 6
+hydraulique 4
+biomasse bois 1500 sans replantation
+photovoltaïque 60 à 150 (**)
+éolien 3 à 22 (***)
+(*) j’ai reproduit le tableau de l’article, mais en toute rigueur pour le gaz j’aurais du mettre 400 à 500 ; toutes les technologies ne sont pas également efficaces !
+(**) le CO2 provient surtout de la fabrication des cellules des panneaux, mais aussi de la batterie qui stocke l’électricité la nuit. Suivant que ces panneaux sont fabriqués au Danemark (électricité très majoritairement au charbon) ou en Suisse (électricité quasi totalement nucléaire et hydraulique), le contenu en CO2 est très différent. L’amortissement se fait en 20 à 30 ans suivant les variantes. Toutefois en « cycle fermé », c’est à dire en utilisant tout le long du cycle (fabrication, transport, etc) le plus possible d’énergies à « zéro émission intermédiaire », et avec des technologies « sobres » pour la fabrication (de type couches minces) on arriverait probablement à bien moins.
+(***) suivant lieu de fabrication, idem ci-dessus.
+Source : Jean-Pierre BOURDIER, La Jaune et La Rouge de Mai 2000
+En résumé, les énergies qui n’émettent pas ou peu de gaz à effet de serre pour leur usage, si l’on prend en compte l’ensemble du cycle, sont :
+Le nucléaire et l’hydroélectricité aujourd’hui,
+Le solaire thermique aujourd’hui, qu’il soit destiné à faire de l’eau chaude dans les maisons, ou de la vapeur dans une centrale à concentration,
+Le solaire photovoltaïque demain, quand les panneaux seront eux-mêmes produits avec de l’électricité d’origine nucléaire, solaire ou hydroélectrique). Un petit calcul sur le potentiel de cette énergie est disponible ici,
+L’éolien, mais le potentiel est très limité avec la consommation d’énergie que nous avons aujourd’hui (voir pourquoi sur la page sur l’éolien),
+La biomasse (bois de chauffage, bio-carburants, etc), mais :
+les biocarburants peuvent présenter un bilan global en gaz à effet de serre qui n’est pas satisfaisant, car d’une part il faut le plus souvent consommer de l’énergie fossile pour cultiver les plantes (essence du tracteur et fabrication des engrais par l’industrie chimique), ensuite il y a des émissions de protoxyde d’azote lors de l’épandage des engrais, et enfin il peut y avoir des émissions de méthane et d’oxydes d’azote lors de la combustion du biocarburant qui sont supérieures à celles obtenues en brûlant du pétrole.
+les biocarburants sont en outre très consommateurs d’espace, car leur rendement énergétique net à l’hectare n’est pas très élevé,
+le bois de chauffage est toujours intéressant en utilisation locale, mais je ne sais pas ce qu’il en est quand on doit le transporter sur de longues distances. 

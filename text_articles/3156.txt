@@ -1,0 +1,32 @@
+Affecter un prix à des éléments qui conditionnent notre survie n’a, au fond, pas plus de sens que de savoir combien vaut notre pauvre existence. Toutefois un groupe d’auteurs s’est essayé à cet exercice il y a quelques années, pour aboutir au chiffrage suivant.
+Par biomes
+Milieux Valeur
+Océans 8,4
+Zones côtières 12,6
+TOTAL milieux marins 21
+Forêts 4,7
+Prairies et alpages 0,9
+Zones humides 4,9
+Lac et rivières 1,7
+Terres agricoles 0,1
+TOTAL milieux terrestres 12,3
+TOTAL milieux marins + terrestres 33,3
+Par services rendus par les écosystèmes
+Service Valeur
+Régulation composition atmosphère 1,3
+Atténuation des variations de l'environnement 1,8
+Contrôle de l'eau 1,1
+Ressources en eau 1,7
+Recyclage des nutriments 17,1
+Traitement des déchets 2,3
+Production alimentaire 1,4
+Contribution à l'agriculture 3
+Autres (contrôle de l'érosion, formation des sols) 3,6
+TOTAL services 33,3
+  Valeur annuelle (en moyenne mondiale) des services fournis par les écosystèmes, en mille milliards de dollars par an (en 10 puissance 12 dollars, donc).
+D’après Costanza et al. (Nature 1997).
+En fait, comme en l’absence d’écosystèmes il n’y aurait pas d’hommes, proposer un chiffrage est nécessairement arbitraire : comment pourrions nous survivre en l’absence de ressources en eau, ou sans production alimentaire ? Mais passons. Parler de mille milliards de dollars de revenus par an n’a aucun sens à notre échelle : c’est beaucoup plus que ce que je gagnerai jamais, et même beaucoup plus que ce qu’aucun particulier ne gagnera jamais. Mon propos est d’en venir à cette simple application de la règle de trois : combien cela fait-il par personne ?
+Nous sommes actuellement 6 milliards d’individus. 33.000 milliards de dollars pour « les services naturels », cela fait donc 5.000 dollars de services rendus annuellement à chaque individu, en chiffres ronds. Dit en d’autres termes, nous possédons tous, avec un chiffrage conventionnel adapté, peut-être pas plus idiot qu’un autre, un revenu en provenance des « éléments naturels » de quelques milliers de dollars par an. Il est intéressant de comparer cela au PNB par tête en moyenne mondiale, qui vaut environ la même chose (avec cette différence que nous ne produisons rien sans éléments naturels !).
+Cela peut aussi donner lieu à la conclusion suivante : avec un « Price Earning Ratio », c’est à dire le facteur qu’il faut appliquer aux bénéfices par action pour avoir la valeur de l’action, qui est de 20 environ (ces ratios oscillent entre 5 et 100 en bourse), le patrimoine naturel mondial vaut environ 100.000 dollars par individu.
+Or les mesures qui viseraient à prévenir le changement climatique, c’est à dire à diviser les émissions par 2 en quelques décennies, pourraient coûter, selon les économistes cités par le GIEC, 1 à 2 points de PIB mondial en tout d’ici à 2050, soit quelques centaines de dollars par personne tout au plus.
+Un raisonnement économique simple – peut être trop – peut alors être tenu : est-ce que cela a un sens de se priver de la dépense de quelques centaines de dollars par individu pour préserver un patrimoine qui vaut 1000 fois plus ? 

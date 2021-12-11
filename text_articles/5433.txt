@@ -1,0 +1,449 @@
+Il est de fait que la consommation d’énergie que connaît le monde actuellement – et plus encore celle qu’il s’apprête à connaître si nous prolongeons les tendances – est excessive si nous entendons que notre monde soit « durable ». Cette assertion se base notamment sur un triple constat, désormais bien connu :
+les ressources énergétiques que nous utilisons actuellement sont essentiellement (plus des trois quarts) des ressources fossiles (charbon, pétrole, gaz). Ce sont des énergies de stock (nous nous en servons par ponction sur un stock), et le stock, quoi qu’inconnu avec précision, est limité. A une échéance indéterminée, mais de manière certaine, nous ferons sans.
+ces ressources fossiles contribuent puissamment à l’accroissement de l’effet de serre (lecture conseillée avant ce qui suit), dont les effets sont irréversibles à l’échelle d’une vie humaine. La différence entre ce que nous émettons actuellement et ce qu’il faudrait émettre pour stabiliser les concentrations n’est pas mince !
+Le mode de vie des sociétés « en développement » et le nôtre étant destiné à converger, par suite de la circulation rapide de l’information (je suis de ceux qui pensent que, en laissant les choses se faire d’elles mêmes, la société de l’information renforce la société de consommation), il n’est pas possible qu’il converge vers un niveau de consommation qui est le nôtre actuellement : appliquer à 9 milliards d’individus mon style de vie ou le vôtre ne permet pas de « tenir dans la boîte » (quelques calculs peuvent se trouver ici)
+Un monde « énergétiquement vertueux » serait donc un monde compatible avec l’idée du développement durable (encore que d’aucuns feront remarquer, non sans raison, que le développement est, par essence, non durable, et qu’il vaudrait mieux parler de « sous-développement acceptable » !). Nous devrions en particulier éviter :
+de créer ou accroître une dépendance peu réversible à court terme envers une énergie de stock (les énergies fossiles en font partie), un tel système débouchant inéluctablement sur la pénurie,
+de laisser aux générations futures (à commencer par nos enfants et petits enfants) plus de déchets (de toute nature, le CO2 en faisant partie) à gérer qu’ils n’en sont capables sans dommages ou diminution forte de leur qualité de vie par rapport à la nôtre.
+En partant de ce postulat, à quoi ressemblerait très concrètement une société énergétiquement vertueuse ?
+Dans le cadre d’une tentative, nécessairement modeste, de clarification (ou plutôt de débroussaillage à la serpe) du débat, j’ai essayé de lister ci-dessous quelques implications que cela engendrerait pour notre vie au quotidien, pour l’économie et pour l’individu lambda.
+Ce qui suit n’est pas destiné à être un « vade-mecum » pour dictateur écologiste mais juste ce qui constituerait quelques conséquences plus ou moins logiques d’un choix de « vertu énergétique ». Ce choix n’est bien entendu pas « obligatoire » (sinon ce n’est plus un choix).
+A quelles énergies « avons-nous droit » dans une société énergétiquement vertueuse ?
+Nous n’avons probablement pas droit au niveau actuel de consommation énergétique.
+On ne produit pas d’énergie sans produire de déchets ou d’effets indésirables : il n’existe de ce fait aucune source d’énergie qui soit totalement propre. J’ai essayé (ci-dessous) de hiérarchiser les énergies en fonction des déchets qu’elles engendrent. Il ne s’agit pas de qualifier les effets ressentis par la population mais les conséquences factuelles:
+Charbon :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence (*) Solution technique au problème ? Effet pervers de la solution ?
+CO2 Changement climatique Très forte Totale Oui (pour les centrales) -
+Pollution locale (SO2 notamment), particules fines Pluies acides, effets sanitaires Forte Moyenne Oui (filtres) Oui (consommation accrue)
+Cendres tContamination des nappes par ruissellement Moyenne à forte Moyenne à forte Partielle Peu
+(*) A l’échelle d’une vie humaine.
+Pétrole :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+CO2 Changement climatique Très forte Totale Non -
+Pollution locale (oxydes d'azote, ozone, particules, etc) Impacts sanitaires (hausse de la mortalité et de la morbidité) Moyenne Faible Oui (pots catalytiques, filtres, etc) Oui (augmentation de la consommation)
+Gaz naturel :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+CO2, fuites de méthane Changement climatique Très forte Totale Non -
+Nucléaire :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+Déchets radioactifs Occupation d'espace (pour le stockage) Faible (*) Totale Oui (baisse des quantités produites) Probablement pas
+(*) Cf. ci-dessous après les tableaux.
+hydraulique :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+Emprise au sol, destruction de fonds de vallée, déplacement de population induisant lui-même des atteintes à l'environnement (urbanisation ailleurs, etc). Changement d'occupation de l'espace au sol Faible à forte (faible pour les micro-centrales sur dérivation, forte pour les méga-barrages) Forte Non -
+Biomasse :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+Concurrence d'utilisation des sols Occupation d'espace Forte Faible (on peut les arracher) Très partielle ?
+Solaire :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+Déchets engendrés par la fabrication des panneaux Halocarbures, produits toxiques divers Moyenne à forte (avec les technologies 2000) Moyenne Oui (amélioration des technologies) Probablement pas
+Panneaux & chauffe-eaux en fin de vie Occupation d'espace (par les décharges requises) Faible Faible Oui (amélioration du recyclage) ?
+Effet visuel pouvant être négatif Désagrément visuel Faible Moyenne Oui Probablement pas
+Éolien :
+Nature de déchets Conséquence Ampleur de la conséquence Irréversibilité de la conséquence Solution technique au problème ? Effet pervers de la solution ?
+Effet visuel pouvant être négatif Désagrément visuel Moyenne (*) Moyenne Oui (efficacité) Probablement pas
+Bruit Désagrément auditif Moyenne Moyenne Oui Probablement pas
+Concurrence d'utilisation des sols Occupation d'espace Moyenne (*) Moyenne Oui ?
+(*) Une éolienne prise isolément n’induit bien entendu qu’un désagrément visuel assez faible. Cette assertion est faite dans l’hypothèse où cette forme de production se développe un tant soi peu.
+D’aucuns trouveront curieux, probablement, que je ne qualifie pas l’énergie nucléaire comme très dangereuse. Mais une analyse objective des chiffres montre que c’est pour le moment une des formes les plus propres qui soit de production d’électricité concentrée :
+le nucléaire français produit 80% de notre électricité et engendre 110 m3 de déchets de haute activité par an (soit un carré de 10 m de côté et de 1 m d’épaisseur, ou encore le volume de 10 voitures). Par comparaison :
+l’industrie française produit environ 10 millions de m3 de déchets toxiques par an, soit 10.000 fois plus (chaque Français est indirectement responsable de 3 tonnes de déchets industriels par an, environ),
+la même électricité faite au charbon – sans parler des émissions de gaz à effet de serre – engendrerait de l’ordre de 20 à 30 millions de m3 de cendres, soit 20.000 fois plus, cendres qui sont aussi toxiques (elles contiennent des tas de résidus dangereux) et dont le lessivage par la pluie, par exemple, conduit à des pollutions de nappes phréatiques.
+le nucléaire civil a tué quelques centaines de personnes (Tchernobyl compris) dans toute son histoire (Les Nations Unies en mentionnent 35 ; Nations Unies/APELL). En comparaison :
+Les mines chinoises de charbon tuent probablement quelques milliers de personnes par an (l’ordre de grandeur m’a été confirmé par des charbonniers, mais le chiffre exact est très difficile à obtenir), et les mines ukrainiennes quelques centaines.
+Conduire en voiture tue près de 100.000 personnes par an dans les pays de l’OCDE (soit un peu moins de 300 par jour) sans compter la pollution, que l’on soupçonne d’en tuer deux fois plus (Rapport au Conseil de l’Europe de M. Tiuri)
+30.000 américains meurent chaque année à cause des armes à feu ;
+il mourrait le même nombre de personnes à cause des centrales à charbon dans ce même pays (à cause de la pollution aux particules fines notamment),
+enfin plus d’un million de personnes meurent chaque année à cause de l’alcool et du tabac dans les pays développés (6 millions dans le monde), sans mentionner l’obésité qui se présente comme un bon challenger….
+Les dégâts constatés du nucléaire civil ne sont donc pas significatifs dans l’ensemble des nuisances que nous nous infligeons et la focalisation des médias sur cette forme de production d’électricité n’est pas représentative de ses inconvénients réels. Faut-il y voir un amalgame avec le nucléaire militaire, dont les avantages sont par contre nettement plus discutables ?
+Sur la base des chiffres les inconvénients du nucléaire sont finalement très peu gênants à leur niveau actuel, et force est de constater qu’il y a un décalage important entre les risques réels et les risques perçus sur cette technologie.
+Cela étant, généraliser à l’ensemble de la planète le niveau de consommation énergétique qui est le nôtre conduirait à une multiplication de la consommation d’énergie par 4, ce qui, même avec les sources les moins sales possibles, poserait probablement problème, comme on le verra ci-dessous.
+Dans une société énergétiquement vertueuse, nous n’avons plus droit aux ressources fossiles
+Elles sont responsables de 65% de la contribution humaine à l’accroissement de l’effet de serre, phénomène qui aura des conséquences irréversibles à l’échelle d’une vie humaine, et potentiellement dévastatrices,
+Elles sont limitées : dans un monde restant fortement dépendant de cette source d’énergie, l’accès aux ressources ultimes engendrera des foires d’empoigne dont on ne peut écarter qu’elles débouchent sur des conflits armés, y compris entre pays riches, ou des liens de dépendance s’assimilant à une forme d’esclavage (également y compris entre pays riches).
+Il faut savoir que la prolongation tendancielle de la consommation actuelle (mondiale) de combustibles fossiles (en conservant une croissance de quelques % de la consommation chaque année) nous conduit à consommer toutes les réserves connues en 50 ans (et une partie des réserves additionnelles supposées), avec donc des tensions qui apparaîtront bien avant.
+Ce raisonnement est valable quelle que soit l’énergie fossile, et s’applique donc aussi au gaz.
+Nous avons droit au solaire
+il est peu probable que l’on perturbe gravement le système climatique avec une production significative d’énergie solaire : la Terre reçoit chaque jour du soleil 20 fois la consommation énergétique annuelle de l’humanité toute entière (le pourcentage de ce que nous utiliserions en étant 100% solaire serait donc de l’ordre de 0,01% de l’énergie reçue). En outre, quasiment toute l’énergie solaire qui parvient au sol est naturellement transformée en chaleur (la seule exception est la photosynthèse : une fraction de % de l’énergie reçue par la végétation), et l’utiliser pour chauffer des maisons ne perturberait pas significativement les cycles naturels, pas plus que de convertir l’énergie solaire en électricité – qui finit aussi par devenir de la chaleur (et la perturbation serait bien inférieure à celle engendrée par les émissions de gaz à effet de serre : il y a deux à trois ordres de grandeur de différence entre les deux !),
+La source est renouvelable à l’infini (elle durera plus longtemps que notre civilisation : encore quelques milliards d’années pour le soleil ; je ne parierais pas mes petites économies que l’espèce humaine survivra sur cette durée !).
+A part pour la fabrication et la fin de vie des capteurs (panneaux photovoltaïques ou chauffe-eau solaires), qui peut quand même représenter une pollution non négligeable pour le photovoltaïque, le fonctionnement des dispositifs de conversion n’émet quasiment aucun déchet solide, liquide ou gazeux (et pas de bruit non plus),
+Les surfaces requises pour disposer d’un appoint significatif sont compatibles avec les surfaces disponibles, même en cas de report d’une partie de la consommation d’hydrocarbures sur de l’électricité (véhicules électriques par exemple) qui engendrerait une augmentation de la consommation globale d’électricité « toutes choses égales par ailleurs ». Par contre des avancées technologiques – en vue – sont encore nécessaires avant que les rendements nets (c’est à dire l’énergie produite par un panneau sur sa durée de vie moins l’énergie consommée par la fabrication du même panneau) soient bons.
+Cette forme d’énergie permettrait aux pays du tiers monde, qui disposent de zones généralement mieux insolées que chez nous, de disposer d’une puissance par habitant très significative – et donc de se « développer » – en émettant peu de CO2.
+Nous avons un peu droit à l’hydraulique
+La source est renouvelable à l’infini, puisqu’il s’agit d’un dérivé de l’énergie solaire,
+Le fonctionnement normal n’émet quasiment aucun déchet (solide, liquide ou gazeux), et pas de bruit,
+Une certaine forme de production décentralisée est possible par le biais de micro-centrales (mais le potentiel est limité),
+Par contre cela requiert des infrastructures lourdes (les barrages) dont l’implantation est traumatisante pour l’environnement (inondation de fonds de vallées, déplacement de populations, impact sur les populations piscicoles, etc), et qui peuvent causer des accidents graves (quelques ruptures de barrage ont provoqué plus de 2000 morts),
+le nombre de sites éligibles n’est pas infini.
+Si en outre ces barrages servent à l’irrigation cela peut conduire à des impacts écologiques locaux très forts (cas de la Mer d’Aral qui a vu sa taille divisée par 2 à la suite des prélèvements pour l’irrigation) mais cela est une conséquence de la gestion des ressources en eau, non de la seule politique énergétique.
+Nous avons droit à la biomasse, mais pas dans n’importe quelles conditions
+La source est renouvelable à l’infini, puisqu’il s’agit aussi d’une certaine manière d’un dérivé de l’énergie solaire, mais à condition de replanter. Si elle représente actuellement entre 10 et 15% de l’approvisionnement énergétique mondial, la biomasse n’est pas, aujourd’hui, dans la majeure partie des cas, une énergie renouvelable : elle correspond à l’usage comme bois de feu des arbres issus de parcelles défrichée pour l’agriculture. S’il n’est pas replanté, le bois conduit aussi à des émissions massives de CO2 ! (tableau ci-dessous).
+Source de production d'électricité Emissions de CO2 en g/kWh (ACV)
+Charbon 800 à 1050 suivant technologie
+Cycle combiné à gaz 430 (*)
+Nucléaire 6
+Hydraulique 4
+Biomasse bois 1500 sans replantation
+Photovoltaïque 60 à 150 (**)
+Eolien 3 à 22 (***)
+(*) j’ai reproduit le tableau de l’article, mais en toute rigueur pour le gaz j’aurais du mettre 400 à 500 ; toutes les technologies ne sont pas également efficaces !
+(**) le CO2 provient surtout de la fabrication des cellules des panneaux, mais aussi de la batterie qui stocke l’électricité la nuit. Suivant que ces panneaux sont fabriqués au Danemark (électricité très majoritairement au charbon) ou en Suisse (électricité quasi totalement nucléaire et hydraulique), le contenu en CO2 est très différent. L’amortissement se fait en 20 à 30 ans suivant les variantes. Toutefois en « cycle fermé », c’est à dire en utilisant tout le long du cycle (fabrication, transport, etc) le plus possible d’énergies à « zéro émission intermédiaire », et avec des technologies « sobres » pour la fabrication (de type couches minces) on arriverait probablement à bien moins.
+(***) suivant lieu de fabrication, idem ci-dessus.
+Source : Jean-Pierre BOURDIER, La Jaune et La Rouge de Mai 2000
+Certaines filières, notamment l’obtention de carburants liquides, nécessitent d’importantes surfaces agricoles, ce qui ne permet pas d’espérer un approvisionnement significatif au regard de notre consommation actuelle d’hydrocarbures, et en outre le bilan et de certains biocarburants est négatif sur les émissions de gaz à effet de serre (soit ils demandent des consommations intermédiaires d’énergie qui sont supérieures à l’énergie restituée par le biocarburant, soit les biocarburants conduisent à des émissions de méthane et de protoxyde d’azote très supérieures à ce qu’elles sont avec les carburants fossile).
+l’utilisation comme bois de chauffe offre des possibilités certaines, même dans un pays comme le nôtre, mais il faut alors moins manger de viande ou se passer de bois d’oeuvre.
+Enfin selon les usages le bilan peut être mauvais pour l’effet de serre : par exemple pour certains carburants d’origine agricole une réduction des émissions de CO2 par rapport aux fossiles peut être concomitante de l’augmentation d’autres gaz à effet de serre (protoxyde d’azote, méthane) dont les pouvoirs radiatifs sont nettement plus importants que ceux du CO2 ; le bilan global est alors plus mauvais que celui des carburants fossiles.
+Nous avons droit au nucléaire, au moins dans les sociétés possédant une bonne culture de la discipline collective
+Les réserves d’uranium sont limitées, mais avec la surgénération (soit avec du plutonium, ou mieux avec du thorium), même en supposant que le nucléaire passe de 5% (pourcentage actuel de l’énergie consommée dans le monde d’origine nucléaire) à 100%, nous disposerions de plusieurs milliers d’années de consommation devant nous (l’horizon de visibilité des hydrocarbures est de quelques dizaines d’années, toute considération sur les émissions de CO2 mise à part).
+Les déchets produits sont solides et liquides, et très concentrés, donc confinables, ce qui n’est pas le cas des gaz à effet de serre,
+La quantité de déchets produites par kW, qui n’est déjà pas considérable, peut être diminuée,
+Les occupations d’espace requises ne sont pas colossales, même pour une utilisation durant quelques siècles,
+Le problème de la sécurité est objectivement un faux problème en temps de paix (cf. ci-dessus), au moins dans les pays riches (qui consomment 80% de l’énergie),
+La prolifération (utiliser les technologies nucléaires à des fins militaires) est pour le coup un vrai problème, mais qui a peu à voir avec le nucléaire civil : 80% de l’énergie étant consommée dans les pays riches, qui ont déjà la bombe ou la capacité à l’avoir, le fait que ces pays augmentent leur parc de centrales (USA, Japon et Allemagne en tête) n’a (hélas !) plus aucune incidence sur la prolifération nucléaire. En outre un certain nombre de pays « pauvres », dont les 2 premiers en termes de population (la Chine et l’Inde) ont déjà la bombe, donc la prolifération pour ce qui les concerne est un problème tranché (on peut le déplorer, et du reste je déplore qu’une arme aussi terrible soit devenue aussi répandue, mais c’est ainsi, et l’on ne refera pas l’histoire ; renoncer au nucléaire civil avec l’espoir que du coup tout le monde renoncera aussi au nucléaire militaire me parait être une illusion).
+Par contre le nucléaire civil pose quand même quelques problèmes :
+avec les technologies actuelles (utilisant des noyaux fissiles) l’horizon de ressources n’est que de quelques centaines d’années pour une contribution de 5 à 10% au bilan énergétique mondial (en supposant que la consommation mondiale n’augmente pas),
+il requiert une société stable et disposant d’un minimum de moyens (Tchernobyl est plus un accident soviétique qu’un accident purement technologique), car il requiert une surveillance constante des centrales et des déchets, ce qui est un inconvénient dans les pays qui n’ont pas de culture forte de la sécurité (mais ces pays peuvent, si le monde occidental – où cette discipline existe – se nucléarise fortement à court terme, utiliser le gaz),
+on peut se demander si, en cas de conflit armé, il ne serait pas tentant pour un ennemi de bombarder les centrales pour désorganiser le pays et le priver des approvisionnements en électricité (comme ce que les Américains ont fait en Serbie, de manière plus « soft », mais tous nos ennemis futurs ne seront peut-être pas aussi prévenants), avec des effets induits potentiellement très graves (une parade pouvant être d’enterrer les centrales).
+enfin une centrale nucléaire a besoin d’eau pour fonctionner (pour le refroidissement). Si le changement climatique en cours venait à assécher de manière fréquente les cours d’eau utilisés par les centrales, cela les empêcherait de fonctionner. NB : ceci a été écrit en 2001, pas en septembre 2003 !
+Nous avons un peu droit à l’éolien, mais il ne faut pas en attendre de miracles
+A part pour la fabrication des éoliennes le fonctionnement n’émet quasiment aucun déchet dont la dissémination pose problème,
+L’emprise au sol est en fait assez faible : le rotor se situe en altitude et n’empêche pas d’utiliser l’espace au sol pour autre chose (cultures notamment, mais aussi voies de communication…),
+A titre d’exemple le potentiel récupérable est estimé, en France, à 50 TWh par an (1 TWh = 1 milliards de kWh ; la France en consomme 450 environ), soit 10% de notre production électrique actuelle (ou 2% de notre consommation actuelle d’énergie finale), mais au prix d’une consommation d’espace importante si l’on souhaite passer à un stade industriel,
+Enfin l’éolien ne peut s’envisager de manière autonome, car il faut prévoir un dispositif de remplacement pour les jours sans vent. De fait ce dispositif ne peut être que de l’hydroélectricité, ou des centrales thermiques à flamme (voir pourquoi sur le bas de la page détaillée sur l’éolien).
+L’énergie éolienne est probablement moins intéressante que le solaire pour les raisons suivantes :
+elle partage avec le solaire le caractère intermittent de la production d’électricité, qu’il faut donc stocker si la contribution devient significative, mais ne permet pas, comme le solaire, une production directe de chaleur, dont le rendement est plus élevé que la production d’électricité,
+elle cause plus de dommages au paysage,
+elle requiert encore des infrastructures de transport (lignes moyennes tension), ce qui est un point de vulnérabilité du système par rapport au solaire qui n’en nécessite pas, du moins pas pour la production individuelle.
+Enfin notons que le prix au kW retenu actuellement n’internalise :
+ni les dommages au paysage (ni….le temps et l’énergie dépensés pour se battre contre les opposants pour ces raisons d’atteinte !)
+ni les dispositifs de stockage ou les moyens de production complémentaire (alors que pour le solaire on prend en compte les coûts de stockage pour l’électrification des sites isolés).
+Peut-on donner une idée de la proportion des diverses sources d’énergie dans un monde vertueux ?
+La consommation d’énergie primaire de la France s’est élevée à 275 Mtep en 2002, dont 40% sous forme d’électricité (graphique ci-dessous).
+Consommation totale d’énergie primaire en France depuis 1973
+(en millions de tonnes équivalent pétrole, ou Mtep, 1 tep = 11.600 kWh).
+L’électricité est convertie sur la base de l’énergie primaire (celle qu’il faut mettre dans la centrale) et non sur la base de l’énergie finale (celle qui sort de la centrale sous forme d’électricité).
+Source : observatoire de l’énergie, Ministère de l’Industrie
+Si nous ne prenons en compte que l’énergie finale, c’est à dire celle que nous utilisons « au final » (la différence vient des pertes dans le système de production et de distribution d’énergie : chaleur perdue dans les centrales électriques, énergie utilisée pour le raffinage, etc), alors c’est « seulement » 178 Mtep qu’il nous faut trouver.
+Consommation totale d’énergie finale en France depuis 1973 (en Mtep).
+« Matière première » désigne les ressources fossiles qui sont utilisées pour la chimie (par exemple le plastique est fait avec du pétrole, les engrais agricoles avec du gaz naturel, etc).
+Source : Observatoire de l’énergie, Ministère de l’Industrie
+Sans beaucoup toucher à notre mode de vie, nous pouvons assez facilement diviser notre consommation par deux
+En effet les « meilleures technologies disponibles » de 1995 permettraient déjà, si elles étaient appliquées à chaque usage, de diviser notre consommation par deux (cf. tableau ci-dessous).
+Secteur Consommation moyenne en 1995 (kep/hab.) Consommation pour la meilleure techno possible (kep/hab.) (*) Commentaires Emissions GES pour la meilleure techno possible (kq eq. C) (**)
+HABITAT 845 360 170
+dont confort thermique 740 300 Ens. du parc aux normes bât. neufs 170
+dont electroménagern 35 25 Meilleurs équipements 1995 -
+dont produits bruns 70 35 Optimisat° des systèmes de veille -
+TERTIAIRE 505 250 100
+dont confort thermique 415 250 Mêmes normes que l'habitat 100
+dont usages spécifiques 90 50 Optimisat° des systèmes de veille -
+ALIMENTATION 360 250 50% de gains sur froid et cuisson 130
+INDUSTRIE 775 580 - 270
+dont production intermédiaire 625 450 Eco-prodécés & recyclage 190
+dont biens d'équipt & conso 150 130 - 80
+TRANSPORTS 805 450 - 400
+dont personnes 490 250 Voitures 4 l/100 & 13.000 km/an 230
+dont marchandises 315 200 Réduct° puissance camions, TR... 180
+TOTAL 3290 1890 1070 (***)
+Une France équipée systématiquement des meilleures technologies de 1995 (y compris pour les parcs de logement).
+(*) kep signifie kilo equivalent pétrole ; 1 kep = 11,6 kWh.
+(**) il s’agit du nombre de kg équivalent carbone émis pour chaque usage en moyenne pour un Français utilisant les meilleures techniques disponibles.
+(***) en 1995 les émissions de CO2 sont de 1900 kg équivalent carbone par habitant
+Source : Les défis du long terme , Commission énergie 2010-2020, Commissariat général du Plan
+Si nous arrivions à diviser notre consommation par deux, ce qui nous amènerait à moins de 100 Mtep d’énergie finale, nous pourrions imaginer la répartition suivante pour la fourniture de cette énergie, qui serait compatible avec les postulats de départ :
+que le solaire couvre 20 à 30% de notre consommation énergétique, en mode décentralisé pour l’essentiel (un dispositif de chauffage solaire basse température par bâtiment + à moyen-long terme un toit photovoltaïque sur chaque bâtiment ou à peu près),
+la biomasse 10 à 20%, surtout pour le chauffage (pour la part non couverte par le solaire),
+l’hydraulique (qui fait déjà 15% de l’électricité en France) peut rester à son niveau, e qui représenterait 6 à 7% d’un total inférieur à 100 Mtep,
+l’éolien pourrait faire quelques % de l’électricité, mais son intermittence pose problème pour aller au-delà sans mettre des centrales à gaz partout,
+le solde (soit entre le tiers et une petite moitié) pourrait être produit par du nucléaire, en attendant éventuellement qu’à long terme un solaire rendu plus efficace (et surtout un stockage plus efficace !) en prenne le relais (mais n’attendons pas les progrès du solaire : mieux vaut le nucléaire que le pétrole !).
+A long terme, nous ne dépendrions plus que du solaire et de ses dérivés et du nucléaire civil (ou, idéalement, de la fusion), avec les avantages suivants :
+ressources inépuisables ou quasi-inépuisables à l’échelle de l’espérance de vie de notre espèce,
+compatibilité avec les besoins en énergie de la population,
+moindre compétition pour les approvisionnements (le thorium est très abondant, et l’hydrogène – pour la fusion – encore plus) et donc moindres risques de conflit,
+pas d’effet de serre additionnel,
+robustesse (moins de lignes de transport car la partie décentralisée ne se transporte pas), etc.
+Notons aussi qu’un monde « énergétiquement vertueux » est un monde où l’énergie primaire disponible est essentiellement électrique, sauf pour la partie chauffage.
+Et la pile à combustible ?
+La pile à combustible est en fait un moyen de transformer un carburant en électricité. Elle n’est donc ni plus ni moins « propre » que le carburant utilisé (et la manière de le produire). En particulier, si l’hydrogène qui alimente la pile provient d’un hydrocarbure, ce qui est généralement le cas (l’hydrogène est un produit de l’industrie chimique obtenu par craquage du méthane) l’ensemble de la chaîne émet du CO2, à peu près autant que si on brûlait l’hydrocarbure directement dans un moteur classique. Le rendement de filière est un peu meilleur que dans un moteur à explosion et on supprime les polluants locaux (particules, hydrocarbures aromatiques, oxydes d’azote, etc).
+C’est donc une innovation technique intéressante, mais très loin d’être une « solution miracle » sous sa forme actuelle, car elle ne résout pas pour le moment le problème de l’approvisionnement en combustible fossile ni en émissions de CO2.
+La seule manière d’en faire une solution réellement propre (sur le plan climatique) est de l’alimenter avec de l’hydrogène produit
+soit par électrolyse de l’eau, électrolyse réalisée avec du nucléaire, ou à la rigueur des éoliennes ou du solaire,
+soit par thermolyse de l’eau dans des centrales nucléaires haute température. (la thermolyse est la dissociation des atomes d’une molécule sous l’effet de la chaleur ; si on dissocie H2O on obtient de l’hydrogène et de l’oxygène, comme avec l’électrolyse).
+On pourrait aussi imaginer craquer de l’eau dans le Sahara avec du solaire à concentration pour y faire de l’hydrogène acheminé ensuite comme du gaz naturel (mais le rendement du transport serait très mauvais, parce que l’hydrogène a une faible densité d’énergie par unité de volume), ou installer des batteries d’éoliennes sur le Groenland dans le même esprit (mais il faudrait en mettre une certaine quantité !).
+Dans le cas du solaire, une pile pourrait servir comme dispositif de stockage personnel, par exemple couplée à un panneau solaire (du reste les spécialistes du solaire n’envisagent pas de développement significatif de cette forme de production sans développement d’un dispositif de stockage performant) : l’électricité produite en dehors des périodes de consommation peut servir à produire – avec une pile à combustible réversible – de l’hydrogène qui est stocké puis utilisé comme carburant par la même pile pour les consommations en périodes non ensoleillées.
+Un développement plus long sur la pile à combustible peut se trouver ici.
+Ce que nous n’aurions plus dans un tel monde
+L’énergie fossile peu chère ou d’utilisation libre
+Appelée à ne plus être utilisée, ou seulement dans quelques cas marginaux, l’énergie fossile devrait coûter très cher et/ou être d’un usage réglementé. Il est donc vraisemblable que des taxes massives et/ou des réglementations spécifiques pèseraient sur cette forme d’énergie.
+Le transport aérien démocratique
+Le carburant consommé par personne, lors d’un vol, est équivalent à ce que cette même personne consommerait en parcourant la même distance seule dans une voiture de petite cylindrée (ou de moyenne cylindrée pour les déplacements court-courrier, le décollage étant proportionnellement plus gourmand en carburant).
+Ainsi sur un vol aller retour Paris-New York, soit 12.000 km, chaque passager (si l’avion est plein) « consomme » entre 700 et 1.000 litres de carburant, ce qui équivaut presque à la consommation annuelle d’un détenteur de Clio.
+Cette forme de transport augmente actuellement de 5% par an (enfin cela dépend des années, mais c’est la forme de transport qui croît le plus vite). Les émissions de CO2 engendrées par le seul trafic international équivalaient en 1992 à celles de la Grande-Bretagne, et en prolongation tendancielle elles pourraient représenter, en 2050, jusqu’à une fois et demie ce qu’émettent actuellement les USA (ce qui ferait l’équivalent de 40% des émissions de CO2 du monde entier en 1990).
+Ce problème est tellement important que le GIEC a publié un rapport en 1999 portant uniquement sur le problème du transport aérien.
+Par ailleurs il n’existe pas d’alternative à l’utilisation de carburants chimiques pour l’avion (l’électricité ne fonctionne pas très bien !). On pourrait peut-être garder quelques avions hors de prix fonctionnant à l’hydrogène, ou avec des carburants de synthèse obtenus avec de l’hydrogène et/ou de la biomasse, mais la fraction de l’humanité qui pourrait en profiter diminuerait sérieusement.
+La « vertu énergétique » est donc incompatible avec le développement actuel du transport aérien, dont une très forte diminution (plus proche de 90% de baisse que de 5% !) – avec utilisation de carburants issus de la biomasse pour le reliquat – en serait probablement une composante indispensable.
+D’une manière générale la faculté de se déplacer vite, à volonté et pour pas cher
+Se déplacer vite consomme beaucoup d’énergie (cela découle des lois de la physique !). De fait l’avion est plus gourmand que la voiture, qui est plus gourmande que le train (et va en moyenne plus vite de porte à porte), qui est plus gourmand que le bateau, qui est plus gourmand que le vélo…
+Par ailleurs se déplacer à volonté requiert des moyens de transport surdimensionnés par rapport aux besoins courants : pour être sûr de ne pas avoir de problème le jour du départ en vacances, avec ses 3 enfants, la grand’mère et la canari, on achète une voiture à 5 places utilisée en moyenne par….1,5 personne, ce qui est d’un rendement énergétique déplorable
+Dans le cas de la ville (où réside 80% de la population en France, par exemple) le rendement énergétique de la voiture est de toute façon très mauvais face aux alternatives : on va aussi vite en vélo – qui pèse 15 kg tout au plus – qu’en voiture – qui pèse une tonne – sur les distances inférieures à 5 km, et cela pour promener les mêmes 70 kg de bonhomme.
+En tenant compte de l’alimentation supplémentaire du cycliste (qui reste quand même plus mince que l’automobiliste, voir ci-dessous) le passage dela voiture au vélo permet une division par 40 de l’énergie nécessaire au déplacement (à distance égale).
+Dépense énergétique par passager.km selon les modes.
+Pour la voiture il s’agit d’une moyenne par personne tenant compte des taux de remplissage des véhicules.
+Sources : ADEME, Observatoire de l’Energie, INRETS, calculs personnels.
+L’écart entre modes est encore plus important si l’on regarde les émissions de gaz à effet de serre
+Emissions de gaz à effet de serre des passagers (par mode motorisé, en grammes d’équivalent carbone par passager.km)
+Sources : Carbone 4.
+Emissions de gaz à effet de serre du fret (par mode motorisé, en grammes d’équivalent carbone par tonne.km)
+Sources : ADEME, INRETS, calculs personnels.
+En supposant que l’on ne conserve que les moyens de transport les plus efficace énergétiquement, dans un tel monde « énergétiquement vertueux » subsisteraient :
+le train et le bateau pour les déplacements lointains (qui prendraient plus de temps, exactement comme il y a quelques siècles, quand l’énergie était rare),
+essentiellement le métro, le bus, quelques voitures partagées (taxis inclus) et quelques camions en zones urbaines denses,
+le bus, des voitures collectives partagées et quelques camions en zones urbaines moyennement denses,
+des véhicules légers – ou des taxis – en zones rurales,
+des moyens non motorisés (vélos, marche à pied, rollers, éventuellement « patinettes électriques ») pour les déplacements de proximité (disons inférieurs à quelques km), quelle que soit la zone.
+Cette nécessité de faire avec moins de transport que maintenant engendrerait logiquement l’adaptation de l’urbanisme et de la société à une vie peu riche en transports:
+Il est vraisemblable que les villes seraient globalement plus denses que maintenant (ou en tous cas pas plus étalées), la zone urbaine la plus vertueuse sur le plan énergétique étant la zone dense (cf. ci-dessous),
+Consommation énergétique par habitant liée aux transports urbains (axe vertical, en Gigajoule par an et par habitant) en fonction de la densité de la zone urbaine (axe horizontal, en habitants à l’hectare).
+Il saute aux yeux que les villes denses ont une dépense énergétique par habitant (pour les transports) bien inférieure.
+Source : Newman and Kenworthy,  » Cities and automobile dependance « , Gower, 1989
+les zones peu denses des villes ne pourraient subsister que si on y trouvait tout sur place (ce qui était du reste le cas lorsque l’énergie était rare !), c’est à dire à distance cyclable ou marchable (les transports collectifs lourds ne sont déjà pas rentables en zone peu denses, ce serait vrai a fortiori si l’énergie coûtait plus cher) ou…via les réseaux (télétravail notamment). Cela équivaudrait à recréer des villages assez fortement autarciques en termes de fréquentations physiques.
+enfin les produits renouvelables de première nécessité se trouvant à la campagne (de quoi manger, du bois pour se loger, et un peu d’espace pour faire son électricité) il n’est pas interdit de penser qu’une société énergétiquement vertueuse serait une société sans grosses villes : concentrer les populations dans des grandes villes implique nécessairement du transport longue distance pour y amener tout ce que les gens consomment et qui, par la force des choses, ne peut être produit sur place (ainsi que de l’énergie pour disperser ensuite tous les déchets produits). Du reste avant l’énergie abondante la population était essentiellement répartie dans des petites implantations unitaires (qui pouvaient elles-même être très denses : dans les vieux villages, les maisons sont souvent collées les unes aux autres), ce qui est un début de preuve du fait que c’est cette forme d’occupation de l’espace qui est la plus efficace énergétiquement pour la société dans son ensemble.
+Des hypermarchés loin de toute habitation
+Diverses études montrent que les hypermarchés de périphérie sont nettement plus consommateurs d’énergie par unité de CA vendue que les commerces de centre ville, ce qui est la conséquence de leur éloignement des lieux d’habitation et de l’obligation d’y aller en voiture. La « vertu » énergétique n’est donc pas compatible avec cette forme de commerce, qui disparaîtrait dans notre monde virtuel.
+Des produits manufacturés – et certains services – peu chers
+Si l’on y réintègre les transports et consommations tertiaires afférentes (chauffage des bâtiments, etc), l’industrie et ses services annexes consomment, dans les pays industrialisés, une grosse moitié de l’énergie utilisée (cf. ci-dessous).
+Secteur Energie utilisée (Mtep)
+TERTIAIRE 30
+dont confort thermique 25
+dont usages spécifiques 5
+INDUSTRIE 47
+dont production intermédiaire (*) 38
+dont biens d'équipt & conso 9
+TRANSPORTS 34
+dont personnes, déplacements prof. (**) 10
+dont marchandises 19
+TOTAL (sur 198 Mtep) 106
+Consommations d’énergie en France pour les usages productifs, 1995
+(*) production de matériaux de base : acier, verre, papier, etc.
+(**) estimation personnelle : les déplacements professionnels de personnes consomment environ 30% du total de ce poste.
+NB : la consommation d’énergie en 1999 était de un peu moins de 215 Mtep.
+Source : Commissariat Général du Plan
+La production de matériaux de base (acier, verre, plastique, ciment, papier), en particulier, absorbe les 4/5è de la consommation de l’industrie, la transformation de ces matériaux étant nettement moins gourmande. En outre quasiment tous les procédés de production de matériaux de base sont difficiles à effectuer sans production de chaleur haute température, donc sans combustion. Une forte réduction de la consommation énergétique suppose donc une bien moindre utilisation par personne de ces matériaux de base.
+Il s’ensuit que les produits manufacturés en général et tout particulièrement les produits jetables verraient leur coût relatif augmenter, et que la consommation en poids de produits par habitant décroîtrait. La location se développerait au détriment de la possession.
+Des emballages jetables
+En conséquence de ce qui précède, la sobriété énergétique est incompatible avec la prolifération des emballages jetables, qui contribue à gaspiller les matériaux de base. Un tel monde verrait donc, par exemple :
+le retour du pulvérisateur et la disparition des bombes aérosol jetables,
+le retour des sacs et cabas et la disparition des sacs en plastique jetables,
+le retour des bouteilles réutilisables et la disparition des bouteilles en plastique, canettes en alu, etc,
+la suppression des emballages inutiles pour aliments, omniprésents actuellement en grandes surfaces (viande en barquettes, pommes de terres en sachet plastique lui-même dans un carton, etc),
+une consommation de papier fortement diminuée…
+La construction de maisons individuelles peu chères
+Les techniques actuellement utilisées pour construire une maison requièrent de la combustion fossile peu chère :
+les producteurs de matériaux de base : ciment, acier, plastique, verre, sont de très gros consommateurs d’énergie et de très gros émetteurs de gaz à effet de serre,
+transporter ces matériaux, qui sont généralement lourds, sur de longues distances requiert des transports peu chers et donc de l’énergie peu chère.
+Dans un contexte ou la combustion fossile aurait quasiment disparu et la combustion de biomasse ne permettrait pas de s’y substituer totalement il faudrait probablement revenir à des matériaux traditionnels (pierre de taille, bois) dont le coût à la construction est supérieur.
+Des lieux d’habitation très chauffés en hiver et très climatisés en été
+Tout cela consomme de l’énergie ! Baisser (en hiver) d’un degré la température intérieure d’un local peut faire économiser 7% de la consommation…
+Beaucoup de viande
+La production de viande n’est pas une bonne affaire sur le plan des gaz à effet de serre (ni sur le plan de l’eau):
+la production d’une tonne de viande de boeuf (avec os) engendre l’émission de 3 à 4 tonne équivalent carbone, soit autant que pour 6 à 8 tonnes d’acier ! Il n’est pas exagéré de dire qu’aujourd’hui nous mangeons du pétrole, car il faut une agriculture intensive pour produire toutes les plantes qui nourriront le bétail, et cette agriculture intensive requiert de la mécanisation et des engrais de synthèse, toutes choses qui n’existeraient pas en pareille quantité sans pétrole. Rappelons qu’en France, en 1998, les émissions de gaz à effet de serre de l’agriculture dépassent celles des transports.
+il ne faut que 500 1 d’eau pour produire 1 kg de pommes de terre, mais il en faut 20.000 à 100.000 pour produire 1 kg de bœuf à partir de fourrages irrigués (il faut environ 50 kg de fourrages/céréales pour faire un kg de viande de boeuf avec os).
+Il sera peut-être intéressant de rappeler que la consommation de viande en France a cru exactement comme la consommation d’énergie : elle est passé de 20 kg/habitant/an en 1800 à 100 aujourd’hui.
+En particulier, des McDo !
+Outre le fait que les McDo sont de gros « consommateurs » de viande de bœuf (mais les hippopotamus sont pires !), un certain nombre d’autres caractéristiques de ces « restaurants » sont antinomiques de la vertu énergétique :
+80% des 800 nouvelles implantations prévues de McDo sont des McDrive (source Les Echos d’avril 2000), situées en périphérie et incitant les gens à y aller en voiture,
+pour un hamburger acheté chez McDo, on jette généralement un emballage en polymère, dont la fabrication est coûteuse en énergie, plus un sac en papier, dont la fabrication est aussi coûteuse en énergie,
+tous leurs produits arrivent congelés, or la chaîne du froid est une source de gaz à effet de serre (à travers les émissions d’halocarbures et la consommation d’énergie).
+Les anti-McDo pourront donc à bon droit y voir une chose à leur reprocher : ils sont très loin d’inciter à la modération des émissions de gaz à effet de serre !
+  Ce que nous gagnerions probablement
+Plus d’emplois
+Le système économique actuel comporte de nombreux prélèvements sur les salaires (pour les retraites, la sécurité sociale, etc) et peu de prélèvements sur l’énergie (avec une exception pour l’énergie des transports en France).
+Devenir sobre énergétiquement implique nécessairement de détaxer le travail et de taxer l’énergie. Le travail étant moins taxé, il se créerait plus d’emplois, probablement essentiellement dans les catégories d’emplois peu qualifiés.
+Des résultats partiels d’études sectorielles étayent cette (hypo)thèse :
+certaines études montrant que les hypermarchés de périphérie urbaine sont deux fois plus consommateurs d’énergie par unité de CA vendue que les supermarchés de centre-ville montrent aussi que lesdits hypermarchés sont aussi … deux fois moins inducteurs d’emploi dans l’économie par unité de CA vendue, ce qui semble accréditer la thèse que « contenu en énergie élevé » et « contenu en emplois élevé » sont ici antagonistes,
+Une étude de l’INRETS a également montré que le déplacement d’un voyageur sur un kilomètre en automobile consomme deux fois plus de pétrole et crée deux fois moins d’emplois que le même déplacement en bus.
+Une étude plus complète de l‘Oko-Institut (en Allemagne) aboutit à la conclusion que de pénaliser le transport automobile, ce qui est favorable à la baisse des consommations énergétiques, crée 2,5 fois plus d’emplois qu’il n’en détruit
+Dans un autre registre, une étude (publiée dans les Echos mais je ne me rappelle plus la source) a montré que l’agriculture bio était plus riche en emplois que l’agriculture traditionnelle à production égale.
+Une étude partielle (citée soit dans Les Echos, soit dans Libération, soit dans Le Monde durant l’été 2000, mais je n’ai pas conservé l’article…) indique que la desserte d’une localité par une autoroute peut s’avérer être une mauvaise affaire pour l’emploi dans les petites entreprises et l’artisanat (concurencés par les grosses entreprises lointaines, utilisant beaucoup de machines et d’énergie) ainsi que pour l’emploi local (concurrencé par la main d’oeuvre lointaine à bas prix).
+Moins de bruit
+Le bruit est en grande partie causé par l’utilisation de l’énergie, que ce soit des transports, des usines, des engins de chantier, etc. Un monde plus sobre énergétiquement serait très vraisemblablement beaucoup moins bruyant que notre monde actuel. En Europe, 22% de la population est exposée au bruit des transports à un niveau qui dépasse 65 dBA de jour (source : INRETS).
+La voiture et les camions se taillent la « part du lion » dans ces nuisances : 90% des gens qui se plaignent du bruit des transports en France incriminent le bruit de la route.
+Moins de pollution locale
+Une bonne partie des polluants locaux sont associés à l’utilisation de l’énergie fossile, que ce soit dans les voitures, dans les usines, ou dans les centrales électriques à charbon, à pétrole ou à gaz : NOx (oxydes d’azote), SO2 (dioxyde de souffre), CO (monoxyde de carbone), O3 (ozone), hydrocarbures divers, dérivés benzénés, particules, etc,
+Une autre partie des polluants locaux dérive de l’utilisation de la voiture, sans être directement dérivés de la combustion : poussière des routes, usure des composants de la voiture (pneus, garnitures de freins, etc) notamment.
+Dans un monde où il y aurait moins de combustion (car les combustibles renouvelables ne peuvent totalement substituer les combustibles fossiles, sinon cette assertion est fausse, car un feu de bois c’est une grosse cigarette !) et moins de véhicules particuliers, il est fort probable que ces deux sources de pollution seraient nettement diminuées (à niveau technologique constant, bien sûr).
+Moins de congestion
+La congestion provient essentiellement de l’utilisation d’un grand nombre de moyens de transport individuels. Si les transports deviennent essentiellement collectifs ou individuels légers (vélos, rollers, etc), une bonne partie de la congestion disparaîtra. Par contre faire des voitures électriques en nombre égal aux voitures à moteur à explosion n’influe en rien sur ce problème.
+En outre la congestion se produit essentiellement dans les très grandes agglomérations, dont l’existence même n’est pas compatible avec la vertu énergétique, puisque la vie n’y est possible qu’en important toutes les denrées de première nécessité « d’ailleurs », avec du transport longue distance à la clé.
+Probablement moins de stress
+Le « toujours plus vite, toujours plus gros » qui gouverne actuellement l’économie des pays riches étant le moteur essentiel de l’augmentation des consommations énergétiques, consommer nettement moins d’énergie ne permettrait plus cette démarche. Or une partie du stress actuel est lié à ce « toujours plus vite ». Il est bien connu qu’en vacances on « prend son temps », etc.
+Une société énergétiquement vertueuse nous mènerait donc probablement, comme produit dérivé, un peu moins de stress.
+Notons par ailleurs, en liaison avec le § précédent, que la criminalité en France est corrélée au pourcentage de la population habitant dans des grandes villes.
+Carte de France des départements métropolitains présentant le nombre crimes, agressions et délits contre les personnes pour 100 000 habitants pendant l’année 2011.
+Source : Actualitix.com d’après données  de la DGPJ et INSEE
+Une population répartie de manière plus homogène sur le territoire serait donc peut-être moins criminogène, ce qui peut être considéré comme le reflet d’un peuple globalement plus heureux de ses conditions de vie. Dans la même veine, on peut aussi noter que remplacer l’énergie par de l’huile de coude (qui est une des composantes de l’affaire, voir plus bas) fatigue, et quand on est fatigué, l’envie de faire le Zouave tend à diminuer !
+Ce qui changerait probablement, sans que ce soit obligatoirement une perte ou un gain
+Une gestion plus décentralisée de l’énergie, en particulier thermique
+Une partie significative des apports énergétiques provenant de renouvelables dans un tel monde, il y aurait un accroissement de certains dispositifs locaux de production et de gestion de l’énergie (chaudière à bois en milieu rural, champ de colza pour le tracteur, biogaz, et un peu d’électricité de secours, même si la production centralisée reste plus économique pour des raisons d’échelle).
+Plus de télécommunications ?
+On peut penser qu’une société énergétiquement vertueuse nécessiterait un report du déplacement des objets et personnes vers le déplacement des informations. Cela recquiererait donc des infrastructures de télécommunications importantes, et le télétravail se développerait peut-être.
+Mais pour l’heure ces infrastructures servent à obtenir plus de services tout en se déplaçant physiquement autant : j’achète une bouteille de vin chez Houra, puis mon lait chez Télémarket, puis un livre chez Amazon, mais je continue d’aller au supermarché pour le reste à la même fréquence, ou j’en profite pour aller voir mes parents en voiture…
+Cela correspond alors à une augmentation de la dépense énergétique par individu, même si l’intensité énergétique de chaque service pris isolément peut effectivement décroître dans un tel contexte.
+Notons aussi que le premier effet des infrastructures de télécommunications est d’ouvrir une fenêtre sur le monde, ce qui élargit le référentiel d’un individu et peut lui donner envie de consommer des choses dont il n’avait pas envie avant.
+Enfin utiliser moins d’énergie suppose d’utiliser plus d’huile de coude : actuellement on peut mettre 70% de la population dans des bureaux parce les 30% restant peuvent, grâce à des machines, produire les biens matériels que nous utilisons. Mais en 1900, quand la consommation d’énergie par habitant était le dixième de ce qu’elle est aujourd’hui, 80% de la population était aux champs, donc travaillait avec ses mains.
+Si la consommation d’énergie diminue, ne verrait-on pas certain retour au travail manuel, qui n’a pas vraiment besoin d’infrastructures de télécoms pour prospérer ?
+Plus d’exercice physique
+Moins recourir à la force motrice de l’énergie supposerait probablement de réutiliser un peu nos muscles, notamment pour se déplacer (marche, vélo).
+Inconvénient pour certains : c’est fatigant !
+Avantage : c’est de l’exercice quotidien. Précisément parce que c’est fatigant, nous serions plus sveltes et mieux portants (et de manière certaine moins stressés : l’exercice physique à dose raisonnable est un facteur d’équilibre). Aux USA (où une personne sur deux est obèse ou surpondérée), le seul facteur parfaitement corrélée avec l’obésité est le nombre de voitures en circulation (lire l’article où cette corrélation est exposée).
+Un autre article (Time, 4 septembre 2000) donne les chiffres suivants pour l’inactivité physique et l’obésité aux USA: 27,8% des américains déclaraient n’avoir aucune activité physique; le pourcentage d’américains obèses est passé de 12% en 1991 à 18% en 1998.
+Plus de déplacements en transports en commun
+Le fait que ce soit agréable ou désagréable varie selon les individus. Personnellement, si je considère le cas du RER que j’emprunte quand je vais à Paris (le RER B), chauffé l’hiver, fiable, silencieux, me permettant de lire et d’écouter mon walk-man (et de m’endormir quand je reviens de Paris le Samedi soir après avoir trop bu sans rentrer dans un platane), je considère que c’est plutôt plus confortable – et infiniment moins stressant, même avec les quelques SDF qui y font la manche – que d’y aller en voiture.
+Une modification de l’emploi du temps quotidien
+Les auxiliaires mécanisés nécessitant beaucoup d’énergie, la part relative de l’emploi du temps consacrée à les utiliser devrait baisser. Devraient donc augmenter en proportion du temps éveillé :
+le travail manuel : un monde vertueux n’est pas nécessairement un monde à l’économie dématérialisée, il est même possible que ce soit le contraire. Au début du siècle, l’économie était parfaitement matérielle, et pourtant la consommation d’énergie par individu était bien moindre.
+les activités personnelles extensives (bricolage, jardinage, etc) sous réserve qu’elles nécessitent peu de mécanisation,
+la formation et les distractions culturelles,
+les discussions et la vie associative,
+le cas du transport est non tranché : à nombre de déplacements égal, il devrait nécessiter plus de temps, mais peut-être que dans un tel monde on se déplacerait moins.
+  Quels sont les comportements actuels de la puissance publique qui sont incompatibles avec un objectif à terme de vertu énergétique ?
+Dans les discours de la puissance publique, dans n’importe quel pays développé au moins, deux thèmes sont fréquemment abordés :
+il faut lutter contre l’effet de serre ou réaliser des économies d’énergie.
+il faut encourager la croissance de l’économie.
+La quasi-totalité des mesures prises au nom du deuxième objectif est aujourd’hui parfaitement incompatible avec le premier.
+Sans se placer le moins du monde sur le terrain de la morale, un certain nombre de comportements sont donc parfaitement incompatibles avec un objectif encore plus large de « vertu » énergétique.
+On peut rappeler à cette occasion que le monde économique n’est pas le monde réel mais simplement une représentation conventionnelle (c’est à dire basée sur un certain nombre de règles que l’on se donne) du monde réel. Faire passer le monde économique avant le monde réel, c’est faire primer la convention sur la réalité, chose que l’église adorait faire, mais qui devrait désormais un peu passer de mode en Occident !
+Libéraliser l’énergie électrique toutes choses égales par ailleurs
+Libéraliser la distribution de l’électricité, laquelle est essentiellement produite à base de combustibles fossiles (même dans le monde développé), a un objectif affiché : satisfaire le consommateur. Traduction : il s’agit de faire baisser les prix. La lecture des réactions à ce qui s’est passé en Californie en 2001, où les prix ont monté suite à une libéralisation, montre bien que ce n’était pas le résultat attendu.
+Or faire baisser les prix conduit généralement à augmenter les consommations, avec des émissions de gaz à effet de serre qui augmentent encore plus vite (car les productions marginales sont faites avec des centrales à gaz ou à charbon, les moins chères à l’achat, et qui produisent plein de CO2).
+Toutes choses égales par ailleurs (c’est à dire sans contrainte explicite sur les émissions de CO2 prévue dès le départ), une libéralisation de la distribution d’électricité est incompatible avec la lutte contre l’effet de serre et donc avec la « vertu énergétique ».
+Le même raisonnement d’applique au gaz, dont on envisage aussi de libéraliser la distribution.
+Sortir du nucléaire à court terme (et même à moyen terme)
+A consommation électrique constante ou croissante le fait de ne plus avoir de centrales nucléaires requiert de produire l’électricité autrement. Le potentiel de l’éolien, du solaire et de la biomasse étant limités à court terme (et pour certains à terme également) cela engendrera un recours accru aux énergies fossiles (voir article que j’ai écrit dans Les Echos le 7 juillet 2000).
+La sortie du nucléaire à court ou moyen terme – et à long terme nous sommes tous morts, disait Keynes ! – n’est donc pas compatible avec un souhait de « vertu énergétique ».
+Ne pas augmenter les prix de l’énergie quand ils sont ridiculement bas…
+Cas des USA par exemple, qui ont des taxes sur les produits pétroliers très faibles, et qui font deux fois plus de CO2 par habitant que la France, qui a des taxes sur les produits pétroliers élevées.
+…ou les baisser pour faire plaisir à l’électeur (ignorant)
+Une baisse des prix toutes choses égales par ailleurs fait monter les consommations à court terme : c’est l’une des seules lois de l’économie à peu près solides (le cas récent de la vache folle montre bien qu’il faut que l’on ait « toutes choses égales par ailleurs » : si le contexte change, on peut avoir à la fois une baisse des prix et une baisse des consommations).
+Dans le même esprit, la suppression de la vignette automobile, et plus généralement tout ce qui contribue à faire baisser le coût relatif de la voiture, favorise ce mode de déplacement, donc augmente à la fois les émissions et la difficulté à faire autrement plus tard.
+La baisse des taxes sur le fioul encouragera aussi ce mode de chauffage, etc.
+Encourager la consommation de biens matériels
+L’augmentation en volume de la production industrielle – qui engendre une augmentation en volume des consommations énergétiques – est incompatible avec un objectif de « vertu énergétique ». En prolongeant les tendances mondiales actuelles, on arrive assez vite à des résultats qui laissent songeur.
+La vertu énergétique n’est donc pas compatible avec le fait de jauger la bonne santé d’une nation à l’aune de la croissance de certains indicateurs tels que production manufacturière en volume, consommation des ménages en produits manufacturés en volume, etc.
+En particulier, avec la structure actuelle de l’activité des pays développés, la vertu énergétique n’est pas compatible avec la croissance économique.
+On pourrait imaginer de faire cohabiter une croissance en valeur avec la vertu énergétique, puisque l’économie n’est qu’une convention. Par contre on ne peut pas faire cohabiter des croissances en volume – qui représentent le monde physique – avec la vertu énergétique.
+Encourager le transport aérien
+Le transport aérien est le mode le plus gourmand en carburant par personne transportée (cf. ci-dessus). Aller vers un monde énergétiquement vertueux suppose donc, en particulier, de ne pas construire encore des aéroports, ni de réaliser des extensions des aéroports existants.
+Application à un cas particulier : la lutte contre l’effet de serre est strictement incompatible avec la construction du 3è aéroport parisien, ou avec celle de toute infrastructure permettant l’augmentation du trafic.
+Un corollaire de cette conclusion est également que la vertu énergétique est incompatible avec le développement du tourisme international lointain.
+Continuer à construire des infrastructures routières
+L’efficacité énergétique du transport de marchandises par rail est 4 fois supérieure à celle du transport par camion ; elle est 3 fois supérieure à celle du transport en voiture dans le cadre des personnes (ci-dessus, & La Jaune et La Rouge de Mai 2000, Benjamin DESSUS)
+Il n’est donc pas compatible avec la « vertu énergétique » de continuer à construire des infrastructures routières (autoroutes, voies à grande vitesse, mais aussi rues élargies, rocades périurbaines, etc) destinées à augmenter les vitesses de déplacement en voiture ou à rendre plus compétitif le transport par camion (la durée de vie des infrastructures routières est de l’ordre de 100 ans).
+Le confort de circulation est certes temporairement accru quand on fait des rocades, mais l’augmentation de la consommation énergétique (non temporaire, elle) l’est tout autant (cf. graphique sur la densité des villes quelques paragraphes plus haut).
+Il n’est pas plus compatible avec la vertu énergétique de faire de la route les premiers postes budgétaires des contrat de plan État-Région (ce qui est le cas à peu près partout en cette année 2000).
+Il serait du reste intéressant de connaître l’avis du Conseil d’État de l’assertion suivante : sachant que (1) pour ce que l’on en connait la croissance de l’effet de serre est contraire à l’utilité publique, (2) la construction d’infrastructures routières, quelles qu’en soient les motivations à court terme (« désenclavement » par exemple, terme à la mode) engendre une croissance du transport routier générateur d’effet de serre, ne devrait-on pas être amené à prendre en compte cet effet lorsque l’on évalue l’utilité publique de nouvelles routes, autoroutes et autres rocades, qui pourraient parfaitement, au nom de la lutte contre l’effet de serre, être déclarée de « non-intérêt public » ?
+Et, de façon plus générale, ne faudrait-il pas introduire ce critère dans l’évaluation de l’utilité publique de toutes les infrastructures, par exemple pour celle des aérodromes, etc. ?
+Encourager la périurbanisation
+La périurbanisation est la phénomène par lequel les agglomérations s’étendent en superficie, sans qu’elles gagnent nécessairement beaucoup d’habitants par ailleurs (la démographie en France croît moins vite que les occupations foncières). Cet étalement est patent (cf. figures ci-dessous).
+Evolution de l’urbanisation en France
+Entre 1936 et 1999,la population a augmenté de 40%. Certaines aires urbaines ont décuplé pendant que les campagnes se sont vidées.
+Cela correspond pour une large part à une superficie occupée par habitant qui croît :
+l’habitat individuel consomme plus de ressources foncières par occupant que l’habitat collectif,
+un habitant en banlieue mobilise plus de ressources foncières pour ses déplacements (emprise des routes, voies de RER, etc) qu’un habitant de ville centre,
+je n’ai pas fait le calcul mais je suis prêt à parier qu’une activité commerciale en banlieue occupe plus de surface à CA égal qu’une activité en centre ville (locaux plus horizontaux, surfaces de parkings supplémentaires, nécessité de réaliser des voies d’accès spécifiques, etc).
+Cela encourage un double accroissement de la consommation énergétique :
+on fait plus de km journaliers en banlieue qu’en centre-ville.
+Ville-centre Banlieue Périphérie urbaine Périphérie rurale
+Nombre de voitures pour 100 ménages 89 voitures 110 voitures 129 voitures 136 voitures
+% de voitures diesel 24% 26% 31% 36%
+Âge moyen des voitures 6,6 ans 6,7 ans 7,5 ans NS
+Distance moyenne domicile-travail 8,5 km 12,2 km 15,7 km 16 km
+Distance moyenne par adulte et par jour parcourue en voiture en province 11 km 18 km 19 km 23 km
+Distance moyenne par adulte et par jour parcourue en voiture en Île-de-France 7 km 13 km 21 km 30 km
+Sources:
+L. Hivert,  » Le parc automobile des ménages en décembre 1994 « , INRETS/ADEME.
+P. Martin et G. Rennes,  » Le parc automobile des ménages « , INSEE Résultats n° 569 à 571. Champ : grandes agglomérations de province, année 1994.
+J.-P. Orfeuil,  » Les déplacements domicile travail dans l’enquête transports « , INRETS.
+C. Gallez et J.-P. Orfeuil, travaux en cours sur l’enquête transports.
+on occupe un habitat qui nécessite plus d’énergie pour parvenir à une température identique (maison contre appartement), puisqu’à volume égal la surface de murs en contact avec l’extérieur est supérieure.
+Paris Ensemble HLM petite couronne Lotissement pavillonnaire grande couronne
+Chauffage (logements neufs) 3,82 3,36 4,52
+Chauffage (logements anciens) (*) 6,74 5,93 10,17
+Autres consommations (**) 3,26 3,26 3,26
+Entretien des bâtiments et de la voirie 0,31 0,6 0,95
+Déplacements 3,27 10,39 11,66
+Total (logements neufs) 10,66 17,61 20,39
+Total (logements anciens) 13,59 20,19 26,04
+Emissions de gaz à effet de serre (par an) rapportées au m² habitable pour divers types d’aménagements urbains.
+Tous les chiffres sont en kg d’équivalent carbone.
+(*) avec réhabilitation minimum (doubles vitrages, isolation).
+(**) eau chaude sanitaire, cuisson, etc
+Source : Jean-Pierre Traisnel & al, Les cahiers du CLIP, avril 2001
+  Comme en banlieue les surfaces par habitant sont généralement plus importantes, il en résulte qu’en prenant tous ces facteurs en compte (plus de déplacements, plus de m², logements plus gourmands en énergie par nature) les émissions par habitant pour le total [logement + déplacements] vont du simple au double.
+Paris Ensemble HLM petite couronnen Lotissement pavillonnaire grande couronne
+Surface par habitant 33 m² 28 m² 39 m²
+Emissions GES liées au bâtiment (chauffage, entretien, etc) en logement neuf 244 kg C 200 kg C 340 kg C
+Emissions GES liées au bâtiment (chauffage, entretien, etc) en logement ancien (*) 340 kg C 275 kg C 560 kg C
+Emissions GES liées aux déplacements 108 kg C 290 kg C 455 kg C
+Total en logement neuf 352 kg C 490 kg C 795 kg C
+Total en logement ancien 448 kg C 565 kg C 1015 kg C
+Emissions de gaz à effet de serre par habitant et par an pour divers types d’aménagements urbains.
+Tous les chiffres sont en kg d’équivalent carbone.
+(*) avec réhabilitation minimum (doubles vitrages, isolation).
+Source : Jean-Pierre Traisnel & al, Les cahiers du CLIP, avril 2001
+  Il en résulte que l’encouragement de la périurbanisation est incompatible avec le souhait de maîtriser les consommations énergétiques, et notamment les mesures suivantes sont incompatibles avec la « vertu énergétique » :
+la création de ZAC à la périphérie des villes,
+la création de banlieues résidentielles à la périphérie des villes,
+la création de voies de circulation périurbaines (qui sont en général le prélude à une urbanisation desservie uniquement par la voiture), quels que puissent en être les vertus revendiquées à court terme,
+le prêt à taux zéro, qui ne porte que sur des logements neufs avec un faible coût de foncier, et donc ne permet l’accession à la propriété qu’en périphérie, ce qui concourt à l’étalement urbain (si on ajoute que les logements construits sont très vite dépréciés, le prêt à taux séro s’assimile plus à une mesure de soutien au bâtiment qu’à une mesure réelle en faveur des ménages modestes).
+Encourager le tourisme lointain
+Eurodisney est devenu la première destination touristique d’Europe (12 millions de visiteurs par an). Pour venir, un visiteur se déplace. Tous les touristes venant de destinations lointaines (par avion) engendrent des émissions lors de leur déplacement. Si 6 millions (sur 12) viennent par avion (ce qui doit être conservateur), avec une dépense carbone moyenne de 200 kg par visiteur (soit 50% d’Europe et 50% d’ailleurs), cela représente 1.200.000 tonnes de carbone, soit les émissions de 600.000 Français (ou encore 30% des émissions parisiennes intra-muros).
+De tels projets sont donc rigoureusement incompatibles avec un souhait de « vertu énergétique ».
+Encourager l’élevage
+La production de viande engendre des émissions de gaz à effet de serre par unité de poids bien plus importantes que la culture de végétaux (pas seulement du CO2). Pour produire un kg de boeuf avec os on engendre en gros 80 fois plus d’émissions de gaz à effet de serre que pour produire un kg de blé.
+Les subventions à l’élevage (une bonne partie des subventions de la PAC) sont donc incompatibles avec la vertu énergétique.
+Ne pas affecter 20% de nos impôts à l’aide aux pays en développement
+Les pays en développement, qui consomment globalement 6 à 10 fois moins d’énergie par habitant que nous, ont une aspiration – que nous ne saurions leur contester au nom de la morale (on peut le faire au nom de l’égoïsme, mais alors il faut le dire !) – à en consommer pas beaucoup moins que nous.
+On ne pourrait les en empêcher qu’en instaurant une dictature mondiale, avec des chances de succès aléatoires sachant qu’un certain nombre ont l’arme atomique ; une analyse de ce genre de régime montre en outre que le bonheur de vivre des geôliers n’est pas toujours beaucoup plus élevé que celui des détenus.
+Or si les pays « en développement » (qu’est-ce que le développement ?) s’équipent avec les technologies les moins capitalistiques ou les plus compétitives à court terme pour la fourniture d’énergie, ils vont essentiellement s’équiper de centrales à charbon et de voitures à pétrole, contribuant ainsi à accélérer la disparition des ressources fossiles (puisque le niveau de stock est fixé une fois pour toutes) et les émissions de gaz à effet de serre, deux phénomènes dont les conséquences ne sont pas localisées chez le « fauteur ».
+Au nom d’un égoïsme bien compris, nous devrions les financer massivement pour qu’ils s’équipent avec du solaire, du nucléaire, des transports en commun (qui nécessitent des investissements collectifs plus lourds que la voiture), bref qu’ils bénéficient des avancées technologiques majeures rapidement au lieu de commencer par l’étape « fossile ».
+Cela justifierait parfaitement
+l’affectation d’une part très significative de nos impôts à aider les pays pauvres : nos impôts ne sont-ils pas destinés à préparer notre avenir, qui ne saurait être rose si les émissions de gaz à effet de serre explosent ?
+que l’on cesse de considérer comme des bonnes nouvelles les succès de Renault, d’Alstom (pour les centrales à charbon) et d’Airbus à l’exportation…
+Ne pas mettre de barrières douanières aux produits importés des USA
+Une des manières de sanctionner les USA pour leurs grosses émissions de gaz à effet de serre serait de leur mettre des barrières douanières à l’entrée de l’Europe. Les toucher au portefeuille sera bien plus efficace que de crier haut et fort que ce sont des affreux jojos.
+  Quelles sont les conséquences possibles pour l’économie d’un choix de sobriété énergétique ?
+Cela devrait avantager les petites entreprises et désavantager les grosses multinationales
+Les grosses multinationales ont comme modèle d’organisation de produire de manière massivement mécanisée en deux ou trois endroits dans le monde, de spécialiser les sites de production, pour après transporter leur production semi-finie ou finie dans le monde entier. Cela est une conséquence du travail cher dans les pays occidentaux et du transport pas cher.
+Or deux de ces modalités d’organisation ne pourraient subsister dans un monde énergétiquement vertueux :
+La mécanisation massive, sa disparition entraînant du même coup la perte d’une partie des économies d’échelle lors de la fabrication,
+le recours au transport longue distance.
+La vertu énergétique obligerait les grandes entités à produire plus « local » et de manière moins mécanisée, ce qui leur ferait perdre une partie de leurs économies d’échelle. Cela avantagerait comparativement les petites entreprises.
+Cela devrait pénaliser l’emploi dans l’industrie manufacturière et avantager l’emploi dans les services
+Cette assertion parait logique a priori, mais pour en avoir le cœur net l’institut allemand Oko Institut (voir ci-dessus) a chiffré et détaillé cet impact en partant de l’hypothèse d’une pénalisation financière accrue des transports routiers en Allemagne, avec un ensemble d’autres hypothèses qui ne sont pas constitutives d’une rupture technologique ou sociétale ; il s’agit juste d’un ensemble d’inflexions (on peut télécharger ici le résumé de l’étude au format PDF).
+Le bilan est donné ci-dessous ; il est explicite quand à l’assertion en titre : l’industrie manufacturière perd des emplois, les services en gagnent.
+Effet annuel moyen du scénario de diminution des transports sur l’économie allemande.
+Source : étude « Chief benefits for the future », Öko-Institut, Mai 1998
+Une étude plus large serait bien entendu intéressante…
+Cela devrait avantager le bâtiment et désavantager les travaux publics
+On fera moins d’infrastructures, inductrices de consommation énergétique (aéroports, routes, etc), donc cela désavantagera les TP,
+On aura besoin de plus de bras pour faire la même chose en construction neuve, puisque l’énergie sera moins abondante, donc cela avantagera le secteur du bâtiment du point de vue de l’emploi (cette assertion est cohérente avec l’impact sur l’emploi du graphique ci-dessus),
+Le soin particulier qu’il serait nécessaire d’apporter à l’isolation thermique, notamment du parc existant de logements, à l’entretien des installation individuelles de production énergétique (panneaux & chauffe-eau solaires, piles, etc) engendrera une activité importante chez les artisans du bâtiment.
+Cela devrait pénaliser la vente de produits manufacturés et avantager les activités de location
+Si le prix de production des matériaux de base augmente (car là réside l’essentiel de la consommation énergétique des entreprises), le prix relatif des produits manufacturés augmentera. Par contrecoup, la location des biens (et leur réparation) deviendra plus compétitive.
+Cela devrait pénaliser les transporteurs et avantager les logisticiens
+Si le prix relatif du transport augmente (conséquence économique de sa rareté) les entités chargées de gérer finement les – faibles – capacités disponibles devraient voir leur activité augmenter.
+Cela devrait faire disparaître les flux tendus et recréer des stocks
+L’énergie dépensée par unité de masse décroît en fonction du tonnage transporté en une seule fois. Le transport de petites quantités à la demande, ce qui est très gourmand en énergie, mais qui est une des composantes essentielles du flux tendu, disparaîtrait donc, ce qui engendrerait la nécessité de recréer des stocks.
+Cela devrait pénaliser le commerce international et avantager l’économie locale
+Cela semble logique : le transport devenant plus cher, tout ce qui est riche en transports (par exemple le commerce international) deviendra moins compétitif. Si le commerce international devient moins compétitif, cela avantage par contrecoup tout ce qui est local : si la première composante d’une chemise fabriquée en Chine est son coût de transport, cela redonne une chance à la fabrication française !
+Cela devrait avantager le commerce de centre ville et désavantager les grandes surfaces de périphérie
+Cela est une simple conséquence de l’item exposé plus haut indiquant que les grandes surfaces de périphérie sont plus intensives en énergie à CA égal que les petits commerces en ville. La construction d’hypermarchés est donc incompatible avec la vertu énergétique.
+Cela devrait pénaliser le tourisme international et avantager le tourisme de proximité
+Cela est une conséquence logique de la diminution de la mobilité physique, notamment lointaine.
+Cela devrait pénaliser les producteurs d’énergie et avantager les installateurs de dispositifs personnels (panneaux solaires, piles à combustibles personnelles, etc).
+Cela résulterait de la double conséquence d’une augmentation du prix de l’énergie et d’une fraction plus importante provenant de renouvelables gérées localement ; il est donc logique que les producteurs d’énergie actuels ne soient pas favorables à la sobriété énergétique, la reconversion comme fabricants de matériel n’étant pas facile à mettre en oeuvre. Cela étant, maintenir une abondance énergétique pour le seul fait de ne pas heurter les gros producteurs d’énergie est équivalent à maintenir un impôt pour le seul fait de ne pas fâcher les fonctionnaires qui le perçoivent…
+Cela avantagerait l’activité informatique ?
+la nécessité de recourir aux échanges d’informations plutôt que de personnes requerra de disposer de plus d’infrastructures de télécommunications, de plus de terminaux individuels, et de plus d’activité logicielle
+le développement informatique est une activité qui est en soi assez peu gourmande en énergie (ce n’est par contre pas le cas de la fabrication d’ordinateurs).
+par contre l’activité informatique, à ce jour, a essentiellement été mise au service de l’augmentation de la productivité industrielle. L’activité « sobre » serait plutôt celle qui n’a qu’elle-même comme finalité (logiciels de jeu, d’éducation, etc) ou celle qui aide à optimiser la consommation énergétique. 

@@ -1,0 +1,31 @@
+Si l’on se fie au dictionnaire (qui est une excellente référence !), les éléments du climat sont constitués de :
+l’insolation, c’est à dire la quantité d’énergie solaire reçue,
+la température,
+les précipitations, et l’humidité de l’air dans les couches voisines du sol,
+le vent,
+la pression atmosphérique,
+et accessoirement le champ électrique de l’atmosphère, l’ionisation de l’air, et sa composition chimique.
+Par ailleurs ce qui définit un climat est tout à la fois les limites dans lesquelles peuvent évoluer les valeurs instantanées pour les diverses composantes mentionnées ci-dessus, mais aussi la moyenne annuelle de chacune de ces valeurs, les « sous-moyennes » saisonnières, et encore la variabilité. Ce dernier terme désigne la fréquence et l’amplitude avec lesquelles une valeur s’écarte de la moyenne. Une valeur est dite très variable si elle s’écarte très fréquemment et/ou de manière très importante de la valeur moyenne.
+Les deux courbes verte et bleue ci-dessus ont une même moyenne (en rouge sur ce graphique) mais la fonction verte est beaucoup plus variable que la fonction bleue (elle s’éloigne plus fréquemment, et/ou de manière plus importante, de la moyenne).
+Ainsi, une augmentation de la variabilité, même à moyenne constante, peut être source d’ennuis :
+si elle concerne les précipitations, cela signifie une moins grande régularité de ces dernières, et donc un accroissement des sécheresses et inondations,
+si elle concerne la température, cela peut signifier un accroissement des vagues de froid ou de chaleur,
+si elle concerne le vent, cela signifie un accroissement des épisodes ventés extrêmes…
+Compte tenu du fait qu’un climat est défini par de nombreuses variables, un changement climatique ne peut donc pas être réduit a priori à un simple changement de la température moyenne. Il comprendra très probablement aussi une modification de la valeur moyenne ou de la variabilité des précipitations, des vents, de l’humidité moyenne du sol….
+Sur quoi avons nous de la visibilité ?
+Il y a aujourd’hui un consensus de la communauté scientifique pour considérer que d’augmenter significativement la teneur en gaz à effet de serre dans l’atmosphère engendrera un changement climatique, dont deux conséquences font aujourd’hui également consensus :
+la température moyenne de l’atmosphère au niveau du sol augmentera, la seule question qui se pose étant de savoir de combien (et comme la réponse dépend de nos émissions futures, cela restera un débat pendant longtemps !)
+le niveau des océans va monter.
+Il y a donc une bonne raison à ce que l’attention se focalise le plus souvent sur ces deux conséquences d’un changement climatique: elles sont les plus certaines. Mais cela ne signifie pas que les autres paramètres ne vont pas aussi subir des modifications. Et surtout, une chose est essentielle: il ne faut pas confondre l’ignorance avec une garantie sur l’absence de risques! « on ne sait pas » ne signifie pas « on ne risque rien »…
+Moyennes et variabilité
+Enfin lorsque l’on évoque une modification d’un facteur donné, se focaliser sur la moyenne n’est pas suffisant. En particulier, pour savoir si l’avenir est susceptible de nous réserver des mauvaises surprises, avoir une idée de l’évolution de la variabilité est essentiel. Une illustration est donnée ci-dessous dans le cas particulier de la survenance à l’avenir d’extrêmes de température.
+Augmentation de la température moyenne.
+Les deux courbes ci-dessus représentent la distribution des températures annuelles dans le climat actuel (à gauche, en gris) et pour le climat futur (à droite, en noir).
+Sur ce genre de graphique, c’est « l’aplatissement » de la courbe qui illustre la variabilité : quand la cloche est « plate », cela signifie que la probabilité que la température soit très loin de la moyenne augmente, et donc que la variabilité augmente. Il n’y a pas d’échelle, ni verticale, ni horizontale, ce qui est volontaire : la hauteur et la largeur de la courbe dépendent de manière cruciale du type de climat.
+Le graphique ci-dessus illustre l’effet sur les extrêmes de froid et de chaud d’une élévation de la moyenne des températures (qui va se passer à l’avenir) « sans toucher » à la variabilité. Le nombre de jours très froid diminue, le nombre de jours chauds augmente, et il apparaît des jours très chauds inconnus auparavant.
+  Augmentation de la variation des températures.
+Le graphique ci-dessus illustre l’effet sur les extrêmes de froid et de chaud d’une seule augmentation de la variabilité, sans toucher à la moyenne. Cela ne correspond pas à l’évolution en cours, puisque la température moyenne augmente, mais c’est pour illustrer l’effet séparé d’une simple augmentation de la variabilité. Cela conduit à une augmentation du nombre de jours très froid comme des jours très chauds.
+Augmentation combinée de la moyenne et de la variation des températures.
+Le graphique ci-dessus illustre l’effet combiné d’une augmentation de la moyenne et d’une augmentation de la variabilité. Cela conduit à une diminution, mais non à une disparition, du nombre de jours très froid, et à une très forte augmentation du nombre de jours très chauds, ainsi que l’apparition d’extrêmes de chaleur inconnus avant.
+Or si l’évolution possible des moyennes a fait l’objet de nombreuses études, il n’y a pas eu de travaux comparatifs aussi poussés sur la variabilité possible du climat futur. En d’autres termes, les scientifiques n’ont pas eu le temps ou les moyens, jusqu’à maintenant, de comparer attentivement ce que les divers modèles de climat indiquent en ce qui concerne la variabilité du climat futur, outre le fait que les limitations des modèles sur ce genre d’exercice sont beaucoup plus fortes que pour les évolutions des moyennes.
+De ce fait, les conclusions des rapports du GIEC dans ce domaine restent très prudentes, comme c’est par exemple le cas sur les phénomènes extrêmes tels qu’ouragans, tempêtes, inondations, etc, et sont probablement destinées à le rester jusqu’à ce que les éventuelles mauvaises surprises arrivent, même si les indices disponibles laissent plutôt entrevoir une hausse de cette variabilité dans un climat en train de se modifier rapidement. 

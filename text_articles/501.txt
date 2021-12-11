@@ -1,0 +1,21 @@
+ Pour un investisseur ou un gestionnaire d’actifs, mesurer l'impact des activités financées sur le changement climatique est une étape nécessaire pour la construction de portefeuilles qui contribuent à la transition vers une économie bas-carbone. 
+Carbon Impact Analytics est une méthodologie innovante qui permet de mesurer l’impact carbone d’un portefeuille d’investissements, c’est-à-dire : 
+- De mesurer les émissions de gaz à effet de serre induites et évitées par les entreprises d’un portefeuille, sur l’ensemble de leur chaine de valeur (scope 1, 2 et 3). Carbon Impact Analytics mesure également les émissions induites et évitées par les produits et services vendus 
+- D’évaluer la contribution d’un portefeuille à la transition énergétique et climatique 
+Carbon Impact Analytics permet ainsi de mesurer les émissions de gaz à effet de serre associées aux actifs détenus et leur contribution à la réduction des émissions, obligation réglementaire introduite par l’article 173 de la loi de transition énergétique pour la croissance verte. C’est également un outil d’aide à la décision qui ouvre la possibilité de réorienter les investissements vers les entreprises qui contribuent à la transition énergétique et climatique, notamment grâce à la part « verte » de leur activité. 
+La méthode fournit aux gestionnaires d'actifs une analyse détaillée de l'impact carbone des entreprises d’un portefeuille, et permet de consolider les résultats à l’échelle du portefeuille. Dans cette première version, la méthodologie couvre les actions et les obligations de sociétés cotées sur un périmètre mondial. L’analyse, réalisée entreprise par entreprise, a pour objectif de favoriser la mise en place d’un dialogue avec les entreprises dans le temps. 
+Carbon Impact Analytics a été développé en collaboration avec Mirova, la filiale de Natixis dédiée à l’investissement responsable, et avec le soutien de la MAIF.
+Les principes méthodologiques de Carbon Impact Analytics
+Une analyse « bottom-up » L'analyse de l'impact carbone d'un portefeuille commence par une évaluation détaillée de chaque valeur, suivie d’une agrégation pondérée des résultats au niveau du portefeuille. L’analyse de Carbon Impact Analytics différencie ainsi les entreprises au sein d’un même secteur d'activité et valorise les efforts d’intégration des enjeux climatiques dans leur stratégie, afin de permettre la mise en place d’une stratégie de « Stock-Picking » selon des critères d’impact carbone.
+Une approche sectorielle avec une analyse détaillée pour les secteurs à « enjeu élevé » Les enjeux de la transition bas-carbone varient en fonction des secteurs économiques, tant en terme de leviers pour réduire les émissions que d’innovations. C’est pourquoi Carbon Impact Analytics propose une approche spécifique pour les secteurs présentant des enjeux élevés, avec une méthodologie adaptée à chaque secteur.
+L’évaluation quantitative des émissions (induites et évitées) est complétée par une note de tendance qualitative. Sur la base de ces éléments, une note globale est attribuée à chaque entreprise permettant d’évaluer sa contribution à la transition climatique. 
+Une présentation détaillée des résultats de l’analyse Carbon Impact Analytics permettant d’alimenter à la fois le reporting et la stratégie d’investissement Les résultats de l'évaluation Carbon Impact Analytics sont fournis de manière consolidée au niveau du portefeuille, ainsi que pour chaque entreprise. Ces résultats comprennent plusieurs indicateurs quantitatifs et qualitatifs, ainsi que des représentations statistiques au niveau du portefeuille.
+TÉLÉCHARGER LE GUIDE MÉTHODOLOGIQUE CARBON IMPACT ANALYTICS
+ Références : 
+Euronext lance la nouvelle version de son indice Low Carbon 100 Europe®
+CNP Assurances utilise Carbon Impact Analytics pour mesurer l’empreinte carbone de son portefeuille d’investissements en actions et sa contribution en faveur de la transition énergétique
+Exemple de résultats : l’impact carbone des investissements en Actions de Mirova
+Documentation : 
+"Carbon Compass – An Investor Guide on Carbon Footprinting" publié par Kepler Chevreux
+Règlementation : 
+Décret de l’article173 concernant les nouvelles obligations qui ciblent les gestionnaires d’actifs et les investisseurs institutionnels  

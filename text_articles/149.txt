@@ -1,0 +1,143 @@
+NB : Article publié sous une forme un peu résumée dans La Revue Durable de novembre 2002.
+Depuis le temps que j’explique à qui veut l’entendre qu’il est indispensable de calculer combien telle ou telle activité émet de gaz à effet de serre, il fallait quand même que je me décide à faire de même pour moi ! Cette page vous propose un exemple de calcul des diverses contributions aux émissions de ma maisonnée, avec quelques commentaires que j’espère utiles pour bien cerner quelques marges de manœuvre individuelles.
+Ces chiffres ont été obtenus avec les valeurs par défaut contenues dans la méthode « bilan carbone » sur laquelle j’ai travaillé pour l’ADEME. Le but du jeu n’est bien entendu pas de m’attribuer des bons points, mais juste de montrer où sont les principaux postes d’un particulier et donc, par voie de conséquence, où sont les marges de manœuvre si nous souhaitons faire baisser ces émissions.
+Energie pour le chauffage et le « confort tertiaire »
+Ma famille habite une maison chauffée au gaz naturel. Il s’agit toujours d’un combustible fossile (non renouvelable), même si c’est le moins riche en carbone qui soit (et donc celui donc la combustion fait le moins de CO2 pour une même quantité d’énergie fournie). Le relevé de nos factures de mi-2001 à mi-2002 indique une consommation annuelle de 32.000 kWh, ce qui signifie que, à raison de 225 grammes de CO2 par kWh environ, la chaudière émet 7,2 tonnes de gaz carbonique par an, que je peux convertir en un peu moins de 2 tonnes équivalent carbone par an.
+Le même gaz sert également au « confort tertiaire » (eau chaude, cuisson), donc toutes les douches (interminables chez ces dames) et toutes les cuissons de courgettes farcies sont comprises dans la facture en question.
+Nous consommons également de l’électricité, pour un total de 4.800 kWh par an, dont la production a conduit à l’émission de 400 kg de CO2, ou encore 111 kg équivalent carbone. Ailleurs dans la CEE, la même consommation d’électricité aurait engendré des émissions bien supérieures, l’essentiel de l’électricité y étant faite avec des centrales à fioul lourd, à charbon, ou à gaz.
+Pays Kg de CO2 émis pour 4.800 kWh % en plus par rapport à la France
+Allemagne 2.912 615%
+Autriche 1.211 197%
+Belgique 1.623 298%
+Danemark 4.269 948%
+Espagne 1.977 385%
+Finlandetn 1.933 375%
+Grèce 4.186 928%
+Irlande 3.799 833%
+Italie 3.232 694%
+Luxembourg 2.859 602%
+Pays-Bas 3.159 676%
+Portugal 2 544 525%
+Royaume-Uni 2.810 590%
+Suède 421 3%
+USA 2.970 629%
+Japon 2.340 475%
+Lesquelles de nos actions passées ont fait baisser ces émissions ?
+Nous avons fait changer la chaudière à fioul – trouvée en entrant – pour une chaudière à gaz (à confort identique : gain de 2,3 tonnes de CO2, ou encore 600 kg équivalent carbone), avec une régulation qui baisse la température la nuit,
+Nous avons fait poser des doubles vitrages partout,
+Et surtout…nous avons sorti les pulls ! Il fait 18 à 19 °C dans la maison dans la journée, et 15 °C la nuit (cela étant c’est très supportable, et même bien plus agréable pour dormir).
+Quelles sont nos marges de manœuvre restantes ?
+installer un chauffage solaire, au moins pour l’eau chaude (gain probable de 200 kg équivalent carbone, en ordre de grandeur, pour l’eau chaude ; 1 tonne équivalent carbone pour un chauffage complet, qui suppose d’installer des planchers chauffants partout).
+Si nous habitions à la campagne : installer un chauffage central au bois (local) : gain de la quasi totalité du poste « chauffage »,
+renforcer encore l’isolation (gain de 50% ou plus, mais au prix de travaux importants),
+baisser encore le thermostat (7% de gain par degré de baisse),
+et finalement…déménager pour une maison plus petite !
+Que pourrions nous au contraire faire pour augmenter nos émissions ?
+revenir au fioul, ou au charbon,
+demander à EDF d’abandonner le nucléaire, ou, si il devient possible de se fournir auprès d’une autre compagnie électrique qui possède des centrales à gaz (ou encore pire, à charbon), changer de fournisseur (en faisant cela je pourrais aller jusqu’à multiplier les émissions de ce poste par 10 !),
+monter le thermostat et vivre en tee-shirt toute l’année,
+agrandir la maison : cela engendrerait de grosses émissions pour la fabrication des matériaux de construction (voir 3è tableau de cette page) puis un accroissement de la quantité d’énergie pour se chauffer,
+installer une climatisation pour l’été.
+Energie pour le travail
+Les adultes de par chez nous comportent une femme et un homme (c’est d’un classique…). Ma femme, dite « au foyer », n’occupe donc pas un autre local dans la journée, et je suis travailleur à domicile, ce qui signifie également que je n’engendre pas d’émissions au titre de mon activité professionnelle en dehors de mon domicile. En effet, toute personne qui travaille en dehors de chez elle engendre une consommation d’énergie pour le chauffage du local ou elle travaille et le confort tertiaire (eau chaude, cantine du personnel, ascenceurs, etc…) et il faut bien sur en tenir compte dans les émissions par personne.
+Les émissions correspondantes, pour ce qui me concerne, sont déjà comprises dans les factures de gaz et d’électricité pour la maison. Le fait de travailler à domicile (bien qu’au foyer, ma femme turbine drôlement aussi !) engendre donc un gain estimé à 1,8 tonne de CO2 (0,5 tonne équivalent carbone) par adulte concerné. Pour les chiffres qui me servent de référence, voir étude sur ce sujet.
+Quelles sont nos marges de manœuvre restantes ?
+pas grand chose….
+Que pourrions nous au contraire faire pour augmenter nos émissions ?
+prendre un bureau à l’extérieur.
+Energie pour les services publics
+La scolarité étant obligatoire jusqu’à 16 ans (et généralement prolongée un peu au-delà) mes enfants vont à l’école. Cette dernière est chauffée, fait appel à des enseignants qui viennent en voiture, etc. Par ailleurs je paye des impôts (pas trop à mon goût, car je suis ravi d’avoir des services qui vont en face, mais je les paye assurément de manière trop compliquée parfois !), suis administré par une équipe municipale, suis défendu par une armée, etc, donc je « consomme » des services publics très variés.
+Je ne sais pas exactement comment je peux m’imputer une partie des émissions engendrées par ces services, mais j’en suis assurément « propriétaire ». Je ne serais pas étonné de savoir que quelques centaines de kg de CO2 se « cachent » derrière cette consommation de services publics.
+Quelles sont nos marges de manoeuvre restantes ?
+difficile à dire !
+Que pourrions nous au contraire faire pour augmenter nos émissions ?
+mettre nos enfants en internat : il faut alors construire un internat, le chauffer, etc, et si dans le même temps nous ne déménageons pas pour une surface de maison plus petite, cela augmente les émissions globales,
+et pour le reste, je n’en sais trop rien….
+Transports
+Nous disposons d’une voiture, qui nous sert pour environ 12.000 km/an à faire des déplacements longs (de type vacances) et, pour une faible part (disons 2.000 km/an), quelques déplacements de proximité. Elle consomme de l’ordre de 10 litres aux 100 sur autoroute (où nous faisons l’essentiel de nos transhumances) et je prends forfaitairement le double pour les déplacements de proximité (ce qui est probablement un peu trop, mais enfin cela permet de tenir indirectement compte des émissions liées à sa fabrication et à la construction des routes). En tenant également compte des émissions des raffineries, cela conduit à environ 4 tonnes de CO2 par an, soit 1.100 kg équivalent carbone.
+Qu’avons nous déjà fait pour faire baisser ces émissions ?
+Nous avons choisi d’habiter en un endroit bien desservi par les transports en commun (je n’ai donc jamais de déplacements professionnels en voiture pour aller sur Paris, et cela limite aussi très fortement les besoins d’accompagnement en voiture des enfants), ce qui limite l’essentiel de notre kilométrage aux déplacements pour vacances,
+On retrouve ici le bénéfice du travail à domicile (gain probable de quelques centaines de kg équivalent carbone par rapport à la situation où je prendrais ma voiture pour aller travailler quotidiennement à 10 km de chez moi), et il est exceptionnel que je fasse des déplacements professionnels autrement qu’en RER ou en train (je ne prends plus l’avion pour le travail : si c’est trop loin, je n’y vais pas et j’utilise Internet !),
+On retrouve aussi ici le bénéfice…..de la femme au foyer ! C’est peut-être très peu politiquement correct à dire, mais c’est un fait que de ne pas aller « au travail » supprime la nécessité d’une deuxième voiture (que tous nos voisins dont les deux conjoints sont actifs possèdent), et du kilométrage correspondant : ce n’est pas rien….
+Nous effectuons nos déplacements de proximité (marché, supermarché, accompagnement des enfants à l’école…) à pied ou à vélo le plus souvent possible, (mais ma femme et moi avons parfois quelques divergences sur ce que devrait précisément recouvrir « le plus souvent possible » !)
+Nous essayons – et depuis 8 ans nous y parvenons – de ne plus prendre l’avion pour les loisirs (un aller-retour Paris-New York, c’est, par personne, quasiment 4 tonnes équivalent CO2, ou encore une tonne équivalent carbone).
+Quelles sont nos marges de manœuvre restantes ?
+abandonner totalement la voiture pour les déplacements de proximité, souvent au prix d’un allongement du trajet, mais :
+quand on cherche c’est étonnant le nombre d’endroits qui sont desservis par des transports en commun (souvent des bus),
+augmentation du temps de déplacement ne signifie pas nécessairement perte de temps : j’en profite pour lire, travailler… toutes choses que je ne pourrais pas faire en voiture.
+partir en vacances en train !
+Que pourrions nous au contraire faire pour augmenter nos émissions ?
+fastoche : acheter une deuxième voiture et ne rouler qu’en Range Rover ou en Porsche, être en permanence fourrés dans un avion (comme certains grands écologistes du reste !), déménager loin de tout….
+Alimentation
+Toute mise à disposition d’aliments engendre des émissions de gaz à effet de serre :
+les céréales, fruits et légumes nécessitent des engrais (l’agrochimie est une industrie très gourmande en énergie), de la force mécanique (tracteurs) donc de l’essence, du transport jusqu’au magasin, donc encore de l’essence, etc.
+la production de viande requiert une production végétale très importante : il faut quelques kg de céréales pour faire un kg de cochon ou de volaille de bonne qualité, mais surtout jusqu’à 50 pour faire un kg de bœuf.
+la pêche nécessite aussi de l’essence pour la bateau, puis pour le transport du poisson…
+tout produit de l’industrie agro-alimentaire (ca fait beaucoup de choses : pas seulement les boissons sucrées et les pizzas surgelées, mais aussi les yaourts, biscuits, pâtes, chocolat, café soluble, lait en bouteille, etc…) engendre aussi des émissions pour son traitement en usine : chaîne du froid ou cuisson/chauffage, fabrication de l’emballage, construction de l’usine et transports (marchandises et salariés) dans tous les sens.
+J’ai eu la possibilité d’effectuer des approximation des émissions engendrées pour la production d’un kg d’aliments, et si j’applique cela à ce que je pense être nos achats annuels, j’obtiens le tableau ci-dessous.
+Aliments kg consommés par an pour la totalité du foyer grammes équ. carbone par kg d'aliments kg équ. carbone
+Pain, pâtes et riz 250 200 50
+Fruits et légumes 1560 150 234
+Boeuf 13 3560 46
+Veau 3 13650 41
+Mouton 5 3560 18
+Cochon 156 910 142
+Lait de vache 548 270 148
+Beurre 26 2000 52
+Fromage pâte crue 31 1500 47
+Fromage pâte cuite 52 3000 156
+Yaourts 274 490 134
+Poulet fermier 156 850 133
+Canard 5 680 3
+Oeufs 44 450 20
+Poisson 75 500 38
+Total 1261
+Il faudrait probablement que je rajoute 10% à 20% pour l’huile d’olive, la moutarde, les quelques paquets de gâteaux et quelques tablettes de chocolat que nous achetons aussi…
+Il faut aussi rajouter quelque chose pour la cantine des enfants (150 à 200 repas dans l’année quand même), et le restaurant que j’utilise nécessairement les jours où je suis absent toute la journée, et donc les émissions liées à la production et la préparation des aliments « hors du domicile ».
+Qu’avons nous déjà fait pour faire baisser ces émissions ?
+Nous mangeons de la viande une fois par jour seulement (mais un certain Coffe dit que c’est bien suffisant !) et surtout de la volaille et du cochon (beaucoup moins d’émissions par kg de poids).
+Presque tous les fruits et légumes que nous consommons sont de saison (pas de fraises, de tomates, de courgettes ou d’aubergines en février…), car sinon il faut les importer de pétaouchnock ou les faire pousser sous serre chauffée au fioul, ou les acheter surgelés, et tout cela engendre des émissions (de temps en temps nous faisons une petite entorse, quand même !),
+Nous achetons tout ce que nous pouvons aux producteurs locaux (maraîchers, volaillers au marché, etc), ce qui évite du transport longue distance (pas de haricots verts du Kenya ou de kiwis de Nouvelle Zélande arrivant par avion, ou même de fraises espagnoles par camion ; la seule exception notable concerne les oranges en hiver),
+Tous nos produits frais (fruits, légumes, viande, pain…) viennent de petits commerçants (notamment du marché), qui sont moins consommateurs de transports pour leurs approvisionnements que les grandes surfaces et ne nécessitent pas d’y aller en voiture (en outre, moins nous mettons les pieds à l’hypermarché, surtout si des enfants nous accompagnent, et moins nous achetons de choses inutiles, donc nous faisons même des économies !) : le supermarché ne sert que pour l’épicerie sèche (pâtes, chocolat, etc), les produits d’entretien et les laitages frais type yaourts (qu’il est devenu impossible de se procurer à doses non homéopathiques au marché).
+Nous n’achetons quasiment jamais de surgelés (la chaîne du froid est une très mauvaise affaire pour les émissions) ou de plats tout préparés (pour tous les plats tous prêts – surgelés compris – il faut fabriquer un emballage qui sera jeté et cela engendre des émissions significatives),
+Quelles sont nos marges de manœuvre restantes ?
+Devenir…..végétariens (gain de 0 à 2,5 tonnes équivalent CO2 par personne, ou encore 0 à 0,7 tonne équivalent carbone, selon que ce régime autorise encore le poisson – sur lequel nous compenserions surement ! – et donc les crevettes, qui sont probablement le produit de la mer le plus « riche en gaz à effet de serre », ou aucun produit animal autre que le fromage).
+Manger bio va dans le bon sens du point de vue des émissions, mais il faudrait faire un calcul (que je n’ai pas fait) pour démêler quelques effets contraires et savoir quel est le bénéfice exact :
+l’absence de recours aux engrais de synthèse azotés supprime les émissions de N2O des cultures et l’énergie – donc les émissions – de l’industrie chimique pour la fabrication des engrais ; à rendements constants c’est près de 50% de baisse que nous aurions,
+mais puisqu’on ne fertilise plus autant, les rendements à l’hectare sont en général inférieurs (les rendements de l’agriculture intensive ne sont pas « durables » du tout, car ils sont permis par des hydrocarbures abondants), or le trajet du tracteur dépend de la surface cultivée et non de la quantité de choses qui pousse. De ce fait la « quantité d’énergie du tracteur par tonne obtenue » augmente, mais pas au point de contrebalancer l’effet de l’alinéa précédent.
+enfin il faut bien sur que le produit bio ne vienne pas par avion de l’autre coté de la planète (ce que j’ai vu à plusieurs reprises) : le remède est alors pire que le mal !
+Que pourrions nous au contraire faire pour augmenter nos émissions ?
+manger un steack de 500 g par personne et par jour (rien que cela permettrait de faire grimper ce poste de quelques tonnes équivalent carbone !),
+manger un repas sur deux des surgelés Picard ou des plats tout prêts achetés en grande surface. Une incidente : beaucoup de gens m’expliquent que les grandes surfaces sont « plus économiques » que les petits commerces ou le marché. Globalement, c’est bien évidemment faux : si ce type de commerce permettait de dépenser toujours moins, cela ferait entrer l’économie en récession perpétuelle ! Même si le coût unitaire de chaque produit diminue (et encore, comparer n’a pas toujours un sens : ce ne sont pas les mêmes poulets que l’on achète en supermarché et directement chez un petit éleveur au marché), le montant global d’un caddie augmente sans cesse. Simplement ce dernier est rempli de choses « accessoires » que l’on ne trouve pas au marché mais dont l’utilité se discute : produits non alimentaires achetés « en passant » mais sans lesquels nous vivions très heureux avant de les avoir achetés, produits alimentaires à l’intérêt controversé (boissons sucrées, zinzins à apéritif, chips, etc). Les grandes surfaces proposent aussi des aliments bien plus chers que si nous les préparons nous mêmes (le prix au kg des plats tout prêts ou des surgelés incorpore notamment la main d’oeuvre de l’agroalimentaire et le coût des transports intermédiaires, donc est nécessairement supérieur à l’équivalent préparé à la maison. Si c’est moins cher en apparence, c’est que les ingrédients ne sont pas les mêmes !).
+Achats de produits manufacturés
+L’essentiel de nos achats de produits manufacturés concerne :
+le remplacement occasionnel de l’électroménager, mais les émissions de fabrication de ces appareils sont marginales devant les émissions liées au fonctionnement,
+un ordinateur tous les 2 ou 3 ans en ce qui concerne mon travail (par obligation plus que par plaisir) avec une émission correspondante de l’ordre de 300 kg équ. carbone par achat (je n’ai jamais eu l’occasion de calculer en détail),
+quelques vêtements, CD, jouets à Noël… Mon expérience est que comparées aux émissions de chauffage et de transport les quantités en cause sont secondaires si la consommation de tels produits reste modeste (et objectivement nous n’achetons pas un pantalon par jour !). Disons que nous rajouterons 15% au total pour tenir compte de tous ces achats, dépenses d’entretien de la maison comprise.
+Poubelles
+Même si nous essayons de faire en sorte de ne pas trop jeter (notamment en évitant d’acheter des produits avec des emballages empilés l’un sur l’autre quand nous pouvons acheter les mêmes sans), nous avons bien évidemment des choses dans notre poubelle. Sans l’avoir pesée précisément, je pense qu’elle contient au maximum 20 kg de déchets par semaine soit, en supposant que sa composition soit « standard », une émission correspondante d’environ 400 kg équivalent carbone (voir détails).
+Loisirs
+Quand nous partons en vacances, nous louons des endroits où dormir. Ces lieux, que ce soit un gite rural ou un bateau à voile, il a fallu les construire, et cela engendre des émissions, et l’hiver il faut les chauffer, ce qui engendre aussi des émissions. En faisant un petit prorata temporis, les émissions de ce poste sont estimées à 20% du poste « chauffage » de notre maison, soit 400 kg équivalent carbone au total.
+Qu’avons nous déjà fait pour faire baisser ces émissions ?
+nous ne voyageons jamais loin, et jamais par avion.
+Quelles sont nos marges de manœuvre restantes ?
+elles sont en fait incluses dans les autres postes. Par exemple nous pourrions pratiquer des activités qui ne nécessitent aucune conduite de voiture (faire la voile sans aller – en voiture, hélas, vu le barda à trimballer – jusqu’à la côte est difficile !),
+Que pourrions nous au contraire faire pour augmenter nos émissions ?
+prendre l’avion à chaque vacances (là nous pouvons doubler le total de la maisonnée assez facilement)
+plus marginalement, jouer au golf ou pratiquer un « sport » motorisé….
+Total
+Si l’on excepte quelques contributions diverses supplémentaires auxquelles je pense (adduction d’eau, qui consomme de l’énergie ; traitement des eaux usées, qui en consomme aussi ; achats de services récurrents tels téléphone ou assurance, ou non récurrents tels que plomberie ou peinture de temps à autre, etc) ou auxquelles je ne pense pas, ma maisonnée engendreà peu près les émissions suivantes :
+Poste Emissions annuelles en kg équivalent carbone
+Chauffage/eau chaude 2100
+Energie pour le travail 0
+Transports 1100
+Alimentation 1300
+Loisirs (hébergement seul) 400
+Déchets 400
+Total avant achats 5300
+Achats de produits manufacturés 700 *
+Total (année de référence 2001/2002) 6000
+(*) Ce montant correspond à peu près à un achat total de l’ordre de 500 kg de produits par an.
+Comme nous sommes 6 personnes à habiter dans notre maison, il est assez facile d’en déduire que nous avons une émission par tête égale à une tonne équivalent carbone.
+Cela représente à peu près la moitié de l’émission moyenne par Français (tous gaz à effet de serre confondus). Cette modestie apparente doit un peu à toutes les raisons mentionnées ci-dessus dans les chapitres « Qu’avons nous déjà fait pour faire baisser ces émissions ? », mais aussi à l’absence de comptabilisation des services publics, et largement au fait que certaines émissions ne sont généralement pas ajustées à la baisse quand la taille de la famille diminue. Par exemple, si nous conservons la même maison une fois les enfants partis, nous augmenterons mécaniquement les émissions de chauffage par tête d’autant, et le même raisonnement s’applique au véhicule familial.
+Cet exemple illustre cependant que l’on peut déjà, au prix de quelques efforts ni très coûteux ni très contraignants, être un peu plus sobre que la moyenne, et je n’ai ni l’impression de vivre comme un moine, ni celle d’être malheureux comme les pierres ! Il n’en reste pas moins que chaque membre de Janco & co est encore deux fois trop émetteur si l’objectif est d’arrêter d’enrichir l’atmosphère en gaz à effet de serre : y parvenir ne sera pas trivial, et bouder les marges de manœuvre « faciles » (telles le nucléaire) rendra encore plus ardu le recours aux marges de manœuvre « difficiles » (mais souhaitables) : les économies d’énergie résultant d’une baisse de la consommation matérielle et les énergies renouvelables. 

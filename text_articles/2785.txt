@@ -1,0 +1,51 @@
+Vous avez été des milliers à simuler votre empreinte carbone et presque autant à paniquer en comparant l’objectif (moins de 2 tonnes CO2eq/an) et la part de l’empreinte carbone des services publics. Ces fameuses 1.3t qui s’affichent et qui laissent très peu de place avant de dépasser les fameuses 2 tonnes…
+Source : https://bonpote.com/comment-calculer-son-empreinte-carbone/
+Que représentent les services publics ?
+Les services publics englobent les services de l’Etat, ses établissements publics et ses opérateurs. Les 2.4 millions de français.es qui y travaillent ont vocation à jouer un rôle moteur dans la transition écologique : comment les citoyens pourraient accepter de changer leurs habitudes si l’Etat et ses employés ne montrent pas l’exemple ?
+Nous interagissons quotidiennement avec les services de l’Etat. Voici une liste des actions non exhaustives de choses dont nous pouvons jouir grâce aux services publics, à l’instar du passeport pour les w-e à Bali ou le casier judiciaire pour Patrick Balkany :
+Source : https://www.service-public.fr/
+Les services publics représentent une énorme machine étatique comprenant en tout 16 ministères, où chaque ministère doit rendre un bilan annuel dans le cadre des plans ministériels d’administration exemplaire (PMAE). Voici la liste des ministères, avec en lien à chaque fois le bilan le plus récent :
+Ministère de l’Intérieur Ministère des Armées Ministère de la Culture Ministère de l’Action et des comptes publics
+Ministère de la Transition écologique et solidaire  Ministère de la Cohésion des territoires Ministère du Travail Ministère de l’Enseignement supérieur, de la recherche et de l’innovation
+Ministère de la Justice Ministère des Solidarités et de la santé Ministère de l’Éducation nationale Ministère des Outre-mer
+Ministère de l’Europe et des Affaires étrangères  Ministère de l’Économie et des finances Ministère de l’Agriculture et de l’alimentation Ministère des Sports
+Tableau : Bon Pote. Sources: https://side.developpement-durable.gouv.fr/EXPLOITATION/ACCRDD/pmae.aspx
+3 points clefs à retenir
+C’est un travail titanesque de tout analyser (10 pages pour l’Outre-Mer, 204 pour la culture…), mais voici quelques points clefs :
+Il existe des indicateurs ministériels qui permettent non seulement de voir les progrès réalisés par chaque ministère d’année en année, mais aussi de faciliter une lecture transversale des documents.
+Certains ministères sont bien plus transparents et à jour que d’autres. Certains ont des chiffres récents (2018) quand d’autres ministères, comme celui de l’armée, ne disposent que de chiffres datant de 2015.
+Le détail des émissions n’est parfois pas très clair et le détail des scopes 1, 2 et 3 est très mauvais. J’ai eu l’impression de lire le bilan des boites du CAC40… C’est pourtant indispensable pour piloter avec efficacité la transition afin de tendre vers l’objectif numéro 1 : la neutralité carbone.
+Comment les émissions des services publics sont réparties
+Lorsque vous simulez votre empreinte carbone sur NosGestesClimat, vous obtenez un chiffre de 1.3t CO2eq. Que signifie ce chiffre ? Il correspond tout simplement à l’empreinte totale des services publics en France, divisée par le nombre d’habitants. Deux bonnes nouvelles :
+La première, et c’est la seule fois que cela est possible, tous les français.es ont la même empreinte carbone pour le poste ‘services publics’ ! En effet, que vous soyez étudiant.e ou retraité.e, milliardaire ou blogueur dans le sous-sol de votre voisin, c’est la même chose ! Nous avions vu dans une infographie que les émissions avaient tendance à augmenter avec votre revenu. En revanche, comme vous pouvez le constater ci-dessous, que votre ménage soit parmi les moins ou les plus aisés de France, le poids des services publics est le même :
+Source : Bon Pote
+Deuxième bonne nouvelle, les services publics devront aussi être neutres en carbone d’ici 2050 et donc ne plus être un ‘poids’ dans votre empreinte carbone ! Cela veut dire que vous pourrez enlever les 1.3t CO2eq de votre empreinte en 2050, en espérant que l’Etat, ses établissements publics et ses opérateurs fassent le nécessaire pour atteindre la neutralité carbone.
+Pour atteindre cette neutralité, cela signifie que chaque ministère, chaque opérateur, chaque agence devra initier un agenda de transformation écologique et environnemental qui irriguera l’ensemble de leurs métiers et activités, donnant un nouveau souffle à la dynamique de modernisation du secteur public. Nous verrons ci-dessous les 6 thématiques sur lesquelles les ministères devront travailler.
+Que fait l’Etat pour baisser cette empreinte carbone ?
+Au même titre que le secteur privé, l’Etat doit aider les services publics à se réformer pour qu’ils puissent le plus rapidement possible être neutres en carbone. En lançant le plan Services publics écoresponsables, le 4e Conseil de défense écologique qui s’est tenu le 12 février 2020 a eu pour ambition d’accélérer la transition écologique des services publics dans leur fonctionnement et leurs missions. Vous trouverez ci-dessous une infographie regroupant les 20 mesures, regroupées en 6 thématiques :
+Infographie : E&Y. Source : https://www.service-public.fr/particuliers/actualites/A13936
+En analysant les différents bilans des 16 ministères, nous constatons sans surprise que les deux plus gros postes d’émissions sont les transports et les bâtiments, suivis par les déchets et l’alimentation. Les émissions sont très hétérogènes selon les ministères : par exemple pour celui de l’Armée, le carburant occupe une place importante de l’empreinte carbone, alors que pour le ministère de l’éducation c’est plutôt le bâtiment.
+Aussi, chaque ministère aura ses propres priorités dans son objectif de neutralité carbone et devra axer ses efforts en fonction. Voici un guide de colibris d’actions proposées aux 2.4 millions d’agents publics de l’Etat mobilisés pour la transition écologique. Lisez-le, vous verrez tout de suite que nous sommes sur la bonne voie.
+Pourquoi observe-t-on une différence dans les différents simulateurs ?
+En parcourant l’ensemble des simulateurs disponibles, nous pouvons nous rendre compte que l’empreinte carbone des services publics diffère selon les simulateurs. En effet, voici 4 résultats différents :
+Le gouvernement : 1,1 t CO2 eq pour les services de santé, d’éducation et autres services publics
+Le simulateur Ademe : 1.3 t CO2 eq, chiffre provenant d’une étude Carbone 4 de 2010… et mis à jour 1,1 t CO2 eq pour s’aligner sur le gouvernement (attention l’explication n’est pas mise à jour)
+MYCO2, simulateur de Carbone 4 : 1.7t CO2 eq
+Regis Janvier : 1.5 CO2 t eq , actualisation sectorielle selon les données 2010 de Carbone 4 et du site statistiques.developpement-durable.gouv.fr.
+Tout d’abord, et c’est un réflexe à avoir systématiquement lorsque vous regardez les données d’empreinte carbone : regardez l’ancienneté. Les données évoluent d’année en année, et malheureusement, les chiffres ne sont pas forcément décroissants. Ensuite, il s’agit de l’empreinte carbone… Et l’empreinte carbone est bien plus difficile à calculer que l’inventaire national ! Le chiffre final dépend avant tout d’un choix méthodologique.
+L’empreinte carbone de la France est un indicateur calculé par le Service des données et études statistiques (SDES). Le calcul de l’empreinte carbone d’un pays n’est pas encadré par des normes ou des règles internationales ou nationales (ce point est très important et pourtant très souvent omis). Il existe différentes approches méthodologiques. La modélisation macro-économique (calcul input-output) est la méthodologie privilégiée par le SDES.
+Bien sûr qu’au premier abord, on pense que c’est simple :
+P pour production intérieure
+M pour importations
+CI pour consommations intermédiaires
+DF pour demande finale
+Puis ensuite on continue de creuser…
+Puis
+Mon conseil : Soit vous faites confiance au service dont c’est le métier et vous vous en tenez aux ordres de grandeur…
+Soit vous prenez plusieurs mois de votre temps à analyser les données de chaque ministère à la virgule près, et vous pensez à m’envoyer le résultat par email… N’hésitez pas, je sens bien que les données de l’empreinte carbone de l’Armée seront très faciles à trouver !
+Le mot de la fin
+Avec 16 ministères et 2.4 millions d’employés, les services publics auront la difficile tâche de se réformer afin d’atteindre la neutralité carbone. Cas unique, leur empreinte carbone est partagée par tous les français de façon égale, puisque l’empreinte totale des services publics en France est tout simplement divisée par le nombre d’habitants.
+Que cette empreinte carbone soit de 1.1 ou 1.7 T CO2eq, elle devra tendre vers 0 et ne devrait pas être un poids à terme pour votre empreinte carbone personnelle. Compte tenu de la complexité de calcul de l’empreinte carbone, j’insiste sur l’importance de ne retenir que l’ordre de grandeur plutôt que de retenir un chiffre à la virgule près. D’ailleurs, une société où nous pourrions tout calculer à la virgule près serait-elle souhaitable ?
+Aussi, je profite de la conclusion pour lancer une invitation à la réflexion sur les services publics de demain. Nous pouvons affirmer sans aucune hésitation que les services publics actuels sont imparfaits et au minimum non soutenables. La gestion de la Santé depuis des années en France en est un très bel exemple, 2020 n’étant qu’une illustration parfaite de tout ce qui ne va pas avec le système économique actuel.
+Sans changement systémique, nous continuerons à accentuer la pression sur notre système de santé, rendant quasi impossible sa pérennité économique et écologique. En continuant ainsi, nous aggraverons les chances de voir d’autres pandémies arriver (sources : IPBES). Je ne sais pas vous, mais rester enfermé toute l’année ne m’intéresse pas vraiment.
+La réflexion ne s’arrête d’ailleurs pas à la Santé mais bien à tous les ministères : tout le monde devra faire des efforts. L’Etat devra être moteur de ce changement et tous ses employé.es devront montrer l’exemple. Cela concerne aussi bien l’Armée, l’Education, la Recherche… En d’autres termes : pour votre conférence d’1H30 à New-York… Zoom fera l’affaire. 

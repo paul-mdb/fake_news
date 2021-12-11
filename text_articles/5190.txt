@@ -1,0 +1,99 @@
+Vous êtes une entreprise et souhaitez rejoindre la Net Zero Initiative en 2021 ? Cliquez ici ! 
+ Le projet Net Zero Initiative, initié en juin 2018 et porté par Carbone 4 en collaboration avec une dizaine d’entreprises pionnières, et appuyé par un conseil scientifique de haut niveau, publie son référentiel de contribution des organisations à la neutralité carbone.  Ce document propose un langage commun à tous les acteurs souhaitant piloter leur action climatique de manière sincère, ambitieuse et transparente en vue de l’atteinte du zéro émissions nettes mondial, et en cohérence avec les instruments et méthodologies existants. Le temps est à l’action ; et pour agir le plus efficacement possible, l’alignement de tous les acteurs sur les mêmes priorités, les mêmes concepts, le même horizon, est un impératif. 
+Télécharger le résumé
+Download the Executive Summary
+Télécharger le référentiel
+Download the full Guidelines
+Visionner le webinar dédié
+Consulter le rapport 2020-2021
+ RÉSUMÉ
+Les engagements de « neutralité carbone » ou de « net zéro » du secteur privé se multiplient, présentés comme une réponse appropriée pour enrayer le réchauffement climatique et la dégradation écologique qui s’accélèrent sous nos yeux. Pourtant, la neutralité d’une entreprise ne fait l’objet d’aucune définition partagée, malgré de fortes déclarations du secteur non-étatique d’agir en cohérence avec la science. Carbone 4, au travers du projet Net Zero Initiative, propose d’apporter à ce concept une définition normative, associant ambition, transparence et efficacité.
+ COMPRENDRE LA NEUTRALITÉ CARBONE
+La seule neutralité carbone qui soit rigoureusement définie par la science est planétaire
+La science définit la neutralité carbone planétaire comme un équilibre entre les émissions de CO2 anthropiques et les absorptions de CO2 anthropiques. Retirer chaque année autant de CO2 que l’on en émet est la seule manière d’arrêter l’accumulation de CO2 dans l’atmosphère, et donc de stabiliser ultérieurement les températures. Pour respecter les objectifs 2°C ou 1,5°C, l’atteinte de cette neutralité carbone à l’échelle planétaire doit obligatoirement survenir avant la moitié du siècle. Et, pour respecter l’Accord de Paris, il faut non seulement atteindre cet objectif de « net zéro carbone » suffisamment tôt, mais aussi réduire suffisamment rapidement les émissions des autres gaz à effet de serre. Au sens du GIEC, « neutralité carbone » et « net zéro » veulent dire la même chose [1]. 
+Pour atteindre cette neutralité carbone globale, les sociétés humaines doivent agir sur deux grands leviers :
+La réduction des émissions - émissions de CO2 d'origine fossile et issues de la déforestation [2]
+L'augmentation des puits - afforestation/reforestation, techniques agricoles, solutions technologiques
+Compte tenu de l’effort requis, tant pour la baisse des émissions que pour l’augmentation des absorptions, l’atteinte de la neutralité carbone mondiale devra forcément aller de pair avec de profondes et radicales transformations sociotechniques. La neutralité carbone est un concept de rupture.
+"Neutralité carbone des entreprises" : le grand flou
+Les revendications de neutralité aujourd’hui faites dans le monde des entreprises se basent essentiellement sur un processus en trois étapes théoriques : « Mesurer, Réduire, Compenser ». Dans ce cadre, la « neutralité carbone » peut toujours s’atteindre chaque année, en « annulant » (ou « compensant ») immédiatement les émissions des organisations par le biais d’un achat de « crédits carbone ». 
+Mais ce raisonnement souffre de nombreuses limites, à la fois théoriques et pratiques. Tout d’abord, le périmètre des émissions prises en compte peut faire l’impasse sur les émissions les plus significatives dont dépend l’activité de l’entreprise. Ensuite, l’ambition de la réduction visée est rarement compatible avec la baisse de 3% à 7% par an des émissions mondiales nécessaire au respect de l’Accord de Paris. Enfin, l’idée même de « compensation » est basée sur des principes physiquement discutables (postulat d’équivalence entre une réduction à la source et un achat de crédit carbone, entre une émission immédiate et certaine et un évitement/absorption présumé et – dans certains cas – futur, etc.) et induit un biais psychologique du côté des acheteurs de crédits (croyance en la possibilité d’une « annulation » du problème climatique à peu de frais, etc.). Finalement, une seule et même étiquette, « neutre en carbone », désigne des initiatives privées d’ambitions très diverses, ce qui provoque un nivellement par le bas contre-productif. 
+De manière plus générale, chercher à définir la neutralité carbone en tant qu’état statique et individuel à l’échelle d’une organisation présente d’autres limites, notamment :
+L’atteinte possible chaque année d’un « zéro émissions nettes » rend invisible l’évolution des émissions réelles de gaz à effet de serre dans le temps, ce qui n’incite pas l’organisation à mettre en œuvre des actions effectives de réduction à la source.
+Puisque les émissions anthropiques dépassent de beaucoup la quantité de « compensation » disponible dans le monde, ce concept n’est pas universalisable et ne peut donc être considéré comme une solution viable à large échelle.
+Cela véhicule implicitement le message que la suppression du « risque climat » ne dépend que d’un jeu d’écritures comptables (« compenser »), ce qui anesthésie les collaborateurs et freine leur créativité face au problème à résoudre.
+En somme, le concept n’est pas fructueux. L’idée d’une « neutralité d’entreprise » atteignable par la compensation n’est pas à même d’enclencher l’action concrète à la hauteur du défi. En cohérence avec l’effort d’alignement de l’action des entreprises aux impératifs de la science climatique amorcée à la COP21, il est urgent d’opérer la mue de ce concept, et de proposer aux organisations un référentiel d’action sur la neutralité carbone qui soit à la hauteur de l’enjeu planétaire.
+Reconnecter la "neutralité d'entreprise" avec l'objectif de neutralité planétaire
+Pour cela, deux changements de paradigme s'imposent :
+1. UNE ENTREPRISE N’EST PAS NEUTRE : ELLE CONTRIBUE À LA NEUTRALITÉ
+Cela signifie en pratique que : 
+Le processus n'est plus statique, mais dynamique 
+L’entreprise doit viser non plus à atteindre une neutralité ponctuelle et immédiate, mais à gérer dynamiquement sa performance climat afin de maximiser sa contribution à l’atteinte de la neutralité mondiale. 
+L'objectif n'est plus individuel, mais collectif 
+Renoncer à une quête de « neutralité en propre » permet de comprendre l’insertion de son activité dans le reste du système. L’entreprise évalue alors la compatibilité de son activité avec un monde en chemin vers la neutralité carbone au travers de plusieurs indicateurs, non fongibles entre eux, qui reflètent mieux cette complexité systémique mais bien réelle.
+ 2. ON NE COMPENSE PLUS, ON CONTRIBUE
+Le financement de projets bas carbone en dehors de la chaîne de valeur d'une entreprise est une pratique utile pour la collectivité, car elle contribue au financement de l’atténuation et à la préservation ou au développement des puits pour des projets qui n’y parviendraient pas nécessairement sans aide extérieure. Comme évoqué plus haut, le problème survient lorsque ce financement est utilisé pour « annuler », « compenser » ou encore « neutraliser » les propres émissions de l'entreprise, ce qui incidemment contrevient aux règles de reporting carbone classiques [3]. 
+Le référentiel propose de ne plus utiliser le terme compensation, et de le remplacer par le terme contribution, qui ne porte pas implicitement l’idée d’une « annulation » des émissions par le biais du financement de projets. Le concept de financement carbone volontaire, qui permet d’accroître les flux financiers nécessaires au respect de l’Accord de Paris, est conservé.
+LES GRANDS PRINCIPES DU RÉFÉRENTIEL
+Le référentiel Net Zero Initiative offre aux organisations une manière de décrire et d’organiser leur action climat en vue de maximiser leur contribution à la neutralité carbone mondiale. 
+Le référentiel se base sur plusieurs principes clés : 
+1. Le mot « neutralité carbone » (ou « net zéro ») désigne uniquement l’objectif mondial d’équilibrage entre émissions et absorptions. Ce terme ne s’applique pas à une organisation. 
+2. Les organisations peuvent uniquement contribuer à la trajectoire vers cette neutralité carbone mondiale. 
+3. Les réductions d’émissions et les émissions négatives (aussi appelées « absorptions ») sont distinguées rigoureusement, et comptées de manière séparée. 
+4. Le concept de "contribution à la neutralité planétaire" est élargi au champ de la commercialisation de produits et services bas carbone. Les « émissions évitées » sont séparées en deux familles : celles qui correspondent à une réelle baisse absolue du niveau d’émissions, et celles qui ne sont qu’une « moindre augmentation » par rapport à la situation initiale. 
+5. La finance carbone peut déclencher des émissions évitées ou négatives, mais ne peut « annuler » les émissions opérationnelles de l’entreprise. Elle est comptée de manière séparée.
+LE TABLEAU DE BORD NET ZERO INITIATIVE
+Le référentiel est basé sur l’idée qu’une organisation doit, à son échelle, agir de trois manières complémentaires en vue de contribuer à la neutralité mondiale : 
+Pour contribuer à la baisse globale d’émissions, elle doit : 
+1. Réduire ses propres émissions directes et indirectes 
+2. Réduire les émissions des autres : 
+- En commercialisant des solutions bas carbone (à certaines conditions) 
+- En finançant des projets bas carbone en-dehors de sa chaîne de valeur 
+Pour contribuer à l’augmentation des absorptions mondiales, elle doit : 
+3. Augmenter les puits de carbone : 
+- En développant les absorptions de carbone chez soi et dans sa chaîne de valeur 
+- En finançant des projets d'absorption hors de sa chaîne de valeur    Chaque organisation est alors incitée à : 
+1. Mesurer sa performance sur ces trois dimensions ;
+2. Se fixer des objectifs ambitieux sur les trois en parallèle ; 
+3. Les piloter dynamiquement dans le temps.    Indicateur : Émissions induites. 
+Nature physique : Flux réel, absolu, d’émissions de GES dans l’atmosphère. 
+Description : Ce pilier incite l’organisation à évaluer et piloter la réduction de ses émissions absolues de gaz à effet de serre directes et indirectes au cours du temps. 
+Méthode : 
+1. Mesurer (chaque année, le plus souvent) les émissions, tous scopes confondus, grâce aux cadres de reporting classiques : ISO 14064/14069, Bilan Carbone, GHG Protocol 
+2. Fixer des objectifs grâce : 
+à des analyses par scénario effectuées en propre permettant de comprendre la dépendance des activités aux émissions chez soi et chez les autres ;
+à défaut, aux référentiels permettant de définir des trajectoires pour le secteur privé (Science-based Targets) ;
+à défaut aussi, aux scénarios globaux (GIEC, AIE, etc.), nationaux (Stratégie Nationale Bas Carbone, NDCs, etc.) et locaux (plans climat locaux, SRADDET, etc.) de décarbonation à décliner à l’échelle de l’organisation.
+3. Piloter dynamiquement la performance grâce à des outils d’évaluation dynamiques tels que ACT (ADEME, CDP).
+   Indicateur : Émissions évitées. 
+Nature physique : Différentiel de niveau d’émissions de GES par rapport à un scénario de référence, provoqué par une « intervention » de l’organisation sur son environnement. Attention : Il convient de déterminer si ce différentiel correspond, ou non, à une réelle baisse des émissions par rapport à l’existant (émissions « réellement réduites » vs. émissions « en moindre augmentation »). 
+Description : Ce pilier incite l’organisation à évaluer et augmenter ses contributions à la décarbonation de tierces parties : 
+- Soit sous l’effet de ses produits et services vendus qui viennent se substituer à un usage plus carboné chez les clients finaux ; 
+- Soit sous l’effet de financements de projets de réduction d’émissions hors de sa chaîne de valeur (achats de réductions d’émissions certifiées, prise de participation directe dans des projets, contrats d’énergie bas carbone sous certaines conditions, etc.). 
+Méthode : 
+1. Mesurer chaque année les émissions évitées par l’organisation en s’appuyant sur une batterie de méthodologies robustes et de scénarios de référence officiels (UNFCCC, labels de certification carbone domestiques, standards internationaux, etc.).
+2. Fixer des objectifs d’émissions évitées par les produits et par le financement de projets hors de la chaîne de valeur, afin de contribuer à la décarbonation des autres « au juste niveau » attendu de l’organisation compte tenu de l’effort collectif à fournir. 
+3. Piloter dynamiquement la performance et l’évaluer à l’aune de la trajectoire fixée.
+   Indicateur : Émissions négatives (ou « absorptions »). 
+Nature physique : Flux réel, absolu, de CO2 retiré de l’atmosphère. 
+Description : Ce pilier incite l’organisation à évaluer et augmenter sa contribution à l’augmentation des puits de carbone naturels et technologiques mondiaux : 
+- Soit dans sa chaîne de valeur, en développant ses propres puits de carbone (absorptions directes) ou ceux en amont (dans la supply chain) et en aval (au sein des clients ou utilisateurs finaux) 
+- Soit hors de sa chaîne de valeur, grâce à ses financements de projets de séquestration (achats de séquestrations carbone certifiées, prise de participation directe dans des projets, etc.) 
+Méthode : 
+1. Mesurer chaque année : 
+les émissions négatives dans la chaîne de valeur de l’organisation en s’appuyant sur les référentiels en vigueur (ISO 14064, GHG Protocol Guidance on Removals, etc.)
+les émissions négatives provoquées par le financement de projets, grâce à des méthodologies robustes (UNFCCC, labels de certification carbone domestiques, standards internationaux, etc.)
+2. Fixer des objectifs d’absorption de carbone hors et dans la chaîne de valeur, afin de contribuer à l’augmentation des puits « au juste niveau » compte tenu de l’effort collectif à fournir. 
+3. Piloter dynamiquement la performance et l’évaluer à l’aune de la trajectoire fixée. Suites à donner
+Ce référentiel est une première pierre posée pour engendrer un changement de paradigme majeur : le passage d’une déclaration autonome de neutralité à une action s’inscrivant dans un mouvement collectif.
+Le référentiel est utilisable dès à présent par les organisations, et notamment les entreprises. Des méthodes existent pour inventorier les émissions sur l’ensemble de la chaine de valeur, pour comptabiliser des émissions évitées par rapport à l’existant, et enfin pour comptabiliser les absorptions.
+Au regard de l’objectif de neutralité mondiale, ces méthodes sont parfois incomplètes, mais constituent une base sur laquelle commencer à travailler. Carbone 4 invite donc toute entreprise à s’emparer dès à présent de cette manière de voir les choses, pour déclencher l’action dans toutes ses composantes (dans la fonction commerciale et marketing pour les émissions évitées, dans la fonction production et organisation pour les émissions induites, dans la R&D, la stratégie et les finances pour l’ensemble des trois piliers…). Inscrire l’action de l’organisation dans un « chemin vers la neutralité globale » peut devenir, à la différence de la recherche court-terme d’un état individuel de neutralité, un projet qui embarque la totalité des collaborateurs.
+Il reste notamment à préciser ce que pourraient être les « justes » trajectoires sur chacun des piliers, étape essentielle pour qu’une entreprise donnée puisse ensuite se fixer des objectifs concrets de court terme, ainsi qu’une évaluation de l’ambition de ses engagements propres, qui devront concerner les trois piliers du référentiel.
+Une action climat ambitieuse du secteur privé passera donc par l’expérimentation dès à présent, puis, progressivement, par l’harmonisation des termes et des concepts utilisés. C’est pourquoi nous invitons l’ensemble des acteurs, entreprises, porteurs de projets, bureaux d’études, opérateurs de « compensation », et acteurs de la société civile à s’emparer des concepts décrits ici afin d’accélérer l’action collective vers le net-zéro mondial, à laquelle Carbone 4 espère avoir contribué avec le cadre de référence proposé ici.
+ AUTEUR : César Dugast (Carbone 4) 
+ CONTRIBUTION ET RELECTURE 
+Carbone 4 : Renaud Bettin, Alexandre Florentin, Luc Bachelet, Stéphane Amant, Alexandre Joly, Marion Moneuse 
+Conseil Scientifique : Olivier Boucher (Institut Pierre-Simon- Laplace), Richard Baron (European Climate Foundation / 2050 Pathways), Anne Bringault (Réseau Action Climat France), Benoît Leguet (I4CE), Michel Colombier (IDDRI), Dimitar Nikov (Ministère de la Transition Écologique et Solidaire), Marion Verles (SustainCERT / The Gold Standard), Minh Cuong Le Quan (Staterre), Alain Grandjean (Carbone 4 / FNH), Jean-Marc Jancovici (Carbone 4 / The Shift Project) 
+Entreprises : Christine Faure-Fedigan (ENGIE), Thibaud Brac de la Perrière (EDF), Philippe Tuzzolino (Groupe Orange), Jean- Manuel Canet (Groupe Orange), Marie-Thérèse Durand (Poste Immo), Dang Tran (Poste Immo), Sophia Garcia (Remade), Aurélia Menacer (Groupe RATP), François Garreau (Generali), Élodie Bressaud (Groupe BPCE), Christian Le Seach (Groupe BPCE), Nathalie Pons (Havas), Aurélien Painchaud (Havas), Sébastien Nunes (ClimateSeed) 
+Autres contributeurs : Gilles Dufrasne (Carbon Market Watch), Julia Grimault (I4CE), Claudine Foucherot (I4CE), Gabriella Cevallos (I4CE), Yann Briand (IDDRI), Augustin Fragnière (UNIL) 
+Graphisme : Théo Girard (Carbone 4) 

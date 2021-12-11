@@ -1,0 +1,24 @@
+ANNY CAZENAVE, CHERCHEUSE AU LABORATOIRE D’ÉTUDES EN GÉOPHYSIQUE ET OCÉANOGRAPHIE SPATIALES DU CENTRE NATIONAL DES ÉTUDES SPATIALES (LEGOS-CNES), RÉPOND À CES QUESTIONS :
+POURQUOI LE NIVEAU DE LA MER S’ÉLÈVE-T-IL ?
+Il y a deux grandes causes à la hausse du niveau des océans provoquée par le réchauffement climatique : la fonte des glaces continentales et l’augmentation de la température de l’eau. Quand celle-ci s’accroît, l’eau se dilate et la mer monte. C’est le même principe que celui du mercure du thermomètre qui, sous l’effet de la chaleur, augmente de volume, faisant s’élever son niveau.
+Depuis 25 ans, nous observons le niveau des mers grâce à des satellites altimétriques. Ils révèlent de fortes disparités régionales. Dans certaines régions, par exemple  dans l’Atlantique Nord-Ouest, le Pacifique Tropical Ouest ou l’Océan Austral, la hausse a été deux à trois fois plus rapide que la hausse moyenne. L’océan s’est réchauffé, mais la quantité de chaleur stockée n’est pas partout la même. Là où il stocke le plus de chaleur, l’eau s’y dilate plus et l’élévation y est plus importante.
+QUELLE EST L’ÉLÉVATION ACTUELLE DU NIVEAU DE LA MER ?
+Depuis 1900, le niveau de la mer a monté d’à peu près 25 cm en moyenne globale avec une accélération nette : sur les 25 dernières années, l’élévation a été d’environ 8 cm à l’échelle de la planète, soit en moyenne 3 mm par an [1]. On observe aussi une très nette accélération de la hausse du niveau moyen de la mer depuis le début des années 1990 [2]. Cette accélération résulte principalement de la fonte accélérée des glaces continentales, en particulier au Groenland et en Antarctique.
+Mais si l’on regarde dans les régions où le niveau monte le plus, on atteint dans le même temps une élévation de 25 cm, donc pratiquement trois fois supérieure à la moyenne globale !  Les îles basses du Pacifique Tropical Ouest comme Tuvalu, Kiribati, les Philippines et la Nouvelle Guinée sont très affectées par elle [3] [4].
+Pour l’heure, les impacts de cette élévation se font surtout ressentir lors d’évènements extrêmes comme les cyclones tropicaux ou les tempêtes hivernales à nos latitudes : plus la mer est haute lors de leur survenue et plus les zones submergées sont alors importantes.
+A QUOI DOIT-ON S’ATTENDRE À L’AVENIR ?
+Le niveau de la mer va continuer à s’élever avec certitude. L’océan stocke plus de 90 % de l’excès de chaleur lié à nos émissions de gaz à effet de serre. Donc même si nous arrêtions ces émissions, la mer continuerait à monter pendant plusieurs siècles à cause de la chaleur déjà stockée dans l’océan et de la longue durée de vie du dioxyde de carbone accumulé dans l’atmosphère.
+Dans les projections actuelles, si le rythme de nos émissions ne change pas, cette élévation pourrait atteindre autour d’1 mètre, voire plus, en moyenne globale à l’horizon 2100 [5]. En plus d’augmenter les dommages des évènements météorologiques extrêmes comme les tempêtes et les ouragans, la hausse du niveau de la mer aura un impact direct sur le recul du littoral. Par exemple, on sait qu’à 1 m au-dessus du niveau actuel, la moitié de la Camargue va être inondée.
+Et si on ne limite pas nos émissions, il faut s’attendre à terme à une élévation de plusieurs mètres [6].
+De plus, dans certaines régions, on observe un enfoncement des sols lié au pompage des eaux profondes, particulièrement en Asie du Sud-Est. Des grandes villes comme Jakarta, Bangkok ou Tokyo se sont enfoncées de plusieurs mètres au cours des dernières décennies [7]. Ceci amplifie les risques liés à l’élévation du niveau de la mer [8]. La recherche collecte actuellement des données précises sur les zones côtières pour comprendre ces phénomènes et anticiper la combinaison de ces dangers.
+RÉFÉRENCES
++
+[1] Organisation météorologique mondiale. Changement climatique: signaux et conséquences se confirment en 2018, 29 novembre 2018
+https://public.wmo.int/fr/medias/communiqu%C3%A9s-de-presse/changement-climatique-signaux-et-cons%C3%A9quences-se-confirment-en-2018
+Graphique “Global Mean Sea Level 1993-2018”
+Tableau “Summary of key Climate Indicators in 2018”
+[2] Cazenave A., Palanisamy H. and Ablain M., Contemporary sea level changes from satellite altimetry: What have we learned? What are the new challenges? Advances in Space Research, Volume 62, Issue 7, 1 October 2018, Pages 1639-1653
+https://doi.org/10.1016/j.asr.2018.07.017,
+[3] CNES, Elévation régionale du niveau moyen des mers entre 1992 et 2018, Site Aviso +
+https://www.aviso.altimetry.fr/fileadmin/images/data/Products/indic/msl/MSL_Map_MERGED_Global_AVISO_NoGIA_Adjust.png
+[4] Benoit Meyssignac et al., Evaluating Model Simulations of Twentieth-Century Sea-Level Rise. Part II: Regional Sea-Level ChangesJournal of Climate 30 (21) · August 2017 

@@ -1,0 +1,52 @@
+Parmi les diverses actions qui sont périodiquement suggérées pour permettre de freiner la hausse des émissions de gaz à effet de serre, la possibilité de « taxer le carbone » revient souvent. Quel en serait le principe ? Tout simplement que tout ce qui émet des gaz à effet de serre ferait l’objet d’une taxe destinée à en dissuader plus ou moins fortement l’usage, un peu comme on taxe le tabac ou l’alcool.
+Je n’entrerai pas ici dans des considérations sur le fait que cette taxe est légitime ou non. Tout au plus ferais-je remarquer qu’il me semble difficile d’escompter une quelconque modération des émissions tant que cette modération n’offrira aucun avantage à court terme, et que la taxe est un instrument particulièrement efficace pour permettre à la vertu d’être récompensée (puisque le comportement vertueux est moins taxé). Il me semble aussi important de signaler que l’argument classique contre la taxe (elle est source de dépenses supplémentaires pour les ménages modestes) trouve ici trois éléments de réponse :
+Il existe de nombreuses solutions pour éviter une injustice sociale à l’occasion de l’instauration d’une taxe (il est possible, par exemple, d’en diminuer une autre au même moment).
+Bien que cela ne soit pas du tout politiquement correct à dire, le drame du changement climatique c’est que, aujourd’hui, même les émissions d’un magasinier de grande surface, d’un manœuvre ou d’un coursier sont « non durables ». En France, tout le monde, ou à peu près, habite un endroit chauffé l’hiver, et quasiment tout adulte en âge de conduire se déplace en voiture : aujourd’hui rien que cela suffit déjà à rendre les émissions « non durables ». Penser que l’on pourra réduire les émissions des pays industrialisés sans toucher aux émissions des ménages « modestes » est hélas un leurre.
+Enfin le monde étant fini les émissions finiront bien par baisser un jour. Parmi les autres alternatives il a y une pénurie croissante, qui aura à court terme le même effet que la taxe (un renchérissement des prix) mais à cette différence importante près que l’argent ne rentre pas dans la même poche : la taxe est de l’argent qui ne quitte pas le sol national (on prélève ici pour alimenter le budget et donc redistribuer là, sous forme de services tels santé, éducation, transports etc) alors qu’un choc pétrolier, c’est de l’argent qui sort pour payer plus cher les producteurs. La taxe n’affaiblit pas globalement l’économie (elle favorise ceux qui vendent les services aidés, même s’ils sont publics) alors que le choc pétrolier si !
+Si une telle taxe entrait en vigueur, quel montant serait opportun ? Il n’y a évidemment pas de réponse unique à cette question. Pour la pédagogie de l’exposé, j’ai pris un niveau qui a très peu de chances d’être retenu dans un premier temps si une telle taxe entre en vigueur : 1.500 euros la tonne équivalent carbone, ce qui représente en gros un doublement du prix de l’essence à la pompe.
+C’est donc beaucoup, mais c’est volontaire pour l’exercice : un niveau bien plus faible (de l’ordre de 100 à 150 euros la tonne de carbone, soit de 5 à 10 centimes en plus sur le prix de l’essence) ne permettront pas d’infléchir les comportements de manière compatible avec la diminution à atteindre.
+Toutefois un tel niveau de taxe n’est pas du tout insupportable si la société s’adapte en conséquence, et rien ne permet de dire qu’elle aurait un effet macro-économique négatif sur l’activité humaine (par contre elle aurait un effet certain sur la consommation d’énergie, mais il faut savoir ce que l’on veut !). Une modélisation macro-économique indique même que l’introduction d’une telle taxe est globalement neutre pour l’économie (Commissariat au Plan : Effet de serre, modélisation économique et décision publique, mars 2002).
+Sur la base d’un tel niveau de taxe, sans prétendre refaire à moi tout seul l’indice des prix de l’INSEE, je donne ci-dessous quelques exemples destinés à fixer les idées. Les valeurs indiquées sont dérivées de « contenus en carbone » que j’ai été amené à recenser (cas de l’électricité par exemple) ou à estimer (cas des autres rubriques) lors de divers travaux personnels.
+Electricité
+Le kWh en France verrait son coût augmenter de 3 centimes d’euros en moyenne (pour un prix actuel de l’ordre de 11 centimes d’euro), mais ce montant serait très différent pour les autres pays européens :
+Augmentations de prix, en centimes d’euro par kWh, que nous obtiendrions en supposant :
+qu’une tonne équivalent carbone est taxée 1.500 euros,
+que toute l’électricité consommée est d’origine nationale.
+Données de PriceWaterHouse, EDF, ADEME
+Ces différences viennent de la quantité très variable de gaz à effet de serre émis pour produire un kWh électrique en fonction de l’énergie primaire utilisée par la centrale. Si nous distinguons par type d’énergie primaire, l’augmentation de prix serait :
+en première approximation de 0 centimes d’euro par kWh pour les centrales nucléaires et hydrauliques (encore que les barrages sont peut-être des sources de méthane, qui est un gaz à effet de serre, comme les autres zones humides !), solaires à concentration et éoliennes (mais ces dernières sont rarement utilisables de manière autonome, ce qui pose un problème de méthode pour déterminer leur « contenu en gaz à effet de serre »)
+38 centimes d’euros par kWh pour le charbon (qui serait donc « sorti du marché » face à l’hydroélectricité et au nucléaire),
+18 centimes d’euros par kWh pour le gaz (qui serait donc aussi sorti du marché face à l’hydroélectricité et au nucléaire !)
+une somme allant de 2 à 4,5 centimes d’euros par kWh pour le solaire photovoltaïque (à cause des émissions liées à la fabrication des panneaux).
+Ce seul exemple illustre assez bien, à mon sens, tout ce qu’il y a de relatif à dire que telle ou telle forme de production d’électricité est « compétitive » (par exemple le gaz naturel). C’est évidemment facile d’être compétitif quand on comptabilise pour rien les dommages causés à l’environnement ! On voit bien qu’une comptabilisation – certes conventionnelle, mais pas à un niveau absurde – de la nuisance « effet de serre » rend la hiérarchie fort différente…
+Transport
+Voici ce qu’une taxe à 1500 euros la tonne de carbone engendrerait comme surcoûts sur les déplacements :
+en première approximation 0 euro par an pour des déplacements à pied, à vélo, en RER, en train électrique, à trottinette.
+pour 15.000 km par an en petite voiture en ville (8 l aux 100 en moyenne) : 1.300 euros environ
+pour 15.000 km par an en grosse voiture en ville (15 l aux 100 en moyenne) : 2.500 euros environ
+pour 50.000 km par an en moyenne/grosse voiture sur route (cas du VRP ; 8 l aux 100) : 4.400 euros environ
+pour un aller-retour transatlantique en avion : 1.100 euros environ en seconde (adieu l’hiver aux Caraïbes…)
+le même en bateau (sans naufrage) : environ 10 euros (bonjour les croisières).
+Chauffage
+Voici ce qu’une taxe à 1500 euros la tonne de carbone engendrerait comme surcoûts sur le chauffage d’une maison ou d’un appartement :
+pour 3.000 l de fioul dans l’hiver : 3.600 euros environ
+pour le même confort au gaz : 2.800 euros environ
+pour le même confort à l’électricité : tout dépend ! Si toute l’électricité vient de centrales à charbon : presque 10.500 euros (mais en France ce n’est pas le cas !). Si on ne tire que sur des centrales nucléaires et hydrauliques : à peu près 0…
+pour le chauffage au bois, si le bois provient de forêts replantées : pas grand chose (il faut déduire les émissions de la coupe, du débardage et du transport, qui représente l’équivalent de quelques euros)
+Alimentation
+Même ce que nous mangeons subirait les effets d’une telle taxe, mais ce n’est pas très étonnant quand on sait qu’en France la première source d’émissions est l’activité agricole :
+pour le bœuf et le mouton : environ 6 euros en plus par kg de carcasse chez le producteur (donc probablement jusqu’au double chez le boucher pour de la viande sans os) : adieu les steaks de 500 g….
+pour le poulet ou le porc : environ 1,5 euro de plus par kg avec os pour le poulet digne de ce nom (mais la moitié seulement pour le poulet de batterie, celui dont les os peuvent presque servir de chewing gum),
+pour la farine : environ 30 centimes d’euro de plus par kg, et pour les pâtes probablement 40 centimes en plus par kg,
+pour les lychees de la Réunion : environ 5 euros de plus par kg ; pour les oranges d’Espagne par camion : un peu moins d’un euro de plus par kg.
+D’une manière générale les fruits et légumes de saison (et les œufs) ne verraient pas leur prix augmenter de manière forte (sauf s’ils sont fortement emballés, voir ci-dessous), les volailles et cochonnailles augmenteraient un peu (de l’ordre de 1,5 euro le kg), le fromage prendrait jusqu’à 4 euros de plus le kg, le bœuf verrait son prix augmenter très fortement (doublement ou triplement). Le mouton, s’il est élevé dans des prairies non fertilisées (d’alpage par exemple) n’augmenterait « que » de 2 à 3 euros par kg.
+Les produits de l’industrie agroalimentaire (biscuits, yaourts, plats cuisinés surgelés…) subiraient des augmentations de prix allant de 1 à 10 euros le kilo (cela ne concerne probablement pas le caviar !).
+Les fruits et légumes importés de Pétaouchnok par avion (mangues, lychees, mais aussi haricots verts du Kenya) seraient « sortis du marché » par un surcoût de plus de 5 euros par kg.
+Enfin le poisson verrait son prix augmenter de 0,5 à 3 euros le kg.
+Produits manufacturés ou services
+Je n’ai pas fait de calculs détaillés pour tout ce que l’on trouve dans une boutique ! (calculs qui sont bien sur possibles si l’on a accès aux données ad hoc). Les données ci-dessous sont des ordres de grandeur.
+une petite voiture, pesant une tonne : environ 2.200 euros en plus ; une grosse jusqu’à 4.000 euros en plus
+un ordinateur :avec écran plat : une estimation au doigt mouillé donne 500 euros en plus,
+la construction d’une maison de 100 m² : environ 20.000 euros en plus
+une prime d’assurance ou une facture de téléphone de 1.000 euros par an : de l’ordre de 50 à 100 euros en plus (dépend du contenu en carbone de l’électricité utilisée par les services, entre autres choses).
+Tous ces montants sembleront peut-être déraisonnables, mais il faut garder une chose en mémoire : si 1.500 euros la tonne équivalent carbone semble un montant élevé dans un cadre volontaire, ce sera peut-être bien en-dessous de la réalité si la réduction n’est pas le fruit de notre souhait mais simplement la conséquence d’une régulation involontaire ! 

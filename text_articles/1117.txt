@@ -1,0 +1,53 @@
+Au vu des articles parfois passionnés paraissant sur la fiabilité des travaux des scientifiques se penchant sur l’évolution du climat, il est assez tentant de déduire que la science dans ce domaine s’appuie sur des travaux très récents qui demandent encore à être confirmés avant que nous n’agissions. En fait, certaines bases scientifiques de l’affaire ne datent pas d’hier….et sont même fort anciennes !
+Je vous propose ci-dessous une petite chronologie du réchauffement climatique, avec quelques années importantes liées à cette affaire.
+  Fin du 18ème siècle
+Horace Bénédict de Saussure, naturaliste suisse, construit un appareil constitué de cinq caisses de verre emboîtées les unes dans les autres, et place un thermomètre dans chaque caisse. Il observe que lorsque cet assemblage est exposé à la lumière du jour, plus l’on va vers le centre, et plus la température mesurée est élevée. Il comprend que le vitrage de la serre « piège » l’énergie solaire, et pense que l’atmosphère agit de même.
+1824
+Joseph Fourier, physicien français, publie « Remarques générales sur les températures du globe terrestre et des espaces planétaires« , où il expose que la température du sol est augmentée par le rôle de l’atmosphère, qui laisse mieux passer le rayonnement solaire que le rayonnement infrarouge émis par la Terre (voir aspects physiques de l’effet de serre), et s’inspire des travaux de Saussure pour baptiser cela « effet de serre ».
+1838
+Claude Pouillet, physicien français, attribue l’effet de serre naturel à la vapeur d’eau et au gaz carbonique. Il conclut que toute variation de la quantité de vapeur d’eau, comme de CO2, devrait se traduire par un changement climatique.
+1860
+Les propriétés optiques et radiatives des gaz atmosphériques sont étudiées par John Tyndall, physicien irlandais, qui confirme que les principales molécules responsables de cet effet de serre sont la vapeur d’eau et le gaz carbonique.
+1896
+Svante Arrhenius, chimiste Suédois (il recevra le Prix Nobel en 1903 pour des travaux liés à l’électrolyse) calcule qu’un doublement du gaz carbonique dans l’atmosphère engendrera une élévation de la température moyenne de la planète de 4°C, et prédit en conséquence que l’utilisation intensive des combustibles fossiles engendrera un réchauffement climatique.
+Dans un ouvrage publié en 1910 et intitulé « L’évolution des mondes » (titre français), il écrit :
+« L’acide carbonique doublerait-il en quantité, que nous gagnerions 4 degrés ; il devrait augmenter de quatre fois son volume actuel pour gagner 8 degrés. En même temps sa diminution accentuerait les différences de chaleur et de climat des différentes parties du globe ; son augmentation égaliserait au contraire la température »
+Cela signifie donc qu’il avait compris que dans une élévation globale, les pôles se réchaufferaient plus que les tropiques (L’acide carbonique était le nom alors donné au CO2).
+1902
+L’existence de la stratosphère est annoncée par Léon Teisserenc de Bort, lors d’un discours à l’Académie des Sciences (française). Sa découverte résulte de la mise au point des ballons sonde, dont il lâchera près de 300 exemplaires. Ses travaux aideront à comprendre que l’ozone est un gaz qui absorbe le rayonnement solaire (en fait les ultraviolets).
+1920
+Lewis Fry Richardson, un physicien anglais, tente une première expérience de modélisation du climat à partir des seules équations de la physique (sans ordinateur, bien sûr !). Il n’y parvient pas et conclut qu’il aurait fallu disposer de milliers de personnes pour effectuer les calculs élémentaires nécessaires.
+1947
+Les expéditions destinées à effectuer des prélèvements dans les fonds marins, lesquels ont été effectués pour la première fois vers 1850, connaissent deux épisodes importants : l’expédition suédoise sur l’Albatross, et les expéditions américaines de Maurice Ewing. Ces prélèvements ont joué un rôle majeur dans les reconstitutions des climats du passé.
+1950
+Julius Charney, directeur de l’Institute for Advanced Study de l’université de Princeton (Etats-Unis) développe, avec le mathématicien John von Neumann (pionnier des machines numériques), le premier modèle numérique de prédiction météorologique. Ces travaux sont permis par la mise au point, en 1946, du premier ordinateur ayant jamais existé : l’Electronic Numerical Integrator and Calculator (ENIAC).
+1950
+Création de l’Organisation Météorologique Mondiale (WMO pour l’acronyme anglais).
+1958
+Cette année, baptisée « année géophysique internationale« , voit le lancement des premiers satellites (dont Explorer 1 et les suivants de la série permirent la découverte des ceintures de Van Allen), et surtout le début de la mesure en continu de la concentration en gaz carbonique dans l’air à l’observatoire de Manau Loa (Hawaï), qui a permis de mettre en évidence l’augmentation de cette concentration, année après année, depuis lors.
+1966
+Des scientifiques américains réalisent le premier forage glaciaire au Groenland et extraient une carotte de glace de plus d’un kilomètre de long. De nombreux autres suivront, dont ceux de Vostok en Antarctique, réalisé par une équipe américano-russo-française (la partie scientifique est surtout russe et française, les américains ayant surtout fourni la logistique), d’où sera tirée la courbe devenue célèbre sur les variations simultanées du CO2 et de la température sur 400.000 ans.
+Années 1970 et 1980
+L’avènement progressif des ordinateurs et des satellites permet le développement rapide de la modélisation climatique. A cette époque c’est l’atmosphère seule qui est modélisée.
+Années 1980
+De nombreux programmes internationaux sur l’étude du climat sont lancés, visant à favoriser les collaborations inter-équipes et à comparer les résultats des recherches : World Climate Research Program (WCRP), CLIMAP (étude de climats du passé), PCMDI (comparaison des modèles climatiques), et encore bien d’autres…
+1987
+Création de l’Intergovernmental Panel on Climate Change (IPCC), dont la traduction française est Groupe Intergouvernemental sur l’Evolution du Climat (GIEC), sous l’égide de l’Organisation Météorologique Mondiale et du Programme des Nations Unies pour l’Environnement. Le rôle du GIEC est de faire périodiquement la synthèse des travaux scientifiques concernant l’impact de l’homme sur le climat.
+1990
+Le GIEC publie son premier rapport d’évaluation, qui conclut à la forte probabilité d’une influence humaine décelable sur le climat.
+Années 1990
+Début des simulations couplant modèles océaniques et modèles atmosphériques. Les premiers modèles incluant aussi la végétation apparaîtront à la toute fin de la décennie.
+1992
+Signature, lors du Sommet de la Terre à Rio de Janeiro, de la « Convention Climat« , qui sera ratifiée par la quasi-totalité des pays du globe. Cette convention propose de « stabiliser les concentrations de gaz à effet de serre dans l’atmosphère à un niveau qui empêche toute perturbation anthropique dangereuse du système climatique » et prévoit que les « parties » (c’est à dire des signataires de la Convention Climat) se réuniront à intervalles réguliers (actuellement une fois par an) pour la mise en oeuvre de cet objectif.
+1992
+Le gouvernement français crée la Mission Interministérielle de l’Effet de Serre.
+1997
+Signature, lors de la 3ème « réunion des parties », du protocole de Kyoto.
+2001
+Le GIEC publie son troisième rapport d’évaluation (le second a été publié en 1996), en 3 fois 800 pages. Il confirme que nos émissions massives de gaz à effet de serre vont modifier le climat, et que l’élévation de température enregistrée depuis un siècle est, pour une large part, très probablement le début de ce processus. Le prochain rapport est prévu pour 2007.
+2004
+En ratifiant le Protocole de Kyoto, la Russie garantit son entrée en vigueur le 16 février 2005.
+2007
+Le GIEC publie son quatrième rapport d’évaluation, aussi gros que le précédent.
+2014
+Le GIEC publie son cinquième rapport d’évaluation : 2500 pages pour le groupe 1 (la science du changement climatique), 2000 pour le groupe 2 (impacts et adaptation), 2000 pour le groupe 3 ! 

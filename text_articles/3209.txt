@@ -1,0 +1,84 @@
+Le fait de manger engendrerait des émissions de gaz à effet de serre ? Allons donc….. Et pourtant, le fait de manger pèse très lourd, en France, dans les émissions de gaz à effet de serre. Nous devons cela au fait que l’agriculture est responsable de l’essentiel des émissions pour les gaz à effet de serre autres que le CO2 : méthane et protoxyde d’azote.
+Contribution des diverses activités aux émissions  en France en 2004. Les transports internationaux ne sont pas comptés dans le total.
+A gauche, de méthane (CH4). L’agriculture contribue pour plus des deux tiers de l’ensemble.
+A droite,  de protoxyde d’azote (N20). L’agriculture contribue pour près des trois quarts de l’ensemble.
+Source : CITEPA, 2005.
+Par ailleurs, ces deux gaz (méthane et protoxyde d’azote) sont aujourd’hui responsables de près d’un tiers des émissions de gaz à effet de serre en France.
+Répartition par gaz des émissions en France pour l’année 2004, une fois les puits pris en compte.
+HFC, PFC et SF6 sont des gaz industriels appelés halocarbures.
+Le méthane (CH4) et le protoxyde d’azote (N2O) représentent presque un tiers des émissions.
+Source : CITEPA, 2005
+Sans grande surprise, la combinaison de ces deux informations amène l’agriculture à occuper la première place dans les émissions nationales si nous tenons compte de tous les gaz qui ont des émissions directes (ce qui exclut l’ozone).
+Répartition par activité des émissions en France pour l’année 2004, tous gaz à effet de serre (sauf ozone) pris en compte.
+Il s’agit des émissions brutes (je ne sais pas imputer les puits par activité !).
+(*) Le transport aérien international n’est pas pris en compte.
+On remarque que la première source devient alors l’activité agricole au sens large.
+Source : CITEPA, 2005
+Et si nous repartons au niveau mondial, cette place significative de l’agriculture reste valable, comme le montre cette décomposition par activité des émissions mondiales en 2004.
+Répartition par activité des émissions mondiales de gaz à effet de serre en 2004, tous gaz à effet de serre (sauf ozone) pris en compte, et après affectation des émissions liées à la production d’électricité et de vapeur aux secteurs utilisateurs.
+En clair les émissions liées à la production de l’électricité consommée dans l’industrie sont incluses dans les émissions de ce secteur, idem pour l’électricité consommée par les individus dans leurs logements ou les activités tertiaires dans leurs bureaux, etc). Il s’agit des émissions brutes.
+Pour le monde comme pour la France, la première source est aussi l’activité agricole (déforestation incluse).
+Sources primaires : AIE, 2001, et GIEC, 2000 ; petits calculs faits par votre serviteur
+Mais si nous voulons compter de manière exhaustive ce qui est nécessaire à notre alimentation, il faut regarder de manière un peu plus large que les seules émissions directes de l’agriculture. En effet :
+toute l’agriculture, à l’exception des surfaces cultivées en bio, consomme des engrais et des pesticides de synthèse, qu’il faut produire, et cela requiert de l’énergie fossile, donc engendre des émissions de CO2 (les engrais de synthèse sont produits à partir du gaz naturel : an sens propre, nous mangeons du gaz et du pétrole !).
+Si nous raisonnons à l’hectare, les engrais de synthèse représentent l’essentiel des émissions amont, les pesticides étant beaucoup plus marginaux pour les émissions de gaz à effet de serre. Par ailleurs les réactions chimiques intermédiaires de la production des engrais engendrent aussi du N2O. Bien sûr, les émissions liées à la fabrication de ces produits ne sont pas comptées dans le poste « agriculture », mais dans le poste « industrie », et en plus nous ne produisons, en France, qu’une partie des engrais de synthèse que nous utilisons, ce qui fait que les émissions correspondantes seront comptées dans le total national d’un autre pays (tant pis pour eux !).
+les dépenses consacrées à l’achat de produits « bruts », par exemple des légumes ou des fruits frais en vrac, ou de la viande fraîche, ne représentent plus que 20% de l’ensemble de ce que nous consacrons à l’alimentation (en moyenne). Le reste de nos dépenses est consacré à des productions de l’industrie agro-alimentaire : pâtes, conserves, surgelés, plats préparés, biscuits et confiseries, boissons, etc. Or ces industries consomment de l’énergie en direct, et donc émettent des gaz à effet de serre qui seront « inclus » dans les produits que nous achèteront ensuite : en France, 15% de la consommation d’énergie de l’industrie est le fait des industries agroalimentaires.
+ensuite ces produits sont généralement emballés. Il se trouve que la fabrication d’emballages consomme une fraction significative des matériaux « de base » que nous produisons (acier, aluminium, plastiques, etc). Tous usages confondus, cette production de matériaux de base est responsable de 70% à 80% des émissions de l’industrie, avec donc une partie de cet ensemble qui se retrouvera dans ce que nous achetons au supermarché.
+Répartition par usage des matériaux de base (acier, aluminium, ciment et assimilés, plastiques, verre) en Europe en 2001.
+L’emballage, qui ne concerne certes pas que les produits alimentaires, représente un quart des émissions liées à la production de « matériaux de base » : presque autant que les matériaux de construction !
+Sources : (données brutes) Eurostat ; APME
+continuons notre inventaire : une partie significative des transports routiers de marchandises concerne les produits alimentaires,
+Part des produits alimentaires et des engrais dans les transports routiers de marchandises en France en 2001 (proportion des tonnes.km).
+Source : Ministère des transports
+Comme on peut le voir sur le graphique ci-dessus, un tiers des camions qui nous font tant pester sur les routes transportent des produits finis ou intermédiaires de l’activité agricole. Il peut s’agir d’animaux vivants, de fourrages, de laits, de surgelés, etc. Incidemment, il est bien évident qu’à chaque fois que nous achetons des oranges espagnoles ou des raisins produits à 500 km du lieu d’achat, nous achetons du même coup le transport qui va avec, dont nous pouvons difficilement nous plaindre ensuite ! Le graphique ci-dessus ne tient pas compte des émissions liées au transport aérien ou maritime, pour lesquels je n’ai pas de données,
+enfin l’achat de ces produits transformés s’effectue souvent dans des grandes surfaces (alors que les marchés vendent majoritairement des produits frais), ce qui engendre des consommations énergétiques supplémentaires :
+il faut de l’électricité pour conserver les surgelés, surtout dans des présentoirs ouverts sur l’extérieur et des clients qui ne veulent pas se promener en manteau dans le magasin !
+il faut chauffer le magasin l’hiver et le climatiser l’été : l’énergie de chauffage et de climatisation des magasins représente, en France, entre 1,5 et 2 millions de tonnes équivalent carbone (électricité incluse, mais celle ci ne conduit pas à de grosses émissions puisqu’en France presque tout est fait avec du nucléaire et de l’hydroélectricité), c’est-à-dire entre 1 et 2% des émissions nationales.
+les grandes surfaces, qui absorbent 80% du commerce de détail de produits alimentaires (environ) sont souvent situées en périphérie de ville, donc nous y allons en voiture (ces émissions là ne sont pas comptées ici)
+et à la maison, il faut continuer à dépenser de l’énergie : réfrigération et congélation, cuisson, et même la râpe électrique des carottes ! La consommation électrique liée à l’alimentation (réfrigérateurs, congélateurs, lave-vaisselle, cuisson, sans compter le petit électroménager) représente 22% des kWh domestiques,
+puis nos emballages finissent à la poubelle, et là encore nous avons des émissions de gaz à effet de serre pour le traitement de fin de vie (même en cas de recyclage).
+enfin 25% du poids de ce que nous jetons est constitué de déchets alimentaires, et lorsqu’ils vont en décharge ces déchets conduisent à des émissions de méthane, probablement pas négligeable dans les émissions des déchets prises dans leur ensemble.
+Combien de gaz à effet de serre ça fait, tout ça ?
+Si nous essayons maintenant de faire un total de tout ce qui précède, cela nous amène au tableau qui suit, encore perfectible, mais qui donne une idée des postes :
+Poste Mtep Carbone Observations
+Emissions directes de l'agriculture 46
+Fabrication des engrais 0,8 Part française seulement. les émissions de fabrication totales sont peut être doubles ou triples.
+Transports routiers de marchandises 4,0 Part française
+Transports routiers de personnes 1 tIl s'agit d'une estimation personnelle prudente, car je suis incapable de connaître la part des déplacements en voiture qui correspond aux courses alimentaires. Les voitures émettent au total 20 millions de tonnes équivalent carbone, et le chiffre indiqué suppose que 5% correspondent aux courses alimentaires.
+Fabrication des camions et raffinage du gasoil 0,8
+Chauffage des magasins alimentaires (20% du total) 0,4
+Usages "alimentaires" de l'électricité 0,7
+Fabrication des emballages 1,5 Estimation de l'auteur à partir de statistiques CEE
+Gestion de fin de vie des emballages 1 Les émissions globables du secteur des déchets sont de l'ordre de 4 millions de tonnes équivalent carbone, et donc le chiffre retenu suppose que 25% viennent de l'incinération des emballages en plastique ou de la fermentation des déchets alimentaires.
+Emissions de méthane des déchets alimentaires 1
+Total des émissions rattachées à l'alimentation 56
+Emissions françaises en 2004 (CITEPA) 177 Il s'agit des émissions brutes
+Part des émissions liées à l'alimentation 31,6% Sans tenir compte des décharges, qui accueillent les résidus fermentescibles (qui "pourrissent"), ce qui engendre des émissions de méthane, et qui est en quelque sorte lié à l'alimentation
+En gros, la conclusion est que si nous prenons tout en compte, nous sommes plus près du tiers que du quart des émissions françaises pour ce qui est de nous remplir nos estomacs ! Bien sûr, en toute rigueur il faudrait retraiter toutes ces émissions pour tenir compte des exportations (pour lesquelles les émissions sont à imputer aux estomacs des autres) et des importations (qui, avec mon calcul, nous permettent de nous remplir la panse sans qu’il nous en coûte un gramme d’émissions dans le total national), mais enfin nous ne devons pas être très loin de la vérité quand même.
+Combien de gaz à effet de serre dans tel ou tel aliment ?
+Ajouter des émissions « nationales » n’est pas le seul exercice auquel nous pouvons nous livrer avec les émissions de gaz à effet de serre liées à l’alimentation. Une autre calcul qui n’est pas sans intérêt est de savoir « combien de gaz à effet de serre » ont été nécessaires pour disposer d’un kg de nourriture, sans se préoccuper de savoir si les émissions ont eu lieu chez Pierre, Paul ou Jacques.
+Si nous souhaitons savoir « combien de gaz à effet de serre sont nécessaires pour nous permettre de manger un kg de poulet de batterie, nous devrons tenir compte, au prorata de ce qui a été nécessaire pour obtenir notre bestiau (une telle approche s’appelle une analyse de cycle de vie) :
+des émissions provenant du chauffage du local d’élevage,
+de l’énergie fossile utilisée par le tracteur pour la culture des céréales mangées par la bête,
+de l’énergie fossile nécessaire pour fabriquer les engrais qui serviront à cultiver les céréales mangées par la bête,
+des émissions de N2O lorsque ces engrais seront épandus dans les champs (voir page sur les gaz à effet de serre),
+de l’énergie fossile nécessaire pour fabriquer les aliments du poulet (les poulets de batterie mangent rarement les céréales « brutes », mais plutôt des aliments préparés par un sous secteur de l’industrie agroalimentaire) à partir des céréales cultivées,
+et encore des émissions liées à la fabrication des engins agricoles, de l’énergie fossile de séchage des grains, et même de l’énergie qui a été nécessaire pour raffiner le pétrole qui sera consommé par le tracteur….
+Enfin, si l’aliment est issu d’un ruminant (lait, viande de vache, etc) il faut aussi tenir compte des rots de ces grosses bêtes. En effet, les ruminants ont une intense fermentation dans leurs estomacs (je rappelle qu’une vache a 4 estomacs !) qui produit du méthane, et je rappelle aussi qu’en France, le poids des vaches est supérieur au poids des hommes : nous avons 20 millions de bovins en France, dont le poids moyen est de quelques centaines de kg par bête.
+Les résultats d’une telle analyse des émissions « du champ de pétrole à l’estomac du consommateur » (en ordre de grandeur, chaque barre est précise à ±50%) sont présentés ci-dessous :
+Emissions de gaz à effet de serre liées à la production d’un kg de nourriture, en kg équivalent CO2, avec une discrimination par gaz, pour les produits dits « conventionnels » (donc issus de l’agriculture intensive sauf mention contraire).
+La viande s’entend avec os (il s’agit « d’équivalent carcasse ») mais sans traitement de l’industrie agroalimentaire ni emballages ni transports.
+J’ai rajouté, pour donner un élément de comparaison, les émissions correspondant à 100 km en voiture moyenne et en itinéraire mixte (barre de droite).
+Source : Jancovici, 2016
+Le bio, c’est beaucoup mieux pour le changement climatique ?
+Que se passe-t-il quand on se met à cultiver bio ?
+on évite l’énergie fossile nécessaire à la fabrication des engrais de synthèse, qui sont interdits dans le système bio, et donc certains postes d’émission disparaissent,
+idem pour les phytosanitaires,
+il y a quand même des émissions de N2O liées à l’épandage des fumiers et autres apports d’azote,
+les rendements sont moins élevés, alors que les heures de tracteur sont à peu près les mêmes, et donc les émissions de CO2 par unité de production augmentent pour certains postes.
+enfin, bio ou pas bio, les ruminants continuent à roter du méthane !
+Si nous faisons un bilan de tous ces effets contraires, nous parvenons au schéma suivant
+Emissions de gaz à effet de serre liées à la production d’un kg de nourriture en système bio.
+Les émissions de gaz à effet de serre restent du même ordre, voire augmentent un peu par kg de poids. Cela est lié au moindre rendement des cultures, et au fait que les amendements bio (fumiers par exemple) conduisent aussi à des émissions de protoxyde d’azote. Pour le poisson, ça ne bouge pas !
+Source : Jancovici, 2016
+La triste vérité est donc la suivante : manger bio c’est bien, mais pour le climat il faut surtout manger moins de viande (ce qui du coup rend plus facile de la manger bio, et autant ne pas s’en priver !). En outre manger autant de viande que maintenant interdit la conversion d’une large partie de l’agriculture au bio, car à cause de la baisse des rendements (pour la culture des céréales et fourrages mangés par les animaux) il faudrait bien plus de surface agricole que nous n’en avons de disponible, surtout si en prime on doit faire des biocarburants…. 

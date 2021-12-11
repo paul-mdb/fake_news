@@ -1,0 +1,15 @@
+SERGE PLANTON, CLIMATOLOGUE AU CENTRE NATIONAL DE RECHERCHES MÉTÉOROLOGIQUES DE MÉTÉO FRANCE ET EXPERT DU GROUPE D’EXPERTS INTERGOUVERNEMENTAL SUR L’ÉVOLUTION DU CLIMAT (GIEC), RÉPOND À CES QUESTIONS :
+QU’ENTEND-ON PAR PRÉCIPITATIONS INTENSES ?
+Ce sont des pluies qui apportent sur une courte durée une forte quantité d’eau. Typiquement, les précipitations sont dites intenses lorsqu’elles dépassent en un jour 20 l/m2, soit 20 mm/24h, mais cela dépend aussi des régions [1]. Dans le Sud-Est de la France par exemple, il n’est pas rare d’observer des niveaux de 200 mm d’eau, voire 300 mm en 24 h !
+CES PRÉCIPITATIONS INTENSES ONT-ELLES AUGMENTÉ ?
+La carte de France de l’évolution des précipitations est contrastée. Les précipitations moyennes et intenses ont augmenté à certains endroits et diminué à d’autres, ceci avec des variations saisonnières.
+Les précipitations moyennes annuelles, neige comprise, ont plutôt augmenté sur les trois quarts nord du pays et diminué sur le quart sud, mais avec une diminution statistiquement significative seulement dans le Sud-Est.
+On a observé récemment une diminution des jours de pluie avec une augmentation des précipitations sur une heure, plus abondantes sur un temps plus restreint, par exemple autour de la Méditerranée : même avec une diminution des pluies moyennes, on observe une augmentation des intensités, la part de celles tombant sous forme de phénomènes extrêmes augmentant. C’est un signal très fort puisqu’il a potentiellement un impact sur l’importance des crues éclairs.
+Les évènements extrêmes les plus intenses, quant à eux, le sont en moyenne de plus en plus avec une augmentation de près de 22 % d’entre eux dans le Sud-Est depuis les années 60. Il s’agit cependant d’une période trop brève pour pouvoir attribuer ce changement au réchauffement climatique avec certitude.
+A QUOI DOIT-ON S’ATTENDRE AVEC L’AUGMENTATION DU RÉCHAUFFEMENT CLIMATIQUE ?
+Plus une atmosphère est chaude, plus elle peut contenir de l’eau. Celle-ci se condense en altitude et retombe sous forme de pluie. Donc là où il pleut déjà, les précipitations survenant avec plus d’intensité devraient augmenter, de quelques pourcents supplémentaires par degré de réchauffement [2]. Avec un réchauffement de 1,5°C en 2050, leur augmentation devrait donc être faible.
+Mais dans un scénario de réchauffement important, sans politique climatique ni mise en œuvre de l’Accord de Paris, l’accroissement des précipitations intenses serait significative, avec une incertitude sur leur répartition, et serait accompagnée d’une diminution des jours de pluie, nuancée en fonction des régions [3].
+La solution est de poursuivre notre avancée vers des modèles climatiques plus précis pour avoir de meilleures prévisions de ces précipitations intenses, permettant de mieux se préparer à leur survenue soudaine.
+RÉFÉRENCES
++
+[1] Oldenborgh G. J. et al., 2016. Rapid attribution of the May/June 2016 flood-inducing precipitation in France and Germany to climate change. Hydrol. Earth Syst. Sci. Discuss., doi:10.5194/hess-2016-308, 2016 

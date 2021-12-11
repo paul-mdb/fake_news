@@ -9,8 +9,8 @@ SPECIAL_CHARACTERS = [
 ]
 THRESHOLD_ON_CONTENT_LENGTH = 1000
 TITLE_LENGTH = 40
-BAD_PREFIXES = ['Source', 'Tradu', 'Ajout', 'Lire', 'Commentaire', 'Partage', 'http', 'www', 'Inscri', 'Lien', 'Article', 'Direction', 'Extrait', 'Voir', 'Cet article']
-VERY_BAD_PREFIXES = ['Note', 'Partager']
+BAD_PREFIXES = ['Source', 'Tradu', 'Ajout', 'Lire', 'Commentaire', 'Partage', 'http', 'www', 'Inscri', 'Lien', 'Article', 'Direction', 'Extrait', 'Voir', 'Cet article', 'Abonnez']
+VERY_BAD_PREFIXES = ['Note', 'Partager', "S'abonner", 'Abonnez', '\ud83d']
 
 # General functions
 def format_article_into_json(url, title, author, date, content):
@@ -68,6 +68,7 @@ def get_text_in_selected_element(driver, selector):
             text = content_element.text
 
             if has_very_bad_prefix(text) :
+                print("Very bad prefix")
                 break
 
             if not has_bad_prefix(text) or (i>2 and (i < len(content_elements)-5)):

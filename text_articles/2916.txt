@@ -1,0 +1,32 @@
+LE DR ANNA-BELLA FAILLOUX, ENTOMOLOGISTE, DIRECTRICE DE RECHERCHE EN ENTOMOLOGIE À L’INSTITUT PASTEUR, RÉPOND À CES QUESTIONS :
+POURQUOI LE MOUSTIQUE TIGRE EST-IL SI DANGEREUX ?
+La femelle du moustique tigre est capable de transmettre plus de 20 virus [1], dont ceux de la fièvre jaune, de la dengue, du chikungunya et du Zika. Aucun autre moustique ne peut en transmettre autant. Lorsque, pour nourrir ses œufs, la femelle pique un individu malade, le virus se multiplie dans tous les organes internes de ce vecteur (plus d’un milliard de fois pour le chikungunya), y compris les glandes salivaires. Lorsqu’elle va piquer une nouvelle personne, elle lui transmet le virus.
+Et ce qui rend ce moustique dénommé Aedes albopictus encore plus dangereux, c’est qu’il est particulièrement invasif et résistant. Ses œufs peuvent résister des mois voire des années à un environnement sec et éclore lorsqu’ils sont remis en eaux. Par ailleurs, il est capable de supporter des températures plus basses que les autres espèces tropicales. Il peut donc se propager très facilement [2] [3] [4].
+QUEL EST L’IMPACT DU CHANGEMENT CLIMATIQUE DANS TOUT ÇA ?
+C’est un accélérateur : d’abord parce qu’il étend l’aire de distribution du moustique.
+Ensuite, et surtout, parce que l’augmentation de la température a un double effet sur lui. Premièrement, plus il fait chaud, plus son cycle de développement, de l’œuf à l’adulte, se raccourcit. Entre 20 et 25°C, il dure entre 6 et 10 jours et à 28°C, il n’est plus que de 6 jours. Donc plus on augmente la température, plus le moustique devient adulte rapidement.
+Deuxièmement, la vitesse de multiplication du virus à l’intérieur de cet insecte est augmentée sous l’effet de la température. Donc plus il fait chaud, plus vite il devient vecteur de la maladie [5] [6] [7].
+COMMENT SE PROTÉGER ?
+Ce n’est pas le moustique qui importe la maladie, mais nous. Je peux partir à Bangkok en voyage et revenir avec la dengue. J’importe donc la maladie sur un territoire où le vecteur est déjà présent. Donc, dans un premier temps, il faut se vacciner, lorsque le vaccin existe, comme pour la fièvre jaune par exemple.
+Une fois que l’on a contracté la maladie, il n’y a pas de médicament spécifique qui fonctionne. Le seul moyen de se protéger est alors de lutter contre le moustique : ne pas laisser des points d’eau stagnante par exemple ou utiliser des moustiquaires.
+Et, en période épidémique, il faut tuer le moustique par des insecticides. Mais il a développé des résistances et nous sommes dans une situation critique où ils ne sont plus efficaces à 100 %. Il faut alors en augmenter les doses et là se posent les problèmes de toxicité et de pollution. Cela oblige à chercher des alternatives, comme la lutte biologique par les prédateurs naturels du moustique, par exemple les libellules ou certains poissons, en les installant dans les gîtes larvaires.
+Ce qui arrive dans les pays du Nord aujourd’hui existe dans les pays chauds depuis toujours. Il faut faire de la prévention et de l’éducation. Il va falloir apprendre à vivre avec des moustiquaires aux fenêtres !
+RÉFÉRENCES
++
+[1] “Present and future projections of habitat suitability of the Asian tiger mosquito, a vector of viral pathogens, from global climate simulation”. Proestos et al. 2015, Phil. Trans. R. Soc.  Page 2.
+http://rstb.royalsocietypublishing.org/content/370/1665/20130554
+https://royalsocietypublishing.org/action/downloadFigures?id=RSTB20130554F5&doi=10.1098%2Frstb.2013.0554
+[2] 64 cas de chikungunya dans la région de Rome en Italie Moustique tigre – Portail d’information 19 septembre 2017
+http://moustique-tigre.info/blog/2017/09/19/64-cas-de-chikungunya-dans-la-region-de-rome-en-italie-10202/
+Chikungunya : 13 personnes auraient été infectées dans le Var Anne-Laure Lebrun Pourquoi Docteur 01.09.2017
+https://www.pourquoidocteur.fr/Articles/Question-d-actu/22693-Chikungunya-13-personnes-auraient-infectees-Var
+[3]  Aedes albopictus – current known distribution in Europe, April 2017 European Centre for Disease Prevention and Control.22 May 2017
+https://ecdc.europa.eu/en/publications-data/aedes-albopictus-current-known-distribution-europe-april-2017
+http://www.medilabsecure.com/documents/site/ae_albopictus_factsheet_1.pdf
+[4]  Chikungunya, dengue et Zika – Données de la surveillance renforcée en France métropolitaine en 2017, Santé publique France – InVS, 27/11/2017
+https://tinyurl.com/yb4c77ag
+https://www.pasteur.fr/fr/centre-medical/fiches-maladies/chikungunya
+[5] « Les maladies à transmission vectorielle figurent parmi les principales causes de morbidité et de mortalité chez l’homme et les animaux », entretien avec Anna-Bella Failloux, Responsable du laboratoire Arbovirus et insectes vecteurs à l’Institut Pasteur  03.04.2017 Le Journal de la Recherche
+https://www.pasteur.fr/fr/geopolitique-moustique
+[6] Climate change effects on chikungunya transmission in Europe: geospatial analysis of vectors climatic suitability and virus temperature requirements. Fischer D et al.. 2013 International Journal of Health Geographics 12 November 2013
+https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-12-51 

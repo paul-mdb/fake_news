@@ -1,0 +1,55 @@
+arrow_backward
+Revenir à Le dérèglement climatique
+Les mécanismes de « cercles vicieux », ou le double effet kiss pas cool 
+Publié le 18 août 2021
+PARTAGER
+email Pourquoi parle-t-on souvent d’un « emballement » du climat ? De « point de non-retour » ? D’urgence climatique « absolue » ? D’où vient cette idée qu’il ne faut « vraiment pas dépasser les 2 degrés » ? 
+C’est que le dérèglement climatique n’est en aucun cas un problème linéaire. Certaines conséquences du réchauffement climatique deviennent elles-mêmes des causes supplémentaires de dérèglement du climat. Des « cercles vicieux » en quelque sorte. Les scientifiques les appellent des « boucles de rétroaction positives ». Attention, « positive » ne sous-entend pas qu’elles sont positives pour le climat, bien au contraire. Ce terme signifie qu’elles accélèrent le phénomène initial. Certaines de ces boucles ont un effet amplificateur et certaines constituent un danger immense, des sortes de « bombes climatiques » qui pourraient potentiellement rendre le climat complètement hors de contrôle et ce, de manière irréversible. 
+Nous allons en présenter six : l’effet albédo, les courants océaniques, le dépérissement des forêts, la vapeur d’eau, le dégel du pergélisol et la libération de l’hydroxyde de méthane.
+I. La diminution de l’effet albédo, c’est pas très très beau
+L’albédo détermine le pouvoir réfléchissant d’une surface. Tout corps terrestre réfléchit une partie de la lumière qu’il reçoit vers l’espace et absorbe le reste, augmentant alors sa propre température. 
+L’albédo, c’est la part d’énergie lumineuse qu’elle va réfléchir par rapport à la part qu’elle va absorber. 
+En fonction de la couleur et de la composition de la surface, l’effet albédo est différent. Plus la couleur est claire, plus l’albédo est important. C’est le cas de la neige, des nuages ou de la glace qui sont blancs et réfléchissent beaucoup les rayons du soleil.
+Lorsque la glace fond à cause du réchauffement climatique, les surfaces glacées et enneigées diminuent en superficie. Or, ces surfaces sont blanches et permettent de renvoyer les rayons solaires grâce à l’effet albédo. 
+Aujourd’hui, l’effet albédo renvoie environ 30% des rayonnements solaires vers l’espace. Avec la diminution voire la disparition des surfaces blanches et glacées qui sont remplacées par des surfaces sombres (océan, terre…), l’effet albédo diminue nettement. Les rayons solaires et leur énergie thermique sont donc davantage absorbés, augmentant la température des sols, de l’océan et de l’atmosphère. 
+Et c’est là où l’on observe l’effet « cercle vicieux » : la baisse de l’effet albédo augmente la température moyenne, qui va elle-même favoriser la fonte des glaces et diminuer encore davantage l’effet albédo… Une belle boucle de rétroaction positive donc.
+II. Les courants océaniques modifiés, c’est du CO2 non capté 
+Lorsque la banquise et les glaciers fondent à cause du réchauffement climatique, ils libèrent une grande quantité d’eau douce. Or, l’eau douce est moins dense que l’eau salée, ce qui signifie qu’elle reste davantage dans la « partie haute » de l’océan (elle « s’enfonce moins bien »). Cela affaiblit les courants dits « descendants », qui vont de la surface vers le fond de l’océan. 
+Or, l’Océan stocke différemment le CO2 en surface et en profondeur : l’Océan profond constitue le puits principal de CO2 en stockant 30 à 40 fois plus de CO2 que l’Océan de surface. 
+Avec cet affaiblissement des courants descendants, le puits de carbone qu’est l’Océan profond devient moins accessible. L’Océan de surface ne pouvant « envoyer plus bas » son surplus de CO2 dissous, il  va saturer davantage en CO2 et donc être un puits de stockage de CO2 moins efficace. Au lieu de dissoudre le CO2, il peut même se mettre à en rejeter dans l’atmosphère (via l’évaporation) ! Le puits de stockage peut donc devenir une source d’émission de GES. Tout ça à cause de cette modification des courants marins. 
+En libérant davantage de GES au lieu d’en absorber, ce phénomène va accentuer l’effet de serre, donc le réchauffement climatique, donc la fonte des glaciers et donc l’amplification de la modification des courants océaniques…. Et c’est là que la boucle de rétroaction apparaît.
+III. La mort des forêts, ça fait pleurer
+Comme on l’a vu avec le cycle du carbone, aujourd’hui, les forêts constituent un gros puits de carbone. En effet, en tant que matière vivante, la flore est composée de carbone et grâce à la photosynthèse, elle absorbe le CO2 atmosphérique pour le transformer en oxygène. 
+A l’inverse, lorsque la forêt meurt ou en cas de déforestation, la décomposition des plantes conduit à l’émission de CO2. Il en va de même lorsque les incendies ravagent les forêts : la combustion libère dans l’atmosphère tout le CO2 qui était alors stocké et stable.
+Avec le dérèglement climatique, on assiste à : 
+Un réchauffement de la température de l’air et du sol, déstabilisant les écosystèmes et la biodiversité,
+Des périodes de sécheresses et d’inondations qui peuvent appauvrir les sols et tuer la biosphère,
+Une augmentation notoire des départs d’incendies et de leur intensité.
+Ces trois phénomènes, conséquences du changement climatique, entraînent le dépérissement des plantes. Celles qui survivent auront une moins bonne capacité à absorber le CO2 et celles qui meurent vont se décomposer en libérant du CO2. Ainsi, la concentration des GES dans l’atmosphère augmente, alimentant le réchauffement climatique qui vient lui-même nourrir les 3 causes citées ci-dessus. Et voilà la troisième boucle de rétroaction identifiée !
+Et entre les forêts australiennes parties en fumée durant l’été 2019, ou les efforts du Président Bolsonaro pour déforester au plus vite l’Amazonie, on ne parle pas d’une situation hypothétique mais d’une boucle déjà bien active !
+À + 1°C aujourd’hui, ça déconne déjà
+En Amazonie, en 2019, les incendies et la déforestation ont détruit plus de 10 000 kilomètres carrés forêts, soit à peu près la taille d’un pays tel que le Liban !
+En Australie, les immenses incendies de 2019-2020 ont brûlé plus de 20% des forêts du pays et tué plus d’un milliard d’animaux
+IV. La vapeur d’eau, ça donne chaud 
+On l’a vu précédemment lors de notre analyse du cycle de l’eau, avec l’augmentation de la température de l’air, l’atmosphère augmente sa capacité à stocker la vapeur d’eau. Cela accroît l’intensité de phénomènes climatiques extrêmes mais pas seulement… 
+En effet, la vapeur d’eau présente dans l’atmosphère augmente l’effet de serre. Avec une concentration de la vapeur d’eau qui croit dans l’atmosphère, le réchauffement climatique s’accélère donc. Et comme pour toute boucle de rétroaction, le réchauffement climatique va encore augmenter la capacité de stockage de vapeur d’eau dans l’atmosphère et amplifier le phénomène, venant nourrir le cercle vicieux. 
+V. Le dégel du pergélisol (ou « permafrost pour les bilingues »), c’est pas drôle 
+Le pergélisol, également appelé «permafrost », désigne le « sol qui est gelé en permanence », c’est-à-dire le sol dont la température n’a pas excédé 0 degré pendant au moins deux années de suite. 
+On trouve le pergélisol sur environ 20% de la surface de la Planète, notamment au Groenland, en Alaska, au Canada et en Russie. On en trouve même en France, dans les Alpes !
+L’énorme problème du pergélisol, c’est qu’il contient des éléments enfermés dans la glace depuis des milliers d’années. Et ces éléments, on ne peut vraiment pas se permettre qu’ils se retrouvent dans l’atmosphère. Pourquoi donc ?
+Pour prendre une image, le pergélisol est comme un immense congélateur. Si vous laissez la porte du congélateur ouverte, votre pizza dégèle, votre crème glacée fond et les microbes se nourrissent de ces éléments organiques. De la même manière, en fondant, le pergélisol libère des matières organiques qui, soumises à l’activité des microbes, produisent du CO2 en présence d’oxygène ou du méthane en milieu sans oxygène. Et voilà ces GES qui rejoindraient l’atmosphère pour accélérer le réchauffement. 
+Or, le potentiel de libération de GES du pergélisol est colossal : on parle de 1500 GtC, soit le double de la quantité de GES déjà présente dans l’atmosphère. On triplerait donc la concentration ! Imaginez donc l’effet de serre supplémentaire généré... En ce sens, la fonte d’une grande partie du pergélisol constitue une des deux « bombes climatiques » dont il serait sans doute impossible de se remettre. 
+Conséquence non négligeable supplémentaire : le pergélisol renferme également des maladies qui ont disparu depuis des centaines ou des milliers d’années. En fondant, le pergélisol pourrait les libérer et créer des crises sanitaires majeures.
+À + 1°C aujourd’hui, ça déconne déjà
+Par exemple, en 2016, une épidémie d’Anthrax a tué plusieurs êtres humains et plus de 2 300 rennes en Sibérie. Or cette maladie avait disparu depuis plus de 75 ans dans la région. Elle est réapparue avec la fonte du pergélisol, qui maintenait congelé un renne décédé de cette maladie (et donc ses bactéries mortelles). Si on sait soigner l’Anthrax avec des antibiotiques, ce ne sera pas forcément le cas pour tous les autres virus ou bactéries qu’on ne connaît pas ou qu’on ne sait pas soigner. Le risque d’épidémies ou de pandémies bien pires que le Covid 19 est également une conséquence bien réelle du dérèglement climatique.
+VI. L’hydrate de méthane, qui doit rester au frais
+L’hydrate de méthane constitue une autre « bombe climatique » potentielle. 
+Il s’agit de molécules de méthane emprisonnées dans de la glace. On en trouve en grande quantité : 
+Sous le pergélisol,
+Au fond des océans, dans les sédiments océaniques.
+Pour le moment, ce méthane est stocké dans ces réservoirs de manière stable. Il est difficile d’estimer les quantité précises mais on parle quand même d’environ 10 000 GtC, soit 7 fois plus que tous les GES contenus dans le pergélisol, donc 21 fois plus que tous les GES aujourd’hui présents dans l’atmosphère ! 
+Malheureusement, si le réchauffement actuel dépassait la fameuse barre des 2 degrés, ces molécules pourraient devenir instables. En effet, avec la fonte du pergélisol ou le réchauffement des océans, l’hydrate de méthane serait davantage en contact avec une température plus élevée. Or, la probabilité que ces molécules deviennent instables devient significative avec 2 degrés en plus. Dans ce cas, les molécules peuvent se dissocier et le méthane s’échapper directement vers l’atmosphère. Etant donné le volume titanesque de méthane dont on parle, on comprend aisément les conséquences dévastatrices pour le réchauffement de la Planète et la vie sur Terre.
+Nos autres articles à propos de "Le dérèglement climatique" :
+Le changement climatique, en 3 minutes
+Les risques du changement climatique
+Jean MarcJancovici : Indispensable pour comprendre les enjeux de l'énergie 

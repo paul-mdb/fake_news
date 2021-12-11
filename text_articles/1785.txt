@@ -1,0 +1,69 @@
+Actuellement, l’énergie commerciale (c’est à dire hors bois de feu, qui est souvent ramassé directement par le consommateur et ne passe donc pas par des circuits commerciaux) consommée dans le monde est constituée à plus de 85% de pétrole, gaz naturel et charbon, toutes énergies qui conduisent à des émissions de gaz carbonique lorsqu’elles sont utilisées.
+Répartition par nature de l’énergie primaire consommée dans le monde en 2012.
+Les énergies électriques sont converties sur la base de l’énergie primaire consommée.
+Source BP Statistical Review + Energy Information Agency (pour le bois, évaluation personnelle).
+  Emissions de gaz à effet de serre par tonne équivalent pétrole.
+(1 tonne équivalent pétrole = 11600 kWh = l’énergie dégagée par la combustion d’une tonne de pétrole).
+Notons que le gaz naturel n’est pas « propre » : sa combustion dégage moitié moins de CO2 que celle du charbon, mais ce n’est pas zéro !
+Source : ADEME.
+Par ailleurs si nous voulons arrêter d’enrichir l’atmosphère en gaz carbonique il faut diviser les émissions mondiales de ce gaz par 2 au moins (cela vient des conclusions des physiciens). Comment pouvons nous y parvenir ? :
+nous pouvons diviser la consommation d’énergies fossiles par deux, en remplaçant la moitié par des économies d’énergie et/ou des renouvelables et/ou du nucléaire,
+nous continuons à consommer des énergies fossiles, mais nous nous débrouillons pour ne plus envoyer le CO2 qui résulte de leur usage dans l’atmosphère. C’est cette opération qui fait l’objet de la présente page.
+il y a aussi l’éventualité d’accélérer le fonctionnement des puits naturels de gaz carbonique, dont il est traité sur une autre page.
+Bien sûr, nous pouvons aussi combiner les trois marges de manœuvre. Incidemment, notons que diminuer la consommation d’énergie, tout le monde en a entendu parler, mais tout le monde n’a peut-être pas compris ce que cela signifiait ! En effet, en première approximation, moins consommer d’énergie, fossile ou pas, c’est moins utiliser d’énergie pour se chauffer (donc avoir des logements plus petits et/ou bioclimatiques), moins utiliser d’énergie pour se déplacer (et notamment beaucoup moins d’avion et beaucoup moins de voiture), avoir moins d’électroménager et d’ascenseurs, et enfin moins consommer de produits manufacturés.
+Mais revenons à la séquestration du CO2. De quoi s’agit-il exactement ? En pratique, cette « séquestration » recouvre les opérations suivantes:
+lorsque l’on brûle un combustible fossile, on fait passer les gaz issu de leur combustion dans un dispositif qui « capture » le CO2 (en général les gaz d’échappement sont injectés dans un liquide où le CO2 va se dissoudre, puis le liquide avec le CO2 dissous est transporté dans un appareil où le CO2 est récupéré),
+ce CO2 est alors compressé, puis injecté – éventuellement après avoir été transporté par une espèce de gazoduc – dans le sous-sol. Les réceptacles possibles doivent avoir la propriété de ne pas laisser le CO2 repartir vers l’atmosphère ensuite. Il peut s’agir :
+d’anciennes mines de sel hermétiquement closes,
+de nappes aquifères salines profondes (il s’agit donc de nappes phréatiques d’un genre particulier, où l’eau est salée), où le CO2 est dissous dans l’eau,
+d’anciens réservoirs de pétrole ou de gaz naturel (dans ce cas le CO2 peut même servir à expulser le pétrole restant),
+dans des mines de charbon dont la mise en production n’est pas envisagée (où il s’adsorberait à la place du méthane),
+et plus généralement de n’importe quel réservoir géologique étanche, car le but du jeu est bien évidemment que ce CO2 ne ressorte plus ensuite !
+Diagramme illustrant les diverses possibilités théoriques de séquestration.
+« Station de pompage » ne signifie pas « station d’épuration de l’atmosphère » ! Il s’agit juste d’un endroit où le CO2 est injecté en sous-sol.
+Quels sont les avantages de ce procédé ?
+L’avantage évident, c’est bien entendu que cela nous permet de moins perturber le climat à usage d’énergie fossile constant. Il y a en particulier une forme d’énergie pour laquelle cette séquestration pourrait s’avérer très intéressante, c’est le charbon, qui se trouve représenter les 2/3 des réserves prouvées de combustibles fossiles sur terre (graphique ci-dessous).
+Répartition par grande zone des réserves de combustibles fossiles, en milliards de tonnes équivalent pétrole.
+Source : BP Statistical Review, 2013. 
+Répartition par nature des réserves mondiales de combustibles fossiles fin 2012.
+La lecture de ces graphique permet de noter les éléments suivants :
+Les réserves de charbon sont beaucoup mieux réparties que les réserves de pétrole et de gaz,
+Les zones grosses consommatrices d’énergie (aujourd’hui Amérique du Nord et Europe, et peut-être demain l’Asie) disposent toutes de réserves de charbon très significatives alors que les réserves de pétrole et de gaz de ces zones sont proches de l’épuisement,
+En particulier les USA disposent des premières réserves mondiales : on peut comprendre leur intérêt à se pencher sérieusement sur les techniques de séquestration du CO2 !
+Mais il n’en reste pas moins que de brûler tout le pétrole, le gaz et le charbon connus (sans parler de ce qui pourrait être découvert ensuite), en envoyant tout le CO2 dans l’atmosphère, conduirait à des émissions totales de CO2 qui feront doubler la concentration atmosphérique actuelle de ce gaz (370 ppm). Il s’ensuivrait une élévation de température possible de 4 à 8°C (cette dernière valeur intègre un possible déstockage des puits naturels) et un bouleversement majeur de notre planète.
+Source : BP statistical review 2013.
+Par ailleurs, les deux usages dominants du charbon sur terre sont la production d’acier (le charbon sert à réduire les oxydes de fer que l’on trouve dans le minerai) et surtout la production d’électricité, comme il sera facile de le constater sur les graphiques ci-dessous.
+Répartition par usage du charbon consommé dans le monde en 2007
+(total : 3,2 milliards de tonnes équivalent pétrole).
+Source : Agence Internationale de l’Energie
+  Répartition par usage du charbon consommé en France depuis 1970.
+La plus forte proportion de la sidérurgie s’explique par le très faible recours au charbon en France pour produire l’électricité.
+Source : Chiffres clés de l’énergie, Service de l’Observation et des Statistiques (Commissariat Général au Développement Durable), 2012
+Ces usages (électricité et sidérurgie) ont la particularité de conduire à des émissions très « concentrées », qui ont lieu de manière massive en quelques endroits bien définis. Il est alors concevable de capturer le CO2 émis à ces endroits là pour ensuite l’envoyer sous terre où, nous espérons, nous n’entendrons plus parler de lui.
+Une configuration un peu voisine s’observe pour le gaz naturel (en fait le pétrole et le charbon sont tout autant naturels !), qui est utilisé pour une large partie pour de la production d’électricité dans le monde, de telle sorte que les émissions correspondantes pourraient être « capturées » pour être aussi mises dans un grand trou où nous n’en entendrions plus parler.
+Répartition par usage du gaz naturel consommé dans le monde en 2007.
+La part « électricité » correspond à des émissions massives pour un faible nombre d’émetteurs, et une partie significative de la part « industrie » est aussi dans ce cas.
+Source : BP Statistical Review + Cedigaz
+Si nous mettons bout à bout tous les usages « concentrés » de l’énergie fossile, qui ont principalement lieu dans les centrales électriques et dans les usines de production de matériaux de base (acier, métaux divers, chimie de base, ciment), nous arrivons à quelque chose qui n’est pas très éloigné de la moitié des émissions totales de CO2 d’origine fossile.
+Répartition par activité des émissions de CO2 en 2012.
+L’essentiel de la production d’électricité et environ 80% des émissions de l’industrie sont le fait de sources assez peu nombreuses mais très intenses, et sont donc éligibles pour un procédé de capture et de séquestration.
+Sources : Compilation de l’auteur sur sources diverses
+Or comme nous avons vu ci-dessus que les émissions devraient être divisées par 2 pour cesser de perturber le climat, n’avons nous pas trouvé là une martingale ?
+Tout beau tout rose, alors ?
+Après avoir présenté le côté « à moitié plein » de la bouteille, il faut maintenant présenter le côté « à moitié vide ». La séquestration du CO2 présente aussi de nombreuses faiblesses, que nous pouvons lister comme suit :
+le premier inconvénient de cette technique est tout simplement qu’elle est encore très expérimentale. Elle a été utilisée en vraie grandeur dans quelques champs de pétrole pour faire sortir à vitesse accélérée l’huile contenu dans la roche, et il y a un cas de stockage dans un aquifère salin, pour évacuer le CO2 d’une plate-forme pétrolière de la Mer du Nord (environ 1 million de tonnes de CO2 par an).
+Le deuxième inconvénient est que, ici comme ailleurs, équiper l’intégralité des sources d’émission éligibles serait plus le fait de quelques décennies que de quelques mois ! « Attendre » d’avoir cette technologie à portée de la main est accepter, d’une certaine manière, la hausse des émissions tant que ce procédé n’est pas largement répandu,
+le troisième inconvénient de cette technique est que pour épurer les fumées d’usine, compresser le gaz et l’envoyer sous terre, il faut utiliser de l’énergie, et les ordres de grandeur couramment avancés sont de l’ordre de 10 à 20% de l’énergie obtenue en brûlant le combustible fossile. En d’autres termes, quand nous brûlons du charbon ou le gaz, au lieu de disposer de 100% de l’énergie de combustion lorsque nous laissons allègrement le CO2 partir dans l’atmosphère, nous n’en aurions plus que 80%, le reste étant alors utilisé pour envoyer le CO2 résultant de la combustion sous terre. Cela a deux conséquences majeures :
+Si nous voulons utiliser l’ensemble des combustibles fossiles actuellement sous terre sans mettre le CO2 dans l’atmosphère, cela diminue mécaniquement les réserves (ou plus exactement l’énergie utile provenant de ces réserves) de 20% (puisque 20% environ doit être affecté à la séquestration du CO2 dès lors que nous utilisons ces combustibles), or au rythme actuel de croissance de la consommation, et avant même de parler de séquestration, ces réserves seraient épuisées en un demi-siècle,
+toute utilisation des combustibles fossiles avec séquestration coûtera nécessairement plus cher que sans, du moins tant que les émissions de CO2 ne seront pas taxées. Or une partie significative du charbon étant utilisée soit aux USA, qui n’aiment pas les surcoûts, soit dans des pays en cours d’industrialisation, qui n’ont peut-être pas les disponibilités financières nécessaires, il n’est pas garanti que toute source éligible souhaitera s’équiper,
+en particulier, pour le cas de l’électricité, la libéralisation qui a lieu un peu partout a pour conséquence que tout centime de surcoût sur le kWh produit est vu comme une horreur par les producteurs, qui se battront donc bec et ongles contre.
+le quatrième inconvénient de cette technique est que seules les sources « concentrées » de CO2 sont éligibles. Certes cela représente la moitié des émissions de CO2 provenant de l’énergie, mais pour l’autre moitié il n’est pas possible d’y recourir. Cela élimine donc :
+les transports, qui connaissent une croissance très importante (en leur sein c’est le transport aérien, le plus gourmand en carburant par passager, qui augmente le plus vite),
+les chaudières de maison ou de bureaux,
+la « petite » industrie,
+enfin une dernière limitation est que le CO2 provenant de l’énergie fossile ne représente lui-même qu’un gros 50% du problème.
+Part relative de chaque gaz à effet de serre dans le total des émissions d’origine humaine, hors ozone (qui n’a pas de source directe).
+La contribution de l’ozone au forçage radiatif n’étant pas très éloignée de celle du méthane, il s’ensuit que le CO2 d’origine fossile représente environ 50% de la perturbation d’origine humaine.
+Source : GIEC, 2007
+Par voie de conséquence, séquestrer 50% de 50% du problème porte sur 25% de ce dernier. Ce n’est surtout pas à négliger (oh que non !), mais ne peut constituer une solution suffisante pour ne plus entendre parler d’éventuels ennuis. En particulier, si la consommation d’énergie est multipliée par 4 (ce qui est incontournable pour permettre à 6 à 9 milliards d’habitants de vivre comme un Européen d’aujourd’hui, la bonne question étant de savoir si cela doit constituer un objectif souhaitable), avec la même proportion pour chaque source que celle que nous connaissons en 2006 (c’est à dire 85% pour les énergies fossiles, et 15% pour les sources « sans carbone » que sont l’hydroélectricité et le nucléaire), les émissions seront multipliées par 4 aussi.
+Si la séquestration, à supposer qu’elle soit un jour techniquement au point, pouvait éviter la moitié des émissions de CO2 correspondantes, nous aurions encore une perturbation climatique double de celle d’aujourd’hui (et 4 fois trop importante pour stabiliser la concentration en CO2 dans l’air). Il y a donc là à la fois une marge de manœuvre majeure (certains industriels ne s’y sont pas trompés, qui commencent à investir massivement dans des recherches sur la question) mais insuffisante pour nous dispenser de tout autre effort sur les consommations et la modification du « mix » énergétique. 

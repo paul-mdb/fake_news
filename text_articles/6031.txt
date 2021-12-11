@@ -1,0 +1,5 @@
+Pour remplir l’objectif de la neutralité carbone en 2050, la Stratégie Nationale Bas Carbone (SNBC) de la France s’appuie sur un scénario avec un développement important de l’électrification des usages dans tous les secteurs. La SNBC exploite en effet pleinement l’électricité bas-carbone pour décarboner l’économie française.
+Cette forte électrification pose la question de la pointe de demande électrique : quel est l’impact d’un tel développement de la consommation électrique sur la puissance à la pointe ?
+Pour éclairer cette question, cette étude de Carbone 4 projette à moyen et long terme la pointe de demande électrique en France, sur la base du scénario de référence de la SNBC.
+Elle fait apparaître que, du strict point de vue des évolutions des usages électriques dans la SNBC, la puissance appelée à la pointe électrique évolue dans des proportions qui sont raisonnables et semblent admissibles pour le système électrique, compte tenu de l’horizon temporel lointain et des perspectives des solutions d’effacement.
+Télécharger la publication 

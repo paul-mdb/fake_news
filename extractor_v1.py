@@ -26,7 +26,7 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
     paginator_formula = "n" if isna(paginator_formula) else paginator_formula
 
     #debug
-    number_of_pages = min(7, number_of_pages)
+    #number_of_pages = min(7, number_of_pages)
 
     for n in range(number_of_pages):
 
@@ -43,8 +43,8 @@ def extract(label, url, cookie_selector, link_selector, content_selector, title_
         links = get_links(driver, link_selector)
 
         # DEBUG : 1 ARTICLE / WEBSITE
-        links = [links[0]]
-        print(links)
+        #links = [links[0]]
+        #print(links)
 
         #  Extract all articles from the page
         for link in links:
@@ -125,4 +125,6 @@ def extract_from_website(label):
         driver.quit()
     extract_website_list(website_list)
 
-extract_website("Reporterre")
+
+
+extract_website_list(website_list)

@@ -1,0 +1,38 @@
+Télécharger l'outil, le guide et le manuel d'utilisation OCARA. 
+Avant-propos
+Sur OCARA
+Le but d’OCARA est d’aider les acteurs économiques à être résilients face aux impacts climatiques déjà existants et ceux à venir.
+Cette méthode a été baptisée OCARA pour « Operational Climate Adaptation and Resilience Assessment ».
+Cette démarche se structure en trois étapes : (1) l’analyse de la résilience actuelle, (2) l’analyse de l’évolution futurs des scénarios d’impacts, (3) l’élaboration de plans d’adaptation et de résilience.
+Le présent guide détaille principalement l’étape 1, car commune à toutes les entreprises désireuses de se lancer dans la démarche. Les étapes 2 et 3 sont quant à elles, conditionnelles aux résultats de l’étape 1, et à contextualiser pour chaque acteur économique. C’est pourquoi seuls les grands principes sont décrits pour les étapes 2 et 3.
+Enfin cette méthode est la première du genre, et est donc vouée à être enrichie au fil des retours d’expériences. La méthode sera mise à jour régulièrement, afin de tenir compte de ces avancées.
+Sur les documents disponibles
+Les livrables du projet comprennent, à destination du grand public : 
+le présent guide méthodologique ;
+un outil excel d’application et son manuel d’utilisation ;
+un programme de formation.
+Ce guide méthodologique présente un cadre d’analyse permettant aux entreprises d’appréhender leur niveau de résilience face aux impacts du changement climatique. Il a été conçu pour un public averti, c’est-à-dire des personnes disposant de connaissances en matière de changement climatique et des grands principes de l’analyse de risques. La dernière date de mise à jour est le 10 septembre 2021.
+Plus d’informations sont disponibles sur https://www.carbone4.com/projet-ocara
+Résumé
+Les climats que nous connaissons se dérèglent : l’intensité des inondations et la fréquence des incendies et des vagues de chaleurs augmentent, les cycles de précipitations et sécheresses deviennent plus erratiques. Les activités de nos entreprises doivent donc anticiper ces changements et s’assurer qu’elles sont prêtes à encaisser ces nouveaux chocs climatiques. 
+Devant le manque de standards d’analyse de ces risques physiques, Carbone 4 a lancé le projet OCARA. Développé en partenariat avec l’Ademe, HDI Global France, Bureau Veritas et la CCI Grand Est, OCARA est le premier référentiel d’analyse de la résilience des entreprises à la dérive climatique. 
+OCARA fournit une méthode et un outil pour réaliser son diagnostic de résilience climatique et lancer une démarche d’adaptation. OCARA est structurée en 3 étapes clefs. L’analyse de la résilience climatique (étape 1) évalue le niveau de résilience de l’entreprise au climat actuel. Associé à l’étape 2 (projections et scénarios d’impacts climatiques), la démarche permet de réaliser un diagnostic des risques physiques qui est à la fois holistique et systémique. L’étape 3 (plan de résilience) permet d’identifier et planifier les trajectoires d’adaptation.
+OCARA permet de comprendre, identifier et hiérarchiser les signaux faibles ou forts du changement climatiques sur la base d’une vision holistique des impacts climatiques sur l’ensemble de la chaîne de valeur de l’entreprise. Elle permet aussi de fournir des pistes d’action pour construire un plan d’adaptation afin de renforcer la résilience de l’entreprise dans son ensemble. Elle fournit des résultats opérationnels sur les risques concrets du changement climatique pour l’entreprise : les processus les plus à risques, les impacts les plus matériels, les éléments les plus résilients, les aléas les plus critiques, ainsi que des pistes d’actions.
+OCARA apporte plusieurs avancées méthodologiques majeures : une démarche opérationnellle avec une entrée par processus en 3 étapes, une nomenclature des processus à évaluer (120 processus répartis en 3 scopes de dépendance), une liste d’aléas climatiques générateurs d’impacts potentiels, et des métriques d’évaluation standardisées permettant d’agréger les informations et de comparer les résultats. OCARA apporte une traduction concrète des concepts liés à l’adaptation et des moyens d’applications adaptés aux entreprises.
+A l’instar de la méthode Bilan Carbone, la méthode OCARA est vouée à être utilisée directement par les entreprises et enrichie au fil des expériences et approfondissement des connaissances. Pour aider à sa diffusion, la méthode et outil sont disponibles en téléchargement libre et des suites sont déjà prévues.
+  Télécharger l'outil, le guide et le manuel d'utilisation OCARA. 
+   ---
+Auteurs et autrices
+Equipe projet Carbone 4 : Violaine Lepousez, Clément Mallet, Maxime Aboukrat, Théo Girard, Justine Mossé, Jean-Marc Jancovici
+Contact
+Violaine Lepousez, leader du pôle Risques Physiques et Adaptation de Carbone 4
+violaine.lepousez@carbone4.com
+Equipe projet : ocara@carbone4.com
+Partenaires financiers
+ADEME, HDI Global France, Bureau Veritas, CCI Grand-Est.
+Comité d’experts 
+Céline Philips et Christophe Barel (ADEME), Marina Pitrel et Clémence Ricochon (Agence de l’eau Rhin-Meuse), Christophe Besnier (Bureau Veritas) Amandine Amat et Frédéric Papelard (CCI Grand Est), Marie Colin et Fabien Palhol (CEREMA), Jean-Paul Etaix et Raphaël Papin (HDI Global France), Vivian Depoues (I4CE), Hervé le Treut (Institut Pierre-Simon-Laplace), Félix Lallemand (docteur en écologie du Muséum National d'Histoire Naturelle).
+Entreprises bêta-testeuses de la méthode
+Les sociétés Atalu, Arthur Metz, Jus de Fruits d’Alsace, Lacoste, Lucart, Poeppelmann, Saint Gobain, Séché et Siemens.
+Remerciements
+Carbone 4 tient à remercier les partenaires financiers du projet, les membres du comité d’experts, les entreprises beta-testeuses et les relecteurs et relectrices du présent guide. 

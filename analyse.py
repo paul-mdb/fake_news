@@ -1,5 +1,7 @@
 from os import walk
 
+from numpy import NaN
+
 from website_list import df
 from utils import DATABASE_PATH
 
@@ -12,14 +14,13 @@ for (_, _, files) in walk(DATABASE_PATH):
         label = label.replace('_', ' ')
 
         type = df.loc[df["Nom"] == label]["Overview"].values[0]
-        if type == "TRUE":
+        if type == True:
             types[0] += 1
-        elif type == "MIXED":
-            types[1] += 1
-        elif type == "FALSE":
+        elif type == False:
             types[2] += 1
 
         total += 1
+types[1] = total - types[0] - types[2] 
 
 print(f"True / Mixed / False : {types}")
 print(f"Total : {total}")

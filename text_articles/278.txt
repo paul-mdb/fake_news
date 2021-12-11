@@ -1,0 +1,31 @@
+GAEL DURAND, CHARGÉ DE RECHERCHE ET DIRECTEUR ADJOINT DE L’INSTITUT DES GÉOSCIENCES DE L’ENVIRONNEMENT (GRENOBLE), RÉPOND À CES QUESTIONS :
+1. QUELLES SONT LES GLACES QUI FONDENT À CAUSE DU RÉCHAUFFEMENT CLIMATIQUE ?
+Ce sont celles de l’ensemble de la cryosphère, qui désigne les parties de la surface de la Terre qui contiennent de l’eau sous forme solide, c’est à dire de la glace. Il y a donc la neige [1], qui varie de façon saisonnière ; les glaciers [2] [3], qui se forment en zone de montagne par tassement progressif de la neige accumulée ; également les calottes polaires, formées de la même façon, recouvrant l’ensemble du continent Antarctique [4] et le Groenland ; ensuite la banquise [5], ou glace de mer, créée par le gel de sa surface, réalisant une couche de glace d’un à deux mètres d’épaisseur dans l’océan Arctique ou autour de l’Antarctique ; et enfin, le pergélisol  (permafrost en anglais), qui désigne les sols gelés des hautes altitudes et latitudes.
+Il est important de bien connaître les différents éléments de cette cryosphère car la fonte de ses différents types de glaces, suivant leur nature, ont des conséquences très différentes sur le système climatique.
+QUELLES SONT LES CONSÉQUENCES DE CES FONTES ?
+La particularité de la glace est qu’elle est blanche. Elle réfléchit très bien l’énergie du soleil. On dit qu’elle a un albédo élevé. Par ailleurs, sa conductivité thermique est faible, ce qui en fait un excellent isolant. Si la neige, la banquise et les calottes fondent, la mer ou le sol sous-jacents absorbent cette chaleur et le réchauffement initial s’en trouve amplifié. Sans compter que la fonte des calottes et des glaciers va contribuer à l’élévation du niveau de la mer.
+Quant au pergélisol, son dégel déstabilise les sols, et donc les structures construites sur eux, et libère les gaz à effet de serre qui y étaient emprisonnés et qui viennent s’ajouter aux émissions initiales, ce qui augmente également le réchauffement [6].
+C’est l’effet boule de neige : plus le climat se réchauffe, plus la glace fond, et plus sa fonte est grande plus de la chaleur supplémentaire est produite.
+3. QUELS SONT LES RISQUES DE CES FONTES SI LE RÉCHAUFFEMENT DÉPASSE 1,5° C ?
+Aujourd’hui, par rapport à la période préindustrielle, la température planétaire a augmenté, en moyenne, de 1°C. En Arctique, elle s’est accrue jusqu’à 5°C [7] !
+L’augmentation de la température provoquera une hausse de la fonte des glaces. Mais cette progression n’est pas linéaire. Il y a ce que l’on appelle des effets de seuils, des points de bascule. A + 1,5°C, on s’attend à nettement moins de neige, de banquise et de glaciers. Mais à + 2°C, on risque de perdre une partie importante des calottes glaciaires de façon irrémédiable [8] [9]. La fonte de l’ouest de l’Antarctique, celle qui est menacée aujourd’hui, provoquerait une élévation du niveau de la mer de 3 m [10] et celle du Groenland une de 6 ou 7 m [11] ! La perte de tous les glaciers terrestres ajouterait 40 cm à celle-ci mais surtout changerait drastiquement les régimes fluviaux : à la saison chaude, les rivières ne seraient plus alimentées par les glaciers et disparaîtraient, et, avec elles, une ressource en eau essentielle dans de nombreuses régions !
+Si on franchit ce point de non-retour qui peut être déclenché à partir de 2°C de réchauffement, on change fondamentalement les conditions de vie de notre planète.
+Il est donc essentiel de limiter urgemment le réchauffement climatique pour qu’il ne dépasse pas 1,5°C de plus qu’en 1850.
+RÉFÉRENCES
++
+[1] Changement climatique et enneigement, Météo-France
+http://www.meteofrance.fr/climat-passe-et-futur/impacts-du-changement-climatique-sur-les-phenomenes-hydrometeorologiques/changement-climatique-et-enneigement
+[2] Les glaciers en fonte accélérée, Space Climate Observatory, 2018
+https://www.spaceclimateobservatory.org/scenarii/les-glaciers-en-fonte-acceleree/
+[3] Common climatic signal from glaciers in the European Alps over the last 50 years.
+Vincent et al. Geophysical research Letters, Volume44, Issue3 16 February 2017 Pages 1376-1383
+https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016GL072094
+[4] Mass balance of the Antarctic Ice Sheet from 1992 to 2017.  The IMBIE team. Nature volume 558, pages219–222 13 June 2018
+https://www.nature.com/articles/s41586-018-0179-y
+[5] Arctic sea ice decline: Faster than forecast. Julienne Stroeve et al. Geophysical research Letters Volume34, Issue9 16 May 2007
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL029703
+[6] Le carbone du pergélisol en dégel augmentera le réchauffement climatique Réseau Action Climat 29-01-2018
+https://reseauactionclimat.org/carbone-degel-pergelisol-rechauffement-climatique/
+[7] Arctic Monitoring and Assessment Programme (AMAP), Snow, Water, Ice and Permafrost in the Arctic Summary for Policy-makers, 2017
+https://www.amap.no/documents/doc/Snow-Water-Ice-and-Permafrost.-Summary-for-Policy-makers/1532
+[8] Special Report: Global Warming of 1.5 ºC, Ch 03 : Impacts of 1.5°C of Global Warming on Natural and Human systems, paragraphe 3.5.2.5 – Large-scale singular events : Greenland and West Antarctic ice sheets and marine ice sheet instability page 257. IPCC –GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), 8 octobre 2018 

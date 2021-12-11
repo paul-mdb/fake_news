@@ -1,0 +1,33 @@
+Dans Climate Now, nous faisons le point sur l'essor de l'énergie éolienne offshore en Europe depuis un parc dédié en Belgique et évoquons le froid inhabituel qui a touché une bonne partie de l'Europe en avril grâce aux dernières données de Copernicus.
+Le mois d'avril 2021 a été marqué par un froid inhabituel sur une bonne partie de l'Europe d'après les données du Service Copernicus concernant le changement climatique pour ce mois.
+Si vous êtes en Europe et que vous vous dites qu'il a fait plus froid que d'habitude le mois dernier, vous avez raison : il a fait 0,9 degrés de moins que la moyenne pour la période 1991-2020.
+Écart de température enregistré en avril par rapport à la moyenne pour la période 1991-2020euronews
+Des records de froid en Europe
+Quand on regarde la carte des anomalies de températures de l'air en surface pour avril élaborée par Copernicus, on observe une grande variabilité dans les températures. Mais on constate en particulier dans le centre et l'ouest de l'Europe que les températures ont été inférieures de plus de deux degrés à la moyenne pour avril.
+La Slovénie a enregistré un nouveau record de froid pour le mois. Et le Royaume-Uni n'avait pas connu une température moyenne minimale aussi faible depuis avril 1922.
+Anomalies de températures en Europe en avril 2021Copernicus
+Le gel et ses dégâts
+En France, les vignes et les arbres fruitiers ont été dévastés par de fortes gelées. L'une des raisons à cela, c'est que de nos jours, le printemps est généralement plus précoce comme nous l'explique le climatologue Robert Vautard.
+"Il faut faire très attention à ces gelées tardives parce qu'aujourd'hui, le réchauffement climatique fait que la période de croissance s'est allongée et les démarrages de saison printanière commencent plus tôt," précise le directeur de l'Institut Pierre-Simon Laplace.
+"Donc la végétation sera potentiellement exposée à des gels normaux au mois d'avril, mais dans un stade de développement de la végétation qui peut être plus avancé," fait-il remarquer.
+Visite d'un parc éolien au large de la Belgique
+Quel est l'essor réel de l'énergie éolienne offshore en Europe ? Et comment exploite-t-on au maximum la force du vent ? Pour chercher des réponses, nous avons eu l'opportunité rare de nous approcher au plus près de l'une des gigantesques éoliennes qui se trouvent au large de la Belgique, le cinquième pays au monde en termes d'éoliennes offshore.
+Nous avons accompagné une équipe de l'entreprise belge Parkwind pour une visite de routine sur l'une de ses installations en mer du Nord qui fait partie d'un vaste parc éolien situé à 50 km au large d'Ostende.
+Pourquoi installer des éoliennes aussi loin de la côte ? "Plus on est au large, plus le vent est constant et génère de l'énergie," précise Kristof Verlinden, responsable des opérations et de la maintenance chez Parkwind. "L'autre raison, c'est que les gens ne veulent pas que les éoliennes soient trop proches d'eux, donc elles ont été installées plus loin," dit-il.
+Une fois sur place, l'équipe se consacre à la maintenance de l'une des 201 éoliennes de l'entreprise sur les 399 que compte ce parc d'une capacité totale installée de 2,26 gigawatts qui couvre 10% de la demande quotidienne en électricité en Belgique.
+"Du potentiel, du vent, des ressources, de l'espace et une technologie"
+Le secteur gagne rapidement de l'ampleur dans tous les sens du terme. "Il y a du potentiel, du vent, des ressources, de l'espace et sur ce site, nous avons une technologie qui est en plein essor," affirme Gil Lizcano, climatologue et directeur recherche et développement chez Vortex qui travaille pour les constructeurs d'éoliennes.
+Celle sur laquelle nous nous sommes rendus s'élève à 188 mètres au-dessus de la mer, les plus hautes culminant à 220 mètres.
+"La tendance, c'est d'aller vers des éoliennes de plus en plus grandes," précise Kristof Verlinden de Parkwind, "parce que pour chacune, il faut des fondations, il faut l'installer, il faut des navires, il faut toutes les équipes et la mobilisation. Quand on construit en une seule fois, une unité de 15 mégawatts plutôt que d'en installer cinq de trois mégawatts chacune, on gagne du temps et de l'argent," souligne-t-il avant d'ajouter : "Mais au final, il faut aussi construire sur une superficie bien plus grande."
+Ce parc éolien est aujourd'hui terminé. Mais de nouveaux permis sont en train d'être accordés, de l'ouest de l'Irlande jusqu'à la Baltique.
+L'importance des données météo et climatiques
+Les données météorologiques et climatiques sont essentielles aux constructeurs puisque par exemple, la vitesse moyenne du vent en Europe peut varier de 6% par an.
+Le climatologue Gil Lizcano conseille les entreprises grâce à ses évaluations de la force du vent sur le long terme.
+"Il est très important d'avoir en tête qu'un petit changement dans la vitesse du vent de seulement quelques dixièmes de mètre par seconde peut remettre en cause la viabilité d'un projet," indique-t-il. "Cela peut faire choisir un autre type de machine et cela peut aussi modifier l'agencement des machines," assure-t-il.
+D'autres éléments sont évidemment à prendre en compte de la choix de la zone pour implanter une éolienne en mer, notamment la vie marine sur place et la présence d'autres usagers et activités.
+La solution des éoliennes flottantes
+Autre facteur déterminant : la profondeur de la mer. Sur le parc éolien que nous visitons, les installations reposent sur des piliers immergés dans trente mètres d'eau. Or bien souvent, les conditions de vent sont meilleures en eaux profondes, là où l'installation de piliers n'est pas viable.
+Mais une solution a été trouvée."La technologie a apporté la réponse," indique Gil Lizcano. "Aujourd'hui, on peut construire des éoliennes flottantes," poursuit-il. "Ce qui nous permet d'imaginer des projets éoliens offshore dans de nombreuses régions qui ont beaucoup de vent et où un raccordement au réseau est possible, mais où la profondeur de la mer est très importante," se félicite-t-il.
+Grâce à ces éoliennes flottantes, cette source d'énergie devrait selon l'Agence internationale de l'énergie, couvrir 25% de la demande européenne en électricité d'ici à 2050 contre 3% aujourd'hui.
+À l'échelle de l'Union européenne, la Commission veut augmenter massivement les capacités des parcs éoliens offshore européens au cours des trente prochaines années pour contribuer à atteindre son objectif de neutralité climatique à l'horizon 2050. Elle propose de faire passer leur capacité de 12 GW actuellement à au moins 60 GW d'ici à 2030 et à 300 GW d'ici à 2050.
+Toutes les images aériennes des éoliennes proviennent de l’A.S.B.L. Belgian Offshore Platform (BOP).  

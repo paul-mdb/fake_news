@@ -1,0 +1,71 @@
+C’est mathématique, l’avion émet entre 30 et 50 fois plus de CO2 que le train (si vous ne le saviez pas ou si vous en doutiez encore, lisez cet article). Mais ce calcul ne tient pas compte des émissions de CO2 liées aux infrastructures ferroviaires ni à la maintenance. Ah…
+Donc si nous souhaitions remplacer toutes les lignes aériennes par des trains à grande vitesse, est-ce que finalement ce serait bénéfique en termes d’émissions ? Autrement dit, avec les émissions de CO2 des vols intérieurs en France, combien pourrait-on construire de km de lignes TGV ?
+Laydgeur y répond dans ce match retour !
+Les infrastructures ferroviaires
+Il y a en France 2600 km de lignes à grande vitesse (LGV), soit 9% du réseau ferré total, dont les premières ont été construites dans les années 80 (Paris-Lyon mise en service en septembre 1981).
+Carte des lignes à grande vitesse en France
+Source : SNCF Réseau
+La construction d’une LGV (ligne à grande vitesse) est un gros chantier, mais pas non plus complètement hors norme. C’est par exemple du même ordre de grandeur qu’une autoroute :
+A gauche : la LGV Est croise l’autoroute A4 (Crédit photo SNCF Réseau)
+A droite : comparaison largeur autoroute et LGV (Source SNCF Réseau)
+Comment fait-on le bilan carbone d’une ligne ferroviaire ?
+Le tout premier bilan carbone d’une Ligne à Grande Vitesse (LGV) a été fait par SNCF Réseau pour les 140 km de la branche est de la ligne Rhin-Rhône, mise en service en 2011 qui relie en gros Dijon à Belfort.
+Tracé de la branche est de la ligne LGV Rhin-Rhône
+Source de l’image : Le Figaro
+Quelques chiffres sur cette ligne pour donner une idée du chantier :
+160 ponts et 13 viaducs
+un tunnel de 2 km
+30 millions de m3 de déblais
+600 km de rails, 550.000 traverses
+2 nouvelles gares et 10 rénovées.. dans lesquelles passeront 30 nouvelles rames TGV à 2 niveaux. Ouf.
+Dans le bilan carbone de cette ligne, tout a été compté : le déboisement, le terrassement, les matériaux, les engins de chantier, les transports (matériaux et personnel), les rames TGV, les gares et autres bâtiments, la signalisation…
+Le niveau de détail est assez impressionnant par sa transparence : ont aussi été comptés les ordinateurs qui ont servi aux études, les déplacements domicile-travail de tous les personnels du chantier, les clôtures et les aménagements paysagers de la voie.
+Le bilan ne s’est pas arrêté à la construction de la ligne : dans une optique de faire l’analyse en cycle de vie, les émissions lors de l’exploitation de la ligne ont aussi été prises en compte : production électrique, fonctionnement des gares, maintenance des rames, des voies, et des équipements.
+Activités prises en compte dans le bilan carbone de la LGV Rhin-Rhône
+Source sur la banque des territoires
+Et donc, quel est le résultat final ?
+Sur les 30 premières années, la construction et l’exploitation de cette ligne auront émis près de 2 millions de tonnes de CO2 qui se décomposent comme suit :
+1,2 millions de tonnes de CO2 dès le début pour la construction de la ligne (ces émissions sont en réalité étalées sur les quelques années qu’ont duré les études et la construction)
+et ensuite 23.000 tonnes de CO2 par an pour l’électricité et la maintenance (soit 0,7 million de tonnes sur 30 ans).
+Source : bilan carbone de la LGV
+Afin de calculer la “rentabilité carbone” de cette ligne, il faut calculer le CO2 émis (ce qui a été fait avec ce bilan carbone), mais aussi le CO2 évité. Car cette nouvelle ligne devrait détourner de l’air et de la route environ 1,2 millions de passagers chaque année (ce qu’on appelle report modal), ce qui fait que ses émissions seront “amorties” par rapport à une situation sans LGV en seulement 12 ans.
+Source : bilan carbone de la LGV
+Tout le reste sera un bénéfice net sur le plan des émissions. Au bout de 30 ans de fonctionnement, la LGV aura évité environ 2 millions de tonnes de CO2. Sachant que la durée de vie de la voie est d’une centaine d’années, le bénéfice est sans appel, même si les prévisions de report modal étaient surestimées.
+C’est exactement comme lors de l’achat d’une voiture électrique : il y a plus d’émissions au départ pour construire la voiture et sa batterie (une “dette carbone”) mais largement moins pendant le fonctionnement, donc l’ensemble se rentabilise très rapidement.
+Si l’on zoome sur la phase d’exploitation, on voit très clairement que les émissions de CO2 dues à la maintenance (rames et infrastructures) sont largement minoritaires par rapport à celles de la production d’électricité, malgré le mix électrique bas carbone de la France. Dit autrement, la quasi totalité des émissions d’une ligne TGV provient des émissions liées à la production électrique, qui, malgré ce qu’on peut penser, n’est pas totalement décarbonée en France (encore 19 millions de tonnes de CO2 émises en 2019).
+Source : bilan carbone de la LGV
+Revenons maintenant au sujet de l’article : la seule construction de cette ligne Rhin-Rhône (génie civil, rames, équipements et bâtiments) a émis en tout 1,2 millions de tonnes de CO2. Pour cette ligne-là, le ratio est donc de 8300 tonnes de CO2 par km de LGV. Quid de la construction de nouvelles lignes ?
+Le bilan carbone de la construction des nouvelles lignes
+D’autres bilans carbone ont été réalisés depuis sur d’autres constructions de lignes nouvelles à grande vitesse, selon la même méthode qu’exposée au dessus. La moyenne est plus basse pour diverses raisons : tracé, ouvrages d’art, matériaux, etc. Le ratio moyen est d’environ 6200 tonnes de CO2 par km de LGV. Gardez ce chiffre précieusement en tête, nous y reviendrons après.
+Source : Rapport SNCF Réseau
+Les émissions de l’aviation en France
+Les émissions dues aux vols domestiques sont d’un peu plus de 5 millions de tonnes de CO2 par an (soit un peu moins de 1% des émissions françaises). Sauf que… il y a une subtilité.
+Pour bien comprendre, regardez les émissions de l’aviation domestique dans les pays de l’Union Européenne. Oui les chiffres sont corrects et vous voyez clair : notre aviation domestique émet plus du double des autres grands pays européens ! Même si l’on regarde les émissions par habitant, on “gagne” encore haut la main. Pourtant avec nos TGV justement, on devrait “consommer” moins d’avion non ?
+Source des données : UNFCCC time series
+En fait on l’oublie souvent, mais la France c’est un hexagone, une île pas loin (la Corse), et… une bonne douzaine de territoires éparpillés dans le monde entier. Et les vols entre tous ces endroits sont classés dans la catégorie aviation domestique…
+Carte des territoires français
+Source de l’image : Wikipédia
+Assez bizarrement je n’ai pas trouvé de chiffres d’émissions qui distinguent ces catégories… J’ai donc fait le calcul moi-même en rentrant dans un fichier une par une les 200 liaisons aériennes listées dans les statistiques de la DGAC. L’important à retenir est, comme toujours, l’ordre de grandeur.
+Ainsi, voici comment se répartissent les émissions de l’aviation domestique française. Oui vous avez bien vu : les vols intérieurs hexagone n’émettent “que” 1,6 millions de tonnes de CO2 !
+Graphique élaboré à partir des statistiques du trafic aérien en France, des distances à vol d’oiseau entre aéroports, et du calculateur d’émissions de la DGAC
+Les vols métropole/outre-mer ne concernent que 14% des passagers, mais émettent plus de 60% du total de CO2. Les lois physiques sont ce qu’elles sont : plus il faut aller loin, plus cela émet de CO2, et cela malgré les meilleures performances individuelles des avions long courrier.
+Bien entendu, ces chiffres-là ne correspondent qu’à la combustion du kérosène. Si l’on voulait être complet et vraiment comparer avec les Lignes à Grande Vitesse, il faudrait rajouter les émissions pour produire le carburant, le fonctionnement des aéroports, la maintenance, etc.
+Jouons le match !
+Maintenant que nous avons les chiffres du train ET de l’avion, comparons-les !
+Les émissions annuelles des vols intérieurs hexagone sont de 1,6 millions de tonnes de CO2. Avec cela, nous pourrions construire 250 km de ligne à grande vitesse par an (rappelez-vous le ratio moyen de 6200 tonnes de CO2/km de LGV).
+En conséquence, les émissions pour reconstruire à neuf la totalité du réseau à grande vitesse actuel (2600 km) représentent un peu moins de 11 années des émissions des vols intérieurs hexagone.
+Prenons un peu de hauteur. En 2050, la France a pour objectif d’être neutre en carbone. Sur cette période de 30 ans qui nous sépare de ce but, pour les mêmes émissions que le trafic aérien intérieur, on a la possibilité de quasiment QUADRUPLER notre réseau de lignes à grande vitesse.
+Graphique élaboré avec les calculs précédents (aviation et LGV)
+Quadrupler serait d’ailleurs certainement inutile : pas besoin d’être grand clerc pour voir où se trouvent les manques actuels. Avec ce tracé fait à la main en 2 minutes, simplement en doublant le réseau existant on couvre la quasi totalité des vols intérieurs par des lignes à grande vitesse…
+Tracé à main levée de quelques tronçons de lignes à grande vitesse qui paraissent pertinents pour relier différentes métropoles
+Certains disent que construire de nouvelles infrastructures ferroviaires émet beaucoup trop de CO2 et qu’il serait préférable de ne pas le faire car l’avion serait au final moins émetteur. La réalité est toute autre.
+Prenons par exemple un scénario dans lequel nous déciderions aujourd’hui de simplement doubler le réseau à grande vitesse existant. Cela permettrait de couvrir le territoire français et d’assurer un transport de masse, rapide et décarboné entre les principales villes françaises. Avec un tel réseau, les vols intérieurs métropole pourraient ainsi quasiment disparaître (les vols avec la Corse et les Outre-mers resteraient à l’identique). Il ne subsisterait que certaines diagonales comme le Nice-Rennes qui ne transporteraient plus que quelques milliers de passagers par an.
+Les émissions de CO2 générées par ce scénario seraient à l’équilibre par rapport à un scénario statu quo en seulement… 11 ans. 11 ans seulement pour rembourser cette dette CO2, et toutes les années qui suivent seraient un bénéfice net sur les émissions par rapport à un scénario où les lignes aériennes intérieures seraient maintenues.
+Les défenseurs de l’aérien rétorqueront très certainement que l’efficacité des avions augmente. C’est vrai ! L’efficacité augmente en moyenne de 3% par an dans le monde sur les dernières décennies. Mais ces gains d’efficacité sont de plus en plus difficiles et coûteux à obtenir, et surtout, ils ne compensent pas l’augmentation du trafic aérien, ce qui fait que les émissions mondiales de CO2 dues à l’aviation ont augmenté en moyenne de 2% par an depuis 1960 (rythme qui est passé à +5% par an depuis 2013).
+Malgré les promesses d’un avion à hydrogène qui a fait un buzz médiatique mais dont la maturité technologique est si faible que même Safran reconnaît “qu’il est difficile d’envisager une certification et entrée en service avant 2040”, il serait temps de comprendre qu’une baisse du trafic aérien est indispensable si nous souhaitons respecter nos engagements climatiques.
+Alors… Qu’attendons-nous ??
+Le débat est ailleurs
+Nous savions à quel point le train émettait moins de CO2 que l’avion. Nous savons désormais que même en prenant en compte les infrastructures et leur maintenance, le train a toujours un très net avantage sur l’avion sur le territoire français : c’est à nouveau un KO. Les chiffres présentés dans cet article sont en plus assez accommodants pour l’avion, car nous aurions pu évoquer le bilan carbone de la construction des aéroports, de leurs voies d’accès, de la fabrication et de la maintenance des avions, …
+Au-delà des chiffres, la question n’est pas tant de savoir si ces constructions de lignes sont amorties en 10, 20 ou 30 ans, s’il faut doubler ou tripler le réseau à grande vitesse, ou même si le TGV est pertinent partout.
+La question fondamentale à se poser est de savoir si l’on préfère émettre du CO2 pour des voyages éphémères en avion, ou bien pour construire des infrastructures durables et s’offrir à nous mêmes et à nos descendants une mobilité longue distance sobre en carbone. C’est un choix de société dont nous devons discuter collectivement, tout en prenant bien en compte qu’être neutre en CO2 n’est qu’une étape. Les infrastructures déjà existantes ou les nouvelles constructions ne peuvent plus se faire au dépend de la grande oubliée de ce début de siècle : la biodiversité. L’objet d’un 3ème article, qui sait ?
+Crédit photo @Doudou_TrainDoc 

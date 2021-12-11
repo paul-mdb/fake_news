@@ -1,0 +1,109 @@
+Nous entendons (presque) tous les jours parler du changement climatique, mais qui a déjà entendu parler du forçage radiatif ? C’est une notion peu médiatisée, rarement expliquée, et c’est bien dommage : elle est absolument centrale pour comprendre le changement climatique actuel.
+De l’effet de serre au forçage radiatif
+Avant d’entrer dans le vif du sujet, permettez-moi un bref rappel de ce qu’est l’effet de serre :
+Le soleil émet un rayonnement en lumière visible dont une partie est absorbée et réchauffe la Terre.
+En réaction, elle émet un rayonnement infrarouge (qui s’appelle en physique le rayonnement du corps noir).
+Ce rayonnement remontant est en grande partie absorbé par des gaz qui ont la propriété d’absorber une partie du spectre infrarouge (les fameux gaz à effet de serre), qui les réémettent ensuite dans toutes les directions : un peu vers l’espace, et beaucoup vers la Terre.
+L’effet de serre joue un rôle absolument majeur dans l’équilibre thermique de la Terre. En effet s’il n’existait pas, la température moyenne serait d’environ -20°C, au lieu de 15°C actuellement. La Terre serait une boule de glace, figée pour l’éternité, sur laquelle la vie telle que nous la connaissons n’existerait pas.
+Source : ADEME
+Note : ce schéma est à but pédagogique et la taille des flèches ne rend pas correctement compte du bilan radiatif de la terre, voir cette vidéo pour les explications techniques
+L’effet de serre est donc naturel : il n’a pas été créé par l’homme. Celui de la Terre est bien dosé pour l’apparition de la vie (contrairement à celui de Vénus ou Mars) car il permet l’eau liquide et évite une trop grande amplitude de températures. Nous avons tous déjà expérimenté cet effet de serre : les nuits claires et dégagées sont plus fraîches que les nuits nuageuses, car la base des nuages (constituée des particules liquides et solides) agit comme la paroi d’une serre sur le rayonnement infrarouge montant du sol, et “retient” ainsi la chaleur terrestre.
+Le terme scientifique pour désigner l’effet de serre et plus généralement tous ces rayonnements qui partent et qui arrivent sur la Terre avec les énergies associées est le bilan radiatif. Qui dit bilan, dit équilibre. Les flux d’énergie se compensent : la Terre est dans un état stable.
+Source : Skeptical Science
+Arrivent alors les activités humaines qui rejettent dans l’atmosphère des quantités considérables de gaz à effet de serre, ce qui modifie les valeurs du rayonnement : telle une couverture, les gaz à effet de serre empêchent une partie du rayonnement infrarouge de partir dans l’espace. Un déséquilibre se crée alors dans le bilan. C’est le forçage radiatif.
+Source : Skeptical Science
+Ce déséquilibre se fait par rapport à un état stable : il est ainsi calculé en relatif, par rapport à l’année 1750 qui est l’aube de l’ère industrielle. Son unité est le Watt par mètre carré (W/m²) (donc un débit d’énergie par surface). Mais on va laisser de côté les valeurs pour l’instant, pour se concentrer sur les explications et on parlera des chiffres à la fin.
+De quoi est composé ce forçage radiatif ?
+D’abord, une vue globale avec les grandes catégories :
+Source : 5ème rapport du GIEC, résumé technique
+“GESMH” ce sont les gaz à effet de serre (dont les principaux sont CO2, CH4, N2O), qui créent un forçage radiatif positif, donc tendance au réchauffement. Et pour la barre verte “Autres forçages anthropiques”, la valeur est négative ce qui est une tendance au… refroidissement !
+Cette vue d’ensemble est complétée avec une composante naturelle, quasi sans implication dans le déséquilibre constaté. Le forçage radiatif global est donc quasiment entièrement dû à la somme des deux composantes anthropiques (“humaines”) :
+L’une qui chauffe (beaucoup)
+Et l’autre qui refroidit (un peu)
+Maintenant que le cadre est posé, voici le tableau complet avec le détail des gaz, les valeurs, intervalles, degrés de confiance etc.. :
+Source du graphique : 5ème rapport du GIEC, Groupe I chapitre 8 “Forçage radiatif anthropique”
+Pas de panique ! Nous allons détailler les 6 blocs un par un, chacun étant absolument indispensable.
+Bloc n°1 : les gaz à effet de serre
+Les gaz à effet de serre sont dits “homogènes”, car ils sont suffisamment mélangés et persistants dans l’atmosphère pour que leur concentration puisse se mesurer depuis un petit nombre de sites et être pertinente et utilisable au niveau global, malgré des sources (émissions) et des puits (absorption) forcément locaux.
+Que voit-on ?
+Le CO2 est le principal gaz à effet de serre.
+Certains gaz se décomposent en d’autres (exemple le méthane se décompose en : CO2 + vapeur d’eau stratosphérique + ozone).
+Le degré de confiance est élevé ou très élevé : on connaît très bien leurs propriétés et leurs effets.
+Les hydrocarbures halogénés (HFC, CFC) détruisent l’ozone O3, ce qui a un effet négatif (car l’ozone troposphérique est un gaz à effet de serre), mais qui est largement contrebalancé par leur propre effet de serre positif.
+Notes :
+Il y a en fait 7 gaz à effet de serre qui sont comptabilisés : le CO2 bien sûr, mais aussi le méthane (CH4), le protoxyde d’azote (N2O), les deux familles Hydrofluorocarbures (HFC) et Hydrocarbures perfluorés (PFC), et deux gaz mineurs mais au fort pouvoir réchauffant (NF3 et SF6), qui ne sont pas montrés dans ce graphique.
+Il faut distinguer le bon ozone, celui dans la stratosphère qui nous protège des UV ; et le mauvais ozone, celui dans la troposphère qui participe à l’effet de serre et en plus est un polluant.
+Bloc n°2 : les gaz à courte durée de vie
+Ces gaz à courte durée de vie sont considérés comme des polluants. Ce sont par exemple le monoxyde de carbone (CO), les Oxydes d’Azote (NOx) et les Composés Organiques Volatiles (COVNM), qui sont issus de la combustion d’énergies fossiles (moteur de voitures, chaudières, centrales électriques, …) ou de certains procédés industriels (fabrication d’engrais, raffinage de pétrole, …). Ils ne sont pas eux-mêmes des gaz à effet de serre, mais ils réagissent plus ou moins rapidement dans l’atmosphère pour former ou détruire d’autres composés qui eux le sont.
+Exemple avec le monoxyde de carbone (CO) émis par les feux de forêt et la combustion d’énergies fossiles :
+1er effet : le CO réagit avec l’oxygène pour donner du CO2
+Et 2ème effet : il réagit aussi avec d’autres composés chimiques qui auraient autrement détruit du méthane et de l’ozone, ce qui empêche la concentration de ces deux derniers de diminuer
+Ce double effet Kiss Cool détruit les composés en question, mais les réactions chimiques impliquées produisent des gaz à effet de serre, ou ralentissent leur épuration dans l’atmosphère, ce qui augmente le forçage radiatif.
+Bloc n°3 : les aérosols
+Contrairement à ce que certains ont pu penser à tort (par exemple Didier Raoult dans ses tribunes), les aérosols ne sont pas des gaz, mais des fines particules de toutes sortes en suspension dans l’atmosphère.
+Vous voyez sur cette magnifique image 3 types d’aérosols : les embruns marins (typhons, ouragans), le carbone sous forme de suie (principalement issu des feux de forêts, ici en Amérique du Nord et en Afrique équatoriale), et le sable et poussières soulevés par le vent dans les déserts.
+Crédit : NASA/Joshua Stevens/Adam Voiland
+Ces aérosols ont plusieurs effets : ceux de la partie gauche négative du graphique (poussière minérale, sulfate, nitrate, carbone organique) vont réfléchir le rayonnement solaire et donc avoir une tendance à refroidir (forçage radiatif négatif). Émettre ce genre de particules dans l’atmosphère est d’ailleurs une piste de géo-ingénierie climatique pour réduire le rayonnement solaire atteignant la Terre et ainsi limiter le réchauffement climatique.
+Source : 5ème rapport du GIEC, résumé technique
+La partie droite du graphique, positive, correspond à du carbone suie, issu de combustions incomplètes (des imbrûlés), qui va absorber le rayonnement solaire et donc réchauffer l’atmosphère (forçage radiatif positif).
+Source : 5ème rapport du GIEC, résumé technique
+Il y a aussi un effet réchauffant supplémentaire lorsque cette suie se dépose sur de la neige ou de la glace et la noircit, diminuant ainsi la réflexion de la surface (changement d’albédo) ce qui renforce l’absorption solaire et provoque donc une accélération de la fonte.
+Crédit : Dark Snow Project
+Bloc n°4 : les ajustements des nuages dûs aux aérosols
+Tous les aérosols en suspension dans l’atmosphère ont une multitude d’interactions chimiques et physiques avec les nuages : formation de cristaux glace, déclenchement de précipitations, condensation, changement de la durée de vie, de l’albédo, …
+Les aérosols interagissent de multiples façons avec les nuages
+Source : 5ème rapport sur GIEC, groupe I, chapitre 7
+La quantification et modélisation précises de ces nombreux processus de microphysique sont plus compliquées que pour les autres effets, d’où une grande incertitude résultante de cette partie là, malgré un forçage radiatif global très probablement négatif (donc tendance au refroidissement).
+Tant qu’on parle des nuages : il faut aussi aborder les traînées de condensation de l’aviation, même si elles n’apparaissent pas sur le graphique. Car l’aviation a de multiples impacts sur le climat, en plus des émissions de CO2. Les effets les plus notables sont les traînées de condensation résultant de l’humidité rejetée par les réacteurs, et également la formation de nuages de haute altitude appelés cirrus, résultant des particules fines émises lors de la combustion du kérosène (imbrulés, NOx, …). Ces deux effets augmentent l’effet de serre et créent au global un léger forçage positif, malgré leur réflexion de la lumière solaire.
+Bloc n°5 : le changement d’utilisation des sols
+Cette catégorie est principalement de la déforestation, qui a augmenté l’albédo (le pouvoir réfléchissant) des surfaces. Vous voyez clairement sur cette photo la différence de “clarté” entre les deux côtés. La forêt sombre absorbe beaucoup plus de rayonnement que les prairies ou les cultures.
+Illustration de la différence d’albédo (pouvoir réfléchissant) entre une surface boisée et une surface en herbe
+Ce changement de la surface réfléchissante des terres a donc induit un léger forçage négatif depuis l’ère pré-industrielle (car éclaircissement de la surface => renvoi d’une partie du rayonnement solaire => refroidissement). Ces changements ont eu lieu principalement dans les zones peuplées, ce qui est logique (déforestation pour la construction de villes, d’infrastructures, pour des cultures agricoles, des zones d’élevage, …).
+Évolution depuis 1750 du forçage radiatif dû à la modification de l’albédo des sols.
+Source : 5ème rapport du GIEC, groupe I, chapitre 8
+Bloc n°6 : les causes naturelles
+Il y a deux principales causes naturelles qui influent sur le climat, aux échelles de temps du siècle : d’abord le changement de l’irradiance solaire (= énergie qui nous arrive du soleil). Les cycles solaires sont de 11 ans et sont mesurés par satellite depuis la fin des années 80. Dans ces cycles l’irradiance varie très peu : environ 0,07% entre le haut et le bas d’un cycle.
+Irradiance solaire mesurée par satellite depuis 1979
+Source : 5ème rapport du GIEC, groupe I, chapitre 8
+Les reconstitutions de l’irradiance solaire depuis 1750 ont pu être faites en se basant sur la modélisation des flux magnétiques et les relations avec les taches solaires. Selon les estimations il n’y a soit aucune augmentation du forçage radiatif, soit très faible.
+Reconstruction de l’irradiance solaire historique depuis 1750, avec superposition à partir de 1979 des mesures par satellite
+Source : 5ème rapport du GIEC, groupe I, chapitre 8
+2ème cause naturelle : les volcans. Les volcans émettent du CO2 lors des éruptions, et si ces émissions sont un enjeu majeur aux échelles de temps géologiques (de l’ordre du million d’années), elles ont un impact mineur à l’échelle du siècle. Sur ces temps-là, la principale contribution des volcans au climat n’est pas le CO2 ni même les cendres, mais le dioxyde de soufre (SO2). Ce dernier va former dans l’atmosphère des gouttelettes d’acide sulfurique, avec une durée de vie de quelques années si l’éruption est assez forte pour l’envoyer dans la stratosphère (entre ~10 et ~50 km) et si le volcan se situe à proximité de l’équateur. Ces gouttelettes sont en fait des aérosols qui vont réfléchir le rayonnement solaire et donc induire un refroidissement de la basse atmosphère (inférieure à ~10 km).
+L’éruption du Mont Pinatubo aux Philippines en 1991 est une des plus importantes éruptions du 20ème siècle, et a envoyé près de 20 millions de tonnes de dioxyde de soufre jusqu’à 35 km d’altitude.
+Éruption du Mont Pinatubo au Philippines en 1991
+Ces aérosols se sont propagés sur la quasi totalité de la planète en quelques mois, et ont provoqué une baisse d’environ 0,5°C de la température moyenne planétaire pendant 2 ans.
+Propagation sur la planète des aérosols liés à l’éruption du Pinatubo.
+En haut à gauche avant l’éruption, en haut à droite le mois qui suit l’éruption de juin, en bas à gauche 2 mois après, et en bas à droite 6 mois après.
+Regardez ces clichés pris depuis la navette spatiale. A gauche une photo quelques années avant l’éruption. Et à droite une autre deux mois après l’éruption : on voit clairement les couches des aérosols rejetés par le volcan (traits noirs épais au dessus des nuages).
+Crédit NASA
+Un refroidissement généralisé et durable causé par des aérosols libérés par des éruptions volcaniques considérables est d’ailleurs une des causes probables de l’extinction des dinosaures il y a 65 millions d’années.
+Résumé du forçage radiatif
+Récapitulons les différentes composantes du forçage radiatif, dans l’ordre :
+
+1 – Les gaz à effet de serre
+2 – Les polluants à courte durée de vie
+3 – Les aérosols
+4 – Et leurs interactions avec les nuages
+5 – Le changement d’albédo causé par la modification des sols
+6 – Les causes naturelles : variations solaires et éruptions volcaniques
+Lorsque l’on met tout ça ensemble, voici l’évolution des composantes du forçage radiatif depuis l’ère pré-industrielle jusqu’à 2011 :
+Source : 5ème rapport du GIEC, groupe I, chapitre 8
+Du côté négatif de l’axe (tendance au refroidissement) :
+Les pics sont les éruptions volcaniques : puissant effet refroidissant mais très court et n’influe pas sur la tendance
+Le changement d’albédo et les aérosols sont plus constants, avec une légère stabilisation sur la fin
+Du côté positif de l’axe (tendance au réchauffement) :
+Les gaz à effet de serre (gris pour le CO2, vert clair pour les autres), qui présentent de loin la plus grande influence
+Le carbone sous forme de suie (BC, pour Black Carbon)
+Les traînées de condensation des avions
+Les variations solaires
+La résultante de toutes ces composantes (courbe noire) est largement positive, et la valeur correspond à celle de la barre rouge de ce schéma qu’on a vu tout au début : 2,3 Watts par m².
+2,3 Watts par m².
+C’est tout ?
+Dit comme ça, ça ne semble pas énorme et ça n’impressionne personne. Et pourtant… regardez les ordres de grandeurs qui suivent. Si l’on applique ce forçage radiatif sur un carré de 25m x 25m (soit 650 m²), on obtient 1500 W de forçage. 1500 W, c’est la puissance de ce genre d’appareil qu’on utilise (de manière absurde d’ailleurs) pour chauffer les terrasses l’hiver.
+Exemple de chauffage de 1500 W
+Donc ce petit 2,3 W/m² qui n’a l’air de rien revient finalement à poser ce genre de chauffage tous les 25m, sur toute la surface du globe, et de le faire fonctionner 7j/7, 24h/24, 365j/an. 1,2 millions de milliards de Watts en tout.
+Si l’on raisonne en énergie, les chiffres sont encore plus fous. Sur une année, le forçage radiatif induit par ce supplément d’effet de serre renvoie vers la surface 37 mille milliards de milliards de joules. C’est absolument colossal, et complètement impossible à se représenter avec nos sens.
+Regardez cette vidéo. C’est un essai nucléaire soviétique fait en 1955. Et bien l’énergie du forçage radiatif sur Terre, c’est cette explosion 80 fois par seconde, en permanence. Soit une en France toutes les 10 secondes : la durée de la vidéo…
+Pour continuer sur cette lancée, depuis 1945 il y a eu dans le monde environ 2500 essais nucléaires, pour une énergie libérée totale de 540 millions de tonnes de TNT. Et bien toute cette énergie correspond juste à 32 minutes de forçage radiatif…
+Les armes nucléaires vous inquiètent ? C’est légitime. Le changement climatique devrait vous inquiéter tout autant.
+Retrouvez Laydgeur sur Youtube en interview ! 

@@ -1,0 +1,21 @@
+SERGE PLANTON, CLIMATOLOGUE AU CENTRE NATIONAL DE RECHERCHES MÉTÉOROLOGIQUES DE MÉTÉO FRANCE ET EXPERT DU GROUPE D’EXPERTS INTERGOUVERNEMENTAL SUR L’ÉVOLUTION DU CLIMAT (GIEC), RÉPOND À CES QUESTIONS :
+LES CANICULES SONT-ELLES DÉJÀ PLUS FRÉQUENTES ?
+En France, entre 1900 et 2017, la température a augmenté en moyenne de 1,5°C et, dans le sud-ouest, de 1,8°C. Par ailleurs, sur l’année, les jours dont la température dépasse les 25°C sont de plus en plus nombreux.
+Mais une canicule n’est pas qu’un pic de chaleur : elle se définit par une température dépassant de 5°C la normale pendant au moins cinq jours consécutifs. Et, oui, on est en mesure aujourd’hui d’affirmer que leur nombre a augmenté de façon significative.
+A QUOI DOIT-ON S’ATTENDRE AVEC LE RÉCHAUFFEMENT À VENIR ?
+Pour faire des projections, nous utilisons des modèles mathématiques qui permettent de représenter l’évolution du climat, à l’échelle mondiale comme à celle de la France. Actuellement, les plus sophistiqués d’entre eux ont un point de calcul tous les 2 à 3 km et ils donnent des estimations assez fiables pour la fin du siècle.
+La fréquence des vagues de chaleur va augmenter. Si rien n’est fait pour réduire nos émissions de gaz à effet de serre, une canicule comme celle de 2003 [1] [2] [3], qui était jusqu’à présent un évènement exceptionnel, pourrait devenir banale à la fin du siècle . On est dans le scénario que nous qualifions de « laisser faire », dans lequel on prévoit une augmentation de la température de 3,2°C à 5,4°C d’ici 2100. Dans ces projections-là, après 2070, une canicule comme celle de 2003 pourrait se produire tous les deux ans en moyenne [4]. Et, bien sûr, il pourra y en avoir des moins importantes, comme des plus intenses [5] !
+Si l’on respecte l’accord de Paris, la température mondiale continuera de croître pour se stabiliser en 2050 à 2°C d’augmentation, voire 1,5°C dans le meilleur des cas. Elle serait alors de 2°C en France, par rapport à celle moyenne de 1900. Les canicules y auront augmenté, dès le milieu du XXIe siècle, en nombre, en intensité et en durée [6].
+QUELLES SONT LES SOLUTIONS POUR SE PROTÉGER DES CANICULES ?
+La première solution est la prévision, qui s’améliore d’un jour tous les dix ans. En 2003, la canicule avait été prévue plusieurs jours à l’avance mais nous n’avons pas su réagir devant l’ampleur du phénomène.
+Nous avons appris d’évènements comme celui-ci et les tempêtes de fin décembre 1999. De là est née la carte de vigilance météo qui sert à communiquer rapidement sur des évènements exceptionnels et à avertir le grand public. De même pour ce qui concerne les mesures de précautions comme celles du plan national canicule : les leçons de 2003 ont permis de réduire les effets de celle de 2006, moins intense mais plus longue.
+Ce dispositif est un premier exemple d’adaptation au réchauffement climatique et il y en a d’autres. Dans une ville comme Paris par exemple, on a calculé que si l’on généralisait la climatisation, la température extérieure augmenterait de 2°C [7] ! Elle est donc une mauvaise solution. A contrario, la végétalisation des rues et des toits, elle, pourrait y réduire la température de 2°C [8].
+RÉFÉRENCES
++
+[1] The 2003 HeatWave in France : Dangerous Climate Change
+Here and Now Marc Poumadiere et al., Risk Analysis, Vol. 25, No. 6, 2005
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1539-6924.2005.00694.x
+[2] Hot news from summer 2003 Christoph Schär and Gerd Jendritzky NATURE|VOL 432 | 2 DECEMBER 2004
+https://www.researchgate.net/publication/8149683_Climate_change_Hot_news_from_Summer_2003
+[3] Retour sur la canicule d’août 2003 Météo-France 20 août 2003
+http://www.meteofrance.fr/climat-passe-et-futur/evenements-remarquables/retour-sur-la-canicule-daot-2003- 

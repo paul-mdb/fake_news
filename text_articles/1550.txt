@@ -1,0 +1,42 @@
+Par Julie Daunay, manager Carbone 4, responsable du Pôle Bâtiment-Immobilier, et César Dugast, consultant senior Carbone 4, co-fondateur de Net Zero Initiative 
+Un nouvel objectif pour la France : la neutralité carbone
+À l’été 2017, Nicolas Hulot annonçait dans son Plan Climat le nouvel objectif de la France : l’atteinte de la neutralité carbone d’ici 2050. La Stratégie Nationale Bas Carbone, qui visait jusqu’à alors le Facteur 4, est en cours de révision pour s’adapter à ce nouvel objectif. Un projet est sorti en décembre 2018, la version finale est attendue avant l’été 2019 avec la parution d’un décret. 
+La nouvelle SNBC prévoit la décarbonation quasi-complète des secteurs du transport[1], de l’énergie[2] et du secteur du bâtiment[3] d’ici 2050. Ces cibles répondent à la nécessité d’équilibrer les émissions anthropiques par les absorptions, sur le territoire français[4]. 
+Elles sont d’autant plus ambitieuses que la France n’a pas respecté le 1er budget carbone (2015-2018). En particulier, le bâtiment a vu ses émissions augmenter entre 2014 et 2017[5] (+8%).  
+Source : Évolution des émissions de la France entre 1990 et 2050 pour atteindre la neutralité carbone, données du Projet de Stratégie Nationale Bas-Carbone, version décembre 2018
+Quelles ambitions de réduction pour le secteur du bâtiment ? 
+Pour comprendre l’ampleur de l’enjeu carbone associé au secteur du bâtiment en France, un jeu de puzzle est nécessaire. En effet, ses émissions globales sont réparties dans trois secteurs d’activité de la SNBC : 
+Le bâtiment, pour les émissions directes (scope 1) liées aux consommations d’énergie pendant la phase d’usage des bâtiments (gaz, fioul…) et aux fuites de fluides frigorigènes
+La production de l’énergie, pour les émissions indirectes (scope 2) liées à la consommation d’électricité, de chaleur ou de froid via les réseaux urbains
+L’industrie, pour les émissions indirectes (scope 3) liées à la fabrication des matériaux et équipements mis en œuvre dans les constructions neuves ou rénovations
+  En 2016, le secteur du bâtiment représente 26% des émissions nationales sur ses scopes 1+2 (consommations énergétiques), soit environ 115 MtCO2e. Par ailleurs, la construction neuve (résidentielle et tertiaire) équivaut à environ 30 MtCO2e. Autrement dit, le secteur global représente environ 30% des émissions annuelles nationales.   
+→  Cibles du projet SNBC de décembre 2018 pour le secteur du bâtiment : •      scopes 1+2 : 0 MtCO2e en 2050 (hors fuites résiduelles de gaz) •      scope 3 : non précisé. Le secteur de l’industrie, notamment l’industrie cimentière et sidérurgique, doit réduire de 81% ses émissions entre 2015 et 2050
+Pour atteindre ces cibles, le levier principal reste la massification de la rénovation du parc immobilier français. La SNBC souhaite porter le nombre annuel de rénovations complètes et performantes dans le logement de 300 000 sur 2015-2030 à 700 000 sur 2030-2050 (contre environ 250 000[6] aujourd’hui), en visant en priorité les passoires énergétiques. Cette rénovation massive doit permettre d’aboutir à niveau BBC équivalent[7] sur l’ensemble du parc. 
+Plus concrètement, ces objectifs signifient que le parc immobilier français doit suivre une trajectoire de réduction d’émissions de CO2[8] qui tend vers 0 en 2050, avec une valeur jalon de 15 kgCO2e / m2 par an en 2030, ce qui correspond peu ou prou à un parc niveau Carbone 1 du Label E+C- sur la période 2030-2035.   
+ Source : Analyse Carbone 4, d’après les budgets carbone de la SNBC pour le bâtiment sur ses scopes 1 et 2
+Actuellement, le chauffage représente 60% des émissions scopes 1+2 du bâtiment. Dans le cadre des rénovations, qui visent à réduire les besoins énergétiques des bâtiments (on parle de sobriété), la décarbonation du mix énergétique est également clé. La SNBC recommande de recourir aux pompes à chaleur, réseaux de chaleur urbains, solaire thermique et géothermie pour le chauffage et l’eau chaude sanitaire des logements, et de sortir du fioul d’ici 10 ans ! En parallèle, les vecteurs électricité et gaz doivent être complètement décarbonés d’ici 2050.  
+Source : ventilation des émissions du secteur du bâtiment en 2016 issue du projet de SNBC paru en décembre 2018
+En conclusion, quels signaux forts attendons-nous de l’État ?
+Pour mener à bien cette quête de la neutralité carbone, les acteurs économiques (propriétaires, gestionnaires de parcs, constructeurs, promoteurs, collectivités…) doivent recevoir des signaux forts de l’État, cohérents avec l’ambition formulée pour le secteur du bâtiment en termes de réduction des émissions de gaz à effet de serre. La politique carbone du gouvernement doit notamment pouvoir : 
+proposer des outils réglementaires adaptés: la RE[9] 2020 doit proposer une performance carbone maximale pour la construction neuve cohérente avec la SNBC.  Quid de la réglementation sur l’existant pour garantir une performance carbone minimale et/ou inciter davantage les propriétaires à rénover ? Quid de la taxe carbone sur le long terme[10] ?
+proposer des aides financières adaptées
+encourager les industriels à proposer des technologies et matériaux bas carbone sur le marché (poursuivre la R&D dans ce sens)
+aider les acteurs du bâtiment à monter en compétence sur les services bas carbone
+La neutralité carbone : réduire drastiquement ses émissions, et séquestrer le carbone !
+Pour atteindre son objectif de neutralité carbone, la France cherche à augmenter ses puits de carbone pour compenser les émissions incompressibles liées à ses activités économiques. 65% de ces puits en 2050 proviendront de la forêt et de l’utilisation des produits bois. Le secteur du bâtiment a donc un rôle primordial à jouer : en choisissant d’utiliser massivement les produits bois dans la construction[11] (en particulier les produits à vie longue, qui iront dans la structure), les acteurs du bâtiment contribuent à sanctuariser le stock capté par la forêt, et facilitent ainsi l’atteinte de la neutralité carbone de la France. 
+À quand une définition plus précise de la neutralité carbone pour le secteur et ses entreprises[12] ? Net Zero Initiative, un réseau unique d’acteurs lancé par Carbone 4 en 2018, travaille actuellement sur la question. 
+Affaire à suivre…   
+ Julie Daunay, manager Carbone 4, responsable du Pôle Bâtiment-Immobilier, et César Dugast, consultant senior Carbone 4, co-fondateur de Net Zero Initiative    
+[1] La décarbonation n’est que « quasi-complète » car il subsiste une consommation de produits pétroliers pour le transport aérien et maritime. 
+[2] La décarbonation n’est que « quasi-complète » à cause des fuites de biométhane. 
+[3] La décarbonation n’est que « quasi-complète » compte-tenu des fuites résiduelles « incompressibles » de gaz (gaz fluorés, gaz renouvelables). 
+[4] La capacité maximale des puits à 2050 conditionne donc le budget global autorisé à émettre. 
+[5] Le secteur a réduit de seulement 2% ses émissions entre 1990 et 2016. 
+[6] Source : Campagne OPEN 2015 
+[7] Bâtiment Basse Consommation. Les caractéristiques du niveau équivalent BBC restent à définir (la performance est traditionnellement pensée en énergie primaire), pour s’assurer de la compatibilité avec la SNBC. 
+[8] Périmètre : émissions scopes 1+2 
+[9] Réglementation Environnementale 2020, qui doit succéder à la RT 2012 à l’issue de l’expérimentation du Label E+C- 
+[10] Cf. notre article « Faut-il renoncer à la taxe carbone ? » paru en décembre 2018 
+[11] Les produits biosourcés d’origine végétale, plus largement 
+[12] Cf. notre article « Net Nero Initiative pose la première pierre d’un référentiel de la neutralité carbone pour les entreprises à la COP24 » paru en décembre 2018. 
+ Télécharger l'article 

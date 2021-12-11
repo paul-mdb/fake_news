@@ -1,0 +1,27 @@
+arrow_backward
+Revenir à Le dérèglement climatique
+Pourquoi parle-t-on en équivalent CO2 ?
+Publié le 10 août 2021
+PARTAGER
+email Chaque GES a un impact différent 
+Si tous les gaz à effet de serre (ou GES) fonctionnaient de la même façon, ce serait bien trop simple. En réalité, chacun de ces gaz possède des caractéristiques différentes. 
+Le temps de résidence 
+Chaque GES reste plus ou moins longtemps dans l’atmosphère, et continue donc d’agir pendant tout ce « temps de résidence » en augmentant l’effet de serre. 
+Exemples :
+Le forçage radiatif
+Pour différentier les différentes contributions au réchauffement planétaire, la notion de forçage radiatif est utilisée. Le forçage radiatif caractérise l’apport d’une espèce chimique au bilan énergétique de la Terre, c’est-à-dire sa contribution à l’effet de serre additionnel. Ce flux d’énergie se mesure en W/m2.
+L’adjectif « radiatif » vient du fait qu’on mesure une différence de rayonnement. Plus précisément, on mesure la différence entre le rayonnement solaire entrant dans l’atmosphère et les émissions de rayonnements infrarouges sortantes de l’atmosphère.
+Par exemple, un forçage radiatif positif signifie qu’il y a une augmentation de la contribution à l’effet de serre et donc au réchauffement climatique. A l’inverse, si l’on mesure un forçage radiatif négatif, la Terre reçoit dans ce cas moins d’énergie qu’elle n’en renvoie. Le forçage d’un gaz au forçage radiatif négatif entraîne donc une baisse de l’efficacité de l’effet de serre et donc un refroidissement de la Planète.  
+Chaque GES possède un « forçage radiatif » différent, et donc une “efficacité” ou une contribution au réchauffement différente. 
+Comment comparer alors les différents GES et leur impact ? 
+Ne mélangeons pas les choux et les carottes. Comme nous venons de le voir, les GES possèdent deux caractéristiques principales qui impactent le réchauffement climatique : leur temps de résidence et leur forçage radiatif. Afin de pouvoir comparer les GES aisément, il a été créé un indicateur unique : le PRG « Pouvoir de réchauffement Global » ou en anglais GWP (« Global Warming Potential »).
+Comment est-il calculé ? Il suffit de prendre le forçage radiatif d’un GES sur 100 ans (pour neutraliser ainsi la question du temps de résidence) et de le rapporter à celui du CO2. Par convention, le CO2 a donc un PRG de 1. 
+Voici à titre d’exemple les PRG de différents GES :
+Ainsi, on peut lire que le méthane a en moyenne un pouvoir de réchauffement global 30 fois supérieur à celui du CO2. C’est à dire que si on émet 1 kg de méthane dans l’atmosphère, l’impact en matière d’effet de serre sera le même, à l’échelle du siècle, que 30 kg de CO2 ! 
+Nous pouvons ainsi comparer les différents GES et leur impact, en “équivalent CO2”. L'équivalent CO2 est, pour un GES, la quantité de CO2 qui aurait la même capacité à réchauffer la Planète sur un temps donné. Cette notion est notamment utilisée pour les publications dans la presse car plus simple à appréhender pour le grand public. 
+Par exemple : Une vache laitière émet environ 100 kg de méthane / an, ce qui a le même pouvoir de réchauffement que 3 tonnes de CO2 par an. On dit donc qu’une vache laitière émet “3 tonnes équivalent CO2 / an”.  C’est ce qu’émet une voiture neuve en 25 000 km.
+Voilà donc une unité de mesure commune bien pratique pour mesurer correctement la contribution des GES au réchauffement climatique, peu importe le GES considéré et le secteur ou le pays qu’on analyse (transport, agriculture…).
+Nos autres articles à propos de "Le dérèglement climatique" :
+Jean MarcJancovici : Indispensable pour comprendre les enjeux de l'énergie
+Critique équilibrée de la collapsologie
+Le réchauffement climatique est le résultat des activités humaines. 

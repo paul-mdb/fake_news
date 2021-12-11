@@ -1,0 +1,60 @@
+Comment calculer son empreinte carbone, ou autrement dit, son empreinte climat ? Comment savoir si votre consommation est compatible avec un monde soutenable ?
+Si vous vous posez la question, c’est déjà que vous avez passé une étape et que vous êtes très certainement soucieux de l’environnement. Félicitations ! Pour vous faciliter le travail, j’ai testé plusieurs calculateurs et fait le choix du ‘meilleur‘. L’objectif est de pouvoir calculer son empreinte carbone en 5 minutes et de connaître rapidement les axes d’amélioration à mener.
+Avant propos : définitions et objectifs
+Qu’est-ce que l’empreinte carbone ?
+L’empreinte carbone est un calcul des émissions de GES associées à la consommation au sens large (demande finale intérieure) d’un pays, quelle que soit l’origine géographique de la production des biens et services destinés à satisfaire cette consommation. Cette approche se distingue de l’inventaire national du bilan carbone, qui mesure les émissions sur le territoire (appelée approche territoriale).
+Le gouvernement donne cette définition : “L’inventaire des gaz à effet de serre (GES) d’un pays donné est un tableau par grands secteurs qui présente les émissions sous une forme simple exploitable par toute personne qui souhaite un panorama objectif. Les inventaires sont réalisés en appliquant les principes méthodologiques définis par le GIEC.“
+Illustration : en France, comme nous importons plus de produits que nous n’en exportons, notre empreinte carbone est supérieure à l’inventaire national. En 2014, avec 720 Mt CO2 éq, l’empreinte carbone présente un niveau supérieur de 66 % à celui de l’inventaire national (graphique 4). Elle se compose à 45 % d’émissions intérieures et à 55 % d’émissions importées :
+Source : https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-204-l-empreinte-carbone-des-francais-reste-%20stable-janvier2020.pdf
+Objectif : passer de 12 à 2t CO2eq/ an !
+Si vous découvrez seulement ce chiffre, vous risquez d’être secoué : il va falloir en moyenne diviser par 6 vos émissions ! En d’autres termes, diviser votre confort énergétique par 6. Citons la stratégie nationale bas carbone, page 43 :
+Rapportée à l’habitant, en 2015, l’empreinte carbone des Français est légèrement supérieure à celle de 1995 : 11 tonnes de CO2eq par personne. En termes d’évolution, l’empreinte carbone des importations a augmenté de 2 % par an en moyenne lors des 5 dernières années, et les émissions
+du territoire métropolitain ont baissé de 2,5 % par an. Or, pour limiter l’augmentation des températures à + 2 °C, il faut viser dès les prochaines décennies une empreinte carbone à l’échelle mondiale de 2 tonnes de CO2eq par personne.
+Voici deux graphiques qui représentent bien les efforts à faire. Tout d’abord, l’évolution de l’empreinte carbone moyenne par habitant. Elle est relativement stable depuis 20 ans, comparée à l’inventaire national (évidemment, puisque nous avons délocalisé nos industries polluantes. Habile !)
+Source : https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-204-l-empreinte-carbone-des-francais-reste-%20stable-janvier2020.pdf
+Voici maintenant l’empreinte carbone moyenne des français, et l’objectif. Avec des chiffres de 2017, ce graphique de l’étude “Faire sa part” de Carbone 4 illustre bien l’effort à faire :
+Source : http://www.carbone4.com/wp-content/uploads/2019/06/Publication-Carbone-4-Faire-sa-part-pouvoir-responsabilite-climat.pdf
+NB : Selon les sources, vous verrez ce chiffre évoluer de 10.8t CO2eq à 12. Prenez en compte l’année de la source, et surtout, gardez bien en tête que ce qui est important ici, ce sont les ordres de grandeur. Libre à vous de creuser pour affiner et mieux comprendre les calculs.
+Pourquoi est-il important de calculer son empreinte carbone ?
+Connaître l’empreinte carbone de la France est une chose, connaître son empreinte carbone en est une autre. Sans surprise, il y a des disparités très fortes et ce sont les ménages français ayant les plus hauts revenus qui ont l’empreinte carbone la plus importante :
+Source : http://faere.fr/pub/PolicyPapers/Pottier_Combet_Cayla_Lauretis_Nadaud_FAERE_PP2020.02.pdf
+
+C’est donc en fonction de votre empreinte carbone que vous devrez ajuster votre quotidien et faire des efforts, afin d’avoir un mode de vie soutenable. 12t CO2eq n’est qu’une moyenne : le breton végétarien qui se déplace à vélo n’a pas la même empreinte carbone que le parisien qui part en week-end à Marrakech tous les mois. Il aura par conséquent beaucoup moins d’efforts à faire.
+Calculateur d’empreinte carbone : le verdict !
+Après avoir testé plusieurs calculateurs, j’ai arrêté mon choix sur celui qui me paraît être aujourd’hui le meilleur : le simulateur Nos Gestes Climat de l’ADEME !
+Vous pouvez obtenir votre empreinte carbone en cliquant sur ‘Faire le test‘ (et/ou aller en bas de cet article pour avoir le simulateur intégré dans l’article) .
+Voici mon résultat :
+Score de financier à la retraite
+Vous noterez que dans le simulateur, le poste d’émissions “services publics” est égal pour tout le monde (1 284 kgCO2e). Il prend en compte l’ensemble des émissions de CO2 qui résultent de l’ensemble des services publics (santé, routes, éducation, justice, défense…). Pour un végétarien qui se balade en vélib, je m’en sors pas trop mal !
+Pourquoi ce simulateur plutôt qu’un autre ?
+Avant tout chose, il est public. Il n’appartient pas à une entreprise privée, qui va chercher à en faire son business. Calculer son empreinte carbone devrait être un service public afin d’aider tous les citoyens à baisser leur empreinte carbone. Ensuite, la transparence des sources est totale, le calculateur est open source. Vous pouvez les consulter ici, et joindre les développeurs si vous avez une suggestion.
+Ce calculateur est le digne successeur du formidable travail d’AvenirClimatique et son simulateur MICMAC.
+Pour info, j’ai également testé les calculateurs de GoodPlanet, WWF, Reforestaction, Footprintcalculator, CoolClimate, Selectra. Tous sont louables, mais je préfère celui d’ECOLAB.
+Limites et axes d’amélioration du calculateur
+Lorsque vous utiliserez ce calculateur (remarque valable pour tous les calculateurs), gardez bien en tête que ce n’est qu’un outil pédagogique qui a forcément certaines limites. En attendant d’avoir un meilleur algorithme pour calculer son empreinte carbone, ce simulateur utilise par exemple des ratios monétaires. Exemple avec le textile : le même ratio est utilisé pour un T-shirt Zara Made in Vietnam qu’un tee-shirt en lin Made in France.
+Autre exemple, l’avion : un Paris-New York qui fait escale à Amsterdam peut être 2x moins cher qu’un direct, mais émettre 1.3x plus. A ce stade, difficile d’affiner, mais cela viendra !
+Il n’est aujourd’hui pas possible de connaître avec précision son empreinte carbone. Pour cela, vous devriez être capable de savoir d’où provient chaque produit consommé, comment il a été fait (quelles matières, énergies utilisées, selon le mix énergétique du pays)… Vous voyez bien la difficulté de l’exercice. A l’instar des créateurs de l’application North de Tomorrow qui ont dû arrêter l’aventure, faire un calculateur fonctionnel n’est pas à la portée du premier venu.
+L’utilité de calculer son empreinte carbone est surtout de donner des ordres de grandeur. C’est ce qu’il manque le plus aujourd’hui aux français, et les remarques et réponses (voire insultes) de certaines personnes seraient toutes autres avec les bons ordres de grandeur en tête.
+Ordres de grandeur, quand tu nous tiens…
+Maintenant que vous connaissez votre empreinte carbone, vous savez quels sont les postes d’émissions sur lesquels vous devez agir en priorité. Chaque geste compte, et si jamais vous pensez être seul(e) à faire ces efforts en vain, n’oubliez jamais le point de bascule afin de rester optimiste. Si vous souhaitez savoir comment agir rapidement et simplement pour baisser votre empreinte carbone, voici quelques excellentes lectures :
+L’étude Faire sa part, de Carbone 4
+10 actions simples pour devenir écolo
+Pourquoi arrêter l’avion ne devrait plus être un débat
+Maintenant que vous êtes experts en ordre de grandeur, vous vous rendez bien compte que :
+Le parisien qui part à Bali 10 jours pour nettoyer des plages n’a rien compris
+Il est moins grave de prendre une douche 3 fois plus longue que de manger un morceau de viande rouge
+Trier ses déchets est une très bonne chose, mais aller les déposer dans la benne à bord de son SUV, c’est ridicule
+Le choix de la banque pour votre épargne a un impact : il est évidemment 10 fois pire d’avoir son épargne chez BNPP qu’au Crédit Coopératif
+Préférer le train à l’avion ou à sa voiture personnelle est une évidence
+Faire des allers-retours à Dubaï pour le week-end est une connerie.
+Le mot de la fin
+L’objectif de cet article était d’avoir la possibilité de calculer son empreinte carbone. Maintenant que vous l’avez fait, vous savez ce que vous devez faire pour l’abaisser facilement (moins/plus d’avion, moins/plus de viande…). Ne comptez pas sur la technologie pour vous sauver et garder votre mode de vie. Si votre empreinte carbone est 12t CO2eq, il va falloir réduire ce chiffre. En un mot : sobriété.
+J’anticipe déjà quelques remarques. ”C’est liberticide, pffff que des interdits“. Ma réponse est simple. Ce n’est pas interdit de prendre l’avion, c’est juste tout simplement IMPOSSIBLE de diviser vos émissions de GES par 6 sans diminuer drastiquement le transport aérien. Voir cela comme une interdiction, c’est que vous ne réalisez toujours pas ce que signifie d’avoir une empreinte carbone de 2T CO2eq. C’est également que vous ne comprenez pas les conséquences du Business as Usual, si nous ne changeons rien : réfugiés climatiques, famines, manque d’eau, conflits armés, guerres civiles, etc.. Si vous pensez que j’exagère, je vous invite à lire n’importe quel rapport du GIEC et à en tirer vos propres conclusions. En d’autres termes, changez, ou le changement viendra à vous.
+Aussi, évidemment, les actions individuelles ne suffiront pas. Voter avec son argent ne suffira pas. C’est un changement systémique dont nous avons besoin. Nous sommes si peu à avoir un mode de vie compatible à l’heure actuelle qu’il faudra un effort collectif, notamment des ménages les plus riches. A l’échelle européenne, c’est sans appel :
+Quant aux personnes qui vont me dire ”ouais mais les français c’est que 1% des émissions mondiales alors que les chinois c’est 27%”, vous tombez en plein dans le whataboutisme : excuse typique de l’inaction climatique. J’insiste, lisez cet article.
+Si vous souhaitez approfondir ces sujets :
+La comptabilité carbone – Cours des Mines 2019 – Jancovici
+Jancovici au Collège de France : L’habitat du futur
+Train vs avion 1 et Train vs Avion 2, threads de Laydgeur
+Qui pollue, Total ou le citoyen ?
+Imaginer l’économie de demain : la décroissance, par Timothée Parrique 

@@ -1,0 +1,51 @@
+arrow_backward
+Revenir à Le dérèglement climatique
+La planète se régule toute seule... oui mais non !
+Publié le 1 septembre 2021
+PARTAGER
+email I. Les cycles naturels
+Il est vrai que de nombreux cycles naturels permettent à la Planète de s’auto-réguler et d’assurer la pérennité des écosystèmes. Ce sont les « cycles biogéochimiques ». 
+Ces cycles fonctionnent tous sur le même principe : les éléments (eau, carbone…) circulent en continu - sous diverses formes appelées « flux » - entre plusieurs milieux de l’environnement capables de les stocker. Ces milieux sont appelés « puits ou réservoirs » et peuvent se trouver dans : 
+L’atmosphère,
+L’hydrosphère (mer, océan… bref tout ce qui contient de l’eau),
+La lithosphère, en clair le sol,
+La biosphère, c’est-à-dire les organismes vivants.
+Le plus connu est le cycle de l’eau : l’eau s’évapore des océans et de la végétation, forme des nuages, puis retombe sous forme de pluie ou neige, alimente cours d’eau et végétation puis le cycle recommence. 
+Dans le cas du dérèglement climatique, c’est le cycle du carbone qui va nous intéresser tout particulièrement, car il joue un rôle essentiel. S’il continue de fonctionner depuis l’ère industrielle (1850), ce cycle a été perturbé par les activités humaines.
+Pourquoi ? Parce que de nouveaux flux entrants se sont ajoutés : les émissions anthropiques. Ces flux additionnels, non naturels, s’intègrent dans le cycle et suivent le même chemin de circulation que les flux existants. Ils viennent donc modifier les équilibres naturels et cela entraîne des dérèglements climatiques très importants.
+II. Le cycle naturel du carbone pour comprendre le CO2
+Comme on l’a vu, le CO2 est l’un des principaux GES responsables du réchauffement climatique. Or, le CO2 fait partie du cycle du carbone (C). 
+Décortiquons les différents flux du cycle classique du carbone.
+Précision importante : dans l’analyse du cycle du carbone (C), on utilise comme unité la Gigatonne de carbone (GtC), soit un milliard de tonnes de l’élément carbone. Attention, cette unité est donc différente de celle utilisée pour les émissions de GES qui se comptent en Gigatonnes de CO2 (ou d’équivalent CO2), soit en milliards de tonnes de dioxyde de carbone. Concrètement, les deux unités sont proportionnelles, puisque 1 kg de CO2 contient 272,7 g de carbone, le reste étant dû aux atomes d’oxygène. 
+Échanges physiques : il y a échange de carbone entre l’atmosphère et les océans. 
+Comme le sucre dans le café, le CO2 possède la caractéristique de se dissoudre naturellement dans l’eau. Et plus la température de l’eau est basse, plus la dissolution est favorisée. Ainsi, la captation du CO2 se produit lorsque les courants océaniques se refroidissent (par exemple, les courants qui vont des tropiques vers les pôles.). Cet échange concerne 70 GtC / an. 
+Dans l’autre sens, lorsque les courants océaniques se réchauffent, une partie du CO2 contenu dans l’eau est libérée vers l’atmosphère. 
+Échanges biologiques : ce sont les échanges liés à la vie végétale ou animale. 
+Commençons par les flux au sol : 
+La photosynthèse : le sol et la végétation absorbent le CO2 de l’atmosphère. Ce processus divise la molécule de CO2 en un élément de Carbone (C) qui intègre la biosphère (plante, sol) et de l’oxygène (O2) qui est libéré dans l’atmosphère. 
+Dans l’autre sens, il y a deux types de flux biologiques qui libèrent du CO2 : 
+La respiration : les animaux et les êtres humains inhalent de l’oxygène et rejettent du CO2.
+La décomposition des végétaux et animaux morts : elle libère du carbone qui, associé à de l’oxygène, forme du CO2 dans l’atmosphère. 
+Lorsque le cycle du carbone fonctionne normalement, l’ensemble de ces flux entre l’atmosphère et le reste de la planète sont équilibrés. Ils correspondent à environ 190 GtC échangés par an. 
+A noter qu’il existe aussi des flux dans l’eau (50 GtC / an)
+Les végétaux marins (algues et phytoplancton essentiellement) absorbent du CO2 contenu dans l’eau pour se développer. Ces végétaux sont ensuites mangés par les animaux marins, qui absorbent donc le carbone. 
+Dans l’autre sens, les animaux marins respirent en absorbant de l’oxygène et en rejetant du CO2 dans l’eau. Des microorganismes se nourrissent également des végétaux morts des fonds marins et ils respirent en restituant également du CO2. 
+Enfin, nous l’avons déjà décrit ensemble, le carbone se fossilise pour créer des hydrocarbures, qui lors de leur combustion libèrent du CO2 dans l’atmosphère.
+  Le dérèglement du cycle du carbone 
+À partir 1850 et de l’industrialisation, les équilibres du cycle du carbone ont été perturbés. 
+Comme on l’a vu, les énergies fossiles (charbon, gaz, pétrole) constituent un stock qui s’est formé sur des centaines de millions d’années par la lente décomposition de restes d’organismes vivants. Or, ces ressources fossiles sont transformées par l’Homme. Lors de leur exploitation, une très grande quantité de carbone qui était normalement enfouie sous terre pour des millions d’années est libérée brutalement dans l’atmosphère sous forme de CO2. 
+Voici donc l’origine du flux additionnel anthropique qui perturbe le cycle du carbone. 
+Comment réagit la Terre face à ce flux non naturel que se retrouve dans l’atmosphère ? Elle active l’ensemble des mécanismes naturels, physiques et biologiques décrits précédemment. Mais ils ne sont malheureusement pas suffisants… 
+Ainsi, le flux anthropique de CO2 se répartit de la façon suivante :
+environ 35% sont absorbés par l’océan,
+environ 15% sont absorbés par les écosystèmes continentaux (les sols et plantes)
+environ 50% viennent directement s’ajouter au CO2 déjà présent dans l’atmosphère et augmenter l’effet de serre.
+Le cycle du carbone est donc largement impacté par les émissions anthropiques et ne parvient pas à réguler de lui-même le trop plus émis. 
+Depuis 1850, la totalité des émissions anthropiques de gaz à effet de serre déjà émises correspond à plus de 2000 Gt équivalent CO2, dont la moitié uniquement depuis 1980. Ainsi, non seulement, les activités humaines perturbent le cycle du carbone, mais elles le font de plus en plus radicalement chaque année avec une très forte accélération sur les 3 dernières décennies.
+On voit  donc qu’il nous a fallu près de 130 ans pour émettre 1000 Gt d’équivalent CO2, puis seulement 30 ans pour émettre à nouveau la même quantité.
+Au rythme actuel, on aura besoin que de 20 petites années pour émettre 1000 Gt de plus...
+On peut aussi retenir ce chiffre clé : aujourd’hui chaque année, plus de 50 Gt eq CO2 sont émises par les activités humaines et 50% viennent s’installer comme GES dans l’atmosphère. La régulation naturelle de la planète est donc largement perturbée et la composition de l'atmosphère modifiée, ce qui influence directement l'effet de serre, la température planétaire et plus généralement le climat terrestre.
+Nos autres articles à propos de "Le dérèglement climatique" :
+Jean MarcJancovici : Indispensable pour comprendre les enjeux de l'énergie
+Critique équilibrée de la collapsologie
+Le réchauffement climatique est le résultat des activités humaines. 

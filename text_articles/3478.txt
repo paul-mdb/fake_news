@@ -1,0 +1,45 @@
+Découvrez les résultats des travaux de l’édition 2020-2021 de la Net Zero Initiative :
+Télécharger le rapport
+Télécharger le compte rendu des discussions méthodologiques
+Visionner le replay du webinaire
+Télécharger la présentation
+  Résumé 
+La seule définition scientifiquement valable du net zéro ne s’appliquant aujourd’hui qu’à la planète[1], et éventuellement aux acteurs étatiques[2], Net Zero Initiative cherche depuis sa création à penser l’entreprise non pas comme un objet pouvant être « neutre » en soi, mais devant avant tout contribuer au juste niveau à l’objectif de neutralité carbone mondial ou national.
+Dès lors, la notion d’entreprise « net zéro » ou « neutre » est abandonnée au profit d’indicateurs indépendants chargés de mesurer, à tout instant, la performance climat d’une entreprise à l’aune de l’exigence du net zéro mondial. La matrice Net Zero Initiative peut être vue comme la généralisation du concept de bilan carbone, puisqu’il l’intègre (Pilier A) tout en le complétant par deux indicateurs supplémentaires : la capacité de l’entreprise à participer à la décarbonation d’acteurs tiers (Pilier B), et sa capacité à développer des puits de carbone (Pilier C). Ces trois piliers sont strictement indépendants les uns vis-à-vis des autres, et non fongibles.
+En 2020, la seconde saison de Net Zero Initiative a souhaité creuser deux grandes problématiques :
+La mesure du pilier B (émissions évitées) : quelle métrique, et quelles règles de calcul appliquer pour mesurer la capacité d’une entreprise à contribuer à la décarbonation de son écosystème ?
+La fixation d’objectifs sur le pilier C (puits de carbone) : quel est le juste niveau de contribution à l’augmentation des puits de carbone pour une entreprise ? Synthèse des recommandations de NZI 2020
+Pilier B : Mesure des émissions évitées
+▶ Les catégories B2 (émissions évitées par les produits et services) et B3 (financement de projets hors de la chaîne de valeur) doivent être reportées séparément. 
+▶ La métrique pour le calcul de B2 et B3 : 
+➡ B2 (contribution à la décarbonation par les produits et services vendus) : 
+L’impact doit être reporté en émissions évitées (tCO2 évitées), en distinguant bien s’il s’agit d’émissions évitées correspondant à une réelle réduction d’émissions chez le client (EER) ou s’il ne s’agit que d’une moindre augmentation du niveau d’émissions du client par rapport à une situation « pire » qui aurait pu arriver à la place (EEMA)
+L’entreprise doit également divulguer la part du chiffre d’affaires correspondant à la vente des produits et services ayant fait l’objet du calcul d’émissions évitées.
+➡ B3 (financement de projets de décarbonation hors de la chaîne de valeur) : 
+L’impact doit être reporté à la fois en émissions évitées (tCO2e évitées)[3] et en montant du financement engagé par l’entreprise (euros)[4].
+Le coût à la tonne évitée (c’est-à-dire le rapport entre le financement et la quantité d’émissions évitées) peut être également communiqué.
+▶ Pour le calcul des émissions évitées par les produits et services (B2), il convient de choisir le bon scénario de référence, qui vise à décrire le plus précisément possible ce qu’il se serait passé en l’absence du produit en question. 
+▶ Les émissions du scénario de référence (« ce qu’il se serait passé ») ne sont pas forcément stables dans le temps. Il convient donc d’anticiper sa variation future, notamment en considérant l’évolution tendancielle du marché et l’état de la réglementation. 
+▶ Le scénario de référence peut être construit en portant une attention particulière aux paramètres suivants : 
+Contexte de la vente : s’agit-il d’un remplacement d’équipement chez le client, ou d’un nouvel équipement ?
+Contexte géographique 
+Segments de marché 
+Âge des produits remplacés 
+Profil des clients
+▶ Les émissions évitées doivent toujours être calculées en logique « cycle de vie », c’est-à dire en considérant l’ensemble des émissions d’un projet par rapport à la référence, de la fabrication à la fin de vie en passant par l’usage. 
+▶ Les émissions évitées d’un produit doivent être allouées aux acteurs d’une chaîne de valeur en utilisant la même règle d’allocation que pour les émissions de l’usage de ce produit (pilier A).
+▶ Les règles de calcul d’objectifs normatifs sur B2 et B3 feront l’objet des travaux NZI 2021. Pilier C : Fixation d’objectifs de développement des puits
+La responsabilité d’une entreprise vis-à-vis du développement des puits est double : 
+▶ Objectif global sur le pilier C 
+Toute entreprise est censée participer au développement des puits parce qu’elle fait partie du problème climatique, en tant qu’émettrice de GES. 
+▶ Objectif spécifique sur les puits dans la chaîne de valeur 
+En particulier, les entreprises intervenant directement ou indirectement dans la gestion des puits possèdent une responsabilité opérationnelle de sauvegarde et développement de ces puits qui, lui, n’a pas forcément de lien avec leur responsabilité en tant qu’émetteur. Cette responsabilité incombe spécifiquement aux entreprises possédant des puits dans leur chaîne de valeur (catégories C1 et C2). Objectif sur le pilier C 
+Pour une entreprise donnée, la quantité de puits à développer à l’année N se déduit : 
+De la trajectoire d’émissions de l’entreprise (Pilier A) à l’année N, suivant un scénario 1,5°C ou 2°C ;
+Du ratio absorptions/émissions du territoire sur lequel s’identifie l’entreprise à l’année N, suivant un scénario 1,5°C ou 2°C.
+Ainsi, à tout instant, le ratio (Pilier C / Pilier A) de l’entreprise doit être égal au ratio puits/émissions du territoire auquel il s’identifie (qu’il s’agisse de la planète ou des territoires nationaux sur lesquels ont lieu ses activités). 
+L’entreprise est invitée à démarrer par une approche simple (considérer que le territoire considéré est la planète, ou un seul territoire national), puis de « territorialiser » de plus en plus ses objectifs au fur et à mesure de son ambition et de la connaissance de la localisation de ses émissions. Pour développer concrètement les puits, l’entreprise est invitée à collaborer avec les acteurs de sa chaîne de valeur pour co-porter avec eux cet effort de développement, et ce afin de limiter les doubles-comptes. 
+Objectif spécifique sur les puits dans la chaîne de valeur (C1, C2)
+Les entreprises possédant des puits de carbone dans leur chaîne de valeur ont un rôle important à jouer dans l’atteinte de la neutralité carbone mondiale, en tant que gestionnaires et opérateurs directs ou indirects de ces puits. Pour cette raison, elles doivent se fixer des objectifs de développement de ces puits, sans asservir ces objectifs aux émissions de leur pilier A. Les règles pour fixer de tels objectifs sur C1 et C2 feront l’objet de travaux ultérieurs, bien que plusieurs pistes puissent d’ores et déjà être esquissées.
+Prochaines étapes
+L’édition 2021 de NZI visera tout particulièrement à approfondir les règles de calcul des émissions évitées pour trois secteurs de l’économie : le transport, le bâtiment et les industries de l’énergie. Le travail se poursuivra par ailleurs sur le pilier C. À l’heure de la rédaction de ce rapport, la saison 2021-2022 de NZI bénéficie du soutien de l’ADEME, du Ministère de la Transition Écologique (MTE) et de seize entreprises. 

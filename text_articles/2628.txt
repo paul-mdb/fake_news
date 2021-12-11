@@ -1,0 +1,49 @@
+arrow_backward
+Revenir à Le dérèglement climatique
+Pourquoi parle-t-on de réchauffement "anthropique" ?
+Publié le 19 août 2021
+PARTAGER
+email « C’est pas ma faute à moi » : La forte augmentation des GES provient bien des activités humaines
+La très forte croissance des GES que l’on peut observer sur le graphique ci-dessous (pour le CO2, le méthane et le protoxyde d’azote) nous montre : 
+Une phase relativement stable avant 1850
+Une phase d’accélération de plus en plus rapide à partir de 1850
+Faisons un focus sur le CO2. Grâce au schéma suivant, on peut observer sur la période 1750-2020 :
+En bleu foncé, les émissions directes de CO2 par les activités humaines.
+Comme on le voit, avant 1850, ces émissions sont quasi-inexistantes et stables, inférieures à 1 Gigatonne de CO2. A partir de 1850, les émissions commencent à augmenter et accélèrent de plus en plus rapidement pour atteindre environ 15 Gigatonnes de CO2 émises en 1950 et plus de 30  Gigatonnes de CO2 aujourd’hui. 
+En bleu clair, la concentration de CO2 dans l’atmosphère.  
+On observe que la courbe n’est pas nulle avant 1850 mais relativement stable, ce qui confirme la présence de CO2 dans l’atmosphère, jouant son rôle naturel de gaz à effet de serre lors de l’ère préindustrielle. 
+En revanche, on voit également une très nette corrélation entre la courbe des émissions directes de CO2 et la concentration du CO2 dans l’atmosphère. Ainsi, ces courbes montrent que le dérèglement de la concentration des GES et donc de l’effet de serre a commencé à partir de 1850.
+A cette époque, deux phénomènes ont débuté concomitamment :
+Premier phénomène : c’est le début de la croissance économique. 
+On a du mal à l’imaginer de nos jours, mais le PIB n’a pas toujours augmenté ! Pendant des siècles et des siècles, la richesse des nations a stagné. Et le niveau de vie avec. Au XIXème siècle, grâce à la découverte par l’ingénieur James Watt de la machine à vapeur qui fonctionne au charbon, on assiste à la première Révolution industrielle. Le train et les nouvelles machines industrielles sont créés permettant de baisser très largement les coûts de production. A partir de 1850, certains pays notamment européens connaissent une croissance économique phénoménale. Cela enclenche une très forte hausse du niveau de vie des pays européens puis progressivement de tous les pays « industrialisés ». Cette courbe du PIB/ habitant est souvent décrite par la forme d’une crosse de hockey.
+Second phénomène :  la croissance démographique. 
+L’amélioration des conditions de vie, liée à la croissance, favorise une importante croissance démographique. Entre 1850 et 2019, nous sommes passés de 1,2 milliards d’être humains à 7,7 milliards en 2019 sur la Planète.
+En parallèle de cette croissance, plusieurs révolutions industrielles successives (vapeur, électricité…) ont eu lieu, permettant de transformer toujours plus de ressources naturelles en énergies ou matériaux. 
+Lorsqu’on observe l’évolution du nombre d’habitants dans le monde et la croissance du PIB / habitant, il est aisé de comprendre pourquoi ces phénomènes de croissance couplés à la démographie ont largement bouleversé le niveau de consommation d’énergie sur la Planète. 
+Faisons un petit focus sur le lien entre énergie et émissions de GES. 
+Aujourd’hui, 80 % de l’énergie mondiale provient de ce qu’on appelle les combustibles fossiles ou hydrocarbures. Pour faire simple, il s’agit du pétrole, du gaz et du charbon. 
+Ces hydrocarbures sont dits “fossiles” car ils proviennent de la fossilisation d’organismes vivants (algues, plancton, ou végétaux continentaux) qui ont vécu il y a fort longtemps ! On parle de temps géologiques, donc de millions d’années ! Ces organismes se sont sédimentés et se sont retrouvés stockés dans des roches ou des couches minérales. On comprend donc bien pourquoi ces ressources sont dites “non-renouvelables” ou “limitées” car elles mettent plus de temps que le temps de vie de l’humanité toute entière pour se former ! Impossible donc de se dire que dans les prochaines centaines d’années, du nouveau pétrole ou charbon va se former naturellement dans des quantités équivalentes à celles d’aujourd’hui. 
+Ces hydrocarbures sont également appelés “combustibles” c’est essentiellement en les brûlant qu’on libère de l’énergie mais aussi… du CO2 ! En effet, ces organismes vivants fossilisés contenaient du carbone qui, au contact de l’oxygène, va donc former par sa combustion du CO2. 
+Or aujourd’hui, l’énergie produite par les combustibles fossiles se retrouve dans tous les aspects de notre vie quotidienne et ce, dans le monde entier. Par raffinage ou autres traitements, on en tire des produits utiles pour fournir la chaleur domestique ou industrielle. On peut aussi la transformer en énergie mécanique ou encore en électricité grâce à des convertisseurs, des moteurs ou des centrales électriques.
+La première place pour...le pétrole  
+Le pétrole est l'énergie la plus utilisée dans le monde, elle représente près d’un tiers de la consommation mondiale des énergies. Il sert de carburant pour les véhicules motorisés, de combustible et de matière première pour les industries chimiques et la fabrication du plastique.
+La seconde place pour… le charbon
+A la base de 27% de la consommation d’énergie mondiale, le charbon est encore une énergie très utilisée malgré sa mauvaise presse. S’il servait autrefois de carburant pour les trains et les machines à vapeur, le charbon est aujourd’hui principalement utilisé pour le chauffage et la production d’électricité. Il sert également pour de nombreuses industries, comme la métallurgie ou l'industrie plastique.
+La troisième place pour … le gaz naturel
+Pas bien loin derrière le charbon, le gaz naturel est à la base de 22,2% de la consommation mondiale d’énergie. Il sert majoritairement aux usages domestiques, aux industriels et à la production d'électricité.
+Ainsi, une très grande partie de notre économie est encore largement basée sur les combustibles fossiles et donc émettrice de CO2. Même si on parle depuis une trentaine d’année des énergies renouvelables comme le solaire ou l’éolien, elles restent encore malheureusement très minoritaires.
+Un réchauffement "anthropique"
+Ainsi, les énergies fossiles dégagent énormément de CO2 ou autres GES. L’ensemble de ces émissions de GES constitue la contribution dite « anthropique » (signifie d’origine  humaine) à l’augmentation de la quantité des GES dans l’atmosphère. 
+Les scientifiques ont par ailleurs analysé quelle est la part de la contribution anthropique au réchauffement climatique par rapport à l’ensemble des émissions de GES.
+Sur ce schéma, on peut observer différents éléments : 
+Barre noire : le réchauffement observé entre 1951 et 2010 est de 0,7 degrés. Ce réchauffement est la résultante des barres bleu foncé et bleu clair.
+Bleu foncé : l’effet de la totalité des gaz à effet de serre, qui réchauffent la terre 
+Bleu clair : l’effet d’autres forçages d’origine humaine (« jets d’aérosols ») qui au contraire ont tendance à diminuer l’effet de serre et refroidir le climat. Comme on le voit, ils sont largement inférieurs aux GES.
+Barre jaune : la somme de l’ensemble des forçages anthropiques, c’est-à-dire d’origine humaine. Comme on le voit, le résultat est très largement positif, ce qui explique le réchauffement planétaire observé. 
+Barre verte : l’effet de l’ensemble des forçages « naturels », c’est-à-dire qui ne proviennent pas de l’activité humaine. Ils sont négligeables par rapport aux forçages anthropiques, et donc décorrélés du réchauffement climatique actuel. 
+Évidemment, un grand nombre d’autres études validées par le GIEC viennent confirmer ce fait maintenant indiscutable. Le lien entre les activités humaines et le réchauffement climatique est aujourd’hui un fait scientifique avéré.
+Dans leur 5ème rapport d’évaluation, les experts du GIEC sont très clairs sur le sujet :“L’influence de l’Homme sur le système climatique est clairement établie et, aujourd’hui, les émissions anthropiques de gaz à effet de serre (GES) sont les plus élevées jamais observées.”
+Nos autres articles à propos de "Le dérèglement climatique" :
+Jean MarcJancovici : Indispensable pour comprendre les enjeux de l'énergie
+Critique équilibrée de la collapsologie
+Le réchauffement climatique est le résultat des activités humaines. 

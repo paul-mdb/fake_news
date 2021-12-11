@@ -1,0 +1,10 @@
+Télécharger le guide Principales caractéristiques de la méthodologie
+Ce qui distingue ce module de risque physique des méthodes concurrentes, est qu'il a été conçu spécifiquement pour les infrastructures : la mesure du risque est effectuée au niveau des actifs et non au niveau sectoriel. Chaque type d'actif a un profil de vulnérabilité spécifique basé sur l'expertise de Carbone 4.
+La méthodologie couvre 42 pays de l'Union Européenne et des régions du bassin méditerranéen.
+Près de 100 types d'actifs sont proposés par la méthodologie, dans l'énergie, l'industrie, l'agriculture et la sylviculture, la mobilité, l'eau, les bâtiments tertiaires, les déchets et les télécoms.
+9 aléas climatiques sont considérés et projetés à l'horizon 2050 selon l'un des scénarios tendanciels du GIEC.
+Contexte
+La méthode CIARA a été pensée pour permettre aux investisseurs en infrastructure et aux gestionnaires d'actifs d'élaborer une stratégie climat pour leurs portefeuilles. 
+Elle fournit des mesures climatiques essentielles associées aux infrastructures : empreinte carbone, part verte, alignement sur une trajectoire 2°C et notation des risques liés au climat (risques physiques et de transition). CIARA permet aux investisseurs en infrastructures et aux gestionnaires d'actifs d'évaluer les principales mesures climatiques de la TCFD au niveau des actifs et des portefeuilles. Les méthodologies d'alignement sur une trajectoire 2°C avec évaluation des risques physiques et des risques de transition au sein de CIARA ont été développées avec le soutien de l'initiative " 2-infra challenge ", regroupant cinq sponsors financiers : l'Agence française de développement, La Banque Postale AM, EIT Climate KIC, Meridiam et Generali Global Infrastructure.
+Un guide sur la méthodologie d'alignement avec l'Accord de Paris est déjà disponible.
+ Téléchargez le guide 

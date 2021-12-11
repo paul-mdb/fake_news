@@ -1,0 +1,268 @@
+Pourquoi faire la pub de cet outil ?
+Parce que j’en suis un des auteurs, et que l’on n’est jamais mieux servi que par soi-même ! Mais, outre les informations que vous pourrez trouver sur cette page, vous pouvez bien sûr (et même devez !) consulter le site internet de l’ADEME dédié au bilan carbone.
+Toutes les entreprises doivent-elles se soucier de leurs émissions de gaz à effet de serre ?
+Il est assez fréquent de penser que les émissions de gaz à effet de serre n’ont que deux grandes causes, et donc deux seules catégories de coupables : les transports et les industriels. Ainsi, un charcutier, une agence bancaire, une agence de voyages, un hôtel, ou un commissariat de police n’engendreraient pas d’émissions significatives, et un plan d’action pourrait très bien oublier ces acteurs de la vie économique ou sociale.
+Malheureusement la réalité est bien plus complexe. Aujourd’hui, toute activité humaine, quelle qu’elle soit, engendre directement des émissions de gaz à effet de serre, même une compagnie d’assurances ou une crèche. Il faut en outre y rajouter des émissions « indirectes », liées aux produits ou services consommés pour « faire tourner la boutique », et qui peuvent facilement être bien plus importantes que les émissions directes.
+Commençons par le principal de ces gaz à effet de serre, le gaz carbonique. Il s’en dégage dans l’atmosphère dès que nous brûlons un produit contenant du carbone : du charbon, du pétrole, du gaz naturel, du bois…ou encore du plastique, qui n’est rien d’autre que du pétrole transformé. Nous allons donc trouver des émissions de gaz à effet de serre :
+dès que l’on utilise une source d’énergie « fossile » (charbon, gaz, produits pétroliers), que ce soit pour se déplacer (en avion, en voiture, ou en bateau) ou pour se chauffer (les émissions du chauffage des logements et bureaux, en France, représentent des émissions supérieures à celles des voitures particulières),
+Kg équivalent carbone émis par tonne équivalent pétrole pour diverses énergies
+(1 tonne équivalent pétrole = 11.600 kWh = 42 milliards de Joules).
+Les énergies « fossiles » sont celles de gauche, du gaz naturel au coke de lignite (un charbon particulièrement riche en carbone). Pour les moyens purement électriques (hydroélectricité, éolien, nucléaire) les valeurs indiquées correspondent à la consommation de 11.600 kWh électriques.
+Enfin les points d’interrogation signifient que j’ai une vague idée de l’ordre de grandeur (représenté par la hauteur de la barre) mais pas de chiffres précis.
+Sources : ADEME, EDF
+lorsque l’on incinère des ordures contenant du plastique,
+pour produire de l’électricité en partant de combustibles fossiles (5% à 10% de l’électricité française est faite avec de tels combustibles, mais cette manière de faire représente plus de 80% en Pologne ou…..au Danemark),
+Source d'énergie Emissions de CO2 en g/ kWh électrique (analyse du cycle de vie)
+charbon 00 à 1050 suivant technologie
+cycle combiné à gaz 430
+nucléaire 6
+hydraulique 4
+biomasse bois 1500 sans replantation
+photovoltaïque 60 à 150
+éolien 3 à 22
+Source : Jean-Pierre BOURDIER, La Jaune et La Rouge de Mai 2000
+pour faire des matières premières (on utilise beaucoup d’énergie fossile pour produire de l’acier, du plastique, du verre, du ciment….)
+Matériau kg équivalent carbone par tonne produite (valeurs européennes)
+Acier 300 à 850 selon % de ferrailles
+Aluminium à partir de minerai 600 à 3.000 selon % de déchets d'alu
+Verre plat 400
+Verre bouteille 120
+Plastiques (polyéthylène, polystyrène, PCV, PET...) 500 à 1.600
+Papier-carton 300 à 500
+Ciment 250
+Source : ADEME, 2003
+dans l’agriculture, qui utilise de l’énergie (dans le tracteur), et qui engendre des émissions de gaz autres que du gaz carbonique, à travers l’élevage de ruminants (bœufs, moutons, chèvres) et l’utilisation des engrais.
+dans la putréfaction (par exemple la décomposition du papier en décharge),
+Il résulte de cette énumération que n’importe quelle activité humaine, quelle qu’elle soit, engendre des émissions directes de gaz à effet de serre, ne serait-ce qu’à travers le chauffage de ses locaux (s’il est fait au gaz ou au fioul), et des émissions indirectes, qui sont fréquemment très supérieures aux émissions directes, et qui sont « incluses » dans les produits ou services en provenance de l’extérieur et nécessaires à l’activité, même si cette dernière est tertiaire.
+Par exemple :
+il faut chauffer les locaux, et cela engendre des émissions directes (gaz ou fioul) ou indirectes (électricité, avec la remarque ci-dessus),
+toute activité consomme de l’électricité, qu’il faut produire ; cependant selon la compagnie qui fournit l’électricité les émissions liées à sa production peuvent varier du tout au tout,
+Emissions de CO2 liées à la « production » de l’électricité, en kg équivalent carbone par kWh, selon le producteur.
+Source : ADEME, 2003
+les transports qui sont nécessaires, que ce soit pour permettre aux salariés de venir travailler, pour livrer les marchandises ou les matières premières, ou pour les déplacements des salariés pendant les horaires de travail, émettent tous des gaz à effet de serre (en fait essentiellement du CO2), car ils consomment des produits pétroliers,
+il a fallu bâtir les locaux occupés par l’activité, et donc fabriquer les matériaux de construction, les transporter, et les assembler, et tout cela représente une consommation de combustibles fossiles importante, donc des émissions de gaz à effet de serre,
+il a éventuellement fallu fabriquer les matières premières utilisées pour l’activité, et cette fabrication a engendré des émissions de gaz à effet de serre,
+éventuellement, il a fallu construire les machines utilisées, ce qui a aussi nécessité d’utiliser de l’énergie pour produire les matériaux, les assembler, et les transporter,
+il peut y avoir des réactions chimiques, de l’évaporation de certains solvants, ou des fuites de certains gaz, qui conduisent à relâcher des gaz à effet de serre dans l’atmosphère,
+les déchets, ou les emballages des produits vendus, lors de la mise en décharge ou de l’incinération, émettent des gaz à effet de serre…
+Comme il n’existe pas une entreprise qui n’utilise pas de moyens de transports pour faire venir ses salariés, ou ne consomme aucun produit manufacturé, fût-ce des feuilles de papier, dont la production a conduit à des émissions de gaz à effet de serre, il n’existe pas une entreprise qui n’exerce pas directement ou indirectement une pression sur le climat futur.
+De ce fait, toute entreprise ou activité administrative ou associative peut légitimement s’intéresser aux émissions qu’elle engendre, directement ou indirectement. Comme le lieu d’émission des gaz à effet de serre est sans importance, toute réduction, que ce soit sur les émissions directes, ou sur les émissions induites, est bonne à prendre, et très souvent les émissions induites sont très supérieures aux émissions directes.
+Et, bien entendu, il n’est pas possible d’agir et d’établir des priorités autrement qu’en mesurant l’importance respective des différentes sources d’émission, directes ou indirectes. Tout le monde peut agir, et ce n’est qu’avec la mesure qu’il est possible de savoir quelles sont les marges de manœuvre et où elles se situent.
+Dans cet esprit, j’ai contribué à la mise au point, entre mi-2000 et fin 2003, pour le compte de l’ADEME et de la Mission Interministérielle pour l’Effet de Serre, d’une méthode permettant d’estimer à la fois les émissions directes et les émissions indirectes de gaz à effet de serre de toute activité industrielle ou tertiaire, intitulée le « Bilan Carbone ». Cet intitulé désigne tout à la fois :
+une méthode de comptabilisation des émissions de gaz à effet de serre, compatible avec l’initiative GHG Protocol,
+un tableur Excel prêt à l’emploi pour effectuer le calcul des émissions, comparer entre elles les émissions d’une année sur l’autre, et évaluer le potentiel de diverses actions de réduction,
+le manuel d’utilisation du tableur
+le document décrivant la mise au point de la méthode, qui explique notamment comment ont été choisies les valeurs par défaut utilisées dans le logiciel et les sources utilisées.
+L’esprit général de la démarche est de partir de données facilement disponibles dans l’entité examinée pour parvenir à une bonne évaluation des émissions directes ou induites de l’activité.
+Principe général de la méthode
+L’esprit général de la méthode est de prendre en compte tous les flux physiques qui concernent votre activité (flux de personnes, d’objets, d’énergie) et de leur faire correspondre les émissions de gaz à effet de serre qu’ils engendrent. Cela étant, la plupart du temps, les émissions de gaz à effet de serre ne se mesurent pas. Ce qui se mesure, c’est la concentration en gaz à effet de serre dans l’air, mais ce n’est qu’exceptionnellement que les émissions font l’objet d’une mesure directe.
+En effet, il ne serait pas commode de mettre un appareil de mesure à la sortie de chaque cheminée de maison, de chaque pot d’échappement, au-dessus de chaque champ, au-dessus de chaque chaudière d’usine…. Il faut donc faire autrement. La méthode employée consiste à procéder par un mélange de calculs et d’observations.
+Prenons un exemple, qui consiste à savoir combien de gaz à effet de serre nous émettons quand nous utilisons du gaz naturel, qui sert à la fois pour le chauffage et pour les procédés industriels. Le gaz naturel est principalement composé de méthane, de formule CH4, et minoritairement d’autres hydrocarbures gazeux et de soufre, dans des proportions qui varient un peu en fonction de l’origine du gaz.
+Mais les exploitants gaziers savent, pour un gisement donné, quelle est la composition exacte du gaz, et même comment elle varie au cours du temps, et donc quelle est la masse de carbone dans un kg de gaz. A partir de cette information, il est possible de savoir combien de CO2 la combustion parfaite d’un kg (ou d’un m³) de gaz dégagera. Puis des observations de laboratoire permettent de faire un petit correctif, parce que la combustion n’est jamais parfaite, et qu’elle produit des gaz « parasites », dont certains sont des gaz à effet de serre. La valeur théorique est ainsi « améliorée » avec des mesures exactes en labo, qui reproduisent les conditions d’emploi réelles du combustible.
+Avec ces observations de laboratoire et la composition moyenne du gaz naturel, obtenue par examen de ce qui sort des différents gisements, nous pouvons calculer la quantité moyenne de gaz à effet de serre (essentiellement du CO2) émis lorsque nous brûlons un kg de gaz naturel.
+Cette quantité moyenne de gaz à effet de serre produite par kg brûlé sera alors le facteur d’émission du gaz naturel : à chaque fois que nous brûlerons un kg de gaz, nous dirons que c’est la valeur moyenne des émissions mesurées qui part dans l’atmosphère, sans avoir besoin de mesurer cette fois-là. Si nous brûlons 25 kg de gaz naturel, nous multiplions tout simplement ce facteur d’émission par 25. Tout l’intérêt de cette manière de faire est qu’il est bien sûr beaucoup plus facile de mesurer la quantité de gaz naturel brûlé que d’installer un appareil de mesure du CO2 (et d’autres gaz à effet de serre) en sortie de cheminée ou d’analyser en temps réel la composition du gaz naturel brûlé.
+Ce même raisonnement va s’appliquer partout dans la méthode « Bilan Carbone » : pour les déplacements faits en voiture, par exemple, il est possible d’obtenir des valeurs moyennes de consommation de carburant au km pour une catégorie de véhicules donnée, et à partir de là d’en déduire les émissions de gaz à effet de serre (avec le facteur d’émission de l’essence !). Ainsi, la mise au point de la méthode a consisté, pour une large part, à calculer ces facteurs d’émission pour :
+les consommations directes d’énergie, qu’elles soient disponibles en litres, tonnes, kWh, ou tep (tonnes équivalent pétrole). Par exemple, pour le gaz naturel utilisé pour le chauffage, le facteur d’émission est de 64 grammes équivalent carbone par kWh « tout compris » : exploitation du gaz naturel, transport, entreposage, distribution, et bien sûr combustion,
+les utilisations de transports, qu’ils soient exprimés en nombre de voyages par mode, en tonnes.km par mode, en passagers.km par mode, en nombre de personnes venant en voiture au bureau…. Par exemple, une tonne.km en semi-remorque engendre en moyenne 29 grammes équivalent carbone,
+les utilisations d’engrais azotés (qui engendrent des émissions de N2O) et les fuites de fluides frigorigènes (qui sont souvent des halocarbures). Par exemple l’épandage d’un kg d’azote sur un champ engendre en moyenne 1,4 kg équivalent carbone de N2O,
+la fabrication des matières premières utilisées, ces dernières étant disponibles en tonnes (voir exemples ci-dessus)
+la fin de vie des déchets, selon le mode de gestion (incinération, décharge), avec des déchets disponibles en tonnes. Par exemple l’incinération d’un kg de plastique sans valorisation de la chaleur engendre l’émission de 0,8 kg équivalent carbone,
+les eaux usées, lorsqu’il est possible de connaître leur teneur en DBO (ce que les services environnement connaissent en général). Par exemple, le rejet de 1 kg de DBO dans les eaux usées engendre 1,6 kg équivalent carbone,
+les émissions liées à la construction des bâtiments occupés, ces derniers pouvant être exprimés en m² de surface développée,
+etc.
+Comment agréger les résultats ?
+Une fois que tous les objets ou flux physiques peuvent avoir leur contrepartie en termes d’émissions de gaz à effet de serre, il reste à savoir « où on s’arrête », et comment on agrège les résultats, c’est-à-dire quel est le périmètre retenu pour les calculs, et quelles sont les sous-catégories de consolidation des émissions qui ont un sens pour rendre les résultats parlants.
+Pour le périmètre, trois démarches correspondent à une certaine logique et sont proposées « préformatés » dans le tableur, mais la méthode permet de choisir un périmètre différent dès lors qu’il correspond à une logique claire et que la présentation des résultats est explicite sur ce qui a été fait.
+1. Approche « interne »
+On peut décider de ne comptabiliser que les émissions que l’on engendre « chez soi », c’est-à-dire « en interne », et à partir de sources fixes.
+Quoi que cela ne conduise généralement à comptabiliser qu’une petite partie des émissions liées à la mise à disposition du consommateur, ou de l’usager, d’un produit ou service, comme on le verra facilement ci-dessous, cela permet de se familiariser avec la démarche, et surtout la mise en oeuvre est extrêmement rapide. Par ailleurs, ce périmètre est proche de celui qui a été retenu dans le cadre de la mise en place du système européen de permis négociables. La seule différence est que le système européen ne tient compte que du CO2, alors que la méthode Bilan Carbone tient compte de tous les gaz à effet de serre.
+Enfin les facteurs d’émission utilisés dans ce cas, qui concerne essentiellement l’utilisation directe de l’énergie fossile, sont dérivés de publications internationales (Programme des Nations Unies pour l’Environnement) et objet de nombreux travaux, et permettent de tenir une comptabilité relativement rigoureuse des émissions.
+Dans le cas de cette approche « émissions internes », on comptabilisera uniquement :
+la combustion en interne (procédés industriels, chauffage des locaux),
+les émissions non liées à une combustion (évaporations et fuites, et réactions chimiques autres que la combustion) qui ont lieu au sein de l’activité concernée.
+Les émissions liées à la production de l’électricité ne sont pas prises en compte dans ce périmètre, ce qui peut déboucher sur des résultats trompeurs :
+si l’entreprise achète son électricité, les émissions correspondantes ne sont pas prises en compte dans ce périmètre « interne », quelle que soit la manière dont elle a été produite,
+si l’entreprise produit son électricité sur place en brûlant du charbon, du gaz, ou du pétrole, alors les émissions correspondantes seront prises en compte.
+Imaginons qu’une entreprise cesse d’acheter de l’électricité produite avec du charbon, qui est le mode le plus émissif en gaz à effet de serre, pour produire sa propre électricité au gaz, qui conduit à des émissions au kWh inférieures. En ne regardant que le périmètre « interne », elle va se retrouver avec une augmentation de ses émissions, puisqu’elle « héritera » des émissions de combustion du gaz qu’elle n’avait pas avant, alors que cette substitution, prise de manière globale, aura engendré une baisse des émissions. Les « nouvelles » émissions au sein de l’entreprise seront inférieures aux « anciennes » émissions liées à la production « ailleurs » d’électricité au charbon, et dont elle n’aura plus besoin, mais cela n’aura pas empêché les émissions internes d’augmenter.
+Il est donc vivement conseillé de ne jamais s’en tenir à ce seul périmètre pour avoir une vue large de la situation.
+2. Approche « émissions intermédiaires »
+On peut décider de prendre une assiette plus large et d’inclure des émissions qui correspondent à une partie des processus externes à l’activité, mais qui sont nécessaire pour permettre à l’activité d’exister sous sa forme actuelle. Pourquoi une partie seulement ? L’idée est en fait de bâtir une notion qui soit un peu le pendant de la « valeur ajoutée » en économie, c’est-à-dire des totaux que l’on puisse ajouter sans faire de double compte (sans compter deux fois la même chose) tout le long de la chaine de fabrication d’un produit ou service, lorsque plusieurs entreprises – ou administrations – interviennent en succession (à l’exception des producteurs d’énergie et des sociétés de transport).
+Dans le cas de cette approche « émissions intermédiaires », on prendra en compte :
+les combustibles utilisés à l’intérieur de l’activité (procédés industriels, chauffage des locaux),
+les émissions internes non liées à une combustion (évaporations et fuites, et réactions chimiques autres que la combustion) qui ont lieu au sein de l’activité concernée.
+les émissions correspondant aux achats d’électricité et de vapeur (émissions qui auront donc lieu au sein du périmètre interne des « producteurs d’énergie »),
+les émissions liées aux déplacements des salariés dans le cadre du travail,
+les émissions liées aux déplacements domicile-travail des salariés,
+les transports vers les clients, ou, si pour une activité de vente aux particuliers, les déplacements des clients jusqu’au magasin (poste significatif pour les grandes surfaces commerciales en banlieue par exemple).
+L’intérêt de cette approche, donc, est son aptitude à être utilisée pour faire des agrégations : on peut facilement obtenir les émissions d’un ensemble plus vaste (une ville, un groupe d’entreprises, une chaîne verticale de production, etc) simplement en faisant la somme des « émissions intermédiaires » des différentes entités ; il n’y a pas de possibilité que l’on puisse compter une deuxième fois les émissions décrites ci-dessus en faisant l’inventaire d’une autre entreprise industrielle (or fournisseur d’énergie) ou de services (hors transport).
+En outre, elle permet de rendre comparables les entreprises possédant leur flotte de moyens de transports et celles qui utilisent des services externes, ainsi que les entreprises qui produisent leur propre électricité et celles qui l’achètent à l’extérieur.
+Illustration pratique de l’intérêt de cette méthode : pour avoir les émissions de la filière « fabrications de chaises de classe », et donc la « quantité de gaz à effet de serre dans une chaise », il suffit d’ajouter les « émissions intermédiaires » du producteur d’acier (au prorata de l’acier utilisé, bien sûr !), celles du producteur de plastique, celles des fabricants d’autres matières premières utilisées, puis celles du fabricant de chaises à partir de tubes d’acier et du plastique, puis celle du distributeur de chaises. Nous aurons alors convertit tous les flux physiques qui interviennent dans la fabrication de chaises en émissions, sans compter deux fois la même chose.
+En divisant alors le total de la filière par le nombre de chaises on aura le « contenu en gaz à effet de serre par chaise ». C’est là une des applications intéressantes auxquelles on pourra parvenir une fois que la pratique de compter ses émissions sera répandue.
+Par contre, comme on le verra plus bas, les émissions calculées avec cette approche peuvent encore ne représenter qu’une petite partie de ce qui se passe ailleurs et est nécessaire à l’existence d’une activité.
+3. Approche « globale »
+On peut enfin souhaiter connaître la pression totale que l’on exerce sur son environnement en matière de gaz à effet de serre. Si de l’acier est nécessaire pour faire des produits, il a bien fallu le fabriquer : le besoin d’acier où qu’il soit se traduit par des émissions chez un aciériste, et on peut estimer légitime d’en tenir compte. La marge de manœuvre associée sera alors, éventuellement, de choisir un autre matériau dont la fabrication est moins « riche » en gaz à effet de serre, ou de diminuer les consommations matières.
+Plus généralement, dans l’approche « globale » il sera tenu compte de tous les flux entrants ou sortants, à l’image de ce que l’on fait en comptabilité.
+Dans un bilan comptable, en effet, on traduit en chiffres tout ce qui concerne l’entreprise, même si la production a eu lieu ailleurs : on y trouvera par exemple mention de l’achat d’une photocopieuse, qui a peu de chances d’avoir été produite sur place pour une banque ou une entreprise de décolletage.
+De même, on peut souhaiter, pour les émissions de gaz à effet de serre, tenir compte de toutes les émissions qui ont eu lieu pour le compte de l’entreprise ou de l’administration (voir plus bas l’exemple d’une préfecture de région), même si elles n’ont pas eu lieu localement, mais qui sont liées à la production d’un produit ou service qui est nécessaire à l’activité.
+Pour reprendre l’exemple ci-dessus, par exemple, la fabrication de la photocopieuse a engendré des émissions de gaz à effet de serre. Si cette photocopieuse finit par être utilisée chez vous, on peut considérer normal de vous imputer les émissions correspondantes, tout comme l’amortissement de cette photocopieuse ou son loyer mensuel figure dans vos livres comptables.
+C’est alors la logique du périmètre global : tout ce qui concourt à l’exercice d’une activité est pris en compte, dès lors qu’il existe une possibilité d’action de la part de l’activité sur les émissions en question. Cette démarche a l’ambition de donner la visibilité la plus large possible. On pourra par exemple s’apercevoir que les émissions « internes » ou « intermédiaires » sont mineures comparées à celles qu’il a fallu faire pour fabriquer les matières premières qui sont transformées dans l’entreprise.
+Vous comprendrez alors que ce que vous pouvez faire de plus « utile », pour commencer à faire baisser les émissions de la collectivité, n’est pas nécessairement de faire de très gros efforts chez vous pour diminuer immédiatement le chauffage, mais de diminuer fortement vos achats matière, le fret aérien, ou tout simplement de ne plus acheter des produits qui sont très « polluants » du point de vue de l’effet de serre pour les remplacer par d’autres.
+Par exemple, si vous êtes un fabricant de meubles de jardin, vous vous rendrez compte que de passer du plastique au bois européen (le bois tropical va souvent avec de la déforestation, et sa « comptabilité carbone » est donc peu simple) engendre un gain majeur par rapport au fait de faire quelques économies éventuelles de matière plastique.
+Dans cette logique du périmètre global, on tient alors compte des postes suivants :
+la combustion en interne (procédés industriels, chauffage des locaux),
+les émissions internes non liées à une combustion (évaporations et fuites, et réactions chimiques autres que la combustion) qui ont lieu au sein de l’activité concernée.
+les émissions correspondant à la fourniture d’électricité,
+les émissions liées aux déplacements des salariés pendant les horaires de travail,
+les émissions liées aux déplacements domicile-travail des salariés,
+les transports vers les clients, ou, si pour une activité de vente aux particuliers, les déplacements des clients jusqu’au magasin,
+les transports des fournisseurs jusque chez vous,
+la fabrication des matériaux incorporés dans votre production (y compris ce qui sert aux emballages),
+la construction du bâtiment que vous occupez, même si vous êtes locataire,
+la construction des machines utilisées, le cas échéant,
+le traitement des déchets produits directement (ce qui est dans la poubelle de l’activité) ou indirectement (les emballages, qui sont des déchets futurs par nature).
+Cette approche donne la visibilité la plus large sur l’ensemble des processus nécessaires sur lesquels il est concevable d’agir (même le transport depuis les fournisseurs : on peut éventuellement changer de fournisseur, changer de matériaux, grouper les commandes…). Cela étant, il convient de finir cette approche par une remarque importante : il s’agit bien d’un bilan carbone, qui ne concerne que les émissions de gaz à effet de serre, et non les autres impacts de votre activité sur l’environnement .
+En effet, dans certains cas, la minimisation des émissions de gaz à effet de serre peut conduire à l’augmentation d’autres émissions. Un exemple bien connu est celui des carburants : supprimer les pots catalytiques (voir les pots d’échappement) permet de gagner en rendement sur le moteur et donc d’économiser du carburant à énergie mécanique obtenue égale. Dit autrement, supprimer le pot catalytique est une bonne affaire pour les émissions de gaz à effet de serre, alors que cela augmente d’autres nuisances (les polluants locaux ou le bruit si l’on supprime le pot).
+Toutefois les antagonismes de cette nature ne sont pas systématiques, et au contraire dans bon nombre de cas la diminution des émissions de gaz à effet de serre procurera d’autres avantages en matière de protection de l’environnement (qualifiés de dividendes associés).
+Par exemple, passer de la voiture au train pour les déplacements de personnes (ou de l’avion au train pour les voyages en France) permet des économies significatives d’émissions sans engendrer d’effet pervers, c’est-à-dire l’augmentation d’une nuisance autre que les émissions de gaz à effet de serre.
+4. Illustration des différents périmètres
+Le graphique ci-dessous récapitule visuellement les différents périmètres de consolidation.
+Et à l’issue de l’investigation, nous disposerons d’un total d’émission par poste, qui, très concrètement, se présentera sous la forme du graphique suivant :
+Exemple de décomposition des émissions globales d’une activité manufacturière (2è transformation), en tonnes équivalent carbone.
+Exemple de décomposition des émissions globales d’une activité administrative, en tonnes équivalent carbone.
+Que faire du résultat ?
+1. Publier les chiffres
+La première chose que l’entreprise peut fait faire est de publier le résultat des calculs. Cela peut correspondre à une obligation réglementaire, ou à une simple « demande » de la société civile, à laquelle répond traditionnellement le rapport environnement. Cela ne concerne pas que les entreprises industrielles : rappelons que chaque emploi dans le tertiaire consomme entre 1 et 1,5 tonne équivalent pétrole par an, soit « juste » 30% à 40% de plus qu’un Français moyen en 1960 pour l’ensemble de sa consommation d’énergie.
+Idéalement, la présentation de tels chiffres devra ressembler en tous points à ce que l’on trouve dans un bilan comptable, qui présente en même temps :
+les méthodes utilisées,
+les valeurs quantitatives obtenues,
+les changements de méthode et leur incidence sur le résultat lorsque les chiffres sont publiés à intervalles réguliers.
+Par la suite, une publication à intervalles réguliers, à périmètre comparable, servira à mesurer votre progression.
+Rendre compte de ses émissions de gaz à effet de serre et de leur évolution sera peut-être utile, bientôt, pour les rapports avec des clients soucieux de contribuer à la préservation de l’environnement (et qui en feront peut-être une condition de leur achat, surtout si cela se traduit dans les prix !), les investisseurs (fonds éthiques, ou plus prosaïquement des acteurs qui associent un risque élevé de renchérissement des charges à des émissions élevées…), la puissance publique (accords négociés de réduction), les associations de défense de l’environnement, les candidats à l’embauche, d’autres publics…
+Notons qu’une loi votée en mai 2001 fait obligation aux entreprises cotées de publier à compter de l’exercice 2002 des informations sur la prise en compte de leur impact sur l’environnement avec leur rapport d’activité.
+Extrait de l’Article 116 de la loi sur les nouvelles régulations économiques
+I. – Après l’article L.225-102 du code de commerce, il est inséré un article L. 225-102-1 ainsi rédigé :
+« Art. L. 225-102-1. – Le rapport [annuel d’activité] (…) comprend également des informations, dont la liste est fixée par décret en Conseil d’Etat, sur la manière dont la société prend en compte les conséquences sociales et environnementales de son activité. Le présent alinéa ne s’applique pas aux sociétés dont les titres ne sont pas admis aux négociations sur un marché réglementé. »
+Ces dispositions (…) prennent effet à compter de la publication du rapport annuel portant sur l’exercice ouvert à compter du 1er janvier 2002.
+Un arrêté publié en avril 2002 a visé une première fois les émissions de gaz à effet de serre, mais avec une formulation admirablement floue qui ne dit pas clairement qui doit publier quoi.
+Extrait de l’arrêté du 30 avril 2002
+« S’agissant des rejets dans l’air, l’eau et le sol, le rapport [mentionné ci-dessus] renseigne, pour les rejets affectant gravement l’environnement compte tenu de l’activité de la société, les éléments de la liste suivante :
+(…)
+– émissions dans l’air de gaz à effet de serre (….), »
+Toujours est-il que la direction est prise, et que nouvelles obligations réglementaires peuvent arriver sans un préavis considérable. Alors autant être prêt !
+Dans le même esprit, la directive européenne sur les permis négociables, qui entre en vigueur début 2005, va contraindre de nombreuses grosses entreprises à s’intéresser à leurs émissions, et, par un mouvement – habituel – de diffusion des pratiques dans le tissus économique, il est vraisemblable que cela va inciter de plus en plus d’entreprises de toute nature à s’intéresser à leurs émissions directes et indirectes.
+Mentionnons aussi la notation environnementale des sociétés cotées, notation qui pourrait fort bien se mettre à inclure un indicateur « émissions de gaz à effet de serre », ou encore un changement de comportement des organismes financiers, qui pourraient moduler leurs taux d’intérêt en fonction des émissions, puisque plus une activité est émettrice et plus elle présente de risques à moyen et long terme….
+Enfin les administrations ne sont pas oubliées : le Schéma National du Développement Durable de 2003 mentionne explicitement que toutes les administrations d’Etat devront mesurer puis réduire leurs émissions de gaz à effet de serre. Bien que ce texte restera partiellement un vœu pieu, il en sortira nécessairement « quelque chose » quand même.
+2. Décider d’une action de réduction volontaire des émissions de l’entreprise
+Si c’est une entreprise qui a fait le calcul, à partir des ordres de grandeur obtenus grâce à cette méthode elle va pouvoir bâtir, du moins c’est le but, un plan d’action pour réduire volontairement ses émissions.
+Avant de ce faire, toutefois, et sauf à ce qu’il y ait une raison méthodologique non contestable à ne pas procéder ainsi, il est indispensable d’effectuer au moins une fois la démarche avec le périmètre « global ». En effet, avant de chercher à réduire quoi que ce soit, il est indispensable de savoir où sont les principaux postes dans l’ensemble de la chaîne de production des produits ou services, car :
+mieux vaut passer son temps – qui n’est pas extensible à l’infini – sur un poste externe qui vaut 100, plutôt que sur un poste interne qui vaut 1,
+l’important est d’obtenir la réduction la plus importante possible, où qu’elle soit, car le lieu d’émission des gaz à effet de serre n’a pas d’importance pour le changement climatique.
+Cette méthode permet alors de disposer d’un « thermomètre » pour mesurer les progrès et, surtout, ne pas tomber dans un travers bien connu des mesures de réduction quand on ne prend en compte qu’une partie des nuisances : augmenter certains postes non pris en compte à la faveur d’une réduction de ceux qui le sont. Souhaiter la diffusion large de véhicules électriques dans un pays qui fait l’essentiel de son électricité au charbon est un exemple typique de conclusion biaisée à laquelle nous arriverons si nous évaluons juste les émissions directes du transport, par exemple.
+3. Inclure ces objectifs dans une démarche ISO14001
+Il sera bien entendu possible d’inclure des objectifs de mesure et de réduction des émissions de gaz à effet de serre (c’est même très souhaitable !) dans les objectifs environnementaux pris en compte dans le cadre d’une démarche de type ISO 14001.
+4. Utiliser ces émissions comme critère de choix pour les fournisseurs
+Une fois que les émissions calculées avec le périmètre « global » seront connues, on pourra souhaiter non seulement réduire les émissions « intermédiaires », mais aussi influer sur celles des fournisseurs, voire en changer pour améliorer le bilan d’ensemble de l’activité, exactement comme on change parfois de fournisseur pour diminuer le coût d’ensemble d’une fabrication.
+D’une certaine manière, changer de fournisseur pour diminuer ses émissions c’est anticiper des économies lors de l’entrée en vigueur d’une « taxe carbone« , fort probable un jour, et, dans une large mesure, se rendre moins vulnérable à une hausse – inéluctable sur le long terme et fort possible à court terme à cause de la volatilité des marchés – des combustibles fossiles.
+5. Modéliser et anticiper
+5.1. Modéliser
+La méthode permet non seulement le calcul des émissions, mais également le calcul ce qui serait émis dans des situations différentes. Par exemple, si l’entreprise quitte EDF pour acheter son courant à un producteur étranger ou nouvel entrant en France qui fait son électricité à base de charbon ou de gaz, dont le contenu en carbone est connu (et bien supérieur à celui d’EDF en général), il sera facile de modéliser ce que cela va engendrer comme émissions supplémentaires.
+A l’inverse, si une entreprise décide d’expédier ses marchandises par le train plutôt que par camion, par bateau plutôt que par avion, remplace de l’aluminium par de l’acier, utilise l’ammoniac plutôt que le R22 comme fluide frigorigène, etc, elle pourra en mesurer l’impact en valeur absolue et relativement au reste des émissions avec le tableur qui a été mis au point avec la méthode.
+5.2. Anticiper
+Le « bilan carbone » permet, une fois les calculs faits, de savoir où seraient les augmentations de coût si une taxe carbone (ou, ce qui est équivalent d’un point de vue micro-économique pour le seul CO2, une augmentation du prix des combustibles fossiles) entrait en vigueur.
+Par exemple, l’entreprise Dupont vend des biscuits. Elle réalise que son « bilan carbone », qui tient compte du blé cultivé pour faire de la farine (et surtout des engrais fabriqués pour faire pousser le blé !), du gaz servant à chauffer le four, des émanations de méthane des emballages en papier jetés par le consommateur final, etc, fait apparaître que pour une tonne de biscuits vendus il est émis, dans l’entreprise ou ailleurs, environ une tonne équivalent carbone de gaz à effet de serre.
+Cela signifie que si les gaz à effet de serre se mettent à être taxés à 100 euros la tonne, les produits vendus par l’entreprise Dupont augmenteront de 100 euros par tonne, soit 0,1 euro par kilo. Avec un carbone à 1.500 euros la tonne (niveau de taxe qui correspond, en ordre de grandeur, à un doublement du prix de l’essence), le prix des biscuits de l’entreprise Dupont augmentera de 1,5 euro par kilo.
+Mais cela signifie aussi que si le prix de marché des hydrocarbures augmente, alors tout de qui est combustibles fossiles consommés en amont ou en aval (fabrication des engrais, mécanisation des cultures, énergie consommée pour fabriquer les emballages, énergie consommée par les transports pour distribuer les produits, et même… énergie consommée par le client pour aller acheter les produits, qui va en voiture au supermarché) va engendrer des augmentations de prix pour les divers acteurs de la chaîne, et ces augmentations vont engendrer des charges supplémentaires pour l’entreprise Dupont, et pour les clients de l’entreprise Dupont, qu’elle ne peut pas quantifier sans avoir fait le Bilan Carbone de son activité.
+On voit donc que le résultat du calcul avec le périmètre « global » permet de quantifier, en ordre de grandeur, le surcoût payé par le consommateur lors de l’entrée en vigueur d’une éventuelle taxe carbone ou d’une hausse des combustibles fossiles. Le « Bilan Carbone » permet donc d’anticiper, voire d’orienter des choix stratégiques (faut-il se développer à l’export si les coûts du transport doivent significativement augmenter ? Faut-il fabriquer des articles de voyage si les gens vont moins voyager parce que le pétrole augmente ? etc).
+6. Progresser vers une comptabilité analytique des émissions de gaz à effet de serre
+L’aboutissement ultime de la démarche sera d’arriver, comme pour d’autres analyses de cycle de vie ou la comptabilité monétaire, d’arriver à imputer les « émissions communes » pour arriver à imputer une quantité donnée d’émissions de gaz à effet de serre par produit vendu, afin d’arriver à un « contenu en équivalent carbone » de chaque produit.
+Il s’agit là d’un objectif ultime auquel il ne sera pas nécessairement très commode de parvenir à bref délai, toutefois ce sera à ce stade que l’on retirera le plein bénéfice de la démarche : tout comme affecter un prix à chaque chose permet des arbitrages rapides, affecter un « contenu en carbone » à chaque produit manufacturé permettra aussi des arbitrages rapides.
+Quelques exemples
+Exemple 1 : une entreprise chimique
+Imaginons que vous soyez une entreprise de fabrication de produits chimiques. Si vous prenez l’approche « émissions internes », vous comptabiliserez :
+les combustibles que vous utilisez pour vos installations de production,
+le charbon, le fioul ou le gaz que vous utilisez pour chauffer vos locaux,
+les éventuelles émissions liées aux fuites (de gaz, de fluides frigorigènes) ou aux gaz brûlés (torchères),
+Mais vous consommez de l’électricité, les salariés viennent à l’embauche le matin, les commerciaux visitent les clients, et les marchandises sont expédiées. Pour obtenir les émissions intermédiaires il faudra alors rajouter :
+la production de l’électricité achetée à l’extérieur,
+les déplacements domicile travail des salariés,
+les déplacements des salariés pendant les horaires de travail,
+les déplacements des marchandises vers les clients.
+Enfin vous pouvez aussi considérer :
+que les matières premières que vous utilisez ont du être produites, ce qui a engendré des émissions, et que donc il faut en tenir compte,
+que les transports de ces produits de base jusque chez vous ont engendré des émissions, dont il faut tenir compte,
+que les déchets que vous produisez, qui engendrent des émissions (lorsque l’on les brûle en incinérateur, ou lorsqu’ils pourrissent en décharge), doivent être pris en compte,
+que les produits ou services que vous achetez (téléphone, machines, bâtiments, ordinateurs) ont eux aussi donné lieu à des émissions et qu’il faut les prendre en compte,
+etc.
+Dans une approche « globale », on rajoutera donc :
+les émissions qui ont été nécessaires pour fabriquer les matières premières utilisées par votre usine,
+les émissions engendrées par la construction de votre bâtiment et de vos machines,
+les émissions dues au transport des matières premières de chez le fabricant jusque chez vous,
+les émissions liées à la fin de vie de vos déchets ou rebuts
+Exemple 2 : une entreprise de second oeuvre du bâtiment
+Imaginons que vous soyez une entreprise de pose de fenêtres. Si vous prenez l’approche « émissions internes », vous comptabiliserez :
+l’énergie (non électrique) que vous utilisez pour chauffer vos locaux,
+éventuellement les vapeurs de solvants émises pendant certains collages.
+Mais les salariés doivent venir à l’embauche le matin, puis ont besoin d’aller sur les chantiers, et le patron doit visiter les clients. Pour obtenir les émissions « intermédiaires » il faudra alors tenir compte (liste non limitative !) :
+de la production de l’électricité achetée à l’extérieur,
+du carburant utilisé par vos camionnettes de chantier,
+des déplacements domicile travail,
+des émissions de la voiture du patron pour visiter les clients et surveiller les chantiers.
+Enfin vous pouvez aussi considérer :
+que les profilés en aluminium ou en plastique que vous utilisez ont engendré des émissions pour être produits, et que donc il faut en tenir compte, de même que pour les vitres,
+que les transports de ces profilés et vitres jusque chez vous ont engendré des émissions, dont il faut tenir compte,
+que les déchets que vous produisez (chutes de matériaux, papier, etc), qui engendrent des émissions (lorsque l’on les brûle en incinérateur, ou lorsqu’ils pourrissent en décharge), doivent être pris en compte,
+que les produits ou services que vous achetez (téléphone, machines, bâtiments, ordinateurs) ont eux aussi donné lieu à des émissions et qu’il faut les prendre en compte,
+etc.
+Dans une approche « globale », on prendra également en compte :
+les émissions qui ont été nécessaires pour fabriquer les fenêtres,
+les émissions engendrées par la construction de votre bâtiment et de vos machines,
+les émissions dues au transport des fournitures de chez le fabricant jusque chez vous,
+les émissions liées à l’incinération des chutes de plastique,
+les émissions liées à la mise en décharge de certains de vos déchets
+Exemple 3 : un magasin de bricolage
+Imaginons que vous soyez une grande surface de bricolage implantée en banlieue. Vos émissions « internes » tiendront uniquement compte :
+de vos consommations énergétiques directes pour le chauffage (gaz naturel par exemple),
+des fuites du système de climatisation (s’il y en a un),
+Dans une approche « émissions intermédiaires » on tiendra aussi compte :
+de la production de l’électricité achetée à l’extérieur,
+des consommations des véhicules possédés pour la manutention intra-site.
+des déplacements pour venir au travail de vos employés,
+du déplacement des clients jusqu’à votre magasin,
+enfin des missions du personnel pendant la journée avec leurs propres voitures.
+Enfin dans une approche globale on tiendra compte :
+des émissions incluses dans les produits vendus, voire des émissions liées à l’utilisation des produits vendus (qui consomment de l’énergie),
+des émissions liées aux déchets, notamment les emballages des produits vendus,
+du transport des produits des fabricants jusque chez vous,
+des émissions engendrées par la construction de votre bâtiment,
+des émissions liées à l’utilisation de l’informatique et de l’électronique (il a fallu fabriquer les ordinateurs, et cela engendre des quantités significatives de gaz à effet de serre),
+les émissions incluses dans les produits ou services achetés (par exemple le papier nécessaire pour les promos déposées dans les boîtes à lettres, etc).
+Il est assez facile de voir, sur cet exemple, que la différence entre l’approche « interne » et l’approche « globale » sera majeure : les émissions induites par l’activité de l’entreprise mais non directement faites sur place seront prépondérantes devant celles qui ont lieu localement.
+Exemple 4 : une banque
+Imaginons que vous soyez une agence bancaire. Au titre de l’approche « interne », vous prendrez en considération :
+le chauffage des locaux, sauf s’il est fait à l’électricité,
+les fuites du système de climatisation (si il y en a un),
+des déplacements de personnel dans la journée ou en mission.
+L’approche « émissions intermédiaires » prendra également en compte :
+la production de l’électricité achetée à l’extérieur,
+les déplacements pour venir au travail des salariés,
+les déplacement des clients jusqu’à votre agence.
+Mais dans une approche « globale », il faudra tenir compte :
+de la fabrication du papier pour les envois aux clients ou prospects, ainsi que pour les archives internes,
+des émissions liées à la fabrication de l’informatique et de l’électronique,
+des émissions engendrées par la construction de votre bâtiment,
+des émissions liées aux déchets, notamment les papiers, qui peuvent être jetés par vous ou par vos clients,
+Exemple 5 : une préfecture de région
+Imaginons maintenant que vous soyez une préfecture de région. En effet, il faut rappeler une nouvelle fois que cette méthode est parfaitement applicable à une administration publique.
+Au titre de l’approche « émissions internes », vous prendrez en considération :
+le chauffage des locaux, sauf s’il est fait à l’électricité,
+les fuites du système de climatisation (s’il y en a un).
+Puis, au titre de l’approche « émissions intermédiaires », vous regarderez aussi :
+la production de l’électricité achetée à l’extérieur,
+les déplacements pour venir au travail de vos employés,
+tous les déplacements de personnes liés à l’activité, y compris les voyages en avion ou en train,
+éventuellement la consommation des véhicules possédés par la préfecture, quel que doit leur usage,
+Et pour une approche « globale », il faudra tenir compte :
+du déplacement des « usagers de l’administration » jusqu’à votre local de réception au public,
+des émissions liées à la fabrication du papier utilisé, puis de leur fin de vie pour la partie qui est jetée,
+des émissions engendrées par la construction de votre bâtiment,
+des émissions liées à l’utilisation de l’informatique et de l’électronique…. 
