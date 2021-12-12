@@ -10,7 +10,7 @@ SPECIAL_CHARACTERS = [
 THRESHOLD_ON_CONTENT_LENGTH = 1000
 TITLE_LENGTH = 40
 BAD_PREFIXES = ['Source', 'Tradu', 'Ajout', 'Lire', 'Commentaire', 'Partage', 'http', 'www', 'Inscri', 'Lien', 'Article', 'Direction', 'Extrait', 'Voir', 'Cet article', 'Abonnez']
-VERY_BAD_PREFIXES = ['Note', 'Partager', "S'abonner", 'Abonnez', '\ud83d']
+VERY_BAD_PREFIXES = ['Note', 'Partager', "S'abonner", 'Abonnez', '\ud83d', 'Voir aussi :']
 
 # General functions
 def format_article_into_json(url, title, author, date, content):
