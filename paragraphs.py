@@ -1,7 +1,7 @@
 from pandas import isna
 from selenium import webdriver
 from json import load
-from tagtog import get_ann_from_article_id, get_ann_json
+from tagtog import get_ann_from_article_id, get_ann_legend
 from utils import DATABASE_PATH, has_bad_prefix, has_very_bad_prefix, skip_cookie_popup
 from website_list import WEBSITE_LIST
 import pickle
@@ -14,17 +14,18 @@ with open("match_dictionary.pkl", "rb") as file:
 def get_article_location(id: int) -> str:
     return DATABASE_PATH + MATCH_DICTIONARY[id]
 
-def get_article_data(path: str) -> object:
+def get_article_data(path: str) -> dict:
     with open(path) as file:
         return load(file)
 
-def get_url(data: object) -> str:
+def get_url(data: dict) -> str:
     return data["url"]
 
 def go_to_url(driver: webdriver.Firefox, url: str):
     driver.get(url)
 
 def get_selectors(label: str):
+    print(label)
     (cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula) = list(filter(lambda line: line[0] == label, WEBSITE_LIST))[0][2:]
 
     # Replace by default values if empty string
@@ -73,26 +74,16 @@ def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list[
         print(f"({label}) {url} : Failure")
         return None
 
-def get_label_from_ann(ann: object) -> int:
-    return ann["metas"]["m_"]
-
-def get_annotations(id: int) -> object:
-    ann = get_ann_from_article_id(id)
-    # Get label
-
-    # return {"label": 0, "annotations": [{...}]}
-
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 2790
+    article_id = 772
 
     path = get_article_location(article_id)
-    label = path.split('-')[0].split('/')[1]
+    label = path.split('-')[0].split('/')[1].replace('_', ' ')
     data = get_article_data(path)
     url = get_url(data)
 
     paragraphs = extract_paragraphs(driver, label, url)
-    annotations = get_annotations(article_id)
 
-    print(paragraphs)
+    print(f"Paragraphs: {paragraphs}")

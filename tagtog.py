@@ -1,4 +1,3 @@
-from urllib import request
 import requests
 from json import loads
 
@@ -34,7 +33,7 @@ def get_tagtog_id(doc_id: int) -> str:
         
     raise Exception(f"The document #{doc_id} doesn't exist on tagtog.")
 
-def get_ann_json(tagtog_id: str) -> object:
+def get_ann_json(tagtog_id: str) -> dict:
     params = common_params.copy()
     params = {"owner": "LouisDlms", "project": "fake_news", 'ids':tagtog_id, "output": "ann.json"}
     response = requests.get(tagtogAPIUrl, params=params, auth=auth)
@@ -45,21 +44,23 @@ def get_ann_json(tagtog_id: str) -> object:
     except Exception as e:
         raise Exception(f"Tagtog ID {tagtog_id} is incorrect. Use get_tagtog_id.")
 
-def get_ann_from_article_id(id: int) -> object:
+def get_ann_from_article_id(id: int) -> dict:
     tagtog_id = get_tagtog_id(id)
     ann = get_ann_json(tagtog_id)
     return ann
 
-def get_ann_legend() -> object:
+def get_ann_legend() -> dict:
     url = "https://www.tagtog.net/-api/settings/v1/annotationsLegend?owner=LouisDlms&project=fake_news"
     response = requests.get(url, auth=auth)
-    
+
     legend = loads(response.text)
-    return legend
+    # Better to reverse for our purpose
+    reversed_legend = {v: k for k, v in legend.items()}
+    return reversed_legend
 
 if __name__ == '__main__':
     # Run an example. You can play with the article_id parameter
-    article_id = 0 #2790 on page 53
+    article_id = 772 #2790 on page 53
 
     tagtog_id = get_tagtog_id(article_id)
     ann = get_ann_json(tagtog_id)
