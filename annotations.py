@@ -60,7 +60,7 @@ def get_annotations(id: int) -> dict:
     return {"label": label, "annotations": annotations}
 
 if __name__ == '__main__':
-    article_id = 772
+    article_id = 667
 
     annotations = get_annotations(article_id)
 

@@ -54,7 +54,15 @@ def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list
             break
 
         if not has_bad_prefix(text) or (i>2 and (i < len(content_elements)-5)):
-            paragraphs += [text]
+            lines = text.split('\n')
+            if len(lines):
+                lines = [line + "\n" for line in lines]
+                if not text.endswith('\n'):
+                    lines[-1] = lines[-1][:-1]
+                lines[-1] += " "
+                paragraphs += lines
+            else:
+                paragraphs += [text + " "]
 
     return paragraphs
 
