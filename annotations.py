@@ -24,7 +24,7 @@ def get_label_from_ann(ann: dict) -> int:
 
     return DOCUMENT_LABEL_DICTIONARY[label]
 
-def get_annotations_from_ann(ann: dict) -> list[dict]:
+def get_annotations_from_ann(ann: dict) -> list:
     annotations = []
 
     legend = get_ann_legend()

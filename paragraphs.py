@@ -42,7 +42,7 @@ def get_selectors(label: str):
     return cookie_selector, link_selector, content_selector, title_selector, date_selector, author_selector, page_url_complement, number_of_pages, paginator_formula
 
 # Paragraphs
-def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list[str]:
+def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list:
     content_elements = driver.find_elements_by_css_selector(content_selector)
     paragraphs = []
     
@@ -66,7 +66,7 @@ def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list
 
     return paragraphs
 
-def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list[str]:
+def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list:
     go_to_url(driver, url)
     cookie_selector, _, content_selector, _, _, _, _, _, _ = get_selectors(label)
     
