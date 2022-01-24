@@ -19,15 +19,18 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
     cursor = 0
     ann_cursor = 0
+    ann_max_cursor = len(annotations)
 
     for paragraph in paragraphs:
         paragraph_ann = {"content": []}
         subcontent = paragraph
 
-        if ann_cursor == len(annotations):
+        if ann_cursor == ann_max_cursor:
             paragraph_ann["content"] = paragraph
 
-        while ann_cursor < len(annotations):
+        while ann_cursor < ann_max_cursor:
+            print(subcontent)
+
             annotation = annotations[ann_cursor]
             length = len(subcontent)
 
@@ -72,18 +75,17 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                     #     paragraph_ann["content"] = subcontent
                     #     break
 
+                    print(f'Splitting annotation #{ann_cursor}')
+
                     ann_split = {
                         "label": ann_label,
                         "start": cursor + stop,
                         "text": ann_text[-ann_split_len:]
                     }
 
-                    print(ann_split)
-
                     annotations[ann_cursor] = ann_split
 
                     ann_text = ann_text[:length]
-                    print(ann_text)
 
                     if not len(paragraph_ann["content"]):
                         paragraph_ann = {"label": ann_label, "content": ann_text}
@@ -92,10 +94,12 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                 else:
                     ann_cursor += 1
 
-                neutral, ann, subcontent = subcontent[:subcursor], subcontent[subcursor:stop], subcontent[stop:]
-                cursor += stop
+                ann = subcontent[subcursor:stop]
 
                 if ann == ann_text:
+                    neutral, subcontent = subcontent[:subcursor], subcontent[stop:]
+                    cursor += stop
+
                     if len(neutral):
                         neutral_content = {"content": neutral}
                         paragraph_ann["content"].append(neutral_content)
@@ -107,7 +111,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                     else:
                         paragraph_ann["content"].append(ann_content)
 
-                    if ann_cursor == len(annotations) and len(subcontent):
+                    if ann_cursor == ann_max_cursor and len(subcontent):
                         neutral_content = {"content": subcontent}
                         paragraph_ann["content"].append(neutral_content)
                 else:
@@ -127,3 +131,5 @@ if __name__ == '__main__':
     article_id = 4 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
     print(paragraphs_ann)
+
+    driver.quit()
