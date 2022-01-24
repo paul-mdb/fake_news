@@ -29,8 +29,6 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
             paragraph_ann["content"] = paragraph
 
         while ann_cursor < ann_max_cursor:
-            print(subcontent)
-
             annotation = annotations[ann_cursor]
             length = len(subcontent)
 
@@ -75,7 +73,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                     #     paragraph_ann["content"] = subcontent
                     #     break
 
-                    print(f'Splitting annotation #{ann_cursor}')
+                    print(f'> Splitting annotation #{ann_cursor}')
 
                     ann_split = {
                         "label": ann_label,
@@ -119,6 +117,9 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                     print(f"Text in the annotation: {ann_text}")
                     print(f"Text in the paragraph: {ann}")
                     print("> Skipping.")
+
+                    if ann_cursor == ann_max_cursor and not len(paragraph_ann["content"]):
+                        paragraph_ann["content"] = paragraph
 
         if len(paragraph_ann["content"]):
             paragraphs_ann["content"].append(paragraph_ann)
