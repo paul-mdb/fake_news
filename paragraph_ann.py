@@ -24,14 +24,11 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
         paragraph_ann = {"content": []}
         subcontent = paragraph
 
-        if not len(annotations):
+        if ann_cursor == len(annotations):
             paragraph_ann["content"] = paragraph
-            continue
 
-        for ann_id, annotation in enumerate(annotations):
-            if ann_id < ann_cursor:
-                continue
-
+        while ann_cursor < len(annotations):
+            annotation = annotations[ann_cursor]
             length = len(subcontent)
 
             if not length:
@@ -65,22 +62,28 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                     print("> Skipping.")
                     continue
 
-                # Annotation between two paragraphs ?
-                if subcursor + length - 1 <= stop:
-                    del annotations[ann_id]
-
+                # Annotation between two paragraphs
+                if subcursor + length <= stop: #TODO: bug 772
                     stop = subcursor + length
 
                     ann_split_len = len(ann_text) - length
+
+                    # if ann_split_len < 0:
+                    #     paragraph_ann["content"] = subcontent
+                    #     break
+
                     ann_split = {
                         "label": ann_label,
                         "start": cursor + stop,
                         "text": ann_text[-ann_split_len:]
                     }
 
-                    annotations.insert(ann_id, ann_split)
+                    print(ann_split)
+
+                    annotations[ann_cursor] = ann_split
 
                     ann_text = ann_text[:length]
+                    print(ann_text)
 
                     if not len(paragraph_ann["content"]):
                         paragraph_ann = {"label": ann_label, "content": ann_text}
@@ -93,14 +96,22 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                 cursor += stop
 
                 if ann == ann_text:
-                    if len(neutral) > 0:
+                    if len(neutral):
                         neutral_content = {"content": neutral}
                         paragraph_ann["content"].append(neutral_content)
 
                     ann_content = {"label": ann_label, "content": ann_text}
-                    paragraph_ann["content"].append(ann_content)
+
+                    if not len(neutral) and (not len(subcontent) or subcontent == " "):
+                        paragraph_ann = ann_content
+                    else:
+                        paragraph_ann["content"].append(ann_content)
+
+                    if ann_cursor == len(annotations) and len(subcontent):
+                        neutral_content = {"content": subcontent}
+                        paragraph_ann["content"].append(neutral_content)
                 else:
-                    print(f"> The text of the annotation #{ann_id} doesn't match with the paragraphs.")
+                    print(f"> The text of the annotation #{ann_cursor} doesn't match with the paragraphs.")
                     print(f"Text in the annotation: {ann_text}")
                     print(f"Text in the paragraph: {ann}")
                     print("> Skipping.")
@@ -113,6 +124,6 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 373 # 772
+    article_id = 4 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
     print(paragraphs_ann)

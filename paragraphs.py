@@ -85,7 +85,7 @@ def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list[
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 772
+    article_id = 4
 
     path = get_article_location(article_id)
     label = path.split('-')[0].split('/')[1].replace('_', ' ')
