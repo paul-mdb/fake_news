@@ -109,7 +109,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                     else:
                         paragraph_ann["content"].append(ann_content)
 
-                    if ann_cursor == ann_max_cursor and len(subcontent):
+                    if ann_cursor == ann_max_cursor and (len(subcontent) and subcontent != " "):
                         neutral_content = {"content": subcontent}
                         paragraph_ann["content"].append(neutral_content)
                 else:
@@ -129,7 +129,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 4 # 772
+    article_id = 8 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
     print(paragraphs_ann)
 
