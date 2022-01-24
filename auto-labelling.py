@@ -94,10 +94,10 @@ def main(driver, number_of_steps, page_number):
 
 
 
-if __name__ == '__main__':
+"""if __name__ == '__main__':
     driver = webdriver.Firefox()
     tagtog_login(driver, 'Paul-2', 'dumb_password')
-    main(driver, 50, 9)
+    main(driver, 50, 9)"""
 
 """driver = webdriver.Firefox()
 tagtog_login(driver, 'Paul-2', 'dumb_password')
@@ -105,3 +105,4 @@ go_to_link(driver, 7)
 time.sleep(3)
 driver.quit()"""
 
+print(dict[8])

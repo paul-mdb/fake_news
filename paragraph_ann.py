@@ -8,6 +8,9 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
     label = path.split('-')[0].split('/')[1].replace('_', ' ')
     data = get_article_data(path)
     url = get_url(data)
+    author = data['author']
+    date = data['date']
+    title = data['title']
     
     paragraphs = extract_paragraphs(driver, label, url)
     annotations = get_annotations(id)
@@ -15,7 +18,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
     document_label = annotations["label"]
     annotations = annotations["annotations"]
 
-    paragraphs_ann = {"label": document_label, "content": []}
+    paragraphs_ann = {"label": document_label, "date": date, "title": title, "author": author, "content": []}
 
     cursor = 0
     ann_cursor = 0
@@ -44,14 +47,14 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
             ann_text = annotation["text"]
             ann_label = annotation["label"]
 
-            if cursor + length <= start:
-                cursor += length
+            if cursor + length <= start: # No annotation in the rest of the paragraph
+                cursor += length # Cursor goes to noext paragraph
 
                 if len(paragraph_ann["content"]):
                     neutral_content = {"content": subcontent}
                     paragraph_ann["content"].append(neutral_content)
                 else:
-                    paragraph_ann["content"] = paragraph
+                    paragraph_ann["content"] = paragraph # No annotation in the whole paraghraph
 
                 break
             else:
@@ -60,20 +63,14 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
                 if subcursor < 0:
                     print("> This annotation is inside an other one.")
-                    print("> Skipping.")
+                    print("> Skipping : subcursor < 0")
                     continue
 
                 # Annotation between two paragraphs
-                if subcursor + length <= stop: #TODO: bug 772
-                    stop = subcursor + length
+                if  length < stop: # TODO: bug 772 length < stop ?
+                    stop = length # not +subcursor
 
-                    ann_split_len = len(ann_text) - length
-
-                    # if ann_split_len < 0:
-                    #     paragraph_ann["content"] = subcontent
-                    #     break
-
-                    print(f'> Splitting annotation #{ann_cursor}')
+                    ann_split_len = subcursor + len(ann_text) - length # +subcursor was missing
 
                     ann_split = {
                         "label": ann_label,
@@ -83,9 +80,9 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
                     annotations[ann_cursor] = ann_split
 
-                    ann_text = ann_text[:length]
+                    ann_text = ann_text[:length-subcursor] # -subcursor was missing
 
-                    if not len(paragraph_ann["content"]):
+                    if not len(paragraph_ann["content"]): # add neutral content ???
                         paragraph_ann = {"label": ann_label, "content": ann_text}
                         cursor += stop
                         break
@@ -129,7 +126,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 8 # 772
+    article_id = 4 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
     print(paragraphs_ann)
 
