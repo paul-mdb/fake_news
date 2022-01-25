@@ -54,15 +54,18 @@ def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list
             break
 
         if not has_bad_prefix(text) or (i>2 and (i < len(content_elements)-5)):
-            lines = text.split('\n')
-            if len(lines):
-                lines = [line + "\n" for line in lines]
-                if not text.endswith('\n'):
-                    lines[-1] = lines[-1][:-1]
-                lines[-1] += " "
-                paragraphs += lines
-            else:
+            if len(content_elements) > 2:
                 paragraphs += [text + " "]
+            else:
+                lines = text.split('\n')
+                if len(lines):
+                    lines = [line + "\n" for line in lines]
+                    if not text.endswith('\n'):
+                        lines[-1] = lines[-1][:-1]
+                    lines[-1] += " "
+                    paragraphs += lines
+                else:
+                    paragraphs += [text + " "]
 
     return paragraphs
 
@@ -85,7 +88,7 @@ def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list:
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 4
+    article_id = 64
 
     path = get_article_location(article_id)
     label = path.split('-')[0].split('/')[1].replace('_', ' ')
@@ -95,3 +98,5 @@ if __name__ == '__main__':
     paragraphs = extract_paragraphs(driver, label, url)
 
     print(f"Paragraphs: {paragraphs}")
+
+    driver.quit()
