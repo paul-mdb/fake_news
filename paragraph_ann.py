@@ -8,6 +8,9 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
     label = path.split('-')[0].split('/')[1].replace('_', ' ')
     data = get_article_data(path)
     url = get_url(data)
+    author = data['author']
+    date = data['date']
+    title = data['title']
     
     paragraphs = extract_paragraphs(driver, label, url)
     annotations = get_annotations(id)
@@ -15,7 +18,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
     document_label = annotations["label"]
     annotations = annotations["annotations"]
 
-    paragraphs_ann = {"label": document_label, "content": []}
+    paragraphs_ann = {"label": document_label, "date": date, "title": title, "author": author, "content": []}
 
     cursor = 0
     ann_cursor = 0
@@ -68,7 +71,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
                     ann_split_len = len(ann_text) - (length - subcursor)
 
-                    print(f'> Splitting annotation #{ann_cursor}')
+                    ann_split_len = subcursor + len(ann_text) - length # +subcursor was missing
 
                     ann_split = {
                         "label": ann_label,
