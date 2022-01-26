@@ -1,7 +1,7 @@
-from re import I
 from annotations import get_annotations
 from paragraphs import extract_paragraphs, get_article_data, get_article_location, get_url
 from selenium import webdriver
+import json
 
 def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
     path = get_article_location(id)
@@ -30,7 +30,6 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
         if ann_cursor == ann_max_cursor:
             paragraph_ann["content"] = paragraph
-
 
         while ann_cursor < ann_max_cursor:
             annotation = annotations[ann_cursor]
@@ -66,11 +65,12 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                 
                 # Annotation between two paragraphs
                 if length <= stop: #TODO: bug 772
+                    print(f"> Splitting annotation #{ann_cursor}")
                     stop = length
 
                     ann_split_len = len(ann_text) - (length - subcursor)
 
-                    ann_split_len = subcursor + len(ann_text) - length # +subcursor was missing
+                    ann_split_len = subcursor + len(ann_text) - length
 
                     ann_split = {
                         "label": ann_label,
@@ -107,8 +107,11 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                         paragraph_ann["content"].append(neutral_content)
                 else:
                     print(f"> The text of the annotation #{ann_cursor} doesn't match with the paragraphs.")
-                    print(f"Text in the annotation: {ann_text}")
-                    print(f"Text in the paragraph: {ann}")
+                    try:
+                        print(f"Text in the annotation: {ann_text}")
+                        print(f"Text in the paragraph: {ann}")
+                    except Exception as e:
+                        print(repr(e))
                     print("> Skipping.")
 
                     if ann_cursor == ann_max_cursor and not len(paragraph_ann["content"]):
@@ -119,11 +122,19 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
     return paragraphs_ann
 
+def visualize(obj):
+    j = json.dumps(obj, ensure_ascii=False).encode('utf8')
+    try:
+        print(j.decode())
+    except Exception as e:
+        print("> One or multiple characters can't be decoded.")
+        print(j)
+
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 11 # 772
+    article_id = 415 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
-    print(paragraphs_ann)
+    visualize(paragraphs_ann)
 
     driver.quit()
