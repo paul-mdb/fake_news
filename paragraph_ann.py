@@ -107,8 +107,11 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
                         paragraph_ann["content"].append(neutral_content)
                 else:
                     print(f"> The text of the annotation #{ann_cursor} doesn't match with the paragraphs.")
-                    # print(f"Text in the annotation: {ann_text}")
-                    # print(f"Text in the paragraph: {ann}")
+                    try:
+                        print(f"Text in the annotation: {ann_text}")
+                        print(f"Text in the paragraph: {ann}")
+                    except Exception as e:
+                        print(repr(e))
                     print("> Skipping.")
 
                     if ann_cursor == ann_max_cursor and not len(paragraph_ann["content"]):
@@ -130,7 +133,7 @@ def visualize(obj):
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 27 # 772
+    article_id = 415 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
     visualize(paragraphs_ann)
 
