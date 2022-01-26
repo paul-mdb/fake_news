@@ -34,7 +34,7 @@ def get_text_dataset(n) :
     driver.quit()
     return dataset
     
-df = get_text_dataset(10)
+df = get_text_dataset(1000)
 print(df.head())
 
 df.to_csv('text_dataset.csv')

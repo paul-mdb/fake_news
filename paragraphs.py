@@ -49,6 +49,7 @@ def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list
     for i, content_element in enumerate(content_elements):
         text = content_element.text
 
+
         if has_very_bad_prefix(text) :
             print("Very bad prefix")
             break
@@ -88,7 +89,7 @@ def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list:
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 64
+    article_id = 11
 
     path = get_article_location(article_id)
     label = path.split('-')[0].split('/')[1].replace('_', ' ')

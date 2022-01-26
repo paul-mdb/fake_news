@@ -1,3 +1,6 @@
+from paragraph_ann import generate_paragraphs_ann
+from selenium import webdriver
+
 def remove_useless(paragraph_ann):
     content = paragraph_ann["content"]
     paragraphs_to_delete = []
@@ -43,3 +46,12 @@ def fusion(paragraph_ann):
     'content' : content,
   };
   return json
+
+
+
+
+article_id = 11
+driver = webdriver.Firefox()
+paragraphs_ann = generate_paragraphs_ann(driver, article_id)
+print(fusion(remove_useless(paragraphs_ann)))
+driver.quit()
