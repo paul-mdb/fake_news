@@ -88,7 +88,7 @@ def extract_paragraphs(driver: webdriver.Firefox, label: str, url: str) -> list:
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 64
+    article_id = 27
 
     path = get_article_location(article_id)
     label = path.split('-')[0].split('/')[1].replace('_', ' ')
@@ -96,6 +96,7 @@ if __name__ == '__main__':
     url = get_url(data)
 
     paragraphs = extract_paragraphs(driver, label, url)
+    paragraphs = [paragraph.encode("utf-8") for paragraph in paragraphs]
 
     print(f"Paragraphs: {paragraphs}")
 
