@@ -86,7 +86,7 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
 
                 ann = subcontent[subcursor:stop]
 
-                if ann == ann_text:
+                if ann.lower() == ann_text.lower():
                     neutral, subcontent = subcontent[:subcursor], subcontent[stop:]
                     cursor += stop
 

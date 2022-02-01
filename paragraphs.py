@@ -49,6 +49,7 @@ def collect_paragraphs(driver: webdriver.Firefox, content_selector: str) -> list
     for i, content_element in enumerate(content_elements):
         text = content_element.text
 
+
         if has_very_bad_prefix(text) :
             print("Very bad prefix")
             break
