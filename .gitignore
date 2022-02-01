@@ -9,4 +9,5 @@ logs/
 text-articles/
 auto-labelling.py
 test_dataset.csv
+annotations/
 
