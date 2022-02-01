@@ -14,7 +14,6 @@ def get_text_dataset(n) :
     for article_id in range(n):
         try :
             paragraphs_ann = generate_paragraphs_ann(driver, article_id)
-            print(paragraphs_ann)
             data = fusion(remove_useless(paragraphs_ann))
             if data['label']!=0:
                 articles.append(data['content'])

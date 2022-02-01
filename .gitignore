@@ -10,4 +10,7 @@ text-articles/
 auto-labelling.py
 test_dataset.csv
 annotations/
+txt-labelled-articles/
+json-annotations/
+
 

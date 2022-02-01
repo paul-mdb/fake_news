@@ -25,6 +25,9 @@ def generate_paragraphs_ann(driver: webdriver.Firefox, id: int) -> dict:
     ann_max_cursor = len(annotations)
 
     for paragraph in paragraphs:
+        if paragraph == "C’est maintenant que tout se joue… " or paragraph == "📨 Ne ratez plus d'articles qui vous intéressent": # Specific case of Reporterre
+            return paragraphs_ann
+
         paragraph_ann = {"content": []}
         subcontent = paragraph
 
@@ -133,7 +136,7 @@ def visualize(obj):
 if __name__ == '__main__':
     driver = webdriver.Firefox()
 
-    article_id = 415 # 772
+    article_id = 53 # 772
     paragraphs_ann = generate_paragraphs_ann(driver, article_id)
     visualize(paragraphs_ann)
 
