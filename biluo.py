@@ -61,10 +61,14 @@ if __name__ == "__main__":
 
     dataset = []
 
-    for article_id in range(2):
-        content, new_entities = get_content_entities_from_id(article_id)
-        biluo = get_biluo(content, new_entities)
-        dataset.append([content, ','.join(biluo)])
+    for article_id in range(2800):
+        try:
+            content, new_entities = get_content_entities_from_id(article_id)
+            biluo = get_biluo(content, new_entities)
+            dataset.append([content, ','.join(biluo)])
+        except Exception as e:
+            print(f"Skip {article_id}")
+            continue
 
     df = pd.DataFrame(dataset, columns=["text", "word_labels"])
     df.to_csv("word_labels_per_text.csv")

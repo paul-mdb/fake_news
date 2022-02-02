@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
+# %%
 import os
 import json
 import time
@@ -12,50 +7,58 @@ import datetime
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn import metrics
-from torch.utils.data import TensorDataset, random_split,                             DataLoader, RandomSampler, SequentialSampler
-from transformers import CamembertForSequenceClassification, CamembertTokenizer,                          AdamW, get_linear_schedule_with_warmup
+import spacy
+import pickle
 
+import seaborn
+from sklearn import metrics
+from torch.utils.data import TensorDataset, random_split, \
+                            DataLoader, RandomSampler, SequentialSampler
+from transformers import CamembertForSequenceClassification, CamembertTokenizer, \
+                         AdamW, get_linear_schedule_with_warmup
+
+# nlp = spacy.load("fr_dep_news_trf")
 # Functions : preprocess() (create dataloaders from raw data) 
 # load_models() (load tokenizers and models) training() (loop of one training step) evaluate()
 
+# %%
+# PATH = 'text_dataset.csv'
+# fields = ['label', 'article']
+# df = pd.read_csv(PATH, usecols=fields)
 
-# In[2]:
+# %%
+# df.dropna(subset=['article'], inplace=True)
+# 1 = true
+# 2 = biased
+# 3 = fake
 
+# %%
+#df['label'] = df['label'].replace([1], 0) # true label is now 0
+#df['label'] = df['label'].replace([2, 3], 1) # fake and biased label are now 1
 
-PATH = 'text_dataset_1000.csv'
-fields = ['label', 'article']
-df = pd.read_csv(PATH, usecols=fields)
+# %%
+# dataset = df
+labels = np.array(pickle.load(open("labels.p", "rb")), dtype=object)
+docs = np.array(pickle.load(open("docs.p", "rb")), dtype=object)
 
+dataset = np.vstack((labels, docs)).T
 
-# In[3]:
+np.random.shuffle(dataset)
 
+print(f'Dataset: {dataset.shape}')
 
-df.dropna(subset=['article'], inplace=True)
-
-
-# In[4]:
-
-
-df['label'] = df['label'].replace([1], 0) # true label is now 0
-df['label'] = df['label'].replace([2, 3], 1) # fake and biased label are now 1
-
-
-# In[5]:
-
-
-dataset = df
-
-articles = dataset['article'].values.tolist()
-labels = dataset['label'].values.tolist()
+labels = np.array(dataset[:, 0], dtype=int)
+docs = dataset[:, 1]
 
 TOKENIZER = CamembertTokenizer.from_pretrained(
     'camembert-base',
     do_lower_case=True)
 
+# %%
+def preprocess_spacy(docs, pos=["PUNCT", "ADV", "ADJ", "VERB", "NOUN"]):
+    texts = [" ".join([token for token in doc if not token.is_stop and token.pos_ in pos]) for doc in docs]
 
-# In[6]:
-
+    return texts
 
 def preprocess(raw_articles, labels=None):
     """
@@ -77,22 +80,18 @@ def preprocess(raw_articles, labels=None):
         labels = torch.tensor(labels)
         return encoded_batch['input_ids'], encoded_batch['attention_mask'], labels
     return encoded_batch['input_ids'], encoded_batch['attention_mask']
+##
 
-print(preprocess(articles, labels=labels)[0].size())
+articles = preprocess_spacy(docs)
+print(TOKENIZER.convert_ids_to_tokens(preprocess(articles, labels=labels)[0][0]))
 
-
-# In[7]:
-
-
+# %%
 # Split train-validation
 split_border = int(len(labels)*0.8)
 articles_train, articles_validation = articles[:split_border], articles[split_border:]
 labels_train, labels_validation = labels[:split_border], labels[split_border:]
 
-
-# In[8]:
-
-
+# %%
 input_ids, attention_mask, labels_train = preprocess(articles_train, labels_train)
 # Combine the training inputs into a TensorDataset
 train_dataset = TensorDataset(
@@ -109,9 +108,7 @@ validation_dataset = TensorDataset(
     labels_validation)
 
 
-# In[9]:
-
-
+# %%
 batch_size = 32
 
 # Create the DataLoaders
@@ -125,34 +122,34 @@ validation_dataloader = DataLoader(
             sampler = SequentialSampler(validation_dataset),
             batch_size = batch_size)
 
-
-# In[10]:
-
-
+# %%
 model = CamembertForSequenceClassification.from_pretrained(
         'camembert-base',
-        num_labels = 2)
+        num_labels = 3)
 
 # model.resize_token_embeddings(512)
+# https://huggingface.co/transformers/v3.3.1/training.html
+# https://towardsdatascience.com/visualize-bert-sequence-embeddings-an-unseen-way-1d6a351e4568
 
+# %%
+print(model.__dict__.keys())
 
-# In[12]:
+# %%
+print(model.parameters.classifier)
 
-
+# %%
 def predict(articles, model=model):
     with torch.no_grad():
         model.eval()
         input_ids, attention_mask = preprocess(articles)
         output = model(input_ids, attention_mask=attention_mask)
+        print(output[0])
         return torch.argmax(output[0], dim=1)
-# predict(articles_train[:20])
+predict(articles_train[:10])
 
 # Problem with the size of the embedding layer ???
 
-
-# In[13]:
-
-
+# %%
 def evaluate(articles, labels, metric='report'):
     predictions = predict(articles)
     if metric == 'report':
@@ -160,30 +157,21 @@ def evaluate(articles, labels, metric='report'):
     elif metric == 'matrix':
         return metrics.confusion_matrix(labels, predictions)
 
-
-# In[14]:
-
-
+# %%
 def format_time(elapsed):
     # Round to the nearest second.
     elapsed_rounded = int(round((elapsed)))
     
     return str(datetime.timedelta(seconds=elapsed_rounded))
 
-
-# In[15]:
-
-
+# %%
 optimizer = AdamW(model.parameters(),
                   lr = 2e-5, # Learning Rate - Default is 5e-5
                   eps = 1e-8 # Adam Epsilon  - Default is 1e-8.
                 )
 
-
-# In[16]:
-
-
-SAVE_PATH = "first_camembert_model" #ADD PATH
+# %%
+SAVE_PATH = "first_camembert_model.model"
 
 # Training loop
 training_stats = []
@@ -292,9 +280,9 @@ for epoch in range(0, epochs):
             consecutive_epochs_with_no_improve += 1
         else:
             # If there is improvement
-            """consecutive_epochs_with_no_improve = 0
+            consecutive_epochs_with_no_improve = 0
             print("Model saved!")
-            torch.save(model.state_dict(), SAVE_PATH)"""
+            torch.save(model.state_dict(), SAVE_PATH)
     
     # Measure how long this epoch took
     training_time = time.time() - t0
@@ -315,13 +303,10 @@ for epoch in range(0, epochs):
         print("Stop training : The loss has not changed since 2 epochs!")
         break
         
+torch.save(model.state_dict(), SAVE_PATH)
 
-
-# In[17]:
-
-
+# %%
 # Evaluation with the confusion matrix
-import seaborn
 confusion_matrix = evaluate(articles_validation, labels_validation, 'matrix')
 report = evaluate(articles_validation, labels_validation, 'report')
 print(report)
@@ -335,25 +320,16 @@ seaborn.heatmap(confusion_matrix)
 #    macro avg       0.97      0.97      0.97      1804
 # weighted avg       0.98      0.98      0.98      1804
 
-
-# In[ ]:
-
-
-import seaborn
+# %%
 confusion_matrix = evaluate(articles, labels, 'matrix')
 report = evaluate(articles, labels, 'report')
 print(report)
 seaborn.heatmap(confusion_matrix)
 
-
-# In[ ]:
-
-
+# %%
 predict(['Le réchauffement climatique est un complot des illuminatis'])
 
-
-# In[ ]:
-
+# %%
 
 
 
