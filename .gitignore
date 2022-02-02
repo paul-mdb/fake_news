@@ -8,7 +8,8 @@ fake-news-excess/*
 logs/
 text-articles/
 auto-labelling.py
-test_dataset.csv
+test_dataset*.csv
+text_dataset.csv
 annotations/
 txt-labelled-articles/
 json-annotations/
