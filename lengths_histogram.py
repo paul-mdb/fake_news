@@ -1,4 +1,4 @@
-import os
+import os, json
 import matplotlib.pyplot as plt
 import numpy as np
 from transformers import CamembertModel, CamembertTokenizer, FlaubertModel, FlaubertTokenizer
@@ -16,7 +16,7 @@ def char_lengths(PATH, label):
         with open(os.path.join(PATH, filename), 'r') as file:
             if filename.startswith('.'):
                 continue
-            paragraphs = file.read()["content"]
+            paragraphs = json.loads(file.read())["content"]
             for text in paragraphs :
                 lengths.append(len(text))
 
@@ -32,7 +32,7 @@ def flaubert_token_lengths(PATH, label):
         with open(os.path.join(PATH, filename), 'r') as file:
             if filename.startswith('.'):
                 continue
-            paragraphs = file.read()["content"]
+            paragraphs = json.loads(file.read())["content"]
             for text in paragraphs :
                 tokens = flaubert_tokenizer.encode(text)
                 lengths.append(len(tokens))
@@ -48,7 +48,7 @@ def camembert_token_lengths(PATH, label):
         with open(os.path.join(PATH, filename), 'r') as file:
             if filename.startswith('.'):
                 continue
-            paragraphs = file.read()["content"]
+            paragraphs = json.loads(file.read())["content"]
             for text in paragraphs:
                 tokens = camembert_tokenizer.encode(text)
                 lengths.append(len(tokens))
