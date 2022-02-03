@@ -3,15 +3,13 @@
 __pycache__/
 geckodriver.log
 articles/*
-websites.csv
+*.csv
 fake-news-excess/*
 logs/
 text-articles/
 auto-labelling.py
-test_dataset*.csv
-text_dataset.csv
 annotations/
 txt-labelled-articles/
 json-annotations/
-
+*.tar.gz
 
