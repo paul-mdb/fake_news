@@ -12,4 +12,6 @@ annotations/
 txt-labelled-articles/
 json-annotations/
 *.tar.gz
+runs/
+*.model
 

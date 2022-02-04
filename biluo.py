@@ -99,7 +99,7 @@ if __name__ == "__main__":
     nlp = spacy.load("fr_core_news_md")
     dataset = []
 
-    for article_id in range(100):
+    for article_id in range(2800):
         try:
             j = get_ann_json_from_id(article_id)
             entities_per_par = get_entities_per_par_from_json(j)
