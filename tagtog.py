@@ -1,4 +1,3 @@
-from imp import get_tag
 import requests
 from json import loads
 
@@ -60,8 +59,11 @@ def get_ann_legend() -> dict:
     return reversed_legend
 
 def get_text_from_id(id: int) -> str:
-    params = common_params.copy()
     tagtog_id = get_tagtog_id(id)
+    return get_text(tagtog_id)
+
+def get_text(tagtog_id: int) -> str:
+    params = common_params.copy()
     params['ids'] = tagtog_id
     params["output"] = "orig"
 
