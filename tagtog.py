@@ -71,6 +71,13 @@ def get_text(tagtog_id: int) -> str:
     if response.status_code == 200:
         return response.content.decode()
 
+def remove_articles(article_id: int):
+    params = common_params.copy()
+    params['search'] = f'filename:{article_id}.txt'
+
+    response = requests.delete(tagtogAPIUrl, params=params, auth=auth)
+    print(response.text)
+
 if __name__ == '__main__':
     # Run an example. You can play with the article_id parameter
     article_id = 6 #2790 on page 53

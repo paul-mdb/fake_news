@@ -14,7 +14,7 @@ def is_not_useless(content: str) -> bool:
     return False
 
 def remove_useless_parts(content: str) -> str:
-    USELESS_PARTS = ["Partagez ! Volti. ****** ", "Lire aussi : ", "l'Express", "EN VIDÉO >> ", "LIRE AUSSI >> "]
+    USELESS_PARTS = ["Partagez ! Volti. ****** ", "Lire aussi : ", "l'Express", "EN VIDÉO >> ", "LIRE AUSSI >> ", "Contrepoints "]
 
     for part in USELESS_PARTS:
         content = content.replace(part, '')

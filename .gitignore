@@ -14,4 +14,4 @@ json-annotations/
 *.tar.gz
 runs/
 *.model
-
+fake-news-articles/

@@ -10,7 +10,7 @@ def get_sentences_from_doc(doc: Doc):
 
 # get_clauses_from_doc ? cf. topic_context.py
 
-def get_annotated_sentences(sentences: list[str], entities: list) -> list:
+def get_annotated_sentences(article_id: int, sentences: list[str], entities: list) -> list:
     LABELS = [2, 3]
     entities = list(filter(lambda entity: entity["label"] in LABELS, entities))
     # print(entities)
@@ -34,7 +34,7 @@ def get_annotated_sentences(sentences: list[str], entities: list) -> list:
             if cursor <= start < end_sentence:
                 # Annotated sentence !
                 label = entity["label"]
-                annotated_sentences.append((label, sentence))
+                annotated_sentences.append((article_id, label, sentence))
 
                 # But we have to consider that the annotation may goes on an other sentence
                 end = start + len(entity["text"])
@@ -60,7 +60,7 @@ def get_annotated_sentences(sentences: list[str], entities: list) -> list:
     
     return annotated_sentences
 
-def get_topic_sentences(sentences: list[str], label=1) -> list:
+def get_topic_sentences(article_id: int, sentences: list[str], label=1) -> list:
     # We look for sentences that :
     # 1. Deals with climate change
     # 2. Are not quotations and not questions and not 1st person
@@ -84,7 +84,7 @@ def get_topic_sentences(sentences: list[str], label=1) -> list:
                 break
 
         if annoting:
-            annotated_sentences.append((label, sentence))
+            annotated_sentences.append((article_id, label, sentence))
 
     return annotated_sentences
 
@@ -115,18 +115,18 @@ if __name__ == "__main__":
             # print(sentences)
 
             if label == 1:
-                annotated_sentences = get_topic_sentences(sentences)
+                annotated_sentences = get_topic_sentences(article_id, sentences)
             else:
-                annotated_sentences = get_annotated_sentences(sentences, entities)
+                annotated_sentences = get_annotated_sentences(article_id, sentences, entities)
 
             # print(annotated_sentences)
             dataset += annotated_sentences
         except Exception as e:
             print(f"Skipping #{article_id}")
         
-    df = pd.DataFrame(dataset, columns=["label", "text"])
+    df = pd.DataFrame(dataset, columns=["article_id", "label", "text"])
     df = df.sample(frac=1).reset_index(drop=True)
     
-    df.to_csv("annotated_sentences.csv")
+    df.to_csv("articles_annotated_sentences.csv")
         
         
