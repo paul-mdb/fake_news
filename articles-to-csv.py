@@ -12,7 +12,7 @@ def add_to_lists(path):
     for _, filename in enumerate(os.listdir(path)):
         if filename.startswith('.'):
                 continue
-        with open(os.path.join(path, filename), 'r') as file:
+        with open(os.path.join(path, filename), 'r', encoding="utf8") as file:
             json_file = json.load(file)
             label = json_file['label']
             article = json_file['content']

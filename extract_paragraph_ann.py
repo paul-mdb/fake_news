@@ -46,7 +46,11 @@ def extract_paragraphs_ann(driver, article_id):
 if __name__ == "__main__":
     driver = webdriver.Firefox()
 
+<<<<<<< HEAD
     for article_id in range(2800, 3100):
+=======
+    for article_id in range(1365, 3000):
+>>>>>>> fbdc462e4eee0840809dbda8be9f57975a46267b
         try:
             extract_paragraphs_ann(driver, article_id)
         except Exception as e:
