@@ -11,7 +11,6 @@ auto-labelling.py
 annotations/
 txt-labelled-articles/
 json-annotations/
-<<<<<<< HEAD
 first_camembert_model.model
 *.tar.gz
 runs/
@@ -22,9 +21,7 @@ text_dataset.csv
 *.svg
 *.txt
 text_dataset_1000.csv
-=======
 *.tar.gz
 runs/
 *.model
 fake-news-articles/
->>>>>>> fbdc462e4eee0840809dbda8be9f57975a46267b

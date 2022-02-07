@@ -11,16 +11,28 @@ import pickle
 from transformers import CamembertForSequenceClassification, CamembertTokenizer, AutoConfig, AutoModel, AdamW, get_linear_schedule_with_warmup
 from torch.utils.data import TensorDataset, random_split, DataLoader, RandomSampler, SequentialSampler
 
-features = np.array(pickle.load(open("features.p", "rb")), dtype=object)
+"""features = np.array(pickle.load(open("features.p", "rb")), dtype=object)
 labels = np.array(pickle.load(open("labels.p", "rb")), dtype=object)
-docs = np.array(pickle.load(open("docs.p", "rb")), dtype=object)
+docs = np.array(pickle.load(open("docs.p", "rb")), dtype=object)"""
 
 """docs = np.array(["ceci est une fake news"]*50).reshape((50, 1))
 labels = np.array([1]*25 + [0]*25).reshape((50, 1))
 features = np.ones((50, 4)).astype("float")
 """
 
+docs_train = np.array(pickle.load(open("docs_train.p", "rb")), dtype=object)
+docs_test = np.array(pickle.load(open("docs_test.p", "rb")), dtype=object)
+docs_val = np.array(pickle.load(open("docs_val.p", "rb")), dtype=object)
 
+features_train = np.array(pickle.load(open("features_train.p", "rb")), dtype=np.float32)
+features_test = np.array(pickle.load(open("features_test.p", "rb")), dtype=np.float32)
+features_val = np.array(pickle.load(open("features_val.p", "rb")), dtype=np.float32)
+
+labels_train = np.array(pickle.load(open("labels_train.p", "rb")), dtype=int)-1
+labels_test = np.array(pickle.load(open("labels_test.p", "rb")), dtype=int)-1
+labels_val = np.array(pickle.load(open("labels_val.p", "rb")), dtype=int)-1
+
+"""
 dataset = np.concatenate((labels.reshape(-1, 1), docs.reshape(-1, 1), features), axis = 1)
 dataset = np.nan_to_num(dataset)
 np.random.shuffle(dataset)
@@ -30,15 +42,15 @@ print(f'Dataset: {dataset.shape}')
 labels = np.array(dataset[:, 0], dtype=int) - 1
 docs = dataset[:, 1]
 features = np.array(dataset[:, 2:], dtype = np.float32)
-print(features.dtype)
+print(features.dtype)"""
 
 
-num_extra_dims = np.shape(features)[1]
-num_labels = len(set(labels))
+num_extra_dims = np.shape(features_train)[1]
+num_labels = len(set(labels_train))
 
-print(Counter(labels))
+print(Counter(labels_train))
 
-class_weights=class_weight.compute_class_weight('balanced',np.unique(labels),labels)
+class_weights=class_weight.compute_class_weight('balanced',np.unique(labels_train),labels_train)
 class_weights=torch.tensor(class_weights,dtype=torch.float)
  
 print(class_weights) #([1.0000, 1.0000, 4.0000, 1.0000, 0.5714])
@@ -82,14 +94,18 @@ def preprocess(raw_articles, features = None, labels=None):
         return encoded_batch['input_ids'], encoded_batch['attention_mask']
         
 
-articles = preprocess_spacy(docs)
-print(TOKENIZER.convert_ids_to_tokens(preprocess(articles, features = features, labels=labels)[0][0]))
+articles_train, articles_test, articles_validation = preprocess_spacy(docs_train), preprocess_spacy(docs_test), preprocess_spacy(docs_val)
 
-# Split train-validation
+
+
+# articles = preprocess_spacy(docs)
+print(TOKENIZER.convert_ids_to_tokens(preprocess(articles_train, features = features_train, labels=labels_train)[0][0]))
+
+"""# Split train-validation
 split_border = int(len(labels)*0.8)
 articles_train, articles_validation = articles[:split_border], articles[split_border:]
 features_train, features_validation = features[:split_border], features[split_border:]
-labels_train, labels_validation = labels[:split_border], labels[split_border:]
+labels_train, labels_validation = labels[:split_border], labels[split_border:]"""
 
 input_ids, attention_mask, features_train, labels_train = preprocess(articles_train, features_train, labels_train)
 # Combine the training inputs into a TensorDataset
@@ -100,7 +116,7 @@ train_dataset = TensorDataset(
     labels_train)
     
 
-input_ids, attention_mask, features_validation, labels_validation = preprocess(articles_validation, features_validation, labels_validation)
+input_ids, attention_mask, features_validation, labels_validation = preprocess(articles_test, features_test, labels_test)
 # Combine the validation inputs into a TensorDataset
 validation_dataset = TensorDataset(
     input_ids,

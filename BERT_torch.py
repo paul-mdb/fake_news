@@ -190,11 +190,7 @@ scheduler = get_linear_schedule_with_warmup(optimizer,
                                             num_warmup_steps = 0, # Default value in run_glue.py
                                             num_training_steps = total_steps)
 
-<<<<<<< HEAD
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-=======
 device = torch.device("gpu")
->>>>>>> fbdc462e4eee0840809dbda8be9f57975a46267b
 
 # This variable will evaluate the convergence on the training
 consecutive_epochs_with_no_improve = 0
@@ -220,10 +216,7 @@ for epoch in range(0, epochs):
 
     # For each batch of training data
     for step, batch in enumerate(train_dataloader):
-<<<<<<< HEAD
-=======
         print(f'step : {step}')
->>>>>>> fbdc462e4eee0840809dbda8be9f57975a46267b
 
         # Progress update every 40 batches.
         if step % 40 == 0 and not step == 0:
