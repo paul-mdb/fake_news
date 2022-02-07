@@ -20,3 +20,4 @@ customed_camembert_model.model
 text_dataset.csv
 *.svg
 *.txt
+text_dataset_1000.csv
