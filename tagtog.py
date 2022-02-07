@@ -58,16 +58,38 @@ def get_ann_legend() -> dict:
     reversed_legend = {v: k for k, v in legend.items()}
     return reversed_legend
 
+def get_text_from_id(id: int) -> str:
+    tagtog_id = get_tagtog_id(id)
+    return get_text(tagtog_id)
+
+def get_text(tagtog_id: int) -> str:
+    params = common_params.copy()
+    params['ids'] = tagtog_id
+    params["output"] = "orig"
+
+    response = requests.get(tagtogAPIUrl, params=params, auth=auth)
+    if response.status_code == 200:
+        return response.content.decode()
+
+def remove_articles(article_id: int):
+    params = common_params.copy()
+    params['search'] = f'filename:{article_id}.txt'
+
+    response = requests.delete(tagtogAPIUrl, params=params, auth=auth)
+    print(response.text)
+
 if __name__ == '__main__':
     # Run an example. You can play with the article_id parameter
-    article_id = 772 #2790 on page 53
+    article_id = 6 #2790 on page 53
 
     tagtog_id = get_tagtog_id(article_id)
     ann = get_ann_json(tagtog_id)
 
     legend = get_ann_legend()
+    text = get_text_from_id(article_id)
 
     print(f"ID: {article_id}")
     print(f"Tagtog ID: {tagtog_id}")
     print(f"ann.json: {ann}")
     print(f"Legend: {legend}")
+    print(f"Text: {text}")

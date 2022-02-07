@@ -1,4 +1,4 @@
-from tagtog import get_ann_from_article_id, get_ann_legend
+from tagtog import get_ann_from_article_id, get_ann_json, get_ann_legend, get_tagtog_id, get_text
 
 DOCUMENT_LABEL_DICTIONARY = {
     "useless": 0,
@@ -58,6 +58,16 @@ def get_annotations(id: int) -> dict:
     annotations = get_annotations_from_ann(ann)
     
     return {"label": label, "annotations": annotations}
+
+def get_text_annotations_from_id(id: int):
+    tagtog_id = get_tagtog_id(id)
+
+    content = get_text(tagtog_id)
+    ann = get_ann_json(tagtog_id)
+    label = get_label_from_ann(ann)
+    annotations = get_annotations_from_ann(ann)
+    
+    return content, {"label": label, "annotations": annotations}
 
 if __name__ == '__main__':
     article_id = 667

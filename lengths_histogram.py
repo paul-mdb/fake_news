@@ -1,4 +1,4 @@
-import os
+import os, json
 import matplotlib.pyplot as plt
 import numpy as np
 from transformers import CamembertModel, CamembertTokenizer, FlaubertModel, FlaubertTokenizer
@@ -6,59 +6,96 @@ from transformers import CamembertModel, CamembertTokenizer, FlaubertModel, Flau
 
 
 
-PATH = 'text_articles/'
 camembert_tokenizer = CamembertTokenizer.from_pretrained("camembert-base")
 flaubert_tokenizer = flaubert_tokenizer = FlaubertTokenizer.from_pretrained('flaubert/flaubert_base_cased')
 
-def char_lengths():
+def char_lengths(PATH):
     lengths = []
     for count, filename in enumerate(os.listdir(PATH)):
         with open(os.path.join(PATH, filename), 'r') as file:
             if filename.startswith('.'):
                 continue
-            text = file.read()
-            lengths.append(len(text))
+            paragraphs = json.load(file)["content"]
+            for paragraph in paragraphs :
+                text = ''
+                for entity in paragraph["content"] :
+                    if type(entity)==str :
+                        text += entity
+                    else :
+                        text += entity["content"]
+                lengths.append(len(text))
+    return np.array(lengths)
 
-    fig, ax = plt.subplots(1)
-    fig.suptitle('lengths distribution (characters)', fontsize = 16)
-    ax.hist(lengths, bins = np.arange(0, 20000, 100))
-    plt.show()
 
 
-def flaubert_token_lengths():
+def flaubert_token_lengths(PATH):
     lengths = []
     for count, filename in enumerate(os.listdir(PATH)):
         with open(os.path.join(PATH, filename), 'r') as file:
             if filename.startswith('.'):
                 continue
-            text = file.read()
-            tokens = flaubert_tokenizer.encode(text)
-            lengths.append(len(tokens))
+            paragraphs = json.load(file)["content"]
+            for paragraph in paragraphs :
+                text = ''
+                for entity in paragraph["content"] :
+                    if type(entity)==str :
+                        text += entity
+                    else :
+                        text += entity["content"]
+                tokens = flaubert_tokenizer.encode(text, truncation=True, max_length = 512)
+                lengths.append(len(tokens))
+    return np.array(lengths)
 
-    fig, ax = plt.subplots(1)
-    fig.suptitle('lengths distribution (flaubert)', fontsize = 16)
-    ax.hist(lengths, bins = np.arange(0, 20000, 100))
-    plt.show()
-
-def camembert_token_lengths():
+def camembert_token_lengths(PATH):
     lengths = []
     for count, filename in enumerate(os.listdir(PATH)):
         with open(os.path.join(PATH, filename), 'r') as file:
             if filename.startswith('.'):
                 continue
-            text = file.read()
-            tokens = camembert_tokenizer.encode(text)
-            lengths.append(len(tokens))
+            paragraphs = json.load(file)["content"]
+            for paragraph in paragraphs :
+                text = ''
+                for entity in paragraph["content"] :
+                    if type(entity)==str :
+                        text += entity
+                    else :
+                        text += entity["content"]
+                tokens = camembert_tokenizer.encode(text, truncation=True, max_length = 512)
+                lengths.append(len(tokens))
+    return np.array(lengths)
 
-    fig, ax = plt.subplots(1)
-    fig.suptitle('lengths distribution (camembert)', fontsize = 16)
-    ax.hist(lengths, bins = np.arange(0, 20000, 100))
-    plt.show()
-
-
-def main():
-    char_lengths()
 
 
 if __name__ == '__main__':
-    main()
+    fig, axs = plt.subplots(3, 2)
+    true_path = 'json-annotations/TRUE/'
+    fake_path = 'json-annotations/FAKE/'
+    biased_path = 'json-annotations/BIASED/'
+    true_char_lengths=char_lengths(true_path)
+    true_flau_lengths=flaubert_token_lengths(true_path)
+    true_cam_lengths=camembert_token_lengths(true_path)
+    biased_char_lengths=char_lengths(biased_path)
+    biased_flau_lengths=flaubert_token_lengths(biased_path)
+    biased_cam_lengths=camembert_token_lengths(biased_path)
+    fake_char_lengths=char_lengths(fake_path)
+    fake_flau_lengths=flaubert_token_lengths(fake_path)
+    fake_cam_lengths=camembert_token_lengths(fake_path)
+    axs[0, 0].hist(true_char_lengths, bins = np.arange(5, 1300, 10), color = 'green')
+    axs[0, 0].set_title('Number of characters')
+    axs[0, 0].set(ylabel='TRUE')
+    axs[0, 0].axvline(true_char_lengths.mean(), color='k', linestyle='dashed', linewidth=1)
+    axs[0, 1].hist(true_cam_lengths, bins = np.arange(5, 550), color = 'green')
+    axs[0, 1].set_title('Number of camembert tokens')
+    axs[0, 1].axvline(true_cam_lengths.mean(), color='k', linestyle='dashed', linewidth=1)
+    axs[1, 0].hist(biased_char_lengths, bins = np.arange(5, 1300, 10), color = 'pink')
+    axs[1, 0].set(ylabel='BIASED')
+    axs[1, 0].axvline(biased_char_lengths.mean(), color='k', linestyle='dashed', linewidth=1)
+    axs[1, 1].hist(biased_cam_lengths, bins = np.arange(5, 550), color = 'pink')
+    axs[1, 1].axvline(biased_cam_lengths.mean(), color='k', linestyle='dashed', linewidth=1)
+    axs[2, 0].hist(fake_char_lengths, bins = np.arange(5, 1300, 10), color = 'red')
+    axs[2, 0].set(ylabel='FAKE')
+    axs[2, 0].axvline(fake_char_lengths.mean(), color='k', linestyle='dashed', linewidth=1)
+    axs[2, 1].hist(fake_cam_lengths, bins = np.arange(5, 550), color = 'red')
+    axs[2, 1].axvline(fake_cam_lengths.mean(), color='k', linestyle='dashed', linewidth=1)
+    fig.suptitle('Paragraphs lengths', fontsize = 16)
+    plt.show()
