@@ -203,7 +203,7 @@ optimizer = AdamW(model.parameters(),
 
 
 
-SAVE_PATH = "customed_camembert_model.model"
+SAVE_PATH = "customed_camembert_model#2.model"
 
 # Training loop
 training_stats = []

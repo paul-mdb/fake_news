@@ -141,5 +141,5 @@ def save_features(feature_list, data):
 
 
 if __name__=='__main__':
-    feature_list = [get_adv_ratio, get_sentences_lengths, get_number_ratio, get_fin_ratio, get_expr, get_first_person]
+    feature_list = [get_adv_ratio, get_quoations, get_fin_ratio, get_expr, get_first_person]
     save_features_bis(feature_list, dataset)

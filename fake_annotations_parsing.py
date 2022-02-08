@@ -22,6 +22,7 @@ def get_fake_annotations():
                     if type(entity) == dict and 'label' in entity.keys() :
                         if entity['label']==2:
                             fake_annotations.append(entity["content"])
+    print(fake_annotations)
     return fake_annotations
 
 # spacy is sentence ?
