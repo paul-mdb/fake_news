@@ -340,8 +340,8 @@ for epoch in range(0, epochs):
         
 torch.save(model.state_dict(), SAVE_PATH)
 
-confusion_matrix = evaluate(articles_validation, features_validation, labels_validation, 'matrix')
-report = evaluate(articles_validation, features_validation, labels_validation, 'report')
+confusion_matrix = evaluate(articles_test, features_test, labels_test, 'matrix')
+report = evaluate(articles_test, features_test, labels_test, 'report')
 print(report)
 print(confusion_matrix)
 seaborn.heatmap(confusion_matrix)
