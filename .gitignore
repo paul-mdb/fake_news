@@ -16,3 +16,6 @@ runs/
 *.model
 fake-news-articles/
 test.py
+*.svg
+*.txt
+*.png
