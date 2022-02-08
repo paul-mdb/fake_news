@@ -25,4 +25,4 @@ text_dataset_1000.csv
 runs/
 *.model
 fake-news-articles/
-*.pnj
+*.png
