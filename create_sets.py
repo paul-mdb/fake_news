@@ -1,7 +1,6 @@
 import pickle
 import numpy as np
 
-
 features = np.array(pickle.load(open("features.p", "rb")), dtype=object)
 labels = np.array(pickle.load(open("labels.p", "rb")), dtype=object)
 articles = np.array(pickle.load(open("docs.p", "rb")), dtype=object)

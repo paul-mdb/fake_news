@@ -2,9 +2,9 @@
 .idea/
 __pycache__/
 geckodriver.log
-articles/*
+articles/
 *.csv
-fake-news-excess/*
+fake-news-excess/
 logs/
 text-articles/
 auto-labelling.py
@@ -19,3 +19,6 @@ test.py
 *.svg
 *.txt
 *.png
+datasets/
+images/
+.ipynb_checkpoints/

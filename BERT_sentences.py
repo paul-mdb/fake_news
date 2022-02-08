@@ -1,18 +1,12 @@
 # %%
-import os
-import json
 import time
 import torch
 import datetime
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import spacy
-import pickle
-
-import seaborn
 from sklearn import metrics
-from torch.utils.data import TensorDataset, random_split, \
+from sklearn.utils import class_weight
+from torch.utils.data import TensorDataset, \
                             DataLoader, RandomSampler, SequentialSampler
 from transformers import CamembertForSequenceClassification, CamembertTokenizer, \
                          AdamW, get_linear_schedule_with_warmup
@@ -22,13 +16,12 @@ from transformers import CamembertForSequenceClassification, CamembertTokenizer,
 # load_models() (load tokenizers and models) training() (loop of one training step) evaluate()
 
 # %%
-PATH = 'equal_articles_annotated_sentences.csv'
-fields = ['article_id', 'label', 'text']
-df = pd.read_csv(PATH, usecols=fields)
+TRAIN_SET_PATH = 'datasets/sentences/train_art_ann_sen.csv'
+TEST_SET_PATH = 'datasets/sentences/test_art_ann_sen.csv'
 
-df = df.sort_values(by=['article_id'])
-train_df = df.nsmallest(int(len(df)*0.8), 'article_id', keep='all')
-test_df = df.tail(int(len(df) - len(train_df)))
+fields = ['article_id', 'label', 'text']
+train_df = pd.read_csv(TRAIN_SET_PATH, usecols=fields)
+test_df = pd.read_csv(TEST_SET_PATH, usecols=fields)
 
 print(f'Train: {train_df.shape}')
 print(train_df.head(2))
@@ -39,7 +32,6 @@ print(test_df.head(2))
 print(test_df.tail(2))
 
 train_df = train_df.sample(frac=1).reset_index(drop=True)
-test_df = test_df.sample(frac=1).reset_index(drop=True)
 
 # %%
 # 1 = true
@@ -97,6 +89,12 @@ def preprocess(raw_articles, labels=None):
 # Split train-validation
 labels_train, articles_train = np.array(train_df[:, 1], dtype=int), train_df[:, 2]
 labels_validation, articles_validation = np.array(test_df[:, 1], dtype=int), test_df[:, 2]
+
+class_weights=class_weight.compute_class_weight('balanced',np.unique(labels_train),labels_train)
+class_weights=torch.tensor(class_weights,dtype=torch.float)
+ 
+print(class_weights) #([1.0000, 1.0000, 4.0000, 1.0000, 0.5714])
+
 
 # %%
 input_ids, attention_mask, labels_train = preprocess(articles_train, labels_train)
@@ -183,7 +181,7 @@ training_stats = []
 # Measure the total training time for the whole run.
 total_t0 = time.time()
 
-epochs = 10
+epochs = 15
 
 # Total number of training steps is [number of batches] x [number of epochs]
 # (Note that this is not the same as the number of training samples)
@@ -195,6 +193,7 @@ scheduler = get_linear_schedule_with_warmup(optimizer,
                                             num_training_steps = total_steps)
 
 device = torch.device("cpu")
+criterion = torch.nn.CrossEntropyLoss(weight=class_weights,reduction='mean').to(device)
 
 # This variable will evaluate the convergence on the training
 consecutive_epochs_with_no_improve = 0
@@ -250,9 +249,9 @@ for epoch in range(0, epochs):
         # outputs prior to activation
         loss, logits = model(input_id, 
                              token_type_ids=None, 
-                             attention_mask=attention_mask, 
-                             labels=label)[:2]
-
+                             attention_mask=attention_mask)[:2]
+        
+        loss = criterion(logits, label)
 
         # Accumulate the training loss over all of the batches so that we can
         # calculate the average loss at the end. 'loss' is a Tensor containing a
@@ -314,7 +313,7 @@ torch.save(model.state_dict(), SAVE_PATH)
 confusion_matrix = evaluate(articles_validation, labels_validation, 'matrix')
 report = evaluate(articles_validation, labels_validation, 'report')
 
-print("PREDICT ON VALIDATION SET")
+print("PREDICT ON TEST SET")
 print(report)
 print(confusion_matrix)
 # seaborn.heatmap(confusion_matrix)
