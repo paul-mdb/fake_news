@@ -22,12 +22,26 @@ from transformers import CamembertForSequenceClassification, CamembertTokenizer,
 # load_models() (load tokenizers and models) training() (loop of one training step) evaluate()
 
 # %%
-PATH = 'annotated_sentences.csv'
-fields = ['label', 'text']
+PATH = 'equal_articles_annotated_sentences.csv'
+fields = ['article_id', 'label', 'text']
 df = pd.read_csv(PATH, usecols=fields)
 
+df = df.sort_values(by=['article_id'])
+train_df = df.nsmallest(int(len(df)*0.8), 'article_id', keep='all')
+test_df = df.tail(int(len(df) - len(train_df)))
+
+print(f'Train: {train_df.shape}')
+print(train_df.head(2))
+print(train_df.tail(2))
+
+print(f'Test: {test_df.shape}')
+print(test_df.head(2))
+print(test_df.tail(2))
+
+train_df = train_df.sample(frac=1).reset_index(drop=True)
+test_df = test_df.sample(frac=1).reset_index(drop=True)
+
 # %%
-df.dropna(subset=['text'], inplace=True)
 # 1 = true
 # 2 = biased
 # 3 = fake
@@ -37,18 +51,12 @@ df.dropna(subset=['text'], inplace=True)
 #df['label'] = df['label'].replace([2, 3], 1) # fake and biased label are now 1
 
 # %%
-dataset = df.to_numpy()
 # labels = np.array(pickle.load(open("labels.p", "rb")), dtype=object)
 # docs = np.array(pickle.load(open("docs.p", "rb")), dtype=object)
 
 # dataset = np.vstack((labels, docs)).T
 
 # np.random.shuffle(dataset)
-
-print(f'Dataset: {dataset.shape}')
-
-labels = np.array(dataset[:, 0], dtype=int) - 1
-articles = dataset[:, 1]
 
 TOKENIZER = CamembertTokenizer.from_pretrained(
     'camembert-base',
@@ -83,13 +91,12 @@ def preprocess(raw_articles, labels=None):
 ##
 
 # articles = preprocess_spacy(docs)
-print(TOKENIZER.convert_ids_to_tokens(preprocess(articles, labels=labels)[0][0]))
+# print(TOKENIZER.convert_ids_to_tokens(preprocess(articles, labels=labels)[0][0]))
 
 # %%
 # Split train-validation
-split_border = int(len(labels)*0.8)
-articles_train, articles_validation = articles[:split_border], articles[split_border:]
-labels_train, labels_validation = labels[:split_border], labels[split_border:]
+labels_train, articles_train = np.array(train_df[:, 1], dtype=int), train_df[:, 2]
+labels_validation, articles_validation = np.array(test_df[:, 1], dtype=int), test_df[:, 2]
 
 # %%
 input_ids, attention_mask, labels_train = preprocess(articles_train, labels_train)
@@ -109,7 +116,7 @@ validation_dataset = TensorDataset(
 
 
 # %%
-batch_size = 32
+batch_size = 16
 
 # Create the DataLoaders
 train_dataloader = DataLoader(
@@ -133,9 +140,6 @@ model = CamembertForSequenceClassification.from_pretrained(
 
 # %%
 print(model.__dict__.keys())
-
-# %%
-print(model.parameters.classifier)
 
 # %%
 def predict(articles, model=model):
