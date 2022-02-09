@@ -12,6 +12,7 @@ annotations/
 txt-labelled-articles/
 json-annotations/
 *.tar.gz
+explanations/
 runs/
 *.model
 fake-news-articles/
