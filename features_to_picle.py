@@ -120,13 +120,12 @@ def apply_feature(feature, data):
     return np.array(values)
 
 def save_features_bis(feature_list, data):
-    features = np.empty((np.shape(data)[0]))
-    for feature in feature_list:
+    features = apply_feature(feature_list[0], data)
+    for feature in feature_list[1:]:
         values = apply_feature(feature, data)
-        print(np.shape(features.shape))
+        print(np.shape(features))
         print(np.shape(values))
         features = np.vstack((features, values))
-        #features = np.concatenate((features, values.T), axis=1)
     features = features.T
     print(np.shape(features))
     print(features)
@@ -141,5 +140,5 @@ def save_features(feature_list, data):
 
 
 if __name__=='__main__':
-    feature_list = [get_adv_ratio, get_quoations, get_fin_ratio, get_expr, get_first_person]
+    feature_list = [get_adv_ratio, get_quoations, get_fin_ratio, get_expr, get_first_person, get_sentences_lengths]
     save_features_bis(feature_list, dataset)

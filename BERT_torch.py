@@ -47,7 +47,7 @@ np.random.shuffle(dataset)
 
 print(f'Dataset: {dataset.shape}')
 
-labels = np.array(dataset[:, 0], dtype=int)
+labels = np.array(dataset[:, 0], dtype=int)-1
 docs = dataset[:, 1]
 
 TOKENIZER = CamembertTokenizer.from_pretrained(

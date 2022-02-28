@@ -211,7 +211,7 @@ training_stats = []
 # Measure the total training time for the whole run.
 total_t0 = time.time()
 
-epochs = 12
+epochs = 8
 
 # Total number of training steps is [number of batches] x [number of epochs]
 # (Note that this is not the same as the number of training samples)
@@ -249,7 +249,6 @@ for epoch in range(0, epochs):
 
     # For each batch of training data
     for step, batch in enumerate(train_dataloader):
-        print(f'step : {step}')
 
         # Progress update every 40 batches.
         if step % 40 == 0 and not step == 0:
