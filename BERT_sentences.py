@@ -181,7 +181,7 @@ training_stats = []
 # Measure the total training time for the whole run.
 total_t0 = time.time()
 
-epochs = 15
+epochs = 10
 
 # Total number of training steps is [number of batches] x [number of epochs]
 # (Note that this is not the same as the number of training samples)
@@ -249,9 +249,10 @@ for epoch in range(0, epochs):
         # outputs prior to activation
         loss, logits = model(input_id, 
                              token_type_ids=None, 
-                             attention_mask=attention_mask)[:2]
+                             attention_mask=attention_mask, 
+                             labels=label)[:2]
         
-        loss = criterion(logits, label)
+        
 
         # Accumulate the training loss over all of the batches so that we can
         # calculate the average loss at the end. 'loss' is a Tensor containing a
@@ -313,7 +314,7 @@ torch.save(model.state_dict(), SAVE_PATH)
 confusion_matrix = evaluate(articles_validation, labels_validation, 'matrix')
 report = evaluate(articles_validation, labels_validation, 'report')
 
-print("PREDICT ON TEST SET")
+print("PREDICT ON VALIDATION SET")
 print(report)
 print(confusion_matrix)
 # seaborn.heatmap(confusion_matrix)
